@@ -1,0 +1,112 @@
+Trafic Category ,Observed Value ,Value
+High Traffic Area,Area,"Kalanki, Kathmandu "
+High Traffic Area,Day  Observed (dBA),74
+High Traffic Area,Night Observed (dBA),70
+High Traffic Area,Area,"Shahidgate, Kathmandu  "
+High Traffic Area,Day  Observed (dBA),67
+High Traffic Area,Night Observed (dBA),69
+High Traffic Area,Area,"Putalisadak, Kathmandu "
+High Traffic Area,Day  Observed (dBA),75
+High Traffic Area,Night Observed (dBA),69
+High Traffic Area,Area,"Maitighar, Kathmandu "
+High Traffic Area,Day  Observed (dBA),71
+High Traffic Area,Night Observed (dBA),70
+High Traffic Area,Area,"TU Gate, Kirtipur, Kathmandu "
+High Traffic Area,Day  Observed (dBA),58
+High Traffic Area,Night Observed (dBA),58
+High Traffic Area,Area,"Lagankhel, Lalitpur "
+High Traffic Area,Day  Observed (dBA),70
+High Traffic Area,Night Observed (dBA),70
+High Traffic Area,Area,"Satdobato, Lalitput "
+High Traffic Area,Day  Observed (dBA),70
+High Traffic Area,Night Observed (dBA),71
+High Traffic Area,Area,"Kupandol,  Lalitpur  "
+High Traffic Area,Day  Observed (dBA),77
+High Traffic Area,Night Observed (dBA),75
+High Traffic Area,Area,"Suryabinayak, Bhaktapur "
+High Traffic Area,Day  Observed (dBA),71
+High Traffic Area,Night Observed (dBA),81
+High Traffic Area,Area,"Thimi Bus Stop, Bhaktapur "
+High Traffic Area,Day  Observed (dBA),65
+High Traffic Area,Night Observed (dBA),53
+High Traffic Area,Area,"Ramananda Chowk, Janakpur "
+High Traffic Area,Day  Observed (dBA),68
+High Traffic Area,Night Observed (dBA),62
+Commercial Cum Residence Area,Area,"Asan Chowk , Kathmandu "
+Commercial Cum Residence Area,Day  Observed (dBA),74
+Commercial Cum Residence Area,Night Observed (dBA),67
+Commercial Cum Residence Area,Area,"Naya Bazar, Kirtipu, Kathmandu "
+Commercial Cum Residence Area,Day  Observed (dBA),64
+Commercial Cum Residence Area,Night Observed (dBA),62
+Commercial Cum Residence Area,Area,"Manbhawan, Lalitpur  "
+Commercial Cum Residence Area,Day  Observed (dBA),71
+Commercial Cum Residence Area,Night Observed (dBA),67
+Commercial Cum Residence Area,Area,"Bhanu Chowk, Janakpur "
+Commercial Cum Residence Area,Day  Observed (dBA),70
+Commercial Cum Residence Area,Night Observed (dBA),67
+Commercial Cum Tourist Area ,Area,"Thamel Chowk, Kathmandu "
+Commercial Cum Tourist Area ,Day  Observed (dBA),75
+Commercial Cum Tourist Area ,Night Observed (dBA),61
+Commercial Cum Tourist Area ,Area,"Darbar Squar, Bhaktapur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),59
+Commercial Cum Tourist Area ,Night Observed (dBA),50
+Commercial Cum Tourist Area ,Area,"Mangal Bazar, Lalitpur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),69
+Commercial Cum Tourist Area ,Night Observed (dBA),59
+Commercial Cum Tourist Area ,Area,"Janaki Mandir, Janakpur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),73
+Commercial Cum Tourist Area ,Night Observed (dBA),70
+Commercial Cum Tourist Area ,Area,"Lagan, Kathmandu "
+Commercial Cum Tourist Area ,Day  Observed (dBA),68
+Commercial Cum Tourist Area ,Night Observed (dBA),67
+Commercial Cum Tourist Area ,Area,"Panga, Kirtipur, Kathmandu "
+Commercial Cum Tourist Area ,Day  Observed (dBA),60
+Commercial Cum Tourist Area ,Night Observed (dBA),57
+Commercial Cum Tourist Area ,Area,"Bhatkepati, Kirtipur, Kathmandu "
+Commercial Cum Tourist Area ,Day  Observed (dBA),52
+Commercial Cum Tourist Area ,Night Observed (dBA),60
+Commercial Cum Tourist Area ,Area,"Pimbhal, Lalitpur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),57
+Commercial Cum Tourist Area ,Night Observed (dBA),51
+Commercial Cum Tourist Area ,Area,"Katunje, Bhaktapur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),52
+Commercial Cum Tourist Area ,Night Observed (dBA),65
+Commercial Cum Tourist Area ,Area,"Bhairab Mandir, Bhaktapur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),67
+Commercial Cum Tourist Area ,Night Observed (dBA),51
+Commercial Cum Tourist Area ,Area,"Maharaj Sagar, Janakpur "
+Commercial Cum Tourist Area ,Day  Observed (dBA),58
+Commercial Cum Tourist Area ,Night Observed (dBA),61
+New Residence Area ,Area,"Samakhushi, Kathmandu "
+New Residence Area ,Day  Observed (dBA),55
+New Residence Area ,Night Observed (dBA),60
+New Residence Area ,Area,"Sano Thimi, Bhaktapur "
+New Residence Area ,Day  Observed (dBA),62
+New Residence Area ,Night Observed (dBA),62
+New Residence Area ,Area,"Sanitar, Bhaktapur "
+New Residence Area ,Day  Observed (dBA),60
+New Residence Area ,Night Observed (dBA),53
+New Residence Area ,Area,"Sainbu, Lalitpur "
+New Residence Area ,Day  Observed (dBA),45
+New Residence Area ,Night Observed (dBA),42
+New Residence Area ,Area,"Khumaltar, Lalitpur "
+New Residence Area ,Day  Observed (dBA),53
+New Residence Area ,Night Observed (dBA),54
+Industrial Area ,Area,"Balaju Yantra Shala, BID "
+Industrial Area ,Day  Observed (dBA),78
+Industrial Area ,Night Observed (dBA),70
+Industrial Area ,Area,"Chirag Foam Ind. Pvt. Ltd., BID "
+Industrial Area ,Day  Observed (dBA),63
+Industrial Area ,Night Observed (dBA),54
+Industrial Area ,Area,"Balaju Industrial Gate, BID "
+Industrial Area ,Day  Observed (dBA),74
+Industrial Area ,Night Observed (dBA),68
+Industrial Area ,Area,"Supreme Textile,PID "
+Industrial Area ,Day  Observed (dBA),61
+Industrial Area ,Night Observed (dBA),58
+Industrial Area ,Area,"Himal Tents Pvt. Ltd., PID "
+Industrial Area ,Day  Observed (dBA),61
+Industrial Area ,Night Observed (dBA),56
+Industrial Area ,Area,"Patan Industrial Gate, PID "
+Industrial Area ,Day  Observed (dBA),70
+Industrial Area ,Night Observed (dBA),70

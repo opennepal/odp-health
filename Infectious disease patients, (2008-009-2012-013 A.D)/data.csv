@@ -1,0 +1,2981 @@
+Year,District,Communicable and infectious disease,Number of people
+2009/010,Bhojpur,ARI /Lower respiratory tract infection,13490
+2009/010,Bhojpur,Upper respiratory Tract infection,5992
+2009/010,Bhojpur,Pneumonia,6910
+2009/010,Bhojpur,Server Pneumonia,242
+2009/010,Bhojpur,Bronchitis,3191
+2009/010,Bhojpur,Asthma,3118
+2009/010,Bhojpur,Urinary Tract infection,2594
+2009/010,Bhojpur,Viral Influenza,1790
+2009/010,Bhojpur,Reproductive Tract Infection male,74
+2009/010,Bhojpur,Reproductive tract infection female,229
+2009/010,Dhankuta,ARI /Lower respiratory tract infection,7157
+2009/010,Dhankuta,Upper respiratory Tract infection,4019
+2009/010,Dhankuta,Pneumonia,5056
+2009/010,Dhankuta,Server Pneumonia,110
+2009/010,Dhankuta,Bronchitis,2625
+2009/010,Dhankuta,Asthma,1493
+2009/010,Dhankuta,Urinary Tract infection,1380
+2009/010,Dhankuta,Viral Influenza,1273
+2009/010,Dhankuta,Reproductive Tract Infection male,6
+2009/010,Dhankuta,Reproductive tract infection female,63
+2009/010,Ilam,ARI /Lower respiratory tract infection,8802
+2009/010,Ilam,Upper respiratory Tract infection,7682
+2009/010,Ilam,Pneumonia,5394
+2009/010,Ilam,Server Pneumonia,291
+2009/010,Ilam,Bronchitis,1515
+2009/010,Ilam,Asthma,1579
+2009/010,Ilam,Urinary Tract infection,1745
+2009/010,Ilam,Viral Influenza,3744
+2009/010,Ilam,Reproductive Tract Infection male,84
+2009/010,Ilam,Reproductive tract infection female,164
+2009/010,Jhapa,ARI /Lower respiratory tract infection,21951
+2009/010,Jhapa,Upper respiratory Tract infection,33588
+2009/010,Jhapa,Pneumonia,14501
+2009/010,Jhapa,Server Pneumonia,1205
+2009/010,Jhapa,Bronchitis,7298
+2009/010,Jhapa,Asthma,5969
+2009/010,Jhapa,Urinary Tract infection,8600
+2009/010,Jhapa,Viral Influenza,9527
+2009/010,Jhapa,Reproductive Tract Infection male,393
+2009/010,Jhapa,Reproductive tract infection female,635
+2009/010,Khotang,ARI /Lower respiratory tract infection,11472
+2009/010,Khotang,Upper respiratory Tract infection,9835
+2009/010,Khotang,Pneumonia,6826
+2009/010,Khotang,Server Pneumonia,471
+2009/010,Khotang,Bronchitis,2992
+2009/010,Khotang,Asthma,3508
+2009/010,Khotang,Urinary Tract infection,3100
+2009/010,Khotang,Viral Influenza,811
+2009/010,Khotang,Reproductive Tract Infection male,80
+2009/010,Khotang,Reproductive tract infection female,145
+2009/010,Morang,ARI /Lower respiratory tract infection,29984
+2009/010,Morang,Upper respiratory Tract infection,26767
+2009/010,Morang,Pneumonia,12185
+2009/010,Morang,Server Pneumonia,645
+2009/010,Morang,Bronchitis,7842
+2009/010,Morang,Asthma,5541
+2009/010,Morang,Urinary Tract infection,11978
+2009/010,Morang,Viral Influenza,2867
+2009/010,Morang,Reproductive Tract Infection male,374
+2009/010,Morang,Reproductive tract infection female,488
+2009/010,Okhaldhunga,ARI /Lower respiratory tract infection,16122
+2009/010,Okhaldhunga,Upper respiratory Tract infection,13082
+2009/010,Okhaldhunga,Pneumonia,6836
+2009/010,Okhaldhunga,Server Pneumonia,336
+2009/010,Okhaldhunga,Bronchitis,3441
+2009/010,Okhaldhunga,Asthma,4105
+2009/010,Okhaldhunga,Urinary Tract infection,3069
+2009/010,Okhaldhunga,Viral Influenza,1177
+2009/010,Okhaldhunga,Reproductive Tract Infection male,40
+2009/010,Okhaldhunga,Reproductive tract infection female,294
+2009/010,Panchthar,ARI /Lower respiratory tract infection,8205
+2009/010,Panchthar,Upper respiratory Tract infection,6140
+2009/010,Panchthar,Pneumonia,5709
+2009/010,Panchthar,Server Pneumonia,341
+2009/010,Panchthar,Bronchitis,1490
+2009/010,Panchthar,Asthma,1604
+2009/010,Panchthar,Urinary Tract infection,1211
+2009/010,Panchthar,Viral Influenza,587
+2009/010,Panchthar,Reproductive Tract Infection male,26
+2009/010,Panchthar,Reproductive tract infection female,36
+2009/010,Sankhuwasabha,ARI /Lower respiratory tract infection,10112
+2009/010,Sankhuwasabha,Upper respiratory Tract infection,7286
+2009/010,Sankhuwasabha,Pneumonia,5702
+2009/010,Sankhuwasabha,Server Pneumonia,141
+2009/010,Sankhuwasabha,Bronchitis,1087
+2009/010,Sankhuwasabha,Asthma,2110
+2009/010,Sankhuwasabha,Urinary Tract infection,2399
+2009/010,Sankhuwasabha,Viral Influenza,622
+2009/010,Sankhuwasabha,Reproductive Tract Infection male,104
+2009/010,Sankhuwasabha,Reproductive tract infection female,193
+2009/010,Saptari,ARI /Lower respiratory tract infection,35796
+2009/010,Saptari,Upper respiratory Tract infection,22835
+2009/010,Saptari,Pneumonia,12328
+2009/010,Saptari,Server Pneumonia,265
+2009/010,Saptari,Bronchitis,12298
+2009/010,Saptari,Asthma,9521
+2009/010,Saptari,Urinary Tract infection,6117
+2009/010,Saptari,Viral Influenza,6339
+2009/010,Saptari,Reproductive Tract Infection male,108
+2009/010,Saptari,Reproductive tract infection female,308
+2009/010,Siraha,ARI /Lower respiratory tract infection,30568
+2009/010,Siraha,Upper respiratory Tract infection,28282
+2009/010,Siraha,Pneumonia,14386
+2009/010,Siraha,Server Pneumonia,677
+2009/010,Siraha,Bronchitis,12588
+2009/010,Siraha,Asthma,8811
+2009/010,Siraha,Urinary Tract infection,6585
+2009/010,Siraha,Viral Influenza,3791
+2009/010,Siraha,Reproductive Tract Infection male,102
+2009/010,Siraha,Reproductive tract infection female,171
+2009/010,Solukhumbu,ARI /Lower respiratory tract infection,7358
+2009/010,Solukhumbu,Upper respiratory Tract infection,8259
+2009/010,Solukhumbu,Pneumonia,2385
+2009/010,Solukhumbu,Server Pneumonia,180
+2009/010,Solukhumbu,Bronchitis,2499
+2009/010,Solukhumbu,Asthma,2382
+2009/010,Solukhumbu,Urinary Tract infection,2094
+2009/010,Solukhumbu,Viral Influenza,164
+2009/010,Solukhumbu,Reproductive Tract Infection male,98
+2009/010,Solukhumbu,Reproductive tract infection female,160
+2009/010,Sunsari,ARI /Lower respiratory tract infection,36345
+2009/010,Sunsari,Upper respiratory Tract infection,27927
+2009/010,Sunsari,Pneumonia,18023
+2009/010,Sunsari,Server Pneumonia,696
+2009/010,Sunsari,Bronchitis,4228
+2009/010,Sunsari,Asthma,5365
+2009/010,Sunsari,Urinary Tract infection,4056
+2009/010,Sunsari,Viral Influenza,2489
+2009/010,Sunsari,Reproductive Tract Infection male,99
+2009/010,Sunsari,Reproductive tract infection female,171
+2009/010,Taplejung,ARI /Lower respiratory tract infection,8308
+2009/010,Taplejung,Upper respiratory Tract infection,7036
+2009/010,Taplejung,Pneumonia,4861
+2009/010,Taplejung,Server Pneumonia,357
+2009/010,Taplejung,Bronchitis,1601
+2009/010,Taplejung,Asthma,1943
+2009/010,Taplejung,Urinary Tract infection,2103
+2009/010,Taplejung,Viral Influenza,1287
+2009/010,Taplejung,Reproductive Tract Infection male,63
+2009/010,Taplejung,Reproductive tract infection female,94
+2009/010,Teharthum,ARI /Lower respiratory tract infection,5014
+2009/010,Teharthum,Upper respiratory Tract infection,6492
+2009/010,Teharthum,Pneumonia,3836
+2009/010,Teharthum,Server Pneumonia,74
+2009/010,Teharthum,Bronchitis,1906
+2009/010,Teharthum,Asthma,1362
+2009/010,Teharthum,Urinary Tract infection,1326
+2009/010,Teharthum,Viral Influenza,870
+2009/010,Teharthum,Reproductive Tract Infection male,64
+2009/010,Teharthum,Reproductive tract infection female,80
+2009/010,Udaypur,ARI /Lower respiratory tract infection,8077
+2009/010,Udaypur,Upper respiratory Tract infection,5944
+2009/010,Udaypur,Pneumonia,4104
+2009/010,Udaypur,Server Pneumonia,223
+2009/010,Udaypur,Bronchitis,3462
+2009/010,Udaypur,Asthma,2485
+2009/010,Udaypur,Urinary Tract infection,2603
+2009/010,Udaypur,Viral Influenza,1562
+2009/010,Udaypur,Reproductive Tract Infection male,167
+2009/010,Udaypur,Reproductive tract infection female,269
+2009/010,Bara,ARI /Lower respiratory tract infection,17293
+2009/010,Bara,Upper respiratory Tract infection,14895
+2009/010,Bara,Pneumonia,7476
+2009/010,Bara,Server Pneumonia,597
+2009/010,Bara,Bronchitis,8218
+2009/010,Bara,Asthma,9115
+2009/010,Bara,Urinary Tract infection,4324
+2009/010,Bara,Viral Influenza,1284
+2009/010,Bara,Reproductive Tract Infection male,173
+2009/010,Bara,Reproductive tract infection female,502
+2009/010,Bhaktapur,ARI /Lower respiratory tract infection,6730
+2009/010,Bhaktapur,Upper respiratory Tract infection,7861
+2009/010,Bhaktapur,Pneumonia,2787
+2009/010,Bhaktapur,Server Pneumonia,26
+2009/010,Bhaktapur,Bronchitis,1170
+2009/010,Bhaktapur,Asthma,2406
+2009/010,Bhaktapur,Urinary Tract infection,1493
+2009/010,Bhaktapur,Viral Influenza,1607
+2009/010,Bhaktapur,Reproductive Tract Infection male,47
+2009/010,Bhaktapur,Reproductive tract infection female,55
+2009/010,Chitwan,ARI /Lower respiratory tract infection,13222
+2009/010,Chitwan,Upper respiratory Tract infection,12853
+2009/010,Chitwan,Pneumonia,7452
+2009/010,Chitwan,Server Pneumonia,225
+2009/010,Chitwan,Bronchitis,3514
+2009/010,Chitwan,Asthma,5214
+2009/010,Chitwan,Urinary Tract infection,4767
+2009/010,Chitwan,Viral Influenza,2487
+2009/010,Chitwan,Reproductive Tract Infection male,821
+2009/010,Chitwan,Reproductive tract infection female,1251
+2009/010,Dhading,ARI /Lower respiratory tract infection,15449
+2009/010,Dhading,Upper respiratory Tract infection,11236
+2009/010,Dhading,Pneumonia,8163
+2009/010,Dhading,Server Pneumonia,480
+2009/010,Dhading,Bronchitis,4059
+2009/010,Dhading,Asthma,6057
+2009/010,Dhading,Urinary Tract infection,2853
+2009/010,Dhading,Viral Influenza,4603
+2009/010,Dhading,Reproductive Tract Infection male,130
+2009/010,Dhading,Reproductive tract infection female,358
+2009/010,Dhanusha,ARI /Lower respiratory tract infection,35310
+2009/010,Dhanusha,Upper respiratory Tract infection,24498
+2009/010,Dhanusha,Pneumonia,12300
+2009/010,Dhanusha,Server Pneumonia,456
+2009/010,Dhanusha,Bronchitis,11579
+2009/010,Dhanusha,Asthma,12362
+2009/010,Dhanusha,Urinary Tract infection,6623
+2009/010,Dhanusha,Viral Influenza,5131
+2009/010,Dhanusha,Reproductive Tract Infection male,190
+2009/010,Dhanusha,Reproductive tract infection female,373
+2009/010,Dolkha,ARI /Lower respiratory tract infection,14019
+2009/010,Dolkha,Upper respiratory Tract infection,10892
+2009/010,Dolkha,Pneumonia,4040
+2009/010,Dolkha,Server Pneumonia,135
+2009/010,Dolkha,Bronchitis,2597
+2009/010,Dolkha,Asthma,3619
+2009/010,Dolkha,Urinary Tract infection,2917
+2009/010,Dolkha,Viral Influenza,1866
+2009/010,Dolkha,Reproductive Tract Infection male,57
+2009/010,Dolkha,Reproductive tract infection female,101
+2009/010,Kathmandu,ARI /Lower respiratory tract infection,18188
+2009/010,Kathmandu,Upper respiratory Tract infection,17910
+2009/010,Kathmandu,Pneumonia,7305
+2009/010,Kathmandu,Server Pneumonia,265
+2009/010,Kathmandu,Bronchitis,4146
+2009/010,Kathmandu,Asthma,10210
+2009/010,Kathmandu,Urinary Tract infection,8883
+2009/010,Kathmandu,Viral Influenza,3687
+2009/010,Kathmandu,Reproductive Tract Infection male,419
+2009/010,Kathmandu,Reproductive tract infection female,880
+2009/010,Kavre,ARI /Lower respiratory tract infection,23570
+2009/010,Kavre,Upper respiratory Tract infection,21259
+2009/010,Kavre,Pneumonia,8351
+2009/010,Kavre,Server Pneumonia,180
+2009/010,Kavre,Bronchitis,5436
+2009/010,Kavre,Asthma,7846
+2009/010,Kavre,Urinary Tract infection,3751
+2009/010,Kavre,Viral Influenza,4733
+2009/010,Kavre,Reproductive Tract Infection male,57
+2009/010,Kavre,Reproductive tract infection female,163
+2009/010,Mahottari,ARI /Lower respiratory tract infection,21082
+2009/010,Mahottari,Upper respiratory Tract infection,16752
+2009/010,Mahottari,Pneumonia,8946
+2009/010,Mahottari,Server Pneumonia,620
+2009/010,Mahottari,Bronchitis,9160
+2009/010,Mahottari,Asthma,9457
+2009/010,Mahottari,Urinary Tract infection,4825
+2009/010,Mahottari,Viral Influenza,2489
+2009/010,Mahottari,Reproductive Tract Infection male,179
+2009/010,Mahottari,Reproductive tract infection female,369
+2009/010,Makawanpur,ARI /Lower respiratory tract infection,7233
+2009/010,Makawanpur,Upper respiratory Tract infection,7329
+2009/010,Makawanpur,Pneumonia,4500
+2009/010,Makawanpur,Server Pneumonia,393
+2009/010,Makawanpur,Bronchitis,3516
+2009/010,Makawanpur,Asthma,2687
+2009/010,Makawanpur,Urinary Tract infection,1650
+2009/010,Makawanpur,Viral Influenza,1504
+2009/010,Makawanpur,Reproductive Tract Infection male,44
+2009/010,Makawanpur,Reproductive tract infection female,113
+2009/010,Nuwakot,ARI /Lower respiratory tract infection,6869
+2009/010,Nuwakot,Upper respiratory Tract infection,5843
+2009/010,Nuwakot,Pneumonia,3066
+2009/010,Nuwakot,Server Pneumonia,157
+2009/010,Nuwakot,Bronchitis,2006
+2009/010,Nuwakot,Asthma,5051
+2009/010,Nuwakot,Urinary Tract infection,1867
+2009/010,Nuwakot,Viral Influenza,871
+2009/010,Nuwakot,Reproductive Tract Infection male,46
+2009/010,Nuwakot,Reproductive tract infection female,94
+2009/010,Ramechhap,ARI /Lower respiratory tract infection,8265
+2009/010,Ramechhap,Upper respiratory Tract infection,8780
+2009/010,Ramechhap,Pneumonia,3870
+2009/010,Ramechhap,Server Pneumonia,69
+2009/010,Ramechhap,Bronchitis,2548
+2009/010,Ramechhap,Asthma,2848
+2009/010,Ramechhap,Urinary Tract infection,2420
+2009/010,Ramechhap,Viral Influenza,1716
+2009/010,Ramechhap,Reproductive Tract Infection male,77
+2009/010,Ramechhap,Reproductive tract infection female,81
+2009/010,Rasuwa,ARI /Lower respiratory tract infection,2752
+2009/010,Rasuwa,Upper respiratory Tract infection,2457
+2009/010,Rasuwa,Pneumonia,835
+2009/010,Rasuwa,Server Pneumonia,29
+2009/010,Rasuwa,Bronchitis,363
+2009/010,Rasuwa,Asthma,739
+2009/010,Rasuwa,Urinary Tract infection,627
+2009/010,Rasuwa,Viral Influenza,1052
+2009/010,Rasuwa,Reproductive Tract Infection male,31
+2009/010,Rasuwa,Reproductive tract infection female,37
+2009/010,Rautahat,ARI /Lower respiratory tract infection,12788
+2009/010,Rautahat,Upper respiratory Tract infection,13334
+2009/010,Rautahat,Pneumonia,8305
+2009/010,Rautahat,Server Pneumonia,533
+2009/010,Rautahat,Bronchitis,8323
+2009/010,Rautahat,Asthma,8441
+2009/010,Rautahat,Urinary Tract infection,2665
+2009/010,Rautahat,Viral Influenza,1164
+2009/010,Rautahat,Reproductive Tract Infection male,207
+2009/010,Rautahat,Reproductive tract infection female,355
+2009/010,Sarlahi,ARI /Lower respiratory tract infection,24257
+2009/010,Sarlahi,Upper respiratory Tract infection,20570
+2009/010,Sarlahi,Pneumonia,8098
+2009/010,Sarlahi,Server Pneumonia,631
+2009/010,Sarlahi,Bronchitis,13067
+2009/010,Sarlahi,Asthma,14116
+2009/010,Sarlahi,Urinary Tract infection,4676
+2009/010,Sarlahi,Viral Influenza,1597
+2009/010,Sarlahi,Reproductive Tract Infection male,206
+2009/010,Sarlahi,Reproductive tract infection female,286
+2009/010,Sindhuli,ARI /Lower respiratory tract infection,5369
+2009/010,Sindhuli,Upper respiratory Tract infection,4559
+2009/010,Sindhuli,Pneumonia,4193
+2009/010,Sindhuli,Server Pneumonia,294
+2009/010,Sindhuli,Bronchitis,2161
+2009/010,Sindhuli,Asthma,3017
+2009/010,Sindhuli,Urinary Tract infection,1743
+2009/010,Sindhuli,Viral Influenza,489
+2009/010,Sindhuli,Reproductive Tract Infection male,60
+2009/010,Sindhuli,Reproductive tract infection female,115
+2009/010,Sindhupalchowk,ARI /Lower respiratory tract infection,14278
+2009/010,Sindhupalchowk,Upper respiratory Tract infection,12584
+2009/010,Sindhupalchowk,Pneumonia,6150
+2009/010,Sindhupalchowk,Server Pneumonia,175
+2009/010,Sindhupalchowk,Bronchitis,3679
+2009/010,Sindhupalchowk,Asthma,5096
+2009/010,Sindhupalchowk,Urinary Tract infection,3137
+2009/010,Sindhupalchowk,Viral Influenza,3364
+2009/010,Sindhupalchowk,Reproductive Tract Infection male,138
+2009/010,Sindhupalchowk,Reproductive tract infection female,251
+2009/010,Arghakhanchi,ARI /Lower respiratory tract infection,9050
+2009/010,Arghakhanchi,Upper respiratory Tract infection,6622
+2009/010,Arghakhanchi,Pneumonia,5595
+2009/010,Arghakhanchi,Server Pneumonia,95
+2009/010,Arghakhanchi,Bronchitis,5178
+2009/010,Arghakhanchi,Asthma,4220
+2009/010,Arghakhanchi,Urinary Tract infection,3105
+2009/010,Arghakhanchi,Viral Influenza,1833
+2009/010,Arghakhanchi,Reproductive Tract Infection male,342
+2009/010,Arghakhanchi,Reproductive tract infection female,407
+2009/010,Baglung,ARI /Lower respiratory tract infection,13936
+2009/010,Baglung,Upper respiratory Tract infection,15372
+2009/010,Baglung,Pneumonia,5332
+2009/010,Baglung,Server Pneumonia,443
+2009/010,Baglung,Bronchitis,4029
+2009/010,Baglung,Asthma,2445
+2009/010,Baglung,Urinary Tract infection,3197
+2009/010,Baglung,Viral Influenza,1208
+2009/010,Baglung,Reproductive Tract Infection male,71
+2009/010,Baglung,Reproductive tract infection female,92
+2009/010,Gorkha,ARI /Lower respiratory tract infection,13709
+2009/010,Gorkha,Upper respiratory Tract infection,11405
+2009/010,Gorkha,Pneumonia,8348
+2009/010,Gorkha,Server Pneumonia,176
+2009/010,Gorkha,Bronchitis,4750
+2009/010,Gorkha,Asthma,5630
+2009/010,Gorkha,Urinary Tract infection,4645
+2009/010,Gorkha,Viral Influenza,5520
+2009/010,Gorkha,Reproductive Tract Infection male,174
+2009/010,Gorkha,Reproductive tract infection female,295
+2009/010,Gulmi,ARI /Lower respiratory tract infection,21955
+2009/010,Gulmi,Upper respiratory Tract infection,14070
+2009/010,Gulmi,Pneumonia,9997
+2009/010,Gulmi,Server Pneumonia,507
+2009/010,Gulmi,Bronchitis,8327
+2009/010,Gulmi,Asthma,5660
+2009/010,Gulmi,Urinary Tract infection,5983
+2009/010,Gulmi,Viral Influenza,4907
+2009/010,Gulmi,Reproductive Tract Infection male,209
+2009/010,Gulmi,Reproductive tract infection female,419
+2009/010,Kapilvastu,ARI /Lower respiratory tract infection,18452
+2009/010,Kapilvastu,Upper respiratory Tract infection,18660
+2009/010,Kapilvastu,Pneumonia,8148
+2009/010,Kapilvastu,Server Pneumonia,1020
+2009/010,Kapilvastu,Bronchitis,9302
+2009/010,Kapilvastu,Asthma,8196
+2009/010,Kapilvastu,Urinary Tract infection,6557
+2009/010,Kapilvastu,Viral Influenza,1923
+2009/010,Kapilvastu,Reproductive Tract Infection male,323
+2009/010,Kapilvastu,Reproductive tract infection female,712
+2009/010,Kaski,ARI /Lower respiratory tract infection,19083
+2009/010,Kaski,Upper respiratory Tract infection,17404
+2009/010,Kaski,Pneumonia,3576
+2009/010,Kaski,Server Pneumonia,253
+2009/010,Kaski,Bronchitis,4932
+2009/010,Kaski,Asthma,5211
+2009/010,Kaski,Urinary Tract infection,3042
+2009/010,Kaski,Viral Influenza,2724
+2009/010,Kaski,Reproductive Tract Infection male,298
+2009/010,Kaski,Reproductive tract infection female,1053
+2009/010,Lamjung,ARI /Lower respiratory tract infection,6098
+2009/010,Lamjung,Upper respiratory Tract infection,5203
+2009/010,Lamjung,Pneumonia,3351
+2009/010,Lamjung,Server Pneumonia,137
+2009/010,Lamjung,Bronchitis,2520
+2009/010,Lamjung,Asthma,4531
+2009/010,Lamjung,Urinary Tract infection,3491
+2009/010,Lamjung,Viral Influenza,1593
+2009/010,Lamjung,Reproductive Tract Infection male,32
+2009/010,Lamjung,Reproductive tract infection female,24
+2009/010,Manang,ARI /Lower respiratory tract infection,550
+2009/010,Manang,Upper respiratory Tract infection,622
+2009/010,Manang,Pneumonia,172
+2009/010,Manang,Server Pneumonia,24
+2009/010,Manang,Bronchitis,248
+2009/010,Manang,Asthma,178
+2009/010,Manang,Urinary Tract infection,181
+2009/010,Manang,Viral Influenza,44
+2009/010,Manang,Reproductive Tract Infection male,5
+2009/010,Manang,Reproductive tract infection female,11
+2009/010,Mustang,ARI /Lower respiratory tract infection,2269
+2009/010,Mustang,Upper respiratory Tract infection,2712
+2009/010,Mustang,Pneumonia,620
+2009/010,Mustang,Server Pneumonia,22
+2009/010,Mustang,Bronchitis,280
+2009/010,Mustang,Asthma,151
+2009/010,Mustang,Urinary Tract infection,449
+2009/010,Mustang,Viral Influenza,65
+2009/010,Mustang,Reproductive Tract Infection male,3
+2009/010,Mustang,Reproductive tract infection female,5
+2009/010,Myagdi,ARI /Lower respiratory tract infection,8370
+2009/010,Myagdi,Upper respiratory Tract infection,7819
+2009/010,Myagdi,Pneumonia,2172
+2009/010,Myagdi,Server Pneumonia,117
+2009/010,Myagdi,Bronchitis,2006
+2009/010,Myagdi,Asthma,1462
+2009/010,Myagdi,Urinary Tract infection,2073
+2009/010,Myagdi,Viral Influenza,2079
+2009/010,Myagdi,Reproductive Tract Infection male,70
+2009/010,Myagdi,Reproductive tract infection female,121
+2009/010,Nawalparasi,ARI /Lower respiratory tract infection,23409
+2009/010,Nawalparasi,Upper respiratory Tract infection,22603
+2009/010,Nawalparasi,Pneumonia,11141
+2009/010,Nawalparasi,Server Pneumonia,313
+2009/010,Nawalparasi,Bronchitis,6141
+2009/010,Nawalparasi,Asthma,8245
+2009/010,Nawalparasi,Urinary Tract infection,5523
+2009/010,Nawalparasi,Viral Influenza,2085
+2009/010,Nawalparasi,Reproductive Tract Infection male,38
+2009/010,Nawalparasi,Reproductive tract infection female,130
+2009/010,Palpa,ARI /Lower respiratory tract infection,14805
+2009/010,Palpa,Upper respiratory Tract infection,10973
+2009/010,Palpa,Pneumonia,6688
+2009/010,Palpa,Server Pneumonia,41
+2009/010,Palpa,Bronchitis,5858
+2009/010,Palpa,Asthma,6685
+2009/010,Palpa,Urinary Tract infection,8060
+2009/010,Palpa,Viral Influenza,3924
+2009/010,Palpa,Reproductive Tract Infection male,114
+2009/010,Palpa,Reproductive tract infection female,123
+2009/010,Parbat,ARI /Lower respiratory tract infection,15568
+2009/010,Parbat,Upper respiratory Tract infection,16736
+2009/010,Parbat,Pneumonia,5370
+2009/010,Parbat,Server Pneumonia,317
+2009/010,Parbat,Bronchitis,2690
+2009/010,Parbat,Asthma,3630
+2009/010,Parbat,Urinary Tract infection,1784
+2009/010,Parbat,Viral Influenza,1242
+2009/010,Parbat,Reproductive Tract Infection male,99
+2009/010,Parbat,Reproductive tract infection female,86
+2009/010,Rupandehi,ARI /Lower respiratory tract infection,0
+2009/010,Rupandehi,Upper respiratory Tract infection,0
+2009/010,Rupandehi,Pneumonia,0
+2009/010,Rupandehi,Server Pneumonia,0
+2009/010,Rupandehi,Bronchitis,0
+2009/010,Rupandehi,Asthma,0
+2009/010,Rupandehi,Urinary Tract infection,0
+2009/010,Rupandehi,Viral Influenza,0
+2009/010,Rupandehi,Reproductive Tract Infection male,0
+2009/010,Rupandehi,Reproductive tract infection female,0
+2009/010,Syangja,ARI /Lower respiratory tract infection,22290
+2009/010,Syangja,Upper respiratory Tract infection,17114
+2009/010,Syangja,Pneumonia,5519
+2009/010,Syangja,Server Pneumonia,268
+2009/010,Syangja,Bronchitis,5732
+2009/010,Syangja,Asthma,7343
+2009/010,Syangja,Urinary Tract infection,5858
+2009/010,Syangja,Viral Influenza,1950
+2009/010,Syangja,Reproductive Tract Infection male,146
+2009/010,Syangja,Reproductive tract infection female,290
+2009/010,Tanahu,ARI /Lower respiratory tract infection,10496
+2009/010,Tanahu,Upper respiratory Tract infection,8242
+2009/010,Tanahu,Pneumonia,3177
+2009/010,Tanahu,Server Pneumonia,101
+2009/010,Tanahu,Bronchitis,2275
+2009/010,Tanahu,Asthma,3610
+2009/010,Tanahu,Urinary Tract infection,2910
+2009/010,Tanahu,Viral Influenza,2411
+2009/010,Tanahu,Reproductive Tract Infection male,72
+2009/010,Tanahu,Reproductive tract infection female,121
+2009/010,Banke,ARI /Lower respiratory tract infection,21179
+2009/010,Banke,Upper respiratory Tract infection,21371
+2009/010,Banke,Pneumonia,8721
+2009/010,Banke,Server Pneumonia,166
+2009/010,Banke,Bronchitis,3193
+2009/010,Banke,Asthma,6004
+2009/010,Banke,Urinary Tract infection,3391
+2009/010,Banke,Viral Influenza,3276
+2009/010,Banke,Reproductive Tract Infection male,106
+2009/010,Banke,Reproductive tract infection female,89
+2009/010,Bardiya,ARI /Lower respiratory tract infection,22244
+2009/010,Bardiya,Upper respiratory Tract infection,25062
+2009/010,Bardiya,Pneumonia,9647
+2009/010,Bardiya,Server Pneumonia,453
+2009/010,Bardiya,Bronchitis,8121
+2009/010,Bardiya,Asthma,6333
+2009/010,Bardiya,Urinary Tract infection,7493
+2009/010,Bardiya,Viral Influenza,2802
+2009/010,Bardiya,Reproductive Tract Infection male,186
+2009/010,Bardiya,Reproductive tract infection female,426
+2009/010,Dailekh,ARI /Lower respiratory tract infection,23824
+2009/010,Dailekh,Upper respiratory Tract infection,16882
+2009/010,Dailekh,Pneumonia,7254
+2009/010,Dailekh,Server Pneumonia,292
+2009/010,Dailekh,Bronchitis,4887
+2009/010,Dailekh,Asthma,5870
+2009/010,Dailekh,Urinary Tract infection,3513
+2009/010,Dailekh,Viral Influenza,456
+2009/010,Dailekh,Reproductive Tract Infection male,80
+2009/010,Dailekh,Reproductive tract infection female,81
+2009/010,Dang,ARI /Lower respiratory tract infection,17225
+2009/010,Dang,Upper respiratory Tract infection,15017
+2009/010,Dang,Pneumonia,9354
+2009/010,Dang,Server Pneumonia,719
+2009/010,Dang,Bronchitis,5206
+2009/010,Dang,Asthma,7237
+2009/010,Dang,Urinary Tract infection,5490
+2009/010,Dang,Viral Influenza,1757
+2009/010,Dang,Reproductive Tract Infection male,169
+2009/010,Dang,Reproductive tract infection female,240
+2009/010,Dolpa,ARI /Lower respiratory tract infection,1019
+2009/010,Dolpa,Upper respiratory Tract infection,1092
+2009/010,Dolpa,Pneumonia,594
+2009/010,Dolpa,Server Pneumonia,82
+2009/010,Dolpa,Bronchitis,552
+2009/010,Dolpa,Asthma,563
+2009/010,Dolpa,Urinary Tract infection,517
+2009/010,Dolpa,Viral Influenza,90
+2009/010,Dolpa,Reproductive Tract Infection male,49
+2009/010,Dolpa,Reproductive tract infection female,69
+2009/010,Humla,ARI /Lower respiratory tract infection,4917
+2009/010,Humla,Upper respiratory Tract infection,3886
+2009/010,Humla,Pneumonia,2795
+2009/010,Humla,Server Pneumonia,291
+2009/010,Humla,Bronchitis,1874
+2009/010,Humla,Asthma,2834
+2009/010,Humla,Urinary Tract infection,1844
+2009/010,Humla,Viral Influenza,1192
+2009/010,Humla,Reproductive Tract Infection male,232
+2009/010,Humla,Reproductive tract infection female,258
+2009/010,Jajarkot,ARI /Lower respiratory tract infection,6309
+2009/010,Jajarkot,Upper respiratory Tract infection,9910
+2009/010,Jajarkot,Pneumonia,2994
+2009/010,Jajarkot,Server Pneumonia,518
+2009/010,Jajarkot,Bronchitis,2454
+2009/010,Jajarkot,Asthma,3200
+2009/010,Jajarkot,Urinary Tract infection,3304
+2009/010,Jajarkot,Viral Influenza,552
+2009/010,Jajarkot,Reproductive Tract Infection male,122
+2009/010,Jajarkot,Reproductive tract infection female,243
+2009/010,Jumla,ARI /Lower respiratory tract infection,4337
+2009/010,Jumla,Upper respiratory Tract infection,4953
+2009/010,Jumla,Pneumonia,2141
+2009/010,Jumla,Server Pneumonia,189
+2009/010,Jumla,Bronchitis,1112
+2009/010,Jumla,Asthma,1760
+2009/010,Jumla,Urinary Tract infection,988
+2009/010,Jumla,Viral Influenza,294
+2009/010,Jumla,Reproductive Tract Infection male,10
+2009/010,Jumla,Reproductive tract infection female,43
+2009/010,Kalikot,ARI /Lower respiratory tract infection,4721
+2009/010,Kalikot,Upper respiratory Tract infection,3532
+2009/010,Kalikot,Pneumonia,1818
+2009/010,Kalikot,Server Pneumonia,382
+2009/010,Kalikot,Bronchitis,1848
+2009/010,Kalikot,Asthma,2317
+2009/010,Kalikot,Urinary Tract infection,1611
+2009/010,Kalikot,Viral Influenza,389
+2009/010,Kalikot,Reproductive Tract Infection male,43
+2009/010,Kalikot,Reproductive tract infection female,304
+2009/010,Mugu,ARI /Lower respiratory tract infection,2574
+2009/010,Mugu,Upper respiratory Tract infection,2770
+2009/010,Mugu,Pneumonia,1118
+2009/010,Mugu,Server Pneumonia,186
+2009/010,Mugu,Bronchitis,730
+2009/010,Mugu,Asthma,1154
+2009/010,Mugu,Urinary Tract infection,815
+2009/010,Mugu,Viral Influenza,148
+2009/010,Mugu,Reproductive Tract Infection male,66
+2009/010,Mugu,Reproductive tract infection female,224
+2009/010,Pyuthan,ARI /Lower respiratory tract infection,10057
+2009/010,Pyuthan,Upper respiratory Tract infection,15857
+2009/010,Pyuthan,Pneumonia,6907
+2009/010,Pyuthan,Server Pneumonia,430
+2009/010,Pyuthan,Bronchitis,5160
+2009/010,Pyuthan,Asthma,5979
+2009/010,Pyuthan,Urinary Tract infection,3143
+2009/010,Pyuthan,Viral Influenza,3
+2009/010,Pyuthan,Reproductive Tract Infection male,72
+2009/010,Pyuthan,Reproductive tract infection female,190
+2009/010,Rolpa,ARI /Lower respiratory tract infection,11179
+2009/010,Rolpa,Upper respiratory Tract infection,9708
+2009/010,Rolpa,Pneumonia,6915
+2009/010,Rolpa,Server Pneumonia,305
+2009/010,Rolpa,Bronchitis,2598
+2009/010,Rolpa,Asthma,2976
+2009/010,Rolpa,Urinary Tract infection,3002
+2009/010,Rolpa,Viral Influenza,368
+2009/010,Rolpa,Reproductive Tract Infection male,52
+2009/010,Rolpa,Reproductive tract infection female,71
+2009/010,Rukum,ARI /Lower respiratory tract infection,9993
+2009/010,Rukum,Upper respiratory Tract infection,10210
+2009/010,Rukum,Pneumonia,7465
+2009/010,Rukum,Server Pneumonia,710
+2009/010,Rukum,Bronchitis,2893
+2009/010,Rukum,Asthma,3679
+2009/010,Rukum,Urinary Tract infection,4529
+2009/010,Rukum,Viral Influenza,589
+2009/010,Rukum,Reproductive Tract Infection male,186
+2009/010,Rukum,Reproductive tract infection female,176
+2009/010,Salyan,ARI /Lower respiratory tract infection,13591
+2009/010,Salyan,Upper respiratory Tract infection,11089
+2009/010,Salyan,Pneumonia,6401
+2009/010,Salyan,Server Pneumonia,485
+2009/010,Salyan,Bronchitis,3744
+2009/010,Salyan,Asthma,5778
+2009/010,Salyan,Urinary Tract infection,4424
+2009/010,Salyan,Viral Influenza,433
+2009/010,Salyan,Reproductive Tract Infection male,58
+2009/010,Salyan,Reproductive tract infection female,223
+2009/010,Surkhet,ARI /Lower respiratory tract infection,20973
+2009/010,Surkhet,Upper respiratory Tract infection,18923
+2009/010,Surkhet,Pneumonia,10744
+2009/010,Surkhet,Server Pneumonia,533
+2009/010,Surkhet,Bronchitis,4641
+2009/010,Surkhet,Asthma,6534
+2009/010,Surkhet,Urinary Tract infection,6733
+2009/010,Surkhet,Viral Influenza,3627
+2009/010,Surkhet,Reproductive Tract Infection male,200
+2009/010,Surkhet,Reproductive tract infection female,350
+2009/010,Achham,ARI /Lower respiratory tract infection,23794
+2009/010,Achham,Upper respiratory Tract infection,22371
+2009/010,Achham,Pneumonia,6757
+2009/010,Achham,Server Pneumonia,726
+2009/010,Achham,Bronchitis,3553
+2009/010,Achham,Asthma,6563
+2009/010,Achham,Urinary Tract infection,5603
+2009/010,Achham,Viral Influenza,1098
+2009/010,Achham,Reproductive Tract Infection male,135
+2009/010,Achham,Reproductive tract infection female,222
+2009/010,Baitadi,ARI /Lower respiratory tract infection,13130
+2009/010,Baitadi,Upper respiratory Tract infection,11299
+2009/010,Baitadi,Pneumonia,6263
+2009/010,Baitadi,Server Pneumonia,383
+2009/010,Baitadi,Bronchitis,3725
+2009/010,Baitadi,Asthma,6912
+2009/010,Baitadi,Urinary Tract infection,2884
+2009/010,Baitadi,Viral Influenza,2079
+2009/010,Baitadi,Reproductive Tract Infection male,98
+2009/010,Baitadi,Reproductive tract infection female,142
+2009/010,Bajhang,ARI /Lower respiratory tract infection,6937
+2009/010,Bajhang,Upper respiratory Tract infection,6470
+2009/010,Bajhang,Pneumonia,4061
+2009/010,Bajhang,Server Pneumonia,224
+2009/010,Bajhang,Bronchitis,2385
+2009/010,Bajhang,Asthma,2973
+2009/010,Bajhang,Urinary Tract infection,3287
+2009/010,Bajhang,Viral Influenza,248
+2009/010,Bajhang,Reproductive Tract Infection male,28
+2009/010,Bajhang,Reproductive tract infection female,56
+2009/010,Bajura,ARI /Lower respiratory tract infection,7017
+2009/010,Bajura,Upper respiratory Tract infection,7962
+2009/010,Bajura,Pneumonia,5488
+2009/010,Bajura,Server Pneumonia,551
+2009/010,Bajura,Bronchitis,2133
+2009/010,Bajura,Asthma,3320
+2009/010,Bajura,Urinary Tract infection,2110
+2009/010,Bajura,Viral Influenza,758
+2009/010,Bajura,Reproductive Tract Infection male,28
+2009/010,Bajura,Reproductive tract infection female,34
+2009/010,Dadeldhura,ARI /Lower respiratory tract infection,14823
+2009/010,Dadeldhura,Upper respiratory Tract infection,9819
+2009/010,Dadeldhura,Pneumonia,9200
+2009/010,Dadeldhura,Server Pneumonia,362
+2009/010,Dadeldhura,Bronchitis,1651
+2009/010,Dadeldhura,Asthma,3840
+2009/010,Dadeldhura,Urinary Tract infection,5135
+2009/010,Dadeldhura,Viral Influenza,1789
+2009/010,Dadeldhura,Reproductive Tract Infection male,144
+2009/010,Dadeldhura,Reproductive tract infection female,176
+2009/010,Darchula,ARI /Lower respiratory tract infection,8080
+2009/010,Darchula,Upper respiratory Tract infection,6113
+2009/010,Darchula,Pneumonia,2076
+2009/010,Darchula,Server Pneumonia,117
+2009/010,Darchula,Bronchitis,2480
+2009/010,Darchula,Asthma,4663
+2009/010,Darchula,Urinary Tract infection,2180
+2009/010,Darchula,Viral Influenza,907
+2009/010,Darchula,Reproductive Tract Infection male,43
+2009/010,Darchula,Reproductive tract infection female,83
+2009/010,Doti,ARI /Lower respiratory tract infection,12082
+2009/010,Doti,Upper respiratory Tract infection,14240
+2009/010,Doti,Pneumonia,4694
+2009/010,Doti,Server Pneumonia,272
+2009/010,Doti,Bronchitis,2565
+2009/010,Doti,Asthma,4110
+2009/010,Doti,Urinary Tract infection,2449
+2009/010,Doti,Viral Influenza,1177
+2009/010,Doti,Reproductive Tract Infection male,50
+2009/010,Doti,Reproductive tract infection female,47
+2009/010,Kailali,ARI /Lower respiratory tract infection,36358
+2009/010,Kailali,Upper respiratory Tract infection,19149
+2009/010,Kailali,Pneumonia,11553
+2009/010,Kailali,Server Pneumonia,797
+2009/010,Kailali,Bronchitis,5323
+2009/010,Kailali,Asthma,8240
+2009/010,Kailali,Urinary Tract infection,6768
+2009/010,Kailali,Viral Influenza,1851
+2009/010,Kailali,Reproductive Tract Infection male,290
+2009/010,Kailali,Reproductive tract infection female,502
+2009/010,Kanchanpur,ARI /Lower respiratory tract infection,19866
+2009/010,Kanchanpur,Upper respiratory Tract infection,13086
+2009/010,Kanchanpur,Pneumonia,8033
+2009/010,Kanchanpur,Server Pneumonia,146
+2009/010,Kanchanpur,Bronchitis,4035
+2009/010,Kanchanpur,Asthma,5004
+2009/010,Kanchanpur,Urinary Tract infection,4198
+2009/010,Kanchanpur,Viral Influenza,6693
+2009/010,Kanchanpur,Reproductive Tract Infection male,93
+2009/010,Kanchanpur,Reproductive tract infection female,243
+2010/011,Taplejung,ARI /Lower respiratory tract infection,7408
+2010/011,Taplejung,Upper respiratory Tract infection,6936
+2010/011,Taplejung,Pneumonia,4083
+2010/011,Taplejung,Server Pneumonia,129
+2010/011,Taplejung,Bronchitis,1020
+2010/011,Taplejung,Asthma,2021
+2010/011,Taplejung,Urinary Tract infection,1893
+2010/011,Taplejung,Viral Influenza,1237
+2010/011,Taplejung,Reproductive Tract Infection male,10
+2010/011,Taplejung,Reproductive tract infection female,50
+2010/011,Panchthar,ARI /Lower respiratory tract infection,8288
+2010/011,Panchthar,Upper respiratory Tract infection,6145
+2010/011,Panchthar,Pneumonia,5341
+2010/011,Panchthar,Server Pneumonia,193
+2010/011,Panchthar,Bronchitis,1412
+2010/011,Panchthar,Asthma,1548
+2010/011,Panchthar,Urinary Tract infection,1244
+2010/011,Panchthar,Viral Influenza,942
+2010/011,Panchthar,Reproductive Tract Infection male,20
+2010/011,Panchthar,Reproductive tract infection female,28
+2010/011,Ilam,ARI /Lower respiratory tract infection,8961
+2010/011,Ilam,Upper respiratory Tract infection,7829
+2010/011,Ilam,Pneumonia,4825
+2010/011,Ilam,Server Pneumonia,230
+2010/011,Ilam,Bronchitis,1515
+2010/011,Ilam,Asthma,1733
+2010/011,Ilam,Urinary Tract infection,1845
+2010/011,Ilam,Viral Influenza,5121
+2010/011,Ilam,Reproductive Tract Infection male,33
+2010/011,Ilam,Reproductive tract infection female,105
+2010/011,Jhapa,ARI /Lower respiratory tract infection,22843
+2010/011,Jhapa,Upper respiratory Tract infection,27279
+2010/011,Jhapa,Pneumonia,15070
+2010/011,Jhapa,Server Pneumonia,541
+2010/011,Jhapa,Bronchitis,9626
+2010/011,Jhapa,Asthma,7747
+2010/011,Jhapa,Urinary Tract infection,9867
+2010/011,Jhapa,Viral Influenza,16283
+2010/011,Jhapa,Reproductive Tract Infection male,460
+2010/011,Jhapa,Reproductive tract infection female,613
+2010/011,Morang,ARI /Lower respiratory tract infection,31641
+2010/011,Morang,Upper respiratory Tract infection,29018
+2010/011,Morang,Pneumonia,11831
+2010/011,Morang,Server Pneumonia,663
+2010/011,Morang,Bronchitis,9610
+2010/011,Morang,Asthma,6518
+2010/011,Morang,Urinary Tract infection,14727
+2010/011,Morang,Viral Influenza,3954
+2010/011,Morang,Reproductive Tract Infection male,267
+2010/011,Morang,Reproductive tract infection female,437
+2010/011,Sunsari,ARI /Lower respiratory tract infection,35300
+2010/011,Sunsari,Upper respiratory Tract infection,27773
+2010/011,Sunsari,Pneumonia,18968
+2010/011,Sunsari,Server Pneumonia,363
+2010/011,Sunsari,Bronchitis,4135
+2010/011,Sunsari,Asthma,5465
+2010/011,Sunsari,Urinary Tract infection,4224
+2010/011,Sunsari,Viral Influenza,4060
+2010/011,Sunsari,Reproductive Tract Infection male,44
+2010/011,Sunsari,Reproductive tract infection female,113
+2010/011,Dhankuta,ARI /Lower respiratory tract infection,7215
+2010/011,Dhankuta,Upper respiratory Tract infection,5271
+2010/011,Dhankuta,Pneumonia,4747
+2010/011,Dhankuta,Server Pneumonia,84
+2010/011,Dhankuta,Bronchitis,2542
+2010/011,Dhankuta,Asthma,1598
+2010/011,Dhankuta,Urinary Tract infection,1298
+2010/011,Dhankuta,Viral Influenza,2522
+2010/011,Dhankuta,Reproductive Tract Infection male,18
+2010/011,Dhankuta,Reproductive tract infection female,23
+2010/011,Teharthum,ARI /Lower respiratory tract infection,5078
+2010/011,Teharthum,Upper respiratory Tract infection,6777
+2010/011,Teharthum,Pneumonia,2900
+2010/011,Teharthum,Server Pneumonia,104
+2010/011,Teharthum,Bronchitis,2497
+2010/011,Teharthum,Asthma,1435
+2010/011,Teharthum,Urinary Tract infection,1531
+2010/011,Teharthum,Viral Influenza,1458
+2010/011,Teharthum,Reproductive Tract Infection male,82
+2010/011,Teharthum,Reproductive tract infection female,76
+2010/011,Sankhuwasabha,ARI /Lower respiratory tract infection,9506
+2010/011,Sankhuwasabha,Upper respiratory Tract infection,8109
+2010/011,Sankhuwasabha,Pneumonia,5618
+2010/011,Sankhuwasabha,Server Pneumonia,76
+2010/011,Sankhuwasabha,Bronchitis,783
+2010/011,Sankhuwasabha,Asthma,2187
+2010/011,Sankhuwasabha,Urinary Tract infection,2250
+2010/011,Sankhuwasabha,Viral Influenza,256
+2010/011,Sankhuwasabha,Reproductive Tract Infection male,37
+2010/011,Sankhuwasabha,Reproductive tract infection female,87
+2010/011,Bhojpur,ARI /Lower respiratory tract infection,11552
+2010/011,Bhojpur,Upper respiratory Tract infection,6594
+2010/011,Bhojpur,Pneumonia,6665
+2010/011,Bhojpur,Server Pneumonia,273
+2010/011,Bhojpur,Bronchitis,2857
+2010/011,Bhojpur,Asthma,3429
+2010/011,Bhojpur,Urinary Tract infection,2285
+2010/011,Bhojpur,Viral Influenza,2740
+2010/011,Bhojpur,Reproductive Tract Infection male,720
+2010/011,Bhojpur,Reproductive tract infection female,214
+2010/011,Solukhumbu,ARI /Lower respiratory tract infection,7549
+2010/011,Solukhumbu,Upper respiratory Tract infection,10470
+2010/011,Solukhumbu,Pneumonia,3015
+2010/011,Solukhumbu,Server Pneumonia,182
+2010/011,Solukhumbu,Bronchitis,1871
+2010/011,Solukhumbu,Asthma,2470
+2010/011,Solukhumbu,Urinary Tract infection,2309
+2010/011,Solukhumbu,Viral Influenza,264
+2010/011,Solukhumbu,Reproductive Tract Infection male,35
+2010/011,Solukhumbu,Reproductive tract infection female,115
+2010/011,Okhaldhunga,ARI /Lower respiratory tract infection,13666
+2010/011,Okhaldhunga,Upper respiratory Tract infection,13765
+2010/011,Okhaldhunga,Pneumonia,5922
+2010/011,Okhaldhunga,Server Pneumonia,199
+2010/011,Okhaldhunga,Bronchitis,3012
+2010/011,Okhaldhunga,Asthma,3522
+2010/011,Okhaldhunga,Urinary Tract infection,2687
+2010/011,Okhaldhunga,Viral Influenza,1901
+2010/011,Okhaldhunga,Reproductive Tract Infection male,43
+2010/011,Okhaldhunga,Reproductive tract infection female,225
+2010/011,Khotang,ARI /Lower respiratory tract infection,9560
+2010/011,Khotang,Upper respiratory Tract infection,8259
+2010/011,Khotang,Pneumonia,6068
+2010/011,Khotang,Server Pneumonia,1037
+2010/011,Khotang,Bronchitis,2206
+2010/011,Khotang,Asthma,2971
+2010/011,Khotang,Urinary Tract infection,2172
+2010/011,Khotang,Viral Influenza,1008
+2010/011,Khotang,Reproductive Tract Infection male,268
+2010/011,Khotang,Reproductive tract infection female,154
+2010/011,Udaypur,ARI /Lower respiratory tract infection,9000
+2010/011,Udaypur,Upper respiratory Tract infection,6384
+2010/011,Udaypur,Pneumonia,4311
+2010/011,Udaypur,Server Pneumonia,275
+2010/011,Udaypur,Bronchitis,3903
+2010/011,Udaypur,Asthma,2974
+2010/011,Udaypur,Urinary Tract infection,2838
+2010/011,Udaypur,Viral Influenza,1807
+2010/011,Udaypur,Reproductive Tract Infection male,126
+2010/011,Udaypur,Reproductive tract infection female,230
+2010/011,Saptari,ARI /Lower respiratory tract infection,27960
+2010/011,Saptari,Upper respiratory Tract infection,19502
+2010/011,Saptari,Pneumonia,10172
+2010/011,Saptari,Server Pneumonia,213
+2010/011,Saptari,Bronchitis,11194
+2010/011,Saptari,Asthma,9531
+2010/011,Saptari,Urinary Tract infection,6063
+2010/011,Saptari,Viral Influenza,8019
+2010/011,Saptari,Reproductive Tract Infection male,53
+2010/011,Saptari,Reproductive tract infection female,177
+2010/011,Siraha,ARI /Lower respiratory tract infection,38460
+2010/011,Siraha,Upper respiratory Tract infection,32129
+2010/011,Siraha,Pneumonia,12706
+2010/011,Siraha,Server Pneumonia,763
+2010/011,Siraha,Bronchitis,13884
+2010/011,Siraha,Asthma,8691
+2010/011,Siraha,Urinary Tract infection,10278
+2010/011,Siraha,Viral Influenza,4541
+2010/011,Siraha,Reproductive Tract Infection male,124
+2010/011,Siraha,Reproductive tract infection female,242
+2010/011,Dhanusha,ARI /Lower respiratory tract infection,36659
+2010/011,Dhanusha,Upper respiratory Tract infection,26743
+2010/011,Dhanusha,Pneumonia,11404
+2010/011,Dhanusha,Server Pneumonia,406
+2010/011,Dhanusha,Bronchitis,12836
+2010/011,Dhanusha,Asthma,11399
+2010/011,Dhanusha,Urinary Tract infection,5368
+2010/011,Dhanusha,Viral Influenza,4820
+2010/011,Dhanusha,Reproductive Tract Infection male,166
+2010/011,Dhanusha,Reproductive tract infection female,251
+2010/011,Mahottari,ARI /Lower respiratory tract infection,22343
+2010/011,Mahottari,Upper respiratory Tract infection,18398
+2010/011,Mahottari,Pneumonia,8034
+2010/011,Mahottari,Server Pneumonia,478
+2010/011,Mahottari,Bronchitis,8966
+2010/011,Mahottari,Asthma,9304
+2010/011,Mahottari,Urinary Tract infection,5975
+2010/011,Mahottari,Viral Influenza,3077
+2010/011,Mahottari,Reproductive Tract Infection male,88
+2010/011,Mahottari,Reproductive tract infection female,198
+2010/011,Sarlahi,ARI /Lower respiratory tract infection,23203
+2010/011,Sarlahi,Upper respiratory Tract infection,22587
+2010/011,Sarlahi,Pneumonia,8697
+2010/011,Sarlahi,Server Pneumonia,516
+2010/011,Sarlahi,Bronchitis,13142
+2010/011,Sarlahi,Asthma,14048
+2010/011,Sarlahi,Urinary Tract infection,5627
+2010/011,Sarlahi,Viral Influenza,1750
+2010/011,Sarlahi,Reproductive Tract Infection male,152
+2010/011,Sarlahi,Reproductive tract infection female,238
+2010/011,Sindhuli,ARI /Lower respiratory tract infection,5474
+2010/011,Sindhuli,Upper respiratory Tract infection,4642
+2010/011,Sindhuli,Pneumonia,3755
+2010/011,Sindhuli,Server Pneumonia,134
+2010/011,Sindhuli,Bronchitis,1738
+2010/011,Sindhuli,Asthma,2792
+2010/011,Sindhuli,Urinary Tract infection,1769
+2010/011,Sindhuli,Viral Influenza,848
+2010/011,Sindhuli,Reproductive Tract Infection male,55
+2010/011,Sindhuli,Reproductive tract infection female,82
+2010/011,Ramechhap,ARI /Lower respiratory tract infection,8658
+2010/011,Ramechhap,Upper respiratory Tract infection,7747
+2010/011,Ramechhap,Pneumonia,4035
+2010/011,Ramechhap,Server Pneumonia,131
+2010/011,Ramechhap,Bronchitis,2761
+2010/011,Ramechhap,Asthma,3072
+2010/011,Ramechhap,Urinary Tract infection,2306
+2010/011,Ramechhap,Viral Influenza,2541
+2010/011,Ramechhap,Reproductive Tract Infection male,17
+2010/011,Ramechhap,Reproductive tract infection female,8
+2010/011,Dolkha,ARI /Lower respiratory tract infection,16534
+2010/011,Dolkha,Upper respiratory Tract infection,11350
+2010/011,Dolkha,Pneumonia,3687
+2010/011,Dolkha,Server Pneumonia,143
+2010/011,Dolkha,Bronchitis,3153
+2010/011,Dolkha,Asthma,4002
+2010/011,Dolkha,Urinary Tract infection,3579
+2010/011,Dolkha,Viral Influenza,3795
+2010/011,Dolkha,Reproductive Tract Infection male,84
+2010/011,Dolkha,Reproductive tract infection female,175
+2010/011,Sindhupalchowk,ARI /Lower respiratory tract infection,14444
+2010/011,Sindhupalchowk,Upper respiratory Tract infection,13088
+2010/011,Sindhupalchowk,Pneumonia,5744
+2010/011,Sindhupalchowk,Server Pneumonia,202
+2010/011,Sindhupalchowk,Bronchitis,3340
+2010/011,Sindhupalchowk,Asthma,4712
+2010/011,Sindhupalchowk,Urinary Tract infection,3334
+2010/011,Sindhupalchowk,Viral Influenza,4414
+2010/011,Sindhupalchowk,Reproductive Tract Infection male,97
+2010/011,Sindhupalchowk,Reproductive tract infection female,222
+2010/011,Kavre,ARI /Lower respiratory tract infection,23475
+2010/011,Kavre,Upper respiratory Tract infection,23520
+2010/011,Kavre,Pneumonia,7667
+2010/011,Kavre,Server Pneumonia,79
+2010/011,Kavre,Bronchitis,4739
+2010/011,Kavre,Asthma,7856
+2010/011,Kavre,Urinary Tract infection,3235
+2010/011,Kavre,Viral Influenza,4328
+2010/011,Kavre,Reproductive Tract Infection male,43
+2010/011,Kavre,Reproductive tract infection female,129
+2010/011,Lalitpur,ARI /Lower respiratory tract infection,0
+2010/011,Lalitpur,Upper respiratory Tract infection,0
+2010/011,Lalitpur,Pneumonia,0
+2010/011,Lalitpur,Server Pneumonia,0
+2010/011,Lalitpur,Bronchitis,0
+2010/011,Lalitpur,Asthma,0
+2010/011,Lalitpur,Urinary Tract infection,0
+2010/011,Lalitpur,Viral Influenza,0
+2010/011,Lalitpur,Reproductive Tract Infection male,0
+2010/011,Lalitpur,Reproductive tract infection female,0
+2010/011,Bhaktapur,ARI /Lower respiratory tract infection,6355
+2010/011,Bhaktapur,Upper respiratory Tract infection,6709
+2010/011,Bhaktapur,Pneumonia,2073
+2010/011,Bhaktapur,Server Pneumonia,53
+2010/011,Bhaktapur,Bronchitis,1070
+2010/011,Bhaktapur,Asthma,2586
+2010/011,Bhaktapur,Urinary Tract infection,1965
+2010/011,Bhaktapur,Viral Influenza,1712
+2010/011,Bhaktapur,Reproductive Tract Infection male,44
+2010/011,Bhaktapur,Reproductive tract infection female,74
+2010/011,Kathmandu,ARI /Lower respiratory tract infection,15289
+2010/011,Kathmandu,Upper respiratory Tract infection,22107
+2010/011,Kathmandu,Pneumonia,12004
+2010/011,Kathmandu,Server Pneumonia,616
+2010/011,Kathmandu,Bronchitis,4758
+2010/011,Kathmandu,Asthma,15610
+2010/011,Kathmandu,Urinary Tract infection,9287
+2010/011,Kathmandu,Viral Influenza,5721
+2010/011,Kathmandu,Reproductive Tract Infection male,467
+2010/011,Kathmandu,Reproductive tract infection female,834
+2010/011,Nuwakot,ARI /Lower respiratory tract infection,6896
+2010/011,Nuwakot,Upper respiratory Tract infection,7344
+2010/011,Nuwakot,Pneumonia,3180
+2010/011,Nuwakot,Server Pneumonia,277
+2010/011,Nuwakot,Bronchitis,2623
+2010/011,Nuwakot,Asthma,5970
+2010/011,Nuwakot,Urinary Tract infection,1776
+2010/011,Nuwakot,Viral Influenza,1379
+2010/011,Nuwakot,Reproductive Tract Infection male,18
+2010/011,Nuwakot,Reproductive tract infection female,75
+2010/011,Rasuwa,ARI /Lower respiratory tract infection,3203
+2010/011,Rasuwa,Upper respiratory Tract infection,2177
+2010/011,Rasuwa,Pneumonia,820
+2010/011,Rasuwa,Server Pneumonia,37
+2010/011,Rasuwa,Bronchitis,440
+2010/011,Rasuwa,Asthma,581
+2010/011,Rasuwa,Urinary Tract infection,660
+2010/011,Rasuwa,Viral Influenza,1378
+2010/011,Rasuwa,Reproductive Tract Infection male,18
+2010/011,Rasuwa,Reproductive tract infection female,17
+2010/011,Dhading,ARI /Lower respiratory tract infection,18367
+2010/011,Dhading,Upper respiratory Tract infection,13947
+2010/011,Dhading,Pneumonia,9175
+2010/011,Dhading,Server Pneumonia,393
+2010/011,Dhading,Bronchitis,3709
+2010/011,Dhading,Asthma,6534
+2010/011,Dhading,Urinary Tract infection,3100
+2010/011,Dhading,Viral Influenza,7485
+2010/011,Dhading,Reproductive Tract Infection male,81
+2010/011,Dhading,Reproductive tract infection female,343
+2010/011,Makawanpur,ARI /Lower respiratory tract infection,7058
+2010/011,Makawanpur,Upper respiratory Tract infection,7795
+2010/011,Makawanpur,Pneumonia,4628
+2010/011,Makawanpur,Server Pneumonia,204
+2010/011,Makawanpur,Bronchitis,2919
+2010/011,Makawanpur,Asthma,3113
+2010/011,Makawanpur,Urinary Tract infection,1458
+2010/011,Makawanpur,Viral Influenza,3337
+2010/011,Makawanpur,Reproductive Tract Infection male,22
+2010/011,Makawanpur,Reproductive tract infection female,92
+2010/011,Rautahat,ARI /Lower respiratory tract infection,10374
+2010/011,Rautahat,Upper respiratory Tract infection,11710
+2010/011,Rautahat,Pneumonia,7517
+2010/011,Rautahat,Server Pneumonia,425
+2010/011,Rautahat,Bronchitis,6988
+2010/011,Rautahat,Asthma,8805
+2010/011,Rautahat,Urinary Tract infection,2696
+2010/011,Rautahat,Viral Influenza,2036
+2010/011,Rautahat,Reproductive Tract Infection male,192
+2010/011,Rautahat,Reproductive tract infection female,292
+2010/011,Bara,ARI /Lower respiratory tract infection,16742
+2010/011,Bara,Upper respiratory Tract infection,16408
+2010/011,Bara,Pneumonia,6251
+2010/011,Bara,Server Pneumonia,354
+2010/011,Bara,Bronchitis,9128
+2010/011,Bara,Asthma,10105
+2010/011,Bara,Urinary Tract infection,4739
+2010/011,Bara,Viral Influenza,2212
+2010/011,Bara,Reproductive Tract Infection male,103
+2010/011,Bara,Reproductive tract infection female,388
+2010/011,Parsa,ARI /Lower respiratory tract infection,0
+2010/011,Parsa,Upper respiratory Tract infection,0
+2010/011,Parsa,Pneumonia,0
+2010/011,Parsa,Server Pneumonia,0
+2010/011,Parsa,Bronchitis,0
+2010/011,Parsa,Asthma,0
+2010/011,Parsa,Urinary Tract infection,0
+2010/011,Parsa,Viral Influenza,0
+2010/011,Parsa,Reproductive Tract Infection male,0
+2010/011,Parsa,Reproductive tract infection female,0
+2010/011,Chitwan,ARI /Lower respiratory tract infection,15552
+2010/011,Chitwan,Upper respiratory Tract infection,16963
+2010/011,Chitwan,Pneumonia,9457
+2010/011,Chitwan,Server Pneumonia,299
+2010/011,Chitwan,Bronchitis,4120
+2010/011,Chitwan,Asthma,9072
+2010/011,Chitwan,Urinary Tract infection,5296
+2010/011,Chitwan,Viral Influenza,7346
+2010/011,Chitwan,Reproductive Tract Infection male,640
+2010/011,Chitwan,Reproductive tract infection female,1006
+2010/011,Gorkha,ARI /Lower respiratory tract infection,12663
+2010/011,Gorkha,Upper respiratory Tract infection,14914
+2010/011,Gorkha,Pneumonia,7495
+2010/011,Gorkha,Server Pneumonia,244
+2010/011,Gorkha,Bronchitis,3675
+2010/011,Gorkha,Asthma,4437
+2010/011,Gorkha,Urinary Tract infection,4193
+2010/011,Gorkha,Viral Influenza,6120
+2010/011,Gorkha,Reproductive Tract Infection male,144
+2010/011,Gorkha,Reproductive tract infection female,264
+2010/011,Lamjung,ARI /Lower respiratory tract infection,7244
+2010/011,Lamjung,Upper respiratory Tract infection,6546
+2010/011,Lamjung,Pneumonia,4086
+2010/011,Lamjung,Server Pneumonia,144
+2010/011,Lamjung,Bronchitis,3138
+2010/011,Lamjung,Asthma,4667
+2010/011,Lamjung,Urinary Tract infection,2681
+2010/011,Lamjung,Viral Influenza,3012
+2010/011,Lamjung,Reproductive Tract Infection male,28
+2010/011,Lamjung,Reproductive tract infection female,27
+2010/011,Tanahu,ARI /Lower respiratory tract infection,10454
+2010/011,Tanahu,Upper respiratory Tract infection,8656
+2010/011,Tanahu,Pneumonia,2417
+2010/011,Tanahu,Server Pneumonia,86
+2010/011,Tanahu,Bronchitis,2301
+2010/011,Tanahu,Asthma,3707
+2010/011,Tanahu,Urinary Tract infection,2650
+2010/011,Tanahu,Viral Influenza,2834
+2010/011,Tanahu,Reproductive Tract Infection male,68
+2010/011,Tanahu,Reproductive tract infection female,87
+2010/011,Syangja,ARI /Lower respiratory tract infection,22932
+2010/011,Syangja,Upper respiratory Tract infection,16691
+2010/011,Syangja,Pneumonia,5205
+2010/011,Syangja,Server Pneumonia,238
+2010/011,Syangja,Bronchitis,5640
+2010/011,Syangja,Asthma,7034
+2010/011,Syangja,Urinary Tract infection,4953
+2010/011,Syangja,Viral Influenza,3510
+2010/011,Syangja,Reproductive Tract Infection male,94
+2010/011,Syangja,Reproductive tract infection female,265
+2010/011,Kaski,ARI /Lower respiratory tract infection,25316
+2010/011,Kaski,Upper respiratory Tract infection,22342
+2010/011,Kaski,Pneumonia,4655
+2010/011,Kaski,Server Pneumonia,208
+2010/011,Kaski,Bronchitis,5468
+2010/011,Kaski,Asthma,6290
+2010/011,Kaski,Urinary Tract infection,4537
+2010/011,Kaski,Viral Influenza,4972
+2010/011,Kaski,Reproductive Tract Infection male,218
+2010/011,Kaski,Reproductive tract infection female,290
+2010/011,Manang,ARI /Lower respiratory tract infection,659
+2010/011,Manang,Upper respiratory Tract infection,645
+2010/011,Manang,Pneumonia,165
+2010/011,Manang,Server Pneumonia,2
+2010/011,Manang,Bronchitis,197
+2010/011,Manang,Asthma,142
+2010/011,Manang,Urinary Tract infection,134
+2010/011,Manang,Viral Influenza,52
+2010/011,Manang,Reproductive Tract Infection male,8
+2010/011,Manang,Reproductive tract infection female,13
+2010/011,Mustang,ARI /Lower respiratory tract infection,2141
+2010/011,Mustang,Upper respiratory Tract infection,3350
+2010/011,Mustang,Pneumonia,292
+2010/011,Mustang,Server Pneumonia,0
+2010/011,Mustang,Bronchitis,63
+2010/011,Mustang,Asthma,121
+2010/011,Mustang,Urinary Tract infection,250
+2010/011,Mustang,Viral Influenza,244
+2010/011,Mustang,Reproductive Tract Infection male,0
+2010/011,Mustang,Reproductive tract infection female,5
+2010/011,Myagdi,ARI /Lower respiratory tract infection,8385
+2010/011,Myagdi,Upper respiratory Tract infection,8676
+2010/011,Myagdi,Pneumonia,2296
+2010/011,Myagdi,Server Pneumonia,105
+2010/011,Myagdi,Bronchitis,1321
+2010/011,Myagdi,Asthma,1413
+2010/011,Myagdi,Urinary Tract infection,1669
+2010/011,Myagdi,Viral Influenza,3916
+2010/011,Myagdi,Reproductive Tract Infection male,39
+2010/011,Myagdi,Reproductive tract infection female,54
+2010/011,Parbat,ARI /Lower respiratory tract infection,17935
+2010/011,Parbat,Upper respiratory Tract infection,19342
+2010/011,Parbat,Pneumonia,5525
+2010/011,Parbat,Server Pneumonia,139
+2010/011,Parbat,Bronchitis,3121
+2010/011,Parbat,Asthma,3525
+2010/011,Parbat,Urinary Tract infection,2069
+2010/011,Parbat,Viral Influenza,3408
+2010/011,Parbat,Reproductive Tract Infection male,35
+2010/011,Parbat,Reproductive tract infection female,69
+2010/011,Baglung,ARI /Lower respiratory tract infection,17466
+2010/011,Baglung,Upper respiratory Tract infection,22163
+2010/011,Baglung,Pneumonia,6632
+2010/011,Baglung,Server Pneumonia,400
+2010/011,Baglung,Bronchitis,4671
+2010/011,Baglung,Asthma,2500
+2010/011,Baglung,Urinary Tract infection,4099
+2010/011,Baglung,Viral Influenza,2544
+2010/011,Baglung,Reproductive Tract Infection male,58
+2010/011,Baglung,Reproductive tract infection female,88
+2010/011,Gulmi,ARI /Lower respiratory tract infection,26328
+2010/011,Gulmi,Upper respiratory Tract infection,19391
+2010/011,Gulmi,Pneumonia,10246
+2010/011,Gulmi,Server Pneumonia,519
+2010/011,Gulmi,Bronchitis,9200
+2010/011,Gulmi,Asthma,6439
+2010/011,Gulmi,Urinary Tract infection,7084
+2010/011,Gulmi,Viral Influenza,7713
+2010/011,Gulmi,Reproductive Tract Infection male,144
+2010/011,Gulmi,Reproductive tract infection female,328
+2010/011,Palpa,ARI /Lower respiratory tract infection,15285
+2010/011,Palpa,Upper respiratory Tract infection,13082
+2010/011,Palpa,Pneumonia,6236
+2010/011,Palpa,Server Pneumonia,123
+2010/011,Palpa,Bronchitis,6685
+2010/011,Palpa,Asthma,6813
+2010/011,Palpa,Urinary Tract infection,8072
+2010/011,Palpa,Viral Influenza,4094
+2010/011,Palpa,Reproductive Tract Infection male,60
+2010/011,Palpa,Reproductive tract infection female,104
+2010/011,Nawalparasi,ARI /Lower respiratory tract infection,22699
+2010/011,Nawalparasi,Upper respiratory Tract infection,25136
+2010/011,Nawalparasi,Pneumonia,10309
+2010/011,Nawalparasi,Server Pneumonia,209
+2010/011,Nawalparasi,Bronchitis,5083
+2010/011,Nawalparasi,Asthma,7379
+2010/011,Nawalparasi,Urinary Tract infection,4429
+2010/011,Nawalparasi,Viral Influenza,1964
+2010/011,Nawalparasi,Reproductive Tract Infection male,71
+2010/011,Nawalparasi,Reproductive tract infection female,119
+2010/011,Rupandehi,ARI /Lower respiratory tract infection,0
+2010/011,Rupandehi,Upper respiratory Tract infection,0
+2010/011,Rupandehi,Pneumonia,0
+2010/011,Rupandehi,Server Pneumonia,0
+2010/011,Rupandehi,Bronchitis,0
+2010/011,Rupandehi,Asthma,0
+2010/011,Rupandehi,Urinary Tract infection,0
+2010/011,Rupandehi,Viral Influenza,0
+2010/011,Rupandehi,Reproductive Tract Infection male,0
+2010/011,Rupandehi,Reproductive tract infection female,0
+2010/011,Kapilvastu,ARI /Lower respiratory tract infection,15969
+2010/011,Kapilvastu,Upper respiratory Tract infection,20758
+2010/011,Kapilvastu,Pneumonia,8081
+2010/011,Kapilvastu,Server Pneumonia,1036
+2010/011,Kapilvastu,Bronchitis,9069
+2010/011,Kapilvastu,Asthma,9102
+2010/011,Kapilvastu,Urinary Tract infection,6042
+2010/011,Kapilvastu,Viral Influenza,2523
+2010/011,Kapilvastu,Reproductive Tract Infection male,331
+2010/011,Kapilvastu,Reproductive tract infection female,733
+2010/011,Arghakhanchi,ARI /Lower respiratory tract infection,9668
+2010/011,Arghakhanchi,Upper respiratory Tract infection,7581
+2010/011,Arghakhanchi,Pneumonia,6266
+2010/011,Arghakhanchi,Server Pneumonia,168
+2010/011,Arghakhanchi,Bronchitis,4876
+2010/011,Arghakhanchi,Asthma,4299
+2010/011,Arghakhanchi,Urinary Tract infection,3278
+2010/011,Arghakhanchi,Viral Influenza,2442
+2010/011,Arghakhanchi,Reproductive Tract Infection male,548
+2010/011,Arghakhanchi,Reproductive tract infection female,687
+2010/011,Pyuthan,ARI /Lower respiratory tract infection,9817
+2010/011,Pyuthan,Upper respiratory Tract infection,12117
+2010/011,Pyuthan,Pneumonia,6529
+2010/011,Pyuthan,Server Pneumonia,420
+2010/011,Pyuthan,Bronchitis,4366
+2010/011,Pyuthan,Asthma,4727
+2010/011,Pyuthan,Urinary Tract infection,2951
+2010/011,Pyuthan,Viral Influenza,103
+2010/011,Pyuthan,Reproductive Tract Infection male,31
+2010/011,Pyuthan,Reproductive tract infection female,132
+2010/011,Rolpa,ARI /Lower respiratory tract infection,11114
+2010/011,Rolpa,Upper respiratory Tract infection,9638
+2010/011,Rolpa,Pneumonia,5977
+2010/011,Rolpa,Server Pneumonia,167
+2010/011,Rolpa,Bronchitis,2528
+2010/011,Rolpa,Asthma,3040
+2010/011,Rolpa,Urinary Tract infection,2754
+2010/011,Rolpa,Viral Influenza,384
+2010/011,Rolpa,Reproductive Tract Infection male,11
+2010/011,Rolpa,Reproductive tract infection female,47
+2010/011,Rukum,ARI /Lower respiratory tract infection,11619
+2010/011,Rukum,Upper respiratory Tract infection,10467
+2010/011,Rukum,Pneumonia,5931
+2010/011,Rukum,Server Pneumonia,646
+2010/011,Rukum,Bronchitis,4310
+2010/011,Rukum,Asthma,3303
+2010/011,Rukum,Urinary Tract infection,3667
+2010/011,Rukum,Viral Influenza,164
+2010/011,Rukum,Reproductive Tract Infection male,121
+2010/011,Rukum,Reproductive tract infection female,158
+2010/011,Salyan,ARI /Lower respiratory tract infection,13642
+2010/011,Salyan,Upper respiratory Tract infection,12816
+2010/011,Salyan,Pneumonia,5891
+2010/011,Salyan,Server Pneumonia,638
+2010/011,Salyan,Bronchitis,3411
+2010/011,Salyan,Asthma,6136
+2010/011,Salyan,Urinary Tract infection,4232
+2010/011,Salyan,Viral Influenza,677
+2010/011,Salyan,Reproductive Tract Infection male,61
+2010/011,Salyan,Reproductive tract infection female,260
+2010/011,Dang,ARI /Lower respiratory tract infection,17187
+2010/011,Dang,Upper respiratory Tract infection,16331
+2010/011,Dang,Pneumonia,7474
+2010/011,Dang,Server Pneumonia,475
+2010/011,Dang,Bronchitis,5494
+2010/011,Dang,Asthma,9412
+2010/011,Dang,Urinary Tract infection,4886
+2010/011,Dang,Viral Influenza,2659
+2010/011,Dang,Reproductive Tract Infection male,123
+2010/011,Dang,Reproductive tract infection female,143
+2010/011,Banke,ARI /Lower respiratory tract infection,20410
+2010/011,Banke,Upper respiratory Tract infection,22316
+2010/011,Banke,Pneumonia,8976
+2010/011,Banke,Server Pneumonia,347
+2010/011,Banke,Bronchitis,3038
+2010/011,Banke,Asthma,5445
+2010/011,Banke,Urinary Tract infection,3395
+2010/011,Banke,Viral Influenza,5671
+2010/011,Banke,Reproductive Tract Infection male,39
+2010/011,Banke,Reproductive tract infection female,115
+2010/011,Bardiya,ARI /Lower respiratory tract infection,19076
+2010/011,Bardiya,Upper respiratory Tract infection,25377
+2010/011,Bardiya,Pneumonia,7375
+2010/011,Bardiya,Server Pneumonia,280
+2010/011,Bardiya,Bronchitis,8434
+2010/011,Bardiya,Asthma,6625
+2010/011,Bardiya,Urinary Tract infection,7256
+2010/011,Bardiya,Viral Influenza,4252
+2010/011,Bardiya,Reproductive Tract Infection male,366
+2010/011,Bardiya,Reproductive tract infection female,649
+2010/011,Surkhet,ARI /Lower respiratory tract infection,19185
+2010/011,Surkhet,Upper respiratory Tract infection,23551
+2010/011,Surkhet,Pneumonia,9005
+2010/011,Surkhet,Server Pneumonia,351
+2010/011,Surkhet,Bronchitis,4133
+2010/011,Surkhet,Asthma,6222
+2010/011,Surkhet,Urinary Tract infection,6197
+2010/011,Surkhet,Viral Influenza,5287
+2010/011,Surkhet,Reproductive Tract Infection male,120
+2010/011,Surkhet,Reproductive tract infection female,178
+2010/011,Dailekh,ARI /Lower respiratory tract infection,24385
+2010/011,Dailekh,Upper respiratory Tract infection,17611
+2010/011,Dailekh,Pneumonia,7114
+2010/011,Dailekh,Server Pneumonia,300
+2010/011,Dailekh,Bronchitis,4196
+2010/011,Dailekh,Asthma,5758
+2010/011,Dailekh,Urinary Tract infection,3648
+2010/011,Dailekh,Viral Influenza,109
+2010/011,Dailekh,Reproductive Tract Infection male,72
+2010/011,Dailekh,Reproductive tract infection female,137
+2010/011,Jajarkot,ARI /Lower respiratory tract infection,6480
+2010/011,Jajarkot,Upper respiratory Tract infection,10432
+2010/011,Jajarkot,Pneumonia,3352
+2010/011,Jajarkot,Server Pneumonia,522
+2010/011,Jajarkot,Bronchitis,2191
+2010/011,Jajarkot,Asthma,3631
+2010/011,Jajarkot,Urinary Tract infection,3674
+2010/011,Jajarkot,Viral Influenza,856
+2010/011,Jajarkot,Reproductive Tract Infection male,156
+2010/011,Jajarkot,Reproductive tract infection female,324
+2010/011,Dolpa,ARI /Lower respiratory tract infection,1117
+2010/011,Dolpa,Upper respiratory Tract infection,1391
+2010/011,Dolpa,Pneumonia,634
+2010/011,Dolpa,Server Pneumonia,36
+2010/011,Dolpa,Bronchitis,227
+2010/011,Dolpa,Asthma,371
+2010/011,Dolpa,Urinary Tract infection,388
+2010/011,Dolpa,Viral Influenza,97
+2010/011,Dolpa,Reproductive Tract Infection male,52
+2010/011,Dolpa,Reproductive tract infection female,68
+2010/011,Jumla,ARI /Lower respiratory tract infection,5034
+2010/011,Jumla,Upper respiratory Tract infection,6350
+2010/011,Jumla,Pneumonia,2353
+2010/011,Jumla,Server Pneumonia,155
+2010/011,Jumla,Bronchitis,1112
+2010/011,Jumla,Asthma,1688
+2010/011,Jumla,Urinary Tract infection,981
+2010/011,Jumla,Viral Influenza,133
+2010/011,Jumla,Reproductive Tract Infection male,16
+2010/011,Jumla,Reproductive tract infection female,23
+2010/011,Kalikot,ARI /Lower respiratory tract infection,3335
+2010/011,Kalikot,Upper respiratory Tract infection,3719
+2010/011,Kalikot,Pneumonia,2040
+2010/011,Kalikot,Server Pneumonia,237
+2010/011,Kalikot,Bronchitis,1886
+2010/011,Kalikot,Asthma,2299
+2010/011,Kalikot,Urinary Tract infection,1629
+2010/011,Kalikot,Viral Influenza,674
+2010/011,Kalikot,Reproductive Tract Infection male,38
+2010/011,Kalikot,Reproductive tract infection female,95
+2010/011,Mugu,ARI /Lower respiratory tract infection,2880
+2010/011,Mugu,Upper respiratory Tract infection,2565
+2010/011,Mugu,Pneumonia,1421
+2010/011,Mugu,Server Pneumonia,151
+2010/011,Mugu,Bronchitis,1010
+2010/011,Mugu,Asthma,1346
+2010/011,Mugu,Urinary Tract infection,1171
+2010/011,Mugu,Viral Influenza,41
+2010/011,Mugu,Reproductive Tract Infection male,72
+2010/011,Mugu,Reproductive tract infection female,127
+2010/011,Humla,ARI /Lower respiratory tract infection,4064
+2010/011,Humla,Upper respiratory Tract infection,4182
+2010/011,Humla,Pneumonia,2426
+2010/011,Humla,Server Pneumonia,257
+2010/011,Humla,Bronchitis,1394
+2010/011,Humla,Asthma,2340
+2010/011,Humla,Urinary Tract infection,1395
+2010/011,Humla,Viral Influenza,957
+2010/011,Humla,Reproductive Tract Infection male,97
+2010/011,Humla,Reproductive tract infection female,115
+2010/011,Bajura,ARI /Lower respiratory tract infection,5186
+2010/011,Bajura,Upper respiratory Tract infection,5747
+2010/011,Bajura,Pneumonia,4358
+2010/011,Bajura,Server Pneumonia,250
+2010/011,Bajura,Bronchitis,1431
+2010/011,Bajura,Asthma,3223
+2010/011,Bajura,Urinary Tract infection,2115
+2010/011,Bajura,Viral Influenza,1793
+2010/011,Bajura,Reproductive Tract Infection male,8
+2010/011,Bajura,Reproductive tract infection female,24
+2010/011,Bajhang,ARI /Lower respiratory tract infection,7484
+2010/011,Bajhang,Upper respiratory Tract infection,9251
+2010/011,Bajhang,Pneumonia,3913
+2010/011,Bajhang,Server Pneumonia,239
+2010/011,Bajhang,Bronchitis,1881
+2010/011,Bajhang,Asthma,3049
+2010/011,Bajhang,Urinary Tract infection,2972
+2010/011,Bajhang,Viral Influenza,620
+2010/011,Bajhang,Reproductive Tract Infection male,38
+2010/011,Bajhang,Reproductive tract infection female,65
+2010/011,Achham,ARI /Lower respiratory tract infection,21794
+2010/011,Achham,Upper respiratory Tract infection,22092
+2010/011,Achham,Pneumonia,6270
+2010/011,Achham,Server Pneumonia,406
+2010/011,Achham,Bronchitis,2624
+2010/011,Achham,Asthma,6146
+2010/011,Achham,Urinary Tract infection,4745
+2010/011,Achham,Viral Influenza,769
+2010/011,Achham,Reproductive Tract Infection male,91
+2010/011,Achham,Reproductive tract infection female,106
+2010/011,Doti,ARI /Lower respiratory tract infection,11224
+2010/011,Doti,Upper respiratory Tract infection,12834
+2010/011,Doti,Pneumonia,3493
+2010/011,Doti,Server Pneumonia,154
+2010/011,Doti,Bronchitis,2002
+2010/011,Doti,Asthma,4779
+2010/011,Doti,Urinary Tract infection,2387
+2010/011,Doti,Viral Influenza,699
+2010/011,Doti,Reproductive Tract Infection male,25
+2010/011,Doti,Reproductive tract infection female,9
+2010/011,Kailali,ARI /Lower respiratory tract infection,31224
+2010/011,Kailali,Upper respiratory Tract infection,18795
+2010/011,Kailali,Pneumonia,7343
+2010/011,Kailali,Server Pneumonia,754
+2010/011,Kailali,Bronchitis,3744
+2010/011,Kailali,Asthma,6235
+2010/011,Kailali,Urinary Tract infection,6580
+2010/011,Kailali,Viral Influenza,2509
+2010/011,Kailali,Reproductive Tract Infection male,167
+2010/011,Kailali,Reproductive tract infection female,443
+2010/011,Kanchanpur,ARI /Lower respiratory tract infection,17682
+2010/011,Kanchanpur,Upper respiratory Tract infection,17489
+2010/011,Kanchanpur,Pneumonia,7849
+2010/011,Kanchanpur,Server Pneumonia,202
+2010/011,Kanchanpur,Bronchitis,3935
+2010/011,Kanchanpur,Asthma,5102
+2010/011,Kanchanpur,Urinary Tract infection,4682
+2010/011,Kanchanpur,Viral Influenza,8789
+2010/011,Kanchanpur,Reproductive Tract Infection male,93
+2010/011,Kanchanpur,Reproductive tract infection female,254
+2010/011,Dadeldhura,ARI /Lower respiratory tract infection,11811
+2010/011,Dadeldhura,Upper respiratory Tract infection,11226
+2010/011,Dadeldhura,Pneumonia,4503
+2010/011,Dadeldhura,Server Pneumonia,467
+2010/011,Dadeldhura,Bronchitis,1340
+2010/011,Dadeldhura,Asthma,3773
+2010/011,Dadeldhura,Urinary Tract infection,3607
+2010/011,Dadeldhura,Viral Influenza,2236
+2010/011,Dadeldhura,Reproductive Tract Infection male,114
+2010/011,Dadeldhura,Reproductive tract infection female,187
+2010/011,Baitadi,ARI /Lower respiratory tract infection,14764
+2010/011,Baitadi,Upper respiratory Tract infection,13090
+2010/011,Baitadi,Pneumonia,6235
+2010/011,Baitadi,Server Pneumonia,315
+2010/011,Baitadi,Bronchitis,3247
+2010/011,Baitadi,Asthma,6392
+2010/011,Baitadi,Urinary Tract infection,2707
+2010/011,Baitadi,Viral Influenza,4252
+2010/011,Baitadi,Reproductive Tract Infection male,39
+2010/011,Baitadi,Reproductive tract infection female,64
+2010/011,Darchula,ARI /Lower respiratory tract infection,6528
+2010/011,Darchula,Upper respiratory Tract infection,5913
+2010/011,Darchula,Pneumonia,1582
+2010/011,Darchula,Server Pneumonia,57
+2010/011,Darchula,Bronchitis,2988
+2010/011,Darchula,Asthma,3803
+2010/011,Darchula,Urinary Tract infection,1303
+2010/011,Darchula,Viral Influenza,1350
+2010/011,Darchula,Reproductive Tract Infection male,14
+2010/011,Darchula,Reproductive tract infection female,53
+2012/013,Taplejung,ARI /Lower respiratory tract infection,7891
+2012/013,Taplejung,Upper respiratory Tract infection,7860
+2012/013,Taplejung,Pneumonia,3826
+2012/013,Taplejung,Server Pneumonia,330
+2012/013,Taplejung,Bronchitis,1118
+2012/013,Taplejung,Asthma,1687
+2012/013,Taplejung,Urinary Tract infection,1534
+2012/013,Taplejung,Viral Influenza,3096
+2012/013,Taplejung,Reproductive Tract Infection male,8
+2012/013,Taplejung,Reproductive tract infection female,22
+2012/013,Panchthar,ARI /Lower respiratory tract infection,9108
+2012/013,Panchthar,Upper respiratory Tract infection,8511
+2012/013,Panchthar,Pneumonia,4691
+2012/013,Panchthar,Server Pneumonia,229
+2012/013,Panchthar,Bronchitis,1220
+2012/013,Panchthar,Asthma,1602
+2012/013,Panchthar,Urinary Tract infection,1285
+2012/013,Panchthar,Viral Influenza,1049
+2012/013,Panchthar,Reproductive Tract Infection male,22
+2012/013,Panchthar,Reproductive tract infection female,46
+2012/013,Ilam,ARI /Lower respiratory tract infection,8964
+2012/013,Ilam,Upper respiratory Tract infection,8497
+2012/013,Ilam,Pneumonia,4220
+2012/013,Ilam,Server Pneumonia,193
+2012/013,Ilam,Bronchitis,1430
+2012/013,Ilam,Asthma,1749
+2012/013,Ilam,Urinary Tract infection,2127
+2012/013,Ilam,Viral Influenza,7610
+2012/013,Ilam,Reproductive Tract Infection male,124
+2012/013,Ilam,Reproductive tract infection female,167
+2012/013,Jhapa,ARI /Lower respiratory tract infection,29104
+2012/013,Jhapa,Upper respiratory Tract infection,32353
+2012/013,Jhapa,Pneumonia,12585
+2012/013,Jhapa,Server Pneumonia,717
+2012/013,Jhapa,Bronchitis,10708
+2012/013,Jhapa,Asthma,9263
+2012/013,Jhapa,Urinary Tract infection,10570
+2012/013,Jhapa,Viral Influenza,25567
+2012/013,Jhapa,Reproductive Tract Infection male,758
+2012/013,Jhapa,Reproductive tract infection female,686
+2012/013,Morang,ARI /Lower respiratory tract infection,37006
+2012/013,Morang,Upper respiratory Tract infection,35091
+2012/013,Morang,Pneumonia,13155
+2012/013,Morang,Server Pneumonia,658
+2012/013,Morang,Bronchitis,9851
+2012/013,Morang,Asthma,8140
+2012/013,Morang,Urinary Tract infection,19646
+2012/013,Morang,Viral Influenza,12693
+2012/013,Morang,Reproductive Tract Infection male,244
+2012/013,Morang,Reproductive tract infection female,566
+2012/013,Sunsari,ARI /Lower respiratory tract infection,36371
+2012/013,Sunsari,Upper respiratory Tract infection,33223
+2012/013,Sunsari,Pneumonia,13280
+2012/013,Sunsari,Server Pneumonia,339
+2012/013,Sunsari,Bronchitis,3335
+2012/013,Sunsari,Asthma,5704
+2012/013,Sunsari,Urinary Tract infection,6454
+2012/013,Sunsari,Viral Influenza,6519
+2012/013,Sunsari,Reproductive Tract Infection male,159
+2012/013,Sunsari,Reproductive tract infection female,266
+2012/013,Dhankuta,ARI /Lower respiratory tract infection,8616
+2012/013,Dhankuta,Upper respiratory Tract infection,9676
+2012/013,Dhankuta,Pneumonia,4202
+2012/013,Dhankuta,Server Pneumonia,74
+2012/013,Dhankuta,Bronchitis,2437
+2012/013,Dhankuta,Asthma,1655
+2012/013,Dhankuta,Urinary Tract infection,1601
+2012/013,Dhankuta,Viral Influenza,4652
+2012/013,Dhankuta,Reproductive Tract Infection male,69
+2012/013,Dhankuta,Reproductive tract infection female,123
+2012/013,Teharthum,ARI /Lower respiratory tract infection,4724
+2012/013,Teharthum,Upper respiratory Tract infection,6808
+2012/013,Teharthum,Pneumonia,2456
+2012/013,Teharthum,Server Pneumonia,133
+2012/013,Teharthum,Bronchitis,1889
+2012/013,Teharthum,Asthma,1538
+2012/013,Teharthum,Urinary Tract infection,1333
+2012/013,Teharthum,Viral Influenza,2175
+2012/013,Teharthum,Reproductive Tract Infection male,85
+2012/013,Teharthum,Reproductive tract infection female,85
+2012/013,Sankhuwasabha,ARI /Lower respiratory tract infection,8629
+2012/013,Sankhuwasabha,Upper respiratory Tract infection,7504
+2012/013,Sankhuwasabha,Pneumonia,4579
+2012/013,Sankhuwasabha,Server Pneumonia,145
+2012/013,Sankhuwasabha,Bronchitis,774
+2012/013,Sankhuwasabha,Asthma,2120
+2012/013,Sankhuwasabha,Urinary Tract infection,2055
+2012/013,Sankhuwasabha,Viral Influenza,1270
+2012/013,Sankhuwasabha,Reproductive Tract Infection male,91
+2012/013,Sankhuwasabha,Reproductive tract infection female,183
+2012/013,Bhojpur,ARI /Lower respiratory tract infection,9365
+2012/013,Bhojpur,Upper respiratory Tract infection,9980
+2012/013,Bhojpur,Pneumonia,4315
+2012/013,Bhojpur,Server Pneumonia,179
+2012/013,Bhojpur,Bronchitis,2192
+2012/013,Bhojpur,Asthma,3395
+2012/013,Bhojpur,Urinary Tract infection,2710
+2012/013,Bhojpur,Viral Influenza,6991
+2012/013,Bhojpur,Reproductive Tract Infection male,189
+2012/013,Bhojpur,Reproductive tract infection female,309
+2012/013,Solukhumbu,ARI /Lower respiratory tract infection,9145
+2012/013,Solukhumbu,Upper respiratory Tract infection,8040
+2012/013,Solukhumbu,Pneumonia,2811
+2012/013,Solukhumbu,Server Pneumonia,194
+2012/013,Solukhumbu,Bronchitis,2663
+2012/013,Solukhumbu,Asthma,2784
+2012/013,Solukhumbu,Urinary Tract infection,2522
+2012/013,Solukhumbu,Viral Influenza,1043
+2012/013,Solukhumbu,Reproductive Tract Infection male,126
+2012/013,Solukhumbu,Reproductive tract infection female,221
+2012/013,Okhaldhunga,ARI /Lower respiratory tract infection,13607
+2012/013,Okhaldhunga,Upper respiratory Tract infection,13051
+2012/013,Okhaldhunga,Pneumonia,3815
+2012/013,Okhaldhunga,Server Pneumonia,111
+2012/013,Okhaldhunga,Bronchitis,2093
+2012/013,Okhaldhunga,Asthma,3292
+2012/013,Okhaldhunga,Urinary Tract infection,2349
+2012/013,Okhaldhunga,Viral Influenza,1785
+2012/013,Okhaldhunga,Reproductive Tract Infection male,19
+2012/013,Okhaldhunga,Reproductive tract infection female,130
+2012/013,Khotang,ARI /Lower respiratory tract infection,13214
+2012/013,Khotang,Upper respiratory Tract infection,13927
+2012/013,Khotang,Pneumonia,7176
+2012/013,Khotang,Server Pneumonia,374
+2012/013,Khotang,Bronchitis,3599
+2012/013,Khotang,Asthma,3491
+2012/013,Khotang,Urinary Tract infection,3665
+2012/013,Khotang,Viral Influenza,2242
+2012/013,Khotang,Reproductive Tract Infection male,66
+2012/013,Khotang,Reproductive tract infection female,210
+2012/013,Udaypur,ARI /Lower respiratory tract infection,10596
+2012/013,Udaypur,Upper respiratory Tract infection,9653
+2012/013,Udaypur,Pneumonia,5465
+2012/013,Udaypur,Server Pneumonia,452
+2012/013,Udaypur,Bronchitis,3236
+2012/013,Udaypur,Asthma,2849
+2012/013,Udaypur,Urinary Tract infection,3797
+2012/013,Udaypur,Viral Influenza,7018
+2012/013,Udaypur,Reproductive Tract Infection male,152
+2012/013,Udaypur,Reproductive tract infection female,414
+2012/013,Saptari,ARI /Lower respiratory tract infection,34370
+2012/013,Saptari,Upper respiratory Tract infection,23036
+2012/013,Saptari,Pneumonia,7810
+2012/013,Saptari,Server Pneumonia,259
+2012/013,Saptari,Bronchitis,10677
+2012/013,Saptari,Asthma,9389
+2012/013,Saptari,Urinary Tract infection,6573
+2012/013,Saptari,Viral Influenza,8295
+2012/013,Saptari,Reproductive Tract Infection male,103
+2012/013,Saptari,Reproductive tract infection female,237
+2012/013,Siraha,ARI /Lower respiratory tract infection,33787
+2012/013,Siraha,Upper respiratory Tract infection,34562
+2012/013,Siraha,Pneumonia,10434
+2012/013,Siraha,Server Pneumonia,613
+2012/013,Siraha,Bronchitis,11251
+2012/013,Siraha,Asthma,8862
+2012/013,Siraha,Urinary Tract infection,7571
+2012/013,Siraha,Viral Influenza,5255
+2012/013,Siraha,Reproductive Tract Infection male,360
+2012/013,Siraha,Reproductive tract infection female,429
+2012/013,Dhanusha,ARI /Lower respiratory tract infection,30282
+2012/013,Dhanusha,Upper respiratory Tract infection,22064
+2012/013,Dhanusha,Pneumonia,7430
+2012/013,Dhanusha,Server Pneumonia,751
+2012/013,Dhanusha,Bronchitis,8302
+2012/013,Dhanusha,Asthma,8632
+2012/013,Dhanusha,Urinary Tract infection,4617
+2012/013,Dhanusha,Viral Influenza,6401
+2012/013,Dhanusha,Reproductive Tract Infection male,175
+2012/013,Dhanusha,Reproductive tract infection female,277
+2012/013,Mahottari,ARI /Lower respiratory tract infection,33247
+2012/013,Mahottari,Upper respiratory Tract infection,25716
+2012/013,Mahottari,Pneumonia,8903
+2012/013,Mahottari,Server Pneumonia,854
+2012/013,Mahottari,Bronchitis,12090
+2012/013,Mahottari,Asthma,12216
+2012/013,Mahottari,Urinary Tract infection,7353
+2012/013,Mahottari,Viral Influenza,6299
+2012/013,Mahottari,Reproductive Tract Infection male,81
+2012/013,Mahottari,Reproductive tract infection female,424
+2012/013,Sarlahi,ARI /Lower respiratory tract infection,29398
+2012/013,Sarlahi,Upper respiratory Tract infection,28441
+2012/013,Sarlahi,Pneumonia,8790
+2012/013,Sarlahi,Server Pneumonia,834
+2012/013,Sarlahi,Bronchitis,15490
+2012/013,Sarlahi,Asthma,16640
+2012/013,Sarlahi,Urinary Tract infection,5725
+2012/013,Sarlahi,Viral Influenza,3559
+2012/013,Sarlahi,Reproductive Tract Infection male,40
+2012/013,Sarlahi,Reproductive tract infection female,139
+2012/013,Sindhuli,ARI /Lower respiratory tract infection,6313
+2012/013,Sindhuli,Upper respiratory Tract infection,7039
+2012/013,Sindhuli,Pneumonia,3851
+2012/013,Sindhuli,Server Pneumonia,220
+2012/013,Sindhuli,Bronchitis,1918
+2012/013,Sindhuli,Asthma,2917
+2012/013,Sindhuli,Urinary Tract infection,2478
+2012/013,Sindhuli,Viral Influenza,1753
+2012/013,Sindhuli,Reproductive Tract Infection male,48
+2012/013,Sindhuli,Reproductive tract infection female,230
+2012/013,Ramechhap,ARI /Lower respiratory tract infection,15306
+2012/013,Ramechhap,Upper respiratory Tract infection,11257
+2012/013,Ramechhap,Pneumonia,4292
+2012/013,Ramechhap,Server Pneumonia,199
+2012/013,Ramechhap,Bronchitis,2579
+2012/013,Ramechhap,Asthma,2876
+2012/013,Ramechhap,Urinary Tract infection,3275
+2012/013,Ramechhap,Viral Influenza,2785
+2012/013,Ramechhap,Reproductive Tract Infection male,52
+2012/013,Ramechhap,Reproductive tract infection female,40
+2012/013,Dolkha,ARI /Lower respiratory tract infection,16539
+2012/013,Dolkha,Upper respiratory Tract infection,12717
+2012/013,Dolkha,Pneumonia,2887
+2012/013,Dolkha,Server Pneumonia,187
+2012/013,Dolkha,Bronchitis,2250
+2012/013,Dolkha,Asthma,3659
+2012/013,Dolkha,Urinary Tract infection,3824
+2012/013,Dolkha,Viral Influenza,5842
+2012/013,Dolkha,Reproductive Tract Infection male,65
+2012/013,Dolkha,Reproductive tract infection female,103
+2012/013,Sindhupalchowk,ARI /Lower respiratory tract infection,18084
+2012/013,Sindhupalchowk,Upper respiratory Tract infection,13741
+2012/013,Sindhupalchowk,Pneumonia,5152
+2012/013,Sindhupalchowk,Server Pneumonia,232
+2012/013,Sindhupalchowk,Bronchitis,3461
+2012/013,Sindhupalchowk,Asthma,5228
+2012/013,Sindhupalchowk,Urinary Tract infection,3735
+2012/013,Sindhupalchowk,Viral Influenza,4643
+2012/013,Sindhupalchowk,Reproductive Tract Infection male,269
+2012/013,Sindhupalchowk,Reproductive tract infection female,668
+2012/013,Kavre,ARI /Lower respiratory tract infection,29277
+2012/013,Kavre,Upper respiratory Tract infection,32510
+2012/013,Kavre,Pneumonia,7021
+2012/013,Kavre,Server Pneumonia,145
+2012/013,Kavre,Bronchitis,4347
+2012/013,Kavre,Asthma,8849
+2012/013,Kavre,Urinary Tract infection,6383
+2012/013,Kavre,Viral Influenza,7554
+2012/013,Kavre,Reproductive Tract Infection male,67
+2012/013,Kavre,Reproductive tract infection female,154
+2012/013,Lalitpur,ARI /Lower respiratory tract infection,0
+2012/013,Lalitpur,Upper respiratory Tract infection,0
+2012/013,Lalitpur,Pneumonia,0
+2012/013,Lalitpur,Server Pneumonia,0
+2012/013,Lalitpur,Bronchitis,0
+2012/013,Lalitpur,Asthma,0
+2012/013,Lalitpur,Urinary Tract infection,0
+2012/013,Lalitpur,Viral Influenza,0
+2012/013,Lalitpur,Reproductive Tract Infection male,0
+2012/013,Lalitpur,Reproductive tract infection female,0
+2012/013,Bhaktapur,ARI /Lower respiratory tract infection,10724
+2012/013,Bhaktapur,Upper respiratory Tract infection,12361
+2012/013,Bhaktapur,Pneumonia,2557
+2012/013,Bhaktapur,Server Pneumonia,88
+2012/013,Bhaktapur,Bronchitis,1715
+2012/013,Bhaktapur,Asthma,3060
+2012/013,Bhaktapur,Urinary Tract infection,3457
+2012/013,Bhaktapur,Viral Influenza,2808
+2012/013,Bhaktapur,Reproductive Tract Infection male,126
+2012/013,Bhaktapur,Reproductive tract infection female,175
+2012/013,Kathmandu,ARI /Lower respiratory tract infection,23821
+2012/013,Kathmandu,Upper respiratory Tract infection,31343
+2012/013,Kathmandu,Pneumonia,9070
+2012/013,Kathmandu,Server Pneumonia,1124
+2012/013,Kathmandu,Bronchitis,9424
+2012/013,Kathmandu,Asthma,18611
+2012/013,Kathmandu,Urinary Tract infection,17716
+2012/013,Kathmandu,Viral Influenza,11949
+2012/013,Kathmandu,Reproductive Tract Infection male,545
+2012/013,Kathmandu,Reproductive tract infection female,1231
+2012/013,Nuwakot,ARI /Lower respiratory tract infection,10304
+2012/013,Nuwakot,Upper respiratory Tract infection,9053
+2012/013,Nuwakot,Pneumonia,3670
+2012/013,Nuwakot,Server Pneumonia,360
+2012/013,Nuwakot,Bronchitis,2671
+2012/013,Nuwakot,Asthma,6227
+2012/013,Nuwakot,Urinary Tract infection,3084
+2012/013,Nuwakot,Viral Influenza,3571
+2012/013,Nuwakot,Reproductive Tract Infection male,189
+2012/013,Nuwakot,Reproductive tract infection female,347
+2012/013,Rasuwa,ARI /Lower respiratory tract infection,2712
+2012/013,Rasuwa,Upper respiratory Tract infection,5397
+2012/013,Rasuwa,Pneumonia,327
+2012/013,Rasuwa,Server Pneumonia,7
+2012/013,Rasuwa,Bronchitis,487
+2012/013,Rasuwa,Asthma,676
+2012/013,Rasuwa,Urinary Tract infection,529
+2012/013,Rasuwa,Viral Influenza,1130
+2012/013,Rasuwa,Reproductive Tract Infection male,5
+2012/013,Rasuwa,Reproductive tract infection female,8
+2012/013,Dhading,ARI /Lower respiratory tract infection,19845
+2012/013,Dhading,Upper respiratory Tract infection,17743
+2012/013,Dhading,Pneumonia,8700
+2012/013,Dhading,Server Pneumonia,495
+2012/013,Dhading,Bronchitis,4456
+2012/013,Dhading,Asthma,6939
+2012/013,Dhading,Urinary Tract infection,5864
+2012/013,Dhading,Viral Influenza,13566
+2012/013,Dhading,Reproductive Tract Infection male,133
+2012/013,Dhading,Reproductive tract infection female,235
+2012/013,Makawanpur,ARI /Lower respiratory tract infection,9128
+2012/013,Makawanpur,Upper respiratory Tract infection,12325
+2012/013,Makawanpur,Pneumonia,4887
+2012/013,Makawanpur,Server Pneumonia,239
+2012/013,Makawanpur,Bronchitis,3700
+2012/013,Makawanpur,Asthma,4202
+2012/013,Makawanpur,Urinary Tract infection,2646
+2012/013,Makawanpur,Viral Influenza,7139
+2012/013,Makawanpur,Reproductive Tract Infection male,11
+2012/013,Makawanpur,Reproductive tract infection female,56
+2012/013,Rautahat,ARI /Lower respiratory tract infection,22484
+2012/013,Rautahat,Upper respiratory Tract infection,24096
+2012/013,Rautahat,Pneumonia,11418
+2012/013,Rautahat,Server Pneumonia,876
+2012/013,Rautahat,Bronchitis,15542
+2012/013,Rautahat,Asthma,17002
+2012/013,Rautahat,Urinary Tract infection,5041
+2012/013,Rautahat,Viral Influenza,7733
+2012/013,Rautahat,Reproductive Tract Infection male,233
+2012/013,Rautahat,Reproductive tract infection female,389
+2012/013,Bara,ARI /Lower respiratory tract infection,19709
+2012/013,Bara,Upper respiratory Tract infection,20355
+2012/013,Bara,Pneumonia,5657
+2012/013,Bara,Server Pneumonia,648
+2012/013,Bara,Bronchitis,8677
+2012/013,Bara,Asthma,10553
+2012/013,Bara,Urinary Tract infection,4081
+2012/013,Bara,Viral Influenza,3337
+2012/013,Bara,Reproductive Tract Infection male,159
+2012/013,Bara,Reproductive tract infection female,337
+2012/013,Parsa,ARI /Lower respiratory tract infection,0
+2012/013,Parsa,Upper respiratory Tract infection,0
+2012/013,Parsa,Pneumonia,0
+2012/013,Parsa,Server Pneumonia,0
+2012/013,Parsa,Bronchitis,0
+2012/013,Parsa,Asthma,0
+2012/013,Parsa,Urinary Tract infection,0
+2012/013,Parsa,Viral Influenza,0
+2012/013,Parsa,Reproductive Tract Infection male,0
+2012/013,Parsa,Reproductive tract infection female,0
+2012/013,Chitwan,ARI /Lower respiratory tract infection,32546
+2012/013,Chitwan,Upper respiratory Tract infection,33200
+2012/013,Chitwan,Pneumonia,10164
+2012/013,Chitwan,Server Pneumonia,472
+2012/013,Chitwan,Bronchitis,4605
+2012/013,Chitwan,Asthma,8106
+2012/013,Chitwan,Urinary Tract infection,10266
+2012/013,Chitwan,Viral Influenza,14222
+2012/013,Chitwan,Reproductive Tract Infection male,537
+2012/013,Chitwan,Reproductive tract infection female,893
+2012/013,Gorkha,ARI /Lower respiratory tract infection,13082
+2012/013,Gorkha,Upper respiratory Tract infection,22413
+2012/013,Gorkha,Pneumonia,6264
+2012/013,Gorkha,Server Pneumonia,114
+2012/013,Gorkha,Bronchitis,2973
+2012/013,Gorkha,Asthma,4164
+2012/013,Gorkha,Urinary Tract infection,5339
+2012/013,Gorkha,Viral Influenza,10793
+2012/013,Gorkha,Reproductive Tract Infection male,31
+2012/013,Gorkha,Reproductive tract infection female,57
+2012/013,Lamjung,ARI /Lower respiratory tract infection,8252
+2012/013,Lamjung,Upper respiratory Tract infection,10407
+2012/013,Lamjung,Pneumonia,3851
+2012/013,Lamjung,Server Pneumonia,91
+2012/013,Lamjung,Bronchitis,2826
+2012/013,Lamjung,Asthma,4563
+2012/013,Lamjung,Urinary Tract infection,4039
+2012/013,Lamjung,Viral Influenza,4272
+2012/013,Lamjung,Reproductive Tract Infection male,25
+2012/013,Lamjung,Reproductive tract infection female,83
+2012/013,Tanahu,ARI /Lower respiratory tract infection,9100
+2012/013,Tanahu,Upper respiratory Tract infection,9561
+2012/013,Tanahu,Pneumonia,2707
+2012/013,Tanahu,Server Pneumonia,211
+2012/013,Tanahu,Bronchitis,2445
+2012/013,Tanahu,Asthma,3821
+2012/013,Tanahu,Urinary Tract infection,3393
+2012/013,Tanahu,Viral Influenza,5751
+2012/013,Tanahu,Reproductive Tract Infection male,256
+2012/013,Tanahu,Reproductive tract infection female,528
+2012/013,Syangja,ARI /Lower respiratory tract infection,23233
+2012/013,Syangja,Upper respiratory Tract infection,18950
+2012/013,Syangja,Pneumonia,2687
+2012/013,Syangja,Server Pneumonia,244
+2012/013,Syangja,Bronchitis,6179
+2012/013,Syangja,Asthma,5891
+2012/013,Syangja,Urinary Tract infection,4596
+2012/013,Syangja,Viral Influenza,5945
+2012/013,Syangja,Reproductive Tract Infection male,71
+2012/013,Syangja,Reproductive tract infection female,128
+2012/013,Kaski,ARI /Lower respiratory tract infection,28711
+2012/013,Kaski,Upper respiratory Tract infection,31986
+2012/013,Kaski,Pneumonia,9635
+2012/013,Kaski,Server Pneumonia,2616
+2012/013,Kaski,Bronchitis,7938
+2012/013,Kaski,Asthma,9758
+2012/013,Kaski,Urinary Tract infection,9073
+2012/013,Kaski,Viral Influenza,8484
+2012/013,Kaski,Reproductive Tract Infection male,476
+2012/013,Kaski,Reproductive tract infection female,865
+2012/013,Manang,ARI /Lower respiratory tract infection,562
+2012/013,Manang,Upper respiratory Tract infection,518
+2012/013,Manang,Pneumonia,84
+2012/013,Manang,Server Pneumonia,4
+2012/013,Manang,Bronchitis,216
+2012/013,Manang,Asthma,179
+2012/013,Manang,Urinary Tract infection,155
+2012/013,Manang,Viral Influenza,146
+2012/013,Manang,Reproductive Tract Infection male,8
+2012/013,Manang,Reproductive tract infection female,8
+2012/013,Mustang,ARI /Lower respiratory tract infection,2023
+2012/013,Mustang,Upper respiratory Tract infection,2468
+2012/013,Mustang,Pneumonia,100
+2012/013,Mustang,Server Pneumonia,2
+2012/013,Mustang,Bronchitis,52
+2012/013,Mustang,Asthma,129
+2012/013,Mustang,Urinary Tract infection,241
+2012/013,Mustang,Viral Influenza,283
+2012/013,Mustang,Reproductive Tract Infection male,0
+2012/013,Mustang,Reproductive tract infection female,0
+2012/013,Myagdi,ARI /Lower respiratory tract infection,6948
+2012/013,Myagdi,Upper respiratory Tract infection,11137
+2012/013,Myagdi,Pneumonia,1298
+2012/013,Myagdi,Server Pneumonia,130
+2012/013,Myagdi,Bronchitis,1427
+2012/013,Myagdi,Asthma,1288
+2012/013,Myagdi,Urinary Tract infection,1794
+2012/013,Myagdi,Viral Influenza,1864
+2012/013,Myagdi,Reproductive Tract Infection male,42
+2012/013,Myagdi,Reproductive tract infection female,31
+2012/013,Parbat,ARI /Lower respiratory tract infection,18064
+2012/013,Parbat,Upper respiratory Tract infection,19339
+2012/013,Parbat,Pneumonia,4421
+2012/013,Parbat,Server Pneumonia,266
+2012/013,Parbat,Bronchitis,2903
+2012/013,Parbat,Asthma,3379
+2012/013,Parbat,Urinary Tract infection,1789
+2012/013,Parbat,Viral Influenza,2407
+2012/013,Parbat,Reproductive Tract Infection male,55
+2012/013,Parbat,Reproductive tract infection female,85
+2012/013,Baglung,ARI /Lower respiratory tract infection,17697
+2012/013,Baglung,Upper respiratory Tract infection,26347
+2012/013,Baglung,Pneumonia,5312
+2012/013,Baglung,Server Pneumonia,555
+2012/013,Baglung,Bronchitis,4252
+2012/013,Baglung,Asthma,2972
+2012/013,Baglung,Urinary Tract infection,3235
+2012/013,Baglung,Viral Influenza,3238
+2012/013,Baglung,Reproductive Tract Infection male,59
+2012/013,Baglung,Reproductive tract infection female,130
+2012/013,Gulmi,ARI /Lower respiratory tract infection,15417
+2012/013,Gulmi,Upper respiratory Tract infection,12484
+2012/013,Gulmi,Pneumonia,3475
+2012/013,Gulmi,Server Pneumonia,662
+2012/013,Gulmi,Bronchitis,5570
+2012/013,Gulmi,Asthma,3613
+2012/013,Gulmi,Urinary Tract infection,3145
+2012/013,Gulmi,Viral Influenza,8205
+2012/013,Gulmi,Reproductive Tract Infection male,120
+2012/013,Gulmi,Reproductive tract infection female,166
+2012/013,Palpa,ARI /Lower respiratory tract infection,15623
+2012/013,Palpa,Upper respiratory Tract infection,13914
+2012/013,Palpa,Pneumonia,5082
+2012/013,Palpa,Server Pneumonia,120
+2012/013,Palpa,Bronchitis,5335
+2012/013,Palpa,Asthma,6037
+2012/013,Palpa,Urinary Tract infection,7659
+2012/013,Palpa,Viral Influenza,5760
+2012/013,Palpa,Reproductive Tract Infection male,29
+2012/013,Palpa,Reproductive tract infection female,60
+2012/013,Nawalparasi,ARI /Lower respiratory tract infection,29500
+2012/013,Nawalparasi,Upper respiratory Tract infection,30422
+2012/013,Nawalparasi,Pneumonia,7947
+2012/013,Nawalparasi,Server Pneumonia,271
+2012/013,Nawalparasi,Bronchitis,5506
+2012/013,Nawalparasi,Asthma,7798
+2012/013,Nawalparasi,Urinary Tract infection,6004
+2012/013,Nawalparasi,Viral Influenza,6684
+2012/013,Nawalparasi,Reproductive Tract Infection male,39
+2012/013,Nawalparasi,Reproductive tract infection female,26
+2012/013,Rupandehi,ARI /Lower respiratory tract infection,0
+2012/013,Rupandehi,Upper respiratory Tract infection,0
+2012/013,Rupandehi,Pneumonia,0
+2012/013,Rupandehi,Server Pneumonia,0
+2012/013,Rupandehi,Bronchitis,0
+2012/013,Rupandehi,Asthma,0
+2012/013,Rupandehi,Urinary Tract infection,0
+2012/013,Rupandehi,Viral Influenza,0
+2012/013,Rupandehi,Reproductive Tract Infection male,0
+2012/013,Rupandehi,Reproductive tract infection female,0
+2012/013,Kapilvastu,ARI /Lower respiratory tract infection,16210
+2012/013,Kapilvastu,Upper respiratory Tract infection,28232
+2012/013,Kapilvastu,Pneumonia,6693
+2012/013,Kapilvastu,Server Pneumonia,852
+2012/013,Kapilvastu,Bronchitis,7358
+2012/013,Kapilvastu,Asthma,7969
+2012/013,Kapilvastu,Urinary Tract infection,5790
+2012/013,Kapilvastu,Viral Influenza,4959
+2012/013,Kapilvastu,Reproductive Tract Infection male,213
+2012/013,Kapilvastu,Reproductive tract infection female,519
+2012/013,Arghakhanchi,ARI /Lower respiratory tract infection,11339
+2012/013,Arghakhanchi,Upper respiratory Tract infection,7753
+2012/013,Arghakhanchi,Pneumonia,4335
+2012/013,Arghakhanchi,Server Pneumonia,287
+2012/013,Arghakhanchi,Bronchitis,3665
+2012/013,Arghakhanchi,Asthma,3979
+2012/013,Arghakhanchi,Urinary Tract infection,2619
+2012/013,Arghakhanchi,Viral Influenza,2259
+2012/013,Arghakhanchi,Reproductive Tract Infection male,33
+2012/013,Arghakhanchi,Reproductive tract infection female,41
+2012/013,Pyuthan,ARI /Lower respiratory tract infection,11280
+2012/013,Pyuthan,Upper respiratory Tract infection,15062
+2012/013,Pyuthan,Pneumonia,5774
+2012/013,Pyuthan,Server Pneumonia,374
+2012/013,Pyuthan,Bronchitis,4774
+2012/013,Pyuthan,Asthma,5082
+2012/013,Pyuthan,Urinary Tract infection,3228
+2012/013,Pyuthan,Viral Influenza,974
+2012/013,Pyuthan,Reproductive Tract Infection male,10
+2012/013,Pyuthan,Reproductive tract infection female,23
+2012/013,Rolpa,ARI /Lower respiratory tract infection,11520
+2012/013,Rolpa,Upper respiratory Tract infection,8889
+2012/013,Rolpa,Pneumonia,4356
+2012/013,Rolpa,Server Pneumonia,86
+2012/013,Rolpa,Bronchitis,1786
+2012/013,Rolpa,Asthma,2428
+2012/013,Rolpa,Urinary Tract infection,2564
+2012/013,Rolpa,Viral Influenza,1106
+2012/013,Rolpa,Reproductive Tract Infection male,15
+2012/013,Rolpa,Reproductive tract infection female,32
+2012/013,Rukum,ARI /Lower respiratory tract infection,9240
+2012/013,Rukum,Upper respiratory Tract infection,12654
+2012/013,Rukum,Pneumonia,5181
+2012/013,Rukum,Server Pneumonia,810
+2012/013,Rukum,Bronchitis,2481
+2012/013,Rukum,Asthma,2910
+2012/013,Rukum,Urinary Tract infection,4027
+2012/013,Rukum,Viral Influenza,1032
+2012/013,Rukum,Reproductive Tract Infection male,71
+2012/013,Rukum,Reproductive tract infection female,143
+2012/013,Salyan,ARI /Lower respiratory tract infection,14245
+2012/013,Salyan,Upper respiratory Tract infection,14221
+2012/013,Salyan,Pneumonia,5599
+2012/013,Salyan,Server Pneumonia,582
+2012/013,Salyan,Bronchitis,4025
+2012/013,Salyan,Asthma,6619
+2012/013,Salyan,Urinary Tract infection,4070
+2012/013,Salyan,Viral Influenza,906
+2012/013,Salyan,Reproductive Tract Infection male,61
+2012/013,Salyan,Reproductive tract infection female,250
+2012/013,Dang,ARI /Lower respiratory tract infection,14921
+2012/013,Dang,Upper respiratory Tract infection,24775
+2012/013,Dang,Pneumonia,8393
+2012/013,Dang,Server Pneumonia,695
+2012/013,Dang,Bronchitis,5744
+2012/013,Dang,Asthma,8879
+2012/013,Dang,Urinary Tract infection,6640
+2012/013,Dang,Viral Influenza,5144
+2012/013,Dang,Reproductive Tract Infection male,316
+2012/013,Dang,Reproductive tract infection female,385
+2012/013,Banke,ARI /Lower respiratory tract infection,23209
+2012/013,Banke,Upper respiratory Tract infection,28802
+2012/013,Banke,Pneumonia,6695
+2012/013,Banke,Server Pneumonia,532
+2012/013,Banke,Bronchitis,3469
+2012/013,Banke,Asthma,6317
+2012/013,Banke,Urinary Tract infection,4354
+2012/013,Banke,Viral Influenza,6573
+2012/013,Banke,Reproductive Tract Infection male,16
+2012/013,Banke,Reproductive tract infection female,43
+2012/013,Bardiya,ARI /Lower respiratory tract infection,19615
+2012/013,Bardiya,Upper respiratory Tract infection,28394
+2012/013,Bardiya,Pneumonia,8009
+2012/013,Bardiya,Server Pneumonia,254
+2012/013,Bardiya,Bronchitis,6908
+2012/013,Bardiya,Asthma,6156
+2012/013,Bardiya,Urinary Tract infection,7245
+2012/013,Bardiya,Viral Influenza,5748
+2012/013,Bardiya,Reproductive Tract Infection male,258
+2012/013,Bardiya,Reproductive tract infection female,669
+2012/013,Surkhet,ARI /Lower respiratory tract infection,19860
+2012/013,Surkhet,Upper respiratory Tract infection,26108
+2012/013,Surkhet,Pneumonia,6610
+2012/013,Surkhet,Server Pneumonia,182
+2012/013,Surkhet,Bronchitis,4601
+2012/013,Surkhet,Asthma,6845
+2012/013,Surkhet,Urinary Tract infection,6918
+2012/013,Surkhet,Viral Influenza,11073
+2012/013,Surkhet,Reproductive Tract Infection male,79
+2012/013,Surkhet,Reproductive tract infection female,244
+2012/013,Dailekh,ARI /Lower respiratory tract infection,22985
+2012/013,Dailekh,Upper respiratory Tract infection,17881
+2012/013,Dailekh,Pneumonia,4784
+2012/013,Dailekh,Server Pneumonia,359
+2012/013,Dailekh,Bronchitis,3135
+2012/013,Dailekh,Asthma,5831
+2012/013,Dailekh,Urinary Tract infection,3316
+2012/013,Dailekh,Viral Influenza,2059
+2012/013,Dailekh,Reproductive Tract Infection male,26
+2012/013,Dailekh,Reproductive tract infection female,40
+2012/013,Jajarkot,ARI /Lower respiratory tract infection,4564
+2012/013,Jajarkot,Upper respiratory Tract infection,8203
+2012/013,Jajarkot,Pneumonia,1755
+2012/013,Jajarkot,Server Pneumonia,257
+2012/013,Jajarkot,Bronchitis,1623
+2012/013,Jajarkot,Asthma,2714
+2012/013,Jajarkot,Urinary Tract infection,2690
+2012/013,Jajarkot,Viral Influenza,1115
+2012/013,Jajarkot,Reproductive Tract Infection male,83
+2012/013,Jajarkot,Reproductive tract infection female,143
+2012/013,Dolpa,ARI /Lower respiratory tract infection,1797
+2012/013,Dolpa,Upper respiratory Tract infection,1537
+2012/013,Dolpa,Pneumonia,551
+2012/013,Dolpa,Server Pneumonia,80
+2012/013,Dolpa,Bronchitis,287
+2012/013,Dolpa,Asthma,545
+2012/013,Dolpa,Urinary Tract infection,459
+2012/013,Dolpa,Viral Influenza,233
+2012/013,Dolpa,Reproductive Tract Infection male,33
+2012/013,Dolpa,Reproductive tract infection female,52
+2012/013,Jumla,ARI /Lower respiratory tract infection,5557
+2012/013,Jumla,Upper respiratory Tract infection,7583
+2012/013,Jumla,Pneumonia,2500
+2012/013,Jumla,Server Pneumonia,163
+2012/013,Jumla,Bronchitis,1148
+2012/013,Jumla,Asthma,1780
+2012/013,Jumla,Urinary Tract infection,1369
+2012/013,Jumla,Viral Influenza,424
+2012/013,Jumla,Reproductive Tract Infection male,10
+2012/013,Jumla,Reproductive tract infection female,61
+2012/013,Kalikot,ARI /Lower respiratory tract infection,5593
+2012/013,Kalikot,Upper respiratory Tract infection,6310
+2012/013,Kalikot,Pneumonia,1607
+2012/013,Kalikot,Server Pneumonia,216
+2012/013,Kalikot,Bronchitis,1544
+2012/013,Kalikot,Asthma,2327
+2012/013,Kalikot,Urinary Tract infection,1777
+2012/013,Kalikot,Viral Influenza,410
+2012/013,Kalikot,Reproductive Tract Infection male,43
+2012/013,Kalikot,Reproductive tract infection female,61
+2012/013,Mugu,ARI /Lower respiratory tract infection,1711
+2012/013,Mugu,Upper respiratory Tract infection,2526
+2012/013,Mugu,Pneumonia,1130
+2012/013,Mugu,Server Pneumonia,244
+2012/013,Mugu,Bronchitis,675
+2012/013,Mugu,Asthma,1256
+2012/013,Mugu,Urinary Tract infection,909
+2012/013,Mugu,Viral Influenza,10
+2012/013,Mugu,Reproductive Tract Infection male,11
+2012/013,Mugu,Reproductive tract infection female,21
+2012/013,Humla,ARI /Lower respiratory tract infection,3519
+2012/013,Humla,Upper respiratory Tract infection,4917
+2012/013,Humla,Pneumonia,1870
+2012/013,Humla,Server Pneumonia,282
+2012/013,Humla,Bronchitis,1672
+2012/013,Humla,Asthma,2303
+2012/013,Humla,Urinary Tract infection,1910
+2012/013,Humla,Viral Influenza,449
+2012/013,Humla,Reproductive Tract Infection male,105
+2012/013,Humla,Reproductive tract infection female,100
+2012/013,Bajura,ARI /Lower respiratory tract infection,5453
+2012/013,Bajura,Upper respiratory Tract infection,6840
+2012/013,Bajura,Pneumonia,3909
+2012/013,Bajura,Server Pneumonia,227
+2012/013,Bajura,Bronchitis,1527
+2012/013,Bajura,Asthma,3285
+2012/013,Bajura,Urinary Tract infection,2325
+2012/013,Bajura,Viral Influenza,1690
+2012/013,Bajura,Reproductive Tract Infection male,24
+2012/013,Bajura,Reproductive tract infection female,63
+2012/013,Bajhang,ARI /Lower respiratory tract infection,9774
+2012/013,Bajhang,Upper respiratory Tract infection,10809
+2012/013,Bajhang,Pneumonia,4349
+2012/013,Bajhang,Server Pneumonia,341
+2012/013,Bajhang,Bronchitis,1799
+2012/013,Bajhang,Asthma,3363
+2012/013,Bajhang,Urinary Tract infection,4444
+2012/013,Bajhang,Viral Influenza,6555
+2012/013,Bajhang,Reproductive Tract Infection male,62
+2012/013,Bajhang,Reproductive tract infection female,82
+2012/013,Achham,ARI /Lower respiratory tract infection,25105
+2012/013,Achham,Upper respiratory Tract infection,35723
+2012/013,Achham,Pneumonia,6338
+2012/013,Achham,Server Pneumonia,465
+2012/013,Achham,Bronchitis,2536
+2012/013,Achham,Asthma,7474
+2012/013,Achham,Urinary Tract infection,6608
+2012/013,Achham,Viral Influenza,3474
+2012/013,Achham,Reproductive Tract Infection male,35
+2012/013,Achham,Reproductive tract infection female,50
+2012/013,Doti,ARI /Lower respiratory tract infection,11949
+2012/013,Doti,Upper respiratory Tract infection,16964
+2012/013,Doti,Pneumonia,3673
+2012/013,Doti,Server Pneumonia,413
+2012/013,Doti,Bronchitis,3057
+2012/013,Doti,Asthma,5472
+2012/013,Doti,Urinary Tract infection,3884
+2012/013,Doti,Viral Influenza,2700
+2012/013,Doti,Reproductive Tract Infection male,27
+2012/013,Doti,Reproductive tract infection female,73
+2012/013,Kailali,ARI /Lower respiratory tract infection,35545
+2012/013,Kailali,Upper respiratory Tract infection,24868
+2012/013,Kailali,Pneumonia,7736
+2012/013,Kailali,Server Pneumonia,1194
+2012/013,Kailali,Bronchitis,6299
+2012/013,Kailali,Asthma,9202
+2012/013,Kailali,Urinary Tract infection,9723
+2012/013,Kailali,Viral Influenza,9221
+2012/013,Kailali,Reproductive Tract Infection male,92
+2012/013,Kailali,Reproductive tract infection female,233
+2012/013,Kanchanpur,ARI /Lower respiratory tract infection,18207
+2012/013,Kanchanpur,Upper respiratory Tract infection,21603
+2012/013,Kanchanpur,Pneumonia,6868
+2012/013,Kanchanpur,Server Pneumonia,259
+2012/013,Kanchanpur,Bronchitis,3779
+2012/013,Kanchanpur,Asthma,5686
+2012/013,Kanchanpur,Urinary Tract infection,5040
+2012/013,Kanchanpur,Viral Influenza,22685
+2012/013,Kanchanpur,Reproductive Tract Infection male,91
+2012/013,Kanchanpur,Reproductive tract infection female,127
+2012/013,Dadeldhura,ARI /Lower respiratory tract infection,10848
+2012/013,Dadeldhura,Upper respiratory Tract infection,16597
+2012/013,Dadeldhura,Pneumonia,4624
+2012/013,Dadeldhura,Server Pneumonia,386
+2012/013,Dadeldhura,Bronchitis,1690
+2012/013,Dadeldhura,Asthma,4847
+2012/013,Dadeldhura,Urinary Tract infection,4668
+2012/013,Dadeldhura,Viral Influenza,7335
+2012/013,Dadeldhura,Reproductive Tract Infection male,278
+2012/013,Dadeldhura,Reproductive tract infection female,331
+2012/013,Baitadi,ARI /Lower respiratory tract infection,18086
+2012/013,Baitadi,Upper respiratory Tract infection,16036
+2012/013,Baitadi,Pneumonia,4627
+2012/013,Baitadi,Server Pneumonia,250
+2012/013,Baitadi,Bronchitis,1810
+2012/013,Baitadi,Asthma,5716
+2012/013,Baitadi,Urinary Tract infection,2506
+2012/013,Baitadi,Viral Influenza,5524
+2012/013,Baitadi,Reproductive Tract Infection male,100
+2012/013,Baitadi,Reproductive tract infection female,102
+2012/013,Darchula,ARI /Lower respiratory tract infection,10384
+2012/013,Darchula,Upper respiratory Tract infection,7197
+2012/013,Darchula,Pneumonia,1511
+2012/013,Darchula,Server Pneumonia,60
+2012/013,Darchula,Bronchitis,3106
+2012/013,Darchula,Asthma,4377
+2012/013,Darchula,Urinary Tract infection,1599
+2012/013,Darchula,Viral Influenza,3629
+2012/013,Darchula,Reproductive Tract Infection male,35
+2012/013,Darchula,Reproductive tract infection female,63
+2011/012,Taplejung,ARI /Lower respiratory tract infection,6045
+2011/012,Taplejung,Upper respiratory Tract infection,6299
+2011/012,Taplejung,Pneumonia,3861
+2011/012,Taplejung,Server Pneumonia,137
+2011/012,Taplejung,Bronchitis,1090
+2011/012,Taplejung,Asthma,1654
+2011/012,Taplejung,Urinary Tract infection,1656
+2011/012,Taplejung,Viral Influenza,1063
+2011/012,Taplejung,Reproductive Tract Infection male,203
+2011/012,Taplejung,Reproductive tract infection female,72
+2011/012,Panchthar,ARI /Lower respiratory tract infection,7998
+2011/012,Panchthar,Upper respiratory Tract infection,7111
+2011/012,Panchthar,Pneumonia,4341
+2011/012,Panchthar,Server Pneumonia,170
+2011/012,Panchthar,Bronchitis,1238
+2011/012,Panchthar,Asthma,1616
+2011/012,Panchthar,Urinary Tract infection,1140
+2011/012,Panchthar,Viral Influenza,501
+2011/012,Panchthar,Reproductive Tract Infection male,8
+2011/012,Panchthar,Reproductive tract infection female,48
+2011/012,Ilam,ARI /Lower respiratory tract infection,8558
+2011/012,Ilam,Upper respiratory Tract infection,7147
+2011/012,Ilam,Pneumonia,4416
+2011/012,Ilam,Server Pneumonia,202
+2011/012,Ilam,Bronchitis,1591
+2011/012,Ilam,Asthma,1722
+2011/012,Ilam,Urinary Tract infection,1549
+2011/012,Ilam,Viral Influenza,3064
+2011/012,Ilam,Reproductive Tract Infection male,73
+2011/012,Ilam,Reproductive tract infection female,140
+2011/012,Jhapa,ARI /Lower respiratory tract infection,23150
+2011/012,Jhapa,Upper respiratory Tract infection,25124
+2011/012,Jhapa,Pneumonia,12792
+2011/012,Jhapa,Server Pneumonia,506
+2011/012,Jhapa,Bronchitis,9101
+2011/012,Jhapa,Asthma,6995
+2011/012,Jhapa,Urinary Tract infection,10440
+2011/012,Jhapa,Viral Influenza,13190
+2011/012,Jhapa,Reproductive Tract Infection male,481
+2011/012,Jhapa,Reproductive tract infection female,705
+2011/012,Morang,ARI /Lower respiratory tract infection,30757
+2011/012,Morang,Upper respiratory Tract infection,29791
+2011/012,Morang,Pneumonia,11237
+2011/012,Morang,Server Pneumonia,401
+2011/012,Morang,Bronchitis,9816
+2011/012,Morang,Asthma,6144
+2011/012,Morang,Urinary Tract infection,14939
+2011/012,Morang,Viral Influenza,3714
+2011/012,Morang,Reproductive Tract Infection male,253
+2011/012,Morang,Reproductive tract infection female,420
+2011/012,Sunsari,ARI /Lower respiratory tract infection,35009
+2011/012,Sunsari,Upper respiratory Tract infection,29285
+2011/012,Sunsari,Pneumonia,14377
+2011/012,Sunsari,Server Pneumonia,277
+2011/012,Sunsari,Bronchitis,3348
+2011/012,Sunsari,Asthma,5924
+2011/012,Sunsari,Urinary Tract infection,4813
+2011/012,Sunsari,Viral Influenza,2436
+2011/012,Sunsari,Reproductive Tract Infection male,80
+2011/012,Sunsari,Reproductive tract infection female,87
+2011/012,Dhankuta,ARI /Lower respiratory tract infection,7248
+2011/012,Dhankuta,Upper respiratory Tract infection,6885
+2011/012,Dhankuta,Pneumonia,4526
+2011/012,Dhankuta,Server Pneumonia,47
+2011/012,Dhankuta,Bronchitis,2745
+2011/012,Dhankuta,Asthma,1699
+2011/012,Dhankuta,Urinary Tract infection,1621
+2011/012,Dhankuta,Viral Influenza,1639
+2011/012,Dhankuta,Reproductive Tract Infection male,10
+2011/012,Dhankuta,Reproductive tract infection female,37
+2011/012,Teharthum,ARI /Lower respiratory tract infection,4965
+2011/012,Teharthum,Upper respiratory Tract infection,6383
+2011/012,Teharthum,Pneumonia,2448
+2011/012,Teharthum,Server Pneumonia,82
+2011/012,Teharthum,Bronchitis,2286
+2011/012,Teharthum,Asthma,1339
+2011/012,Teharthum,Urinary Tract infection,1342
+2011/012,Teharthum,Viral Influenza,1347
+2011/012,Teharthum,Reproductive Tract Infection male,275
+2011/012,Teharthum,Reproductive tract infection female,48
+2011/012,Sankhuwasabha,ARI /Lower respiratory tract infection,7834
+2011/012,Sankhuwasabha,Upper respiratory Tract infection,6356
+2011/012,Sankhuwasabha,Pneumonia,4407
+2011/012,Sankhuwasabha,Server Pneumonia,80
+2011/012,Sankhuwasabha,Bronchitis,610
+2011/012,Sankhuwasabha,Asthma,1952
+2011/012,Sankhuwasabha,Urinary Tract infection,1962
+2011/012,Sankhuwasabha,Viral Influenza,231
+2011/012,Sankhuwasabha,Reproductive Tract Infection male,44
+2011/012,Sankhuwasabha,Reproductive tract infection female,74
+2011/012,Bhojpur,ARI /Lower respiratory tract infection,10567
+2011/012,Bhojpur,Upper respiratory Tract infection,7375
+2011/012,Bhojpur,Pneumonia,5788
+2011/012,Bhojpur,Server Pneumonia,150
+2011/012,Bhojpur,Bronchitis,2807
+2011/012,Bhojpur,Asthma,3794
+2011/012,Bhojpur,Urinary Tract infection,2544
+2011/012,Bhojpur,Viral Influenza,2073
+2011/012,Bhojpur,Reproductive Tract Infection male,720
+2011/012,Bhojpur,Reproductive tract infection female,327
+2011/012,Solukhumbu,ARI /Lower respiratory tract infection,8258
+2011/012,Solukhumbu,Upper respiratory Tract infection,10338
+2011/012,Solukhumbu,Pneumonia,3406
+2011/012,Solukhumbu,Server Pneumonia,134
+2011/012,Solukhumbu,Bronchitis,2678
+2011/012,Solukhumbu,Asthma,3028
+2011/012,Solukhumbu,Urinary Tract infection,2674
+2011/012,Solukhumbu,Viral Influenza,385
+2011/012,Solukhumbu,Reproductive Tract Infection male,77
+2011/012,Solukhumbu,Reproductive tract infection female,155
+2011/012,Okhaldhunga,ARI /Lower respiratory tract infection,14844
+2011/012,Okhaldhunga,Upper respiratory Tract infection,15016
+2011/012,Okhaldhunga,Pneumonia,5558
+2011/012,Okhaldhunga,Server Pneumonia,111
+2011/012,Okhaldhunga,Bronchitis,2593
+2011/012,Okhaldhunga,Asthma,3093
+2011/012,Okhaldhunga,Urinary Tract infection,2463
+2011/012,Okhaldhunga,Viral Influenza,1381
+2011/012,Okhaldhunga,Reproductive Tract Infection male,44
+2011/012,Okhaldhunga,Reproductive tract infection female,245
+2011/012,Khotang,ARI /Lower respiratory tract infection,9992
+2011/012,Khotang,Upper respiratory Tract infection,8973
+2011/012,Khotang,Pneumonia,6586
+2011/012,Khotang,Server Pneumonia,410
+2011/012,Khotang,Bronchitis,2964
+2011/012,Khotang,Asthma,3587
+2011/012,Khotang,Urinary Tract infection,2950
+2011/012,Khotang,Viral Influenza,895
+2011/012,Khotang,Reproductive Tract Infection male,31
+2011/012,Khotang,Reproductive tract infection female,137
+2011/012,Udaypur,ARI /Lower respiratory tract infection,9442
+2011/012,Udaypur,Upper respiratory Tract infection,7820
+2011/012,Udaypur,Pneumonia,5018
+2011/012,Udaypur,Server Pneumonia,370
+2011/012,Udaypur,Bronchitis,3125
+2011/012,Udaypur,Asthma,2750
+2011/012,Udaypur,Urinary Tract infection,2968
+2011/012,Udaypur,Viral Influenza,1448
+2011/012,Udaypur,Reproductive Tract Infection male,159
+2011/012,Udaypur,Reproductive tract infection female,241
+2011/012,Saptari,ARI /Lower respiratory tract infection,27031
+2011/012,Saptari,Upper respiratory Tract infection,18836
+2011/012,Saptari,Pneumonia,8262
+2011/012,Saptari,Server Pneumonia,201
+2011/012,Saptari,Bronchitis,10523
+2011/012,Saptari,Asthma,8446
+2011/012,Saptari,Urinary Tract infection,5889
+2011/012,Saptari,Viral Influenza,5941
+2011/012,Saptari,Reproductive Tract Infection male,93
+2011/012,Saptari,Reproductive tract infection female,183
+2011/012,Siraha,ARI /Lower respiratory tract infection,29700
+2011/012,Siraha,Upper respiratory Tract infection,26019
+2011/012,Siraha,Pneumonia,9754
+2011/012,Siraha,Server Pneumonia,307
+2011/012,Siraha,Bronchitis,9873
+2011/012,Siraha,Asthma,8192
+2011/012,Siraha,Urinary Tract infection,5483
+2011/012,Siraha,Viral Influenza,3071
+2011/012,Siraha,Reproductive Tract Infection male,82
+2011/012,Siraha,Reproductive tract infection female,120
+2011/012,Dhanusha,ARI /Lower respiratory tract infection,34361
+2011/012,Dhanusha,Upper respiratory Tract infection,23597
+2011/012,Dhanusha,Pneumonia,9952
+2011/012,Dhanusha,Server Pneumonia,412
+2011/012,Dhanusha,Bronchitis,10998
+2011/012,Dhanusha,Asthma,11120
+2011/012,Dhanusha,Urinary Tract infection,4826
+2011/012,Dhanusha,Viral Influenza,5214
+2011/012,Dhanusha,Reproductive Tract Infection male,172
+2011/012,Dhanusha,Reproductive tract infection female,243
+2011/012,Mahottari,ARI /Lower respiratory tract infection,24232
+2011/012,Mahottari,Upper respiratory Tract infection,20923
+2011/012,Mahottari,Pneumonia,7755
+2011/012,Mahottari,Server Pneumonia,267
+2011/012,Mahottari,Bronchitis,10040
+2011/012,Mahottari,Asthma,10275
+2011/012,Mahottari,Urinary Tract infection,6401
+2011/012,Mahottari,Viral Influenza,2692
+2011/012,Mahottari,Reproductive Tract Infection male,133
+2011/012,Mahottari,Reproductive tract infection female,398
+2011/012,Sarlahi,ARI /Lower respiratory tract infection,25794
+2011/012,Sarlahi,Upper respiratory Tract infection,27289
+2011/012,Sarlahi,Pneumonia,9478
+2011/012,Sarlahi,Server Pneumonia,1146
+2011/012,Sarlahi,Bronchitis,14920
+2011/012,Sarlahi,Asthma,17354
+2011/012,Sarlahi,Urinary Tract infection,6767
+2011/012,Sarlahi,Viral Influenza,3044
+2011/012,Sarlahi,Reproductive Tract Infection male,152
+2011/012,Sarlahi,Reproductive tract infection female,245
+2011/012,Sindhuli,ARI /Lower respiratory tract infection,5337
+2011/012,Sindhuli,Upper respiratory Tract infection,5715
+2011/012,Sindhuli,Pneumonia,4333
+2011/012,Sindhuli,Server Pneumonia,124
+2011/012,Sindhuli,Bronchitis,1837
+2011/012,Sindhuli,Asthma,2745
+2011/012,Sindhuli,Urinary Tract infection,1740
+2011/012,Sindhuli,Viral Influenza,565
+2011/012,Sindhuli,Reproductive Tract Infection male,49
+2011/012,Sindhuli,Reproductive tract infection female,64
+2011/012,Ramechhap,ARI /Lower respiratory tract infection,11612
+2011/012,Ramechhap,Upper respiratory Tract infection,9907
+2011/012,Ramechhap,Pneumonia,4738
+2011/012,Ramechhap,Server Pneumonia,157
+2011/012,Ramechhap,Bronchitis,3657
+2011/012,Ramechhap,Asthma,3312
+2011/012,Ramechhap,Urinary Tract infection,3368
+2011/012,Ramechhap,Viral Influenza,2851
+2011/012,Ramechhap,Reproductive Tract Infection male,34
+2011/012,Ramechhap,Reproductive tract infection female,17
+2011/012,Dolkha,ARI /Lower respiratory tract infection,14389
+2011/012,Dolkha,Upper respiratory Tract infection,10760
+2011/012,Dolkha,Pneumonia,2820
+2011/012,Dolkha,Server Pneumonia,47
+2011/012,Dolkha,Bronchitis,2195
+2011/012,Dolkha,Asthma,3364
+2011/012,Dolkha,Urinary Tract infection,2836
+2011/012,Dolkha,Viral Influenza,2728
+2011/012,Dolkha,Reproductive Tract Infection male,35
+2011/012,Dolkha,Reproductive tract infection female,72
+2011/012,Sindhupalchowk,ARI /Lower respiratory tract infection,17480
+2011/012,Sindhupalchowk,Upper respiratory Tract infection,15158
+2011/012,Sindhupalchowk,Pneumonia,5713
+2011/012,Sindhupalchowk,Server Pneumonia,280
+2011/012,Sindhupalchowk,Bronchitis,4000
+2011/012,Sindhupalchowk,Asthma,5340
+2011/012,Sindhupalchowk,Urinary Tract infection,3975
+2011/012,Sindhupalchowk,Viral Influenza,4547
+2011/012,Sindhupalchowk,Reproductive Tract Infection male,167
+2011/012,Sindhupalchowk,Reproductive tract infection female,458
+2011/012,Kavre,ARI /Lower respiratory tract infection,24689
+2011/012,Kavre,Upper respiratory Tract infection,24126
+2011/012,Kavre,Pneumonia,7274
+2011/012,Kavre,Server Pneumonia,165
+2011/012,Kavre,Bronchitis,4679
+2011/012,Kavre,Asthma,8210
+2011/012,Kavre,Urinary Tract infection,3646
+2011/012,Kavre,Viral Influenza,3734
+2011/012,Kavre,Reproductive Tract Infection male,56
+2011/012,Kavre,Reproductive tract infection female,136
+2011/012,Lalitpur,ARI /Lower respiratory tract infection,0
+2011/012,Lalitpur,Upper respiratory Tract infection,0
+2011/012,Lalitpur,Pneumonia,0
+2011/012,Lalitpur,Server Pneumonia,0
+2011/012,Lalitpur,Bronchitis,0
+2011/012,Lalitpur,Asthma,0
+2011/012,Lalitpur,Urinary Tract infection,0
+2011/012,Lalitpur,Viral Influenza,0
+2011/012,Lalitpur,Reproductive Tract Infection male,0
+2011/012,Lalitpur,Reproductive tract infection female,0
+2011/012,Bhaktapur,ARI /Lower respiratory tract infection,8602
+2011/012,Bhaktapur,Upper respiratory Tract infection,10375
+2011/012,Bhaktapur,Pneumonia,2918
+2011/012,Bhaktapur,Server Pneumonia,114
+2011/012,Bhaktapur,Bronchitis,1526
+2011/012,Bhaktapur,Asthma,2926
+2011/012,Bhaktapur,Urinary Tract infection,2482
+2011/012,Bhaktapur,Viral Influenza,2428
+2011/012,Bhaktapur,Reproductive Tract Infection male,116
+2011/012,Bhaktapur,Reproductive tract infection female,168
+2011/012,Kathmandu,ARI /Lower respiratory tract infection,24204
+2011/012,Kathmandu,Upper respiratory Tract infection,27793
+2011/012,Kathmandu,Pneumonia,8461
+2011/012,Kathmandu,Server Pneumonia,1024
+2011/012,Kathmandu,Bronchitis,8782
+2011/012,Kathmandu,Asthma,22632
+2011/012,Kathmandu,Urinary Tract infection,12393
+2011/012,Kathmandu,Viral Influenza,7596
+2011/012,Kathmandu,Reproductive Tract Infection male,613
+2011/012,Kathmandu,Reproductive tract infection female,1287
+2011/012,Nuwakot,ARI /Lower respiratory tract infection,7186
+2011/012,Nuwakot,Upper respiratory Tract infection,7700
+2011/012,Nuwakot,Pneumonia,3163
+2011/012,Nuwakot,Server Pneumonia,193
+2011/012,Nuwakot,Bronchitis,1998
+2011/012,Nuwakot,Asthma,5227
+2011/012,Nuwakot,Urinary Tract infection,2200
+2011/012,Nuwakot,Viral Influenza,2995
+2011/012,Nuwakot,Reproductive Tract Infection male,36
+2011/012,Nuwakot,Reproductive tract infection female,66
+2011/012,Rasuwa,ARI /Lower respiratory tract infection,3187
+2011/012,Rasuwa,Upper respiratory Tract infection,3184
+2011/012,Rasuwa,Pneumonia,626
+2011/012,Rasuwa,Server Pneumonia,19
+2011/012,Rasuwa,Bronchitis,437
+2011/012,Rasuwa,Asthma,652
+2011/012,Rasuwa,Urinary Tract infection,605
+2011/012,Rasuwa,Viral Influenza,1408
+2011/012,Rasuwa,Reproductive Tract Infection male,7
+2011/012,Rasuwa,Reproductive tract infection female,16
+2011/012,Dhading,ARI /Lower respiratory tract infection,19845
+2011/012,Dhading,Upper respiratory Tract infection,15510
+2011/012,Dhading,Pneumonia,9200
+2011/012,Dhading,Server Pneumonia,476
+2011/012,Dhading,Bronchitis,4117
+2011/012,Dhading,Asthma,6672
+2011/012,Dhading,Urinary Tract infection,3747
+2011/012,Dhading,Viral Influenza,11096
+2011/012,Dhading,Reproductive Tract Infection male,113
+2011/012,Dhading,Reproductive tract infection female,334
+2011/012,Makawanpur,ARI /Lower respiratory tract infection,7445
+2011/012,Makawanpur,Upper respiratory Tract infection,8910
+2011/012,Makawanpur,Pneumonia,4384
+2011/012,Makawanpur,Server Pneumonia,209
+2011/012,Makawanpur,Bronchitis,3335
+2011/012,Makawanpur,Asthma,3820
+2011/012,Makawanpur,Urinary Tract infection,2163
+2011/012,Makawanpur,Viral Influenza,3434
+2011/012,Makawanpur,Reproductive Tract Infection male,27
+2011/012,Makawanpur,Reproductive tract infection female,43
+2011/012,Rautahat,ARI /Lower respiratory tract infection,14881
+2011/012,Rautahat,Upper respiratory Tract infection,14900
+2011/012,Rautahat,Pneumonia,7799
+2011/012,Rautahat,Server Pneumonia,551
+2011/012,Rautahat,Bronchitis,9558
+2011/012,Rautahat,Asthma,10727
+2011/012,Rautahat,Urinary Tract infection,4100
+2011/012,Rautahat,Viral Influenza,2577
+2011/012,Rautahat,Reproductive Tract Infection male,3173
+2011/012,Rautahat,Reproductive tract infection female,455
+2011/012,Bara,ARI /Lower respiratory tract infection,17585
+2011/012,Bara,Upper respiratory Tract infection,18578
+2011/012,Bara,Pneumonia,5659
+2011/012,Bara,Server Pneumonia,434
+2011/012,Bara,Bronchitis,9296
+2011/012,Bara,Asthma,11093
+2011/012,Bara,Urinary Tract infection,4324
+2011/012,Bara,Viral Influenza,2399
+2011/012,Bara,Reproductive Tract Infection male,110
+2011/012,Bara,Reproductive tract infection female,385
+2011/012,Parsa,ARI /Lower respiratory tract infection,0
+2011/012,Parsa,Upper respiratory Tract infection,0
+2011/012,Parsa,Pneumonia,0
+2011/012,Parsa,Server Pneumonia,0
+2011/012,Parsa,Bronchitis,0
+2011/012,Parsa,Asthma,0
+2011/012,Parsa,Urinary Tract infection,0
+2011/012,Parsa,Viral Influenza,0
+2011/012,Parsa,Reproductive Tract Infection male,0
+2011/012,Parsa,Reproductive tract infection female,0
+2011/012,Chitwan,ARI /Lower respiratory tract infection,19379
+2011/012,Chitwan,Upper respiratory Tract infection,17932
+2011/012,Chitwan,Pneumonia,7631
+2011/012,Chitwan,Server Pneumonia,252
+2011/012,Chitwan,Bronchitis,4690
+2011/012,Chitwan,Asthma,8769
+2011/012,Chitwan,Urinary Tract infection,6652
+2011/012,Chitwan,Viral Influenza,9222
+2011/012,Chitwan,Reproductive Tract Infection male,591
+2011/012,Chitwan,Reproductive tract infection female,766
+2011/012,Gorkha,ARI /Lower respiratory tract infection,13009
+2011/012,Gorkha,Upper respiratory Tract infection,18242
+2011/012,Gorkha,Pneumonia,6990
+2011/012,Gorkha,Server Pneumonia,143
+2011/012,Gorkha,Bronchitis,3276
+2011/012,Gorkha,Asthma,3955
+2011/012,Gorkha,Urinary Tract infection,4977
+2011/012,Gorkha,Viral Influenza,6982
+2011/012,Gorkha,Reproductive Tract Infection male,31
+2011/012,Gorkha,Reproductive tract infection female,71
+2011/012,Lamjung,ARI /Lower respiratory tract infection,7362
+2011/012,Lamjung,Upper respiratory Tract infection,7474
+2011/012,Lamjung,Pneumonia,3833
+2011/012,Lamjung,Server Pneumonia,110
+2011/012,Lamjung,Bronchitis,3057
+2011/012,Lamjung,Asthma,4187
+2011/012,Lamjung,Urinary Tract infection,2503
+2011/012,Lamjung,Viral Influenza,3800
+2011/012,Lamjung,Reproductive Tract Infection male,13
+2011/012,Lamjung,Reproductive tract infection female,20
+2011/012,Tanahu,ARI /Lower respiratory tract infection,9974
+2011/012,Tanahu,Upper respiratory Tract infection,9433
+2011/012,Tanahu,Pneumonia,2620
+2011/012,Tanahu,Server Pneumonia,104
+2011/012,Tanahu,Bronchitis,2300
+2011/012,Tanahu,Asthma,3567
+2011/012,Tanahu,Urinary Tract infection,2750
+2011/012,Tanahu,Viral Influenza,4904
+2011/012,Tanahu,Reproductive Tract Infection male,119
+2011/012,Tanahu,Reproductive tract infection female,134
+2011/012,Syangja,ARI /Lower respiratory tract infection,20789
+2011/012,Syangja,Upper respiratory Tract infection,15997
+2011/012,Syangja,Pneumonia,3757
+2011/012,Syangja,Server Pneumonia,146
+2011/012,Syangja,Bronchitis,5600
+2011/012,Syangja,Asthma,6819
+2011/012,Syangja,Urinary Tract infection,4801
+2011/012,Syangja,Viral Influenza,2745
+2011/012,Syangja,Reproductive Tract Infection male,73
+2011/012,Syangja,Reproductive tract infection female,209
+2011/012,Kaski,ARI /Lower respiratory tract infection,24904
+2011/012,Kaski,Upper respiratory Tract infection,26305
+2011/012,Kaski,Pneumonia,6368
+2011/012,Kaski,Server Pneumonia,395
+2011/012,Kaski,Bronchitis,5998
+2011/012,Kaski,Asthma,7170
+2011/012,Kaski,Urinary Tract infection,7264
+2011/012,Kaski,Viral Influenza,8468
+2011/012,Kaski,Reproductive Tract Infection male,270
+2011/012,Kaski,Reproductive tract infection female,664
+2011/012,Manang,ARI /Lower respiratory tract infection,714
+2011/012,Manang,Upper respiratory Tract infection,720
+2011/012,Manang,Pneumonia,122
+2011/012,Manang,Server Pneumonia,13
+2011/012,Manang,Bronchitis,149
+2011/012,Manang,Asthma,111
+2011/012,Manang,Urinary Tract infection,105
+2011/012,Manang,Viral Influenza,27
+2011/012,Manang,Reproductive Tract Infection male,0
+2011/012,Manang,Reproductive tract infection female,4
+2011/012,Mustang,ARI /Lower respiratory tract infection,2084
+2011/012,Mustang,Upper respiratory Tract infection,2987
+2011/012,Mustang,Pneumonia,207
+2011/012,Mustang,Server Pneumonia,5
+2011/012,Mustang,Bronchitis,113
+2011/012,Mustang,Asthma,178
+2011/012,Mustang,Urinary Tract infection,370
+2011/012,Mustang,Viral Influenza,127
+2011/012,Mustang,Reproductive Tract Infection male,1
+2011/012,Mustang,Reproductive tract infection female,0
+2011/012,Myagdi,ARI /Lower respiratory tract infection,7096
+2011/012,Myagdi,Upper respiratory Tract infection,12130
+2011/012,Myagdi,Pneumonia,1619
+2011/012,Myagdi,Server Pneumonia,73
+2011/012,Myagdi,Bronchitis,1027
+2011/012,Myagdi,Asthma,1306
+2011/012,Myagdi,Urinary Tract infection,1605
+2011/012,Myagdi,Viral Influenza,2115
+2011/012,Myagdi,Reproductive Tract Infection male,24
+2011/012,Myagdi,Reproductive tract infection female,55
+2011/012,Parbat,ARI /Lower respiratory tract infection,16325
+2011/012,Parbat,Upper respiratory Tract infection,17431
+2011/012,Parbat,Pneumonia,4280
+2011/012,Parbat,Server Pneumonia,70
+2011/012,Parbat,Bronchitis,3247
+2011/012,Parbat,Asthma,3244
+2011/012,Parbat,Urinary Tract infection,2014
+2011/012,Parbat,Viral Influenza,904
+2011/012,Parbat,Reproductive Tract Infection male,29
+2011/012,Parbat,Reproductive tract infection female,62
+2011/012,Baglung,ARI /Lower respiratory tract infection,18684
+2011/012,Baglung,Upper respiratory Tract infection,24838
+2011/012,Baglung,Pneumonia,6268
+2011/012,Baglung,Server Pneumonia,310
+2011/012,Baglung,Bronchitis,4945
+2011/012,Baglung,Asthma,3173
+2011/012,Baglung,Urinary Tract infection,3693
+2011/012,Baglung,Viral Influenza,1723
+2011/012,Baglung,Reproductive Tract Infection male,89
+2011/012,Baglung,Reproductive tract infection female,80
+2011/012,Gulmi,ARI /Lower respiratory tract infection,20472
+2011/012,Gulmi,Upper respiratory Tract infection,16265
+2011/012,Gulmi,Pneumonia,6637
+2011/012,Gulmi,Server Pneumonia,401
+2011/012,Gulmi,Bronchitis,7736
+2011/012,Gulmi,Asthma,5112
+2011/012,Gulmi,Urinary Tract infection,5231
+2011/012,Gulmi,Viral Influenza,5533
+2011/012,Gulmi,Reproductive Tract Infection male,148
+2011/012,Gulmi,Reproductive tract infection female,250
+2011/012,Palpa,ARI /Lower respiratory tract infection,15780
+2011/012,Palpa,Upper respiratory Tract infection,13594
+2011/012,Palpa,Pneumonia,5827
+2011/012,Palpa,Server Pneumonia,112
+2011/012,Palpa,Bronchitis,6353
+2011/012,Palpa,Asthma,6551
+2011/012,Palpa,Urinary Tract infection,7327
+2011/012,Palpa,Viral Influenza,3756
+2011/012,Palpa,Reproductive Tract Infection male,32
+2011/012,Palpa,Reproductive tract infection female,45
+2011/012,Nawalparasi,ARI /Lower respiratory tract infection,25645
+2011/012,Nawalparasi,Upper respiratory Tract infection,23094
+2011/012,Nawalparasi,Pneumonia,9094
+2011/012,Nawalparasi,Server Pneumonia,217
+2011/012,Nawalparasi,Bronchitis,5413
+2011/012,Nawalparasi,Asthma,7743
+2011/012,Nawalparasi,Urinary Tract infection,5808
+2011/012,Nawalparasi,Viral Influenza,2901
+2011/012,Nawalparasi,Reproductive Tract Infection male,69
+2011/012,Nawalparasi,Reproductive tract infection female,83
+2011/012,Rupandehi,ARI /Lower respiratory tract infection,0
+2011/012,Rupandehi,Upper respiratory Tract infection,0
+2011/012,Rupandehi,Pneumonia,0
+2011/012,Rupandehi,Server Pneumonia,0
+2011/012,Rupandehi,Bronchitis,0
+2011/012,Rupandehi,Asthma,0
+2011/012,Rupandehi,Urinary Tract infection,0
+2011/012,Rupandehi,Viral Influenza,0
+2011/012,Rupandehi,Reproductive Tract Infection male,0
+2011/012,Rupandehi,Reproductive tract infection female,0
+2011/012,Kapilvastu,ARI /Lower respiratory tract infection,15078
+2011/012,Kapilvastu,Upper respiratory Tract infection,20314
+2011/012,Kapilvastu,Pneumonia,8179
+2011/012,Kapilvastu,Server Pneumonia,756
+2011/012,Kapilvastu,Bronchitis,9042
+2011/012,Kapilvastu,Asthma,9195
+2011/012,Kapilvastu,Urinary Tract infection,5636
+2011/012,Kapilvastu,Viral Influenza,2756
+2011/012,Kapilvastu,Reproductive Tract Infection male,320
+2011/012,Kapilvastu,Reproductive tract infection female,613
+2011/012,Arghakhanchi,ARI /Lower respiratory tract infection,10214
+2011/012,Arghakhanchi,Upper respiratory Tract infection,7240
+2011/012,Arghakhanchi,Pneumonia,5084
+2011/012,Arghakhanchi,Server Pneumonia,492
+2011/012,Arghakhanchi,Bronchitis,3922
+2011/012,Arghakhanchi,Asthma,3912
+2011/012,Arghakhanchi,Urinary Tract infection,2996
+2011/012,Arghakhanchi,Viral Influenza,1802
+2011/012,Arghakhanchi,Reproductive Tract Infection male,89
+2011/012,Arghakhanchi,Reproductive tract infection female,93
+2011/012,Pyuthan,ARI /Lower respiratory tract infection,11395
+2011/012,Pyuthan,Upper respiratory Tract infection,13782
+2011/012,Pyuthan,Pneumonia,5884
+2011/012,Pyuthan,Server Pneumonia,510
+2011/012,Pyuthan,Bronchitis,4798
+2011/012,Pyuthan,Asthma,4782
+2011/012,Pyuthan,Urinary Tract infection,3136
+2011/012,Pyuthan,Viral Influenza,119
+2011/012,Pyuthan,Reproductive Tract Infection male,10
+2011/012,Pyuthan,Reproductive tract infection female,32
+2011/012,Rolpa,ARI /Lower respiratory tract infection,9300
+2011/012,Rolpa,Upper respiratory Tract infection,9238
+2011/012,Rolpa,Pneumonia,4784
+2011/012,Rolpa,Server Pneumonia,136
+2011/012,Rolpa,Bronchitis,2018
+2011/012,Rolpa,Asthma,2699
+2011/012,Rolpa,Urinary Tract infection,3500
+2011/012,Rolpa,Viral Influenza,339
+2011/012,Rolpa,Reproductive Tract Infection male,37
+2011/012,Rolpa,Reproductive tract infection female,49
+2011/012,Rukum,ARI /Lower respiratory tract infection,9195
+2011/012,Rukum,Upper respiratory Tract infection,11995
+2011/012,Rukum,Pneumonia,6014
+2011/012,Rukum,Server Pneumonia,680
+2011/012,Rukum,Bronchitis,2176
+2011/012,Rukum,Asthma,2738
+2011/012,Rukum,Urinary Tract infection,3774
+2011/012,Rukum,Viral Influenza,668
+2011/012,Rukum,Reproductive Tract Infection male,74
+2011/012,Rukum,Reproductive tract infection female,80
+2011/012,Salyan,ARI /Lower respiratory tract infection,12772
+2011/012,Salyan,Upper respiratory Tract infection,12597
+2011/012,Salyan,Pneumonia,5339
+2011/012,Salyan,Server Pneumonia,367
+2011/012,Salyan,Bronchitis,3408
+2011/012,Salyan,Asthma,6192
+2011/012,Salyan,Urinary Tract infection,4245
+2011/012,Salyan,Viral Influenza,470
+2011/012,Salyan,Reproductive Tract Infection male,58
+2011/012,Salyan,Reproductive tract infection female,256
+2011/012,Dang,ARI /Lower respiratory tract infection,13679
+2011/012,Dang,Upper respiratory Tract infection,18167
+2011/012,Dang,Pneumonia,8105
+2011/012,Dang,Server Pneumonia,376
+2011/012,Dang,Bronchitis,5305
+2011/012,Dang,Asthma,7515
+2011/012,Dang,Urinary Tract infection,4777
+2011/012,Dang,Viral Influenza,2509
+2011/012,Dang,Reproductive Tract Infection male,252
+2011/012,Dang,Reproductive tract infection female,292
+2011/012,Banke,ARI /Lower respiratory tract infection,23023
+2011/012,Banke,Upper respiratory Tract infection,24723
+2011/012,Banke,Pneumonia,7481
+2011/012,Banke,Server Pneumonia,294
+2011/012,Banke,Bronchitis,3896
+2011/012,Banke,Asthma,6075
+2011/012,Banke,Urinary Tract infection,4162
+2011/012,Banke,Viral Influenza,3243
+2011/012,Banke,Reproductive Tract Infection male,46
+2011/012,Banke,Reproductive tract infection female,38
+2011/012,Bardiya,ARI /Lower respiratory tract infection,19160
+2011/012,Bardiya,Upper respiratory Tract infection,23523
+2011/012,Bardiya,Pneumonia,7333
+2011/012,Bardiya,Server Pneumonia,257
+2011/012,Bardiya,Bronchitis,7195
+2011/012,Bardiya,Asthma,6688
+2011/012,Bardiya,Urinary Tract infection,7198
+2011/012,Bardiya,Viral Influenza,2902
+2011/012,Bardiya,Reproductive Tract Infection male,219
+2011/012,Bardiya,Reproductive tract infection female,633
+2011/012,Surkhet,ARI /Lower respiratory tract infection,20957
+2011/012,Surkhet,Upper respiratory Tract infection,24851
+2011/012,Surkhet,Pneumonia,6929
+2011/012,Surkhet,Server Pneumonia,298
+2011/012,Surkhet,Bronchitis,4580
+2011/012,Surkhet,Asthma,6556
+2011/012,Surkhet,Urinary Tract infection,6692
+2011/012,Surkhet,Viral Influenza,4368
+2011/012,Surkhet,Reproductive Tract Infection male,119
+2011/012,Surkhet,Reproductive tract infection female,170
+2011/012,Dailekh,ARI /Lower respiratory tract infection,23157
+2011/012,Dailekh,Upper respiratory Tract infection,17598
+2011/012,Dailekh,Pneumonia,6334
+2011/012,Dailekh,Server Pneumonia,329
+2011/012,Dailekh,Bronchitis,3322
+2011/012,Dailekh,Asthma,5982
+2011/012,Dailekh,Urinary Tract infection,3955
+2011/012,Dailekh,Viral Influenza,1850
+2011/012,Dailekh,Reproductive Tract Infection male,24
+2011/012,Dailekh,Reproductive tract infection female,46
+2011/012,Jajarkot,ARI /Lower respiratory tract infection,6273
+2011/012,Jajarkot,Upper respiratory Tract infection,10794
+2011/012,Jajarkot,Pneumonia,3113
+2011/012,Jajarkot,Server Pneumonia,426
+2011/012,Jajarkot,Bronchitis,2132
+2011/012,Jajarkot,Asthma,3240
+2011/012,Jajarkot,Urinary Tract infection,2891
+2011/012,Jajarkot,Viral Influenza,1129
+2011/012,Jajarkot,Reproductive Tract Infection male,121
+2011/012,Jajarkot,Reproductive tract infection female,283
+2011/012,Dolpa,ARI /Lower respiratory tract infection,1570
+2011/012,Dolpa,Upper respiratory Tract infection,1535
+2011/012,Dolpa,Pneumonia,784
+2011/012,Dolpa,Server Pneumonia,21
+2011/012,Dolpa,Bronchitis,178
+2011/012,Dolpa,Asthma,501
+2011/012,Dolpa,Urinary Tract infection,562
+2011/012,Dolpa,Viral Influenza,40
+2011/012,Dolpa,Reproductive Tract Infection male,75
+2011/012,Dolpa,Reproductive tract infection female,108
+2011/012,Jumla,ARI /Lower respiratory tract infection,5946
+2011/012,Jumla,Upper respiratory Tract infection,7945
+2011/012,Jumla,Pneumonia,2825
+2011/012,Jumla,Server Pneumonia,151
+2011/012,Jumla,Bronchitis,1241
+2011/012,Jumla,Asthma,1886
+2011/012,Jumla,Urinary Tract infection,1273
+2011/012,Jumla,Viral Influenza,103
+2011/012,Jumla,Reproductive Tract Infection male,10
+2011/012,Jumla,Reproductive tract infection female,16
+2011/012,Kalikot,ARI /Lower respiratory tract infection,4040
+2011/012,Kalikot,Upper respiratory Tract infection,3990
+2011/012,Kalikot,Pneumonia,1534
+2011/012,Kalikot,Server Pneumonia,268
+2011/012,Kalikot,Bronchitis,1854
+2011/012,Kalikot,Asthma,2777
+2011/012,Kalikot,Urinary Tract infection,1818
+2011/012,Kalikot,Viral Influenza,353
+2011/012,Kalikot,Reproductive Tract Infection male,27
+2011/012,Kalikot,Reproductive tract infection female,51
+2011/012,Mugu,ARI /Lower respiratory tract infection,1953
+2011/012,Mugu,Upper respiratory Tract infection,2660
+2011/012,Mugu,Pneumonia,1537
+2011/012,Mugu,Server Pneumonia,160
+2011/012,Mugu,Bronchitis,1056
+2011/012,Mugu,Asthma,1417
+2011/012,Mugu,Urinary Tract infection,1086
+2011/012,Mugu,Viral Influenza,52
+2011/012,Mugu,Reproductive Tract Infection male,22
+2011/012,Mugu,Reproductive tract infection female,32
+2011/012,Humla,ARI /Lower respiratory tract infection,2570
+2011/012,Humla,Upper respiratory Tract infection,3881
+2011/012,Humla,Pneumonia,1669
+2011/012,Humla,Server Pneumonia,233
+2011/012,Humla,Bronchitis,1624
+2011/012,Humla,Asthma,2132
+2011/012,Humla,Urinary Tract infection,1495
+2011/012,Humla,Viral Influenza,331
+2011/012,Humla,Reproductive Tract Infection male,99
+2011/012,Humla,Reproductive tract infection female,137
+2011/012,Bajura,ARI /Lower respiratory tract infection,6323
+2011/012,Bajura,Upper respiratory Tract infection,6391
+2011/012,Bajura,Pneumonia,4110
+2011/012,Bajura,Server Pneumonia,195
+2011/012,Bajura,Bronchitis,1609
+2011/012,Bajura,Asthma,3434
+2011/012,Bajura,Urinary Tract infection,2170
+2011/012,Bajura,Viral Influenza,1465
+2011/012,Bajura,Reproductive Tract Infection male,10
+2011/012,Bajura,Reproductive tract infection female,28
+2011/012,Bajhang,ARI /Lower respiratory tract infection,8838
+2011/012,Bajhang,Upper respiratory Tract infection,10931
+2011/012,Bajhang,Pneumonia,4257
+2011/012,Bajhang,Server Pneumonia,334
+2011/012,Bajhang,Bronchitis,2098
+2011/012,Bajhang,Asthma,2802
+2011/012,Bajhang,Urinary Tract infection,3360
+2011/012,Bajhang,Viral Influenza,1307
+2011/012,Bajhang,Reproductive Tract Infection male,40
+2011/012,Bajhang,Reproductive tract infection female,68
+2011/012,Achham,ARI /Lower respiratory tract infection,22602
+2011/012,Achham,Upper respiratory Tract infection,30811
+2011/012,Achham,Pneumonia,7315
+2011/012,Achham,Server Pneumonia,402
+2011/012,Achham,Bronchitis,2604
+2011/012,Achham,Asthma,6506
+2011/012,Achham,Urinary Tract infection,5704
+2011/012,Achham,Viral Influenza,870
+2011/012,Achham,Reproductive Tract Infection male,43
+2011/012,Achham,Reproductive tract infection female,37
+2011/012,Doti,ARI /Lower respiratory tract infection,12591
+2011/012,Doti,Upper respiratory Tract infection,15555
+2011/012,Doti,Pneumonia,4213
+2011/012,Doti,Server Pneumonia,310
+2011/012,Doti,Bronchitis,2826
+2011/012,Doti,Asthma,5712
+2011/012,Doti,Urinary Tract infection,3764
+2011/012,Doti,Viral Influenza,806
+2011/012,Doti,Reproductive Tract Infection male,47
+2011/012,Doti,Reproductive tract infection female,45
+2011/012,Kailali,ARI /Lower respiratory tract infection,31083
+2011/012,Kailali,Upper respiratory Tract infection,22493
+2011/012,Kailali,Pneumonia,7611
+2011/012,Kailali,Server Pneumonia,825
+2011/012,Kailali,Bronchitis,4643
+2011/012,Kailali,Asthma,8131
+2011/012,Kailali,Urinary Tract infection,9042
+2011/012,Kailali,Viral Influenza,3576
+2011/012,Kailali,Reproductive Tract Infection male,225
+2011/012,Kailali,Reproductive tract infection female,303
+2011/012,Kanchanpur,ARI /Lower respiratory tract infection,16347
+2011/012,Kanchanpur,Upper respiratory Tract infection,16335
+2011/012,Kanchanpur,Pneumonia,7116
+2011/012,Kanchanpur,Server Pneumonia,216
+2011/012,Kanchanpur,Bronchitis,4217
+2011/012,Kanchanpur,Asthma,5140
+2011/012,Kanchanpur,Urinary Tract infection,4605
+2011/012,Kanchanpur,Viral Influenza,7133
+2011/012,Kanchanpur,Reproductive Tract Infection male,70
+2011/012,Kanchanpur,Reproductive tract infection female,148
+2011/012,Dadeldhura,ARI /Lower respiratory tract infection,11805
+2011/012,Dadeldhura,Upper respiratory Tract infection,11771
+2011/012,Dadeldhura,Pneumonia,4771
+2011/012,Dadeldhura,Server Pneumonia,311
+2011/012,Dadeldhura,Bronchitis,1960
+2011/012,Dadeldhura,Asthma,4983
+2011/012,Dadeldhura,Urinary Tract infection,3998
+2011/012,Dadeldhura,Viral Influenza,2327
+2011/012,Dadeldhura,Reproductive Tract Infection male,101
+2011/012,Dadeldhura,Reproductive tract infection female,200
+2011/012,Baitadi,ARI /Lower respiratory tract infection,15757
+2011/012,Baitadi,Upper respiratory Tract infection,15817
+2011/012,Baitadi,Pneumonia,5612
+2011/012,Baitadi,Server Pneumonia,262
+2011/012,Baitadi,Bronchitis,2764
+2011/012,Baitadi,Asthma,6358
+2011/012,Baitadi,Urinary Tract infection,2636
+2011/012,Baitadi,Viral Influenza,4254
+2011/012,Baitadi,Reproductive Tract Infection male,91
+2011/012,Baitadi,Reproductive tract infection female,102
+2011/012,Darchula,ARI /Lower respiratory tract infection,9950
+2011/012,Darchula,Upper respiratory Tract infection,9748
+2011/012,Darchula,Pneumonia,2254
+2011/012,Darchula,Server Pneumonia,151
+2011/012,Darchula,Bronchitis,3440
+2011/012,Darchula,Asthma,4411
+2011/012,Darchula,Urinary Tract infection,2306
+2011/012,Darchula,Viral Influenza,2019
+2011/012,Darchula,Reproductive Tract Infection male,65
+2011/012,Darchula,Reproductive tract infection female,94

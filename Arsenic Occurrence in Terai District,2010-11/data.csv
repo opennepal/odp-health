@@ -1,0 +1,169 @@
+District,Tube wells by arsenic concentration levels,Number
+Banke ,0-10ppb Number,23796
+Banke ,Percent,97.01
+Banke ,11-50ppb Number,568
+Banke ,Percent,2.32
+Banke ,>50ppb  Number,166
+Banke ,Percent,0.68
+Banke ,Total Number,24530
+Banke ,Percent,2.26
+Bara ,0-10ppb Number,34444
+Bara ,Percent,89.26
+Bara ,11-50ppb Number,2689
+Bara ,Percent,6.97
+Bara ,>50ppb  Number,1456
+Bara ,Percent,3.77
+Bara ,Total Number,38589
+Bara ,Percent,3.56
+Bardiya ,0-10ppb Number,38243
+Bardiya ,Percent,89.15
+Bardiya ,11-50ppb Number,2484
+Bardiya ,Percent,5.79
+Bardiya ,>50ppb  Number,2170
+Bardiya ,Percent,5.06
+Bardiya ,Total Number,42897
+Bardiya ,Percent,3.96
+Chitwan ,0-10ppb Number,57232
+Chitwan ,Percent,99.74
+Chitwan ,11-50ppb Number,104
+Chitwan ,Percent,0.18
+Chitwan ,>50ppb  Number,46
+Chitwan ,Percent,0.08
+Chitwan ,Total Number,57382
+Chitwan ,Percent,5.29
+Dang ,0-10ppb Number,26040
+Dang ,Percent,99.26
+Dang ,11-50ppb Number,153
+Dang ,Percent,0.58
+Dang ,>50ppb  Number,41
+Dang ,Percent,0.16
+Dang ,Total Number,26234
+Dang ,Percent,2.42
+Dhanusa ,0-10ppb Number,54388
+Dhanusa ,Percent,96.21
+Dhanusa ,11-50ppb Number,1724
+Dhanusa ,Percent,3.05
+Dhanusa ,>50ppb  Number,419
+Dhanusa ,Percent,0.74
+Dhanusa ,Total Number,56531
+Dhanusa ,Percent,5.22
+Jhapa ,0-10ppb Number,113077
+Jhapa ,Percent,99.34
+Jhapa ,11-50ppb Number,699
+Jhapa ,Percent,0.61
+Jhapa ,>50ppb  Number,53
+Jhapa ,Percent,0.05
+Jhapa ,Total Number,113829
+Jhapa ,Percent,10.5
+Kailali ,0-10ppb Number,74357
+Kailali ,Percent,88.3
+Kailali ,11-50ppb Number,7009
+Kailali ,Percent,8.32
+Kailali ,>50ppb  Number,2839
+Kailali ,Percent,3.37
+Kailali ,Total Number,84205
+Kailali ,Percent,7.77
+Kanchanpur ,0-10ppb Number,47633
+Kanchanpur ,Percent,88.9
+Kanchanpur ,11-50ppb Number,4365
+Kanchanpur ,Percent,8.15
+Kanchanpur ,>50ppb  Number,1580
+Kanchanpur ,Percent,2.95
+Kanchanpur ,Total Number,53578
+Kanchanpur ,Percent,4.94
+Kapilbastu ,0-10ppb Number,36031
+Kapilbastu ,Percent,90.76
+Kapilbastu ,11-50ppb Number,2508
+Kapilbastu ,Percent,6.32
+Kapilbastu ,>50ppb  Number,1160
+Kapilbastu ,Percent,2.92
+Kapilbastu ,Total Number,39699
+Kapilbastu ,Percent,3.66
+Mahottari ,0-10ppb Number,33546
+Mahottari ,Percent,98.91
+Mahottari ,11-50ppb Number,341
+Mahottari ,Percent,1.01
+Mahottari ,>50ppb  Number,29
+Mahottari ,Percent,0.09
+Mahottari ,Total Number,33916
+Mahottari ,Percent,3.13
+Morang ,0-10ppb Number,109653
+Morang ,Percent,98.12
+Morang ,11-50ppb Number,1950
+Morang ,Percent,1.74
+Morang ,>50ppb  Number,155
+Morang ,Percent,0.14
+Morang ,Total Number,111758
+Morang ,Percent,10.31
+Nawalparasi ,0-10ppb Number,24136
+Nawalparasi ,Percent,76.2
+Nawalparasi ,11-50ppb Number,3836
+Nawalparasi ,Percent,12.11
+Nawalparasi ,>50ppb  Number,3704
+Nawalparasi ,Percent,11.69
+Nawalparasi ,Total Number,31676
+Nawalparasi ,Percent,2.92
+Parsa ,0-10ppb Number,26550
+Parsa ,Percent,92.13
+Parsa ,11-50ppb Number,1598
+Parsa ,Percent,5.54
+Parsa ,>50ppb  Number,671
+Parsa ,Percent,2.33
+Parsa ,Total Number,28819
+Parsa ,Percent,2.66
+Rautahat ,0-10ppb Number,39351
+Rautahat ,Percent,80.74
+Rautahat ,11-50ppb Number,8305
+Rautahat ,Percent,17.04
+Rautahat ,>50ppb  Number,1084
+Rautahat ,Percent,2.22
+Rautahat ,Total Number,48740
+Rautahat ,Percent,4.5
+Rupandehi ,0-10ppb Number,69950
+Rupandehi ,Percent,96.21
+Rupandehi ,11-50ppb Number,2283
+Rupandehi ,Percent,3.14
+Rupandehi ,>50ppb  Number,470
+Rupandehi ,Percent,0.65
+Rupandehi ,Total Number,72703
+Rupandehi ,Percent,6.71
+Saptari ,0-10ppb Number,53070
+Saptari ,Percent,94.65
+Saptari ,11-50ppb Number,2445
+Saptari ,Percent,4.36
+Saptari ,>50ppb  Number,557
+Saptari ,Percent,0.99
+Saptari ,Total Number,56072
+Saptari ,Percent,5.17
+Sarlahi ,0-10ppb Number,42905
+Sarlahi ,Percent,85.02
+Sarlahi ,11-50ppb Number,6952
+Sarlahi ,Percent,13.78
+Sarlahi ,>50ppb  Number,609
+Sarlahi ,Percent,1.21
+Sarlahi ,Total Number,50466
+Sarlahi ,Percent,4.66
+Siraha ,0-10ppb Number,38608
+Siraha ,Percent,84.66
+Siraha ,11-50ppb Number,5823
+Siraha ,Percent,12.77
+Siraha ,>50ppb  Number,1172
+Siraha ,Percent,2.57
+Siraha ,Total Number,45603
+Siraha ,Percent,4.21
+Sunsari ,0-10ppb Number,63903
+Sunsari ,Percent,95.86
+Sunsari ,11-50ppb Number,2343
+Sunsari ,Percent,3.51
+Sunsari ,>50ppb  Number,418
+Sunsari ,Percent,0.63
+Sunsari ,Total Number,66664
+Sunsari ,Percent,6.15
+Total ,0-10ppb Number,1006913
+Total ,Percent,92.9
+Total ,11-50ppb Number,58179
+Total ,Percent,5.37
+Total ,>50ppb  Number,18799
+Total ,Percent,1.73
+Total ,Total Number,1083891
+Total ,Percent,100

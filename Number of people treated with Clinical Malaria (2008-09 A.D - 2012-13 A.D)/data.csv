@@ -1,0 +1,1801 @@
+District,Year,Clinical Malaria/Total Treatment,Age group,Gender,Number of people
+Taplejung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Taplejung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2067/68,Clinical Malaria,5 Years & Above,Male,1
+Taplejung,2067/68,Total Treatment,Under 5 Years,Female,0
+Taplejung,2067/68,Total Treatment,5 Years & Above,Male,0
+Taplejung,2067/68,Total Treatment,Under 5 Years,Female,0
+Taplejung,2067/68,Total Treatment,5 Years & Above,Male,1
+Panchthar,2067/68,Clinical Malaria,Under 5 Years,Female,6
+Panchthar,2067/68,Clinical Malaria,5 Years & Above,Male,8
+Panchthar,2067/68,Clinical Malaria,Under 5 Years,Female,16
+Panchthar,2067/68,Clinical Malaria,5 Years & Above,Male,33
+Panchthar,2067/68,Total Treatment,Under 5 Years,Female,6
+Panchthar,2067/68,Total Treatment,5 Years & Above,Male,8
+Panchthar,2067/68,Total Treatment,Under 5 Years,Female,16
+Panchthar,2067/68,Total Treatment,5 Years & Above,Male,33
+Ilam,2067/68,Clinical Malaria,Under 5 Years,Female,10
+Ilam,2067/68,Clinical Malaria,5 Years & Above,Male,15
+Ilam,2067/68,Clinical Malaria,Under 5 Years,Female,148
+Ilam,2067/68,Clinical Malaria,5 Years & Above,Male,184
+Ilam,2067/68,Total Treatment,Under 5 Years,Female,10
+Ilam,2067/68,Total Treatment,5 Years & Above,Male,15
+Ilam,2067/68,Total Treatment,Under 5 Years,Female,148
+Ilam,2067/68,Total Treatment,5 Years & Above,Male,184
+Jhapa,2067/68,Clinical Malaria,Under 5 Years,Female,123
+Jhapa,2067/68,Clinical Malaria,5 Years & Above,Male,154
+Jhapa,2067/68,Clinical Malaria,Under 5 Years,Female,1484
+Jhapa,2067/68,Clinical Malaria,5 Years & Above,Male,2144
+Jhapa,2067/68,Total Treatment,Under 5 Years,Female,123
+Jhapa,2067/68,Total Treatment,5 Years & Above,Male,154
+Jhapa,2067/68,Total Treatment,Under 5 Years,Female,1484
+Jhapa,2067/68,Total Treatment,5 Years & Above,Male,2144
+Morang,2067/68,Clinical Malaria,Under 5 Years,Female,18
+Morang,2067/68,Clinical Malaria,5 Years & Above,Male,96
+Morang,2067/68,Clinical Malaria,Under 5 Years,Female,617
+Morang,2067/68,Clinical Malaria,5 Years & Above,Male,3905
+Morang,2067/68,Total Treatment,Under 5 Years,Female,18
+Morang,2067/68,Total Treatment,5 Years & Above,Male,96
+Morang,2067/68,Total Treatment,Under 5 Years,Female,617
+Morang,2067/68,Total Treatment,5 Years & Above,Male,3905
+Sunsari,2067/68,Clinical Malaria,Under 5 Years,Female,21
+Sunsari,2067/68,Clinical Malaria,5 Years & Above,Male,30
+Sunsari,2067/68,Clinical Malaria,Under 5 Years,Female,1033
+Sunsari,2067/68,Clinical Malaria,5 Years & Above,Male,1143
+Sunsari,2067/68,Total Treatment,Under 5 Years,Female,21
+Sunsari,2067/68,Total Treatment,5 Years & Above,Male,30
+Sunsari,2067/68,Total Treatment,Under 5 Years,Female,1033
+Sunsari,2067/68,Total Treatment,5 Years & Above,Male,1143
+Dhankuta,2067/68,Clinical Malaria,Under 5 Years,Female,15
+Dhankuta,2067/68,Clinical Malaria,5 Years & Above,Male,9
+Dhankuta,2067/68,Clinical Malaria,Under 5 Years,Female,69
+Dhankuta,2067/68,Clinical Malaria,5 Years & Above,Male,75
+Dhankuta,2067/68,Total Treatment,Under 5 Years,Female,15
+Dhankuta,2067/68,Total Treatment,5 Years & Above,Male,9
+Dhankuta,2067/68,Total Treatment,Under 5 Years,Female,69
+Dhankuta,2067/68,Total Treatment,5 Years & Above,Male,75
+Teharthum,2067/68,Clinical Malaria,Under 5 Years,Female,2
+Teharthum,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Teharthum,2067/68,Clinical Malaria,Under 5 Years,Female,12
+Teharthum,2067/68,Clinical Malaria,5 Years & Above,Male,7
+Teharthum,2067/68,Total Treatment,Under 5 Years,Female,2
+Teharthum,2067/68,Total Treatment,5 Years & Above,Male,0
+Teharthum,2067/68,Total Treatment,Under 5 Years,Female,12
+Teharthum,2067/68,Total Treatment,5 Years & Above,Male,7
+Sankhuwasabha,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Sankhuwasabha,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Sankhuwasabha,2067/68,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2067/68,Total Treatment,5 Years & Above,Male,0
+Sankhuwasabha,2067/68,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2067/68,Total Treatment,5 Years & Above,Male,0
+Bhojpur,2067/68,Clinical Malaria,Under 5 Years,Female,20
+Bhojpur,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bhojpur,2067/68,Clinical Malaria,Under 5 Years,Female,21
+Bhojpur,2067/68,Clinical Malaria,5 Years & Above,Male,41
+Bhojpur,2067/68,Total Treatment,Under 5 Years,Female,20
+Bhojpur,2067/68,Total Treatment,5 Years & Above,Male,0
+Bhojpur,2067/68,Total Treatment,Under 5 Years,Female,21
+Bhojpur,2067/68,Total Treatment,5 Years & Above,Male,41
+Solukhumbu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2067/68,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2067/68,Total Treatment,5 Years & Above,Male,0
+Solukhumbu,2067/68,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2067/68,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Okhaldhunga,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Okhaldhunga,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Okhaldhunga,2067/68,Clinical Malaria,5 Years & Above,Male,2
+Okhaldhunga,2067/68,Total Treatment,Under 5 Years,Female,0
+Okhaldhunga,2067/68,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2067/68,Total Treatment,Under 5 Years,Female,0
+Okhaldhunga,2067/68,Total Treatment,5 Years & Above,Male,2
+Khotang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Khotang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Khotang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Khotang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Khotang,2067/68,Total Treatment,Under 5 Years,Female,0
+Khotang,2067/68,Total Treatment,5 Years & Above,Male,0
+Khotang,2067/68,Total Treatment,Under 5 Years,Female,0
+Khotang,2067/68,Total Treatment,5 Years & Above,Male,0
+Udaypur,2067/68,Clinical Malaria,Under 5 Years,Female,2
+Udaypur,2067/68,Clinical Malaria,5 Years & Above,Male,3
+Udaypur,2067/68,Clinical Malaria,Under 5 Years,Female,75
+Udaypur,2067/68,Clinical Malaria,5 Years & Above,Male,121
+Udaypur,2067/68,Total Treatment,Under 5 Years,Female,2
+Udaypur,2067/68,Total Treatment,5 Years & Above,Male,3
+Udaypur,2067/68,Total Treatment,Under 5 Years,Female,75
+Udaypur,2067/68,Total Treatment,5 Years & Above,Male,121
+Saptari,2067/68,Clinical Malaria,Under 5 Years,Female,45
+Saptari,2067/68,Clinical Malaria,5 Years & Above,Male,42
+Saptari,2067/68,Clinical Malaria,Under 5 Years,Female,1183
+Saptari,2067/68,Clinical Malaria,5 Years & Above,Male,1054
+Saptari,2067/68,Total Treatment,Under 5 Years,Female,45
+Saptari,2067/68,Total Treatment,5 Years & Above,Male,42
+Saptari,2067/68,Total Treatment,Under 5 Years,Female,1183
+Saptari,2067/68,Total Treatment,5 Years & Above,Male,1054
+Siraha,2067/68,Clinical Malaria,Under 5 Years,Female,15
+Siraha,2067/68,Clinical Malaria,5 Years & Above,Male,10
+Siraha,2067/68,Clinical Malaria,Under 5 Years,Female,1516
+Siraha,2067/68,Clinical Malaria,5 Years & Above,Male,1598
+Siraha,2067/68,Total Treatment,Under 5 Years,Female,15
+Siraha,2067/68,Total Treatment,5 Years & Above,Male,10
+Siraha,2067/68,Total Treatment,Under 5 Years,Female,1516
+Siraha,2067/68,Total Treatment,5 Years & Above,Male,1598
+Dhanusha,2067/68,Clinical Malaria,Under 5 Years,Female,1290
+Dhanusha,2067/68,Clinical Malaria,5 Years & Above,Male,1311
+Dhanusha,2067/68,Clinical Malaria,Under 5 Years,Female,4591
+Dhanusha,2067/68,Clinical Malaria,5 Years & Above,Male,6257
+Dhanusha,2067/68,Total Treatment,Under 5 Years,Female,1290
+Dhanusha,2067/68,Total Treatment,5 Years & Above,Male,1311
+Dhanusha,2067/68,Total Treatment,Under 5 Years,Female,4591
+Dhanusha,2067/68,Total Treatment,5 Years & Above,Male,6257
+Mahottari,2067/68,Clinical Malaria,Under 5 Years,Female,551
+Mahottari,2067/68,Clinical Malaria,5 Years & Above,Male,54
+Mahottari,2067/68,Clinical Malaria,Under 5 Years,Female,1023
+Mahottari,2067/68,Clinical Malaria,5 Years & Above,Male,1517
+Mahottari,2067/68,Total Treatment,Under 5 Years,Female,551
+Mahottari,2067/68,Total Treatment,5 Years & Above,Male,54
+Mahottari,2067/68,Total Treatment,Under 5 Years,Female,1023
+Mahottari,2067/68,Total Treatment,5 Years & Above,Male,1517
+Sarlahi,2067/68,Clinical Malaria,Under 5 Years,Female,18
+Sarlahi,2067/68,Clinical Malaria,5 Years & Above,Male,28
+Sarlahi,2067/68,Clinical Malaria,Under 5 Years,Female,799
+Sarlahi,2067/68,Clinical Malaria,5 Years & Above,Male,1278
+Sarlahi,2067/68,Total Treatment,Under 5 Years,Female,18
+Sarlahi,2067/68,Total Treatment,5 Years & Above,Male,28
+Sarlahi,2067/68,Total Treatment,Under 5 Years,Female,799
+Sarlahi,2067/68,Total Treatment,5 Years & Above,Male,1278
+Sindhuli,2067/68,Clinical Malaria,Under 5 Years,Female,3
+Sindhuli,2067/68,Clinical Malaria,5 Years & Above,Male,3
+Sindhuli,2067/68,Clinical Malaria,Under 5 Years,Female,64
+Sindhuli,2067/68,Clinical Malaria,5 Years & Above,Male,65
+Sindhuli,2067/68,Total Treatment,Under 5 Years,Female,3
+Sindhuli,2067/68,Total Treatment,5 Years & Above,Male,3
+Sindhuli,2067/68,Total Treatment,Under 5 Years,Female,64
+Sindhuli,2067/68,Total Treatment,5 Years & Above,Male,65
+Ramechhap,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Ramechhap,2067/68,Clinical Malaria,5 Years & Above,Male,1
+Ramechhap,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Ramechhap,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Ramechhap,2067/68,Total Treatment,Under 5 Years,Female,0
+Ramechhap,2067/68,Total Treatment,5 Years & Above,Male,1
+Ramechhap,2067/68,Total Treatment,Under 5 Years,Female,0
+Ramechhap,2067/68,Total Treatment,5 Years & Above,Male,0
+Dolkha,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2067/68,Total Treatment,Under 5 Years,Female,0
+Dolkha,2067/68,Total Treatment,5 Years & Above,Male,0
+Dolkha,2067/68,Total Treatment,Under 5 Years,Female,0
+Dolkha,2067/68,Total Treatment,5 Years & Above,Male,0
+Sindhupalchowk,2067/68,Clinical Malaria,Under 5 Years,Female,1
+Sindhupalchowk,2067/68,Clinical Malaria,5 Years & Above,Male,6
+Sindhupalchowk,2067/68,Clinical Malaria,Under 5 Years,Female,68
+Sindhupalchowk,2067/68,Clinical Malaria,5 Years & Above,Male,53
+Sindhupalchowk,2067/68,Total Treatment,Under 5 Years,Female,1
+Sindhupalchowk,2067/68,Total Treatment,5 Years & Above,Male,6
+Sindhupalchowk,2067/68,Total Treatment,Under 5 Years,Female,68
+Sindhupalchowk,2067/68,Total Treatment,5 Years & Above,Male,53
+Kavre,2067/68,Clinical Malaria,Under 5 Years,Female,13
+Kavre,2067/68,Clinical Malaria,5 Years & Above,Male,14
+Kavre,2067/68,Clinical Malaria,Under 5 Years,Female,121
+Kavre,2067/68,Clinical Malaria,5 Years & Above,Male,122
+Kavre,2067/68,Total Treatment,Under 5 Years,Female,13
+Kavre,2067/68,Total Treatment,5 Years & Above,Male,14
+Kavre,2067/68,Total Treatment,Under 5 Years,Female,121
+Kavre,2067/68,Total Treatment,5 Years & Above,Male,122
+Lalitpur,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2067/68,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2067/68,Total Treatment,5 Years & Above,Male,0
+Lalitpur,2067/68,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2067/68,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2067/68,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2067/68,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2067/68,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2067/68,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2067/68,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2067/68,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2067/68,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2067/68,Total Treatment,5 Years & Above,Male,0
+Nuwakot,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Nuwakot,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Nuwakot,2067/68,Clinical Malaria,Under 5 Years,Female,2
+Nuwakot,2067/68,Clinical Malaria,5 Years & Above,Male,3
+Nuwakot,2067/68,Total Treatment,Under 5 Years,Female,0
+Nuwakot,2067/68,Total Treatment,5 Years & Above,Male,0
+Nuwakot,2067/68,Total Treatment,Under 5 Years,Female,2
+Nuwakot,2067/68,Total Treatment,5 Years & Above,Male,3
+Rasuwa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2067/68,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2067/68,Total Treatment,5 Years & Above,Male,0
+Rasuwa,2067/68,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2067/68,Total Treatment,5 Years & Above,Male,0
+Dhading,2067/68,Clinical Malaria,Under 5 Years,Female,8
+Dhading,2067/68,Clinical Malaria,5 Years & Above,Male,10
+Dhading,2067/68,Clinical Malaria,Under 5 Years,Female,11
+Dhading,2067/68,Clinical Malaria,5 Years & Above,Male,28
+Dhading,2067/68,Total Treatment,Under 5 Years,Female,8
+Dhading,2067/68,Total Treatment,5 Years & Above,Male,10
+Dhading,2067/68,Total Treatment,Under 5 Years,Female,11
+Dhading,2067/68,Total Treatment,5 Years & Above,Male,28
+Makawanpur,2067/68,Clinical Malaria,Under 5 Years,Female,37
+Makawanpur,2067/68,Clinical Malaria,5 Years & Above,Male,29
+Makawanpur,2067/68,Clinical Malaria,Under 5 Years,Female,220
+Makawanpur,2067/68,Clinical Malaria,5 Years & Above,Male,201
+Makawanpur,2067/68,Total Treatment,Under 5 Years,Female,37
+Makawanpur,2067/68,Total Treatment,5 Years & Above,Male,29
+Makawanpur,2067/68,Total Treatment,Under 5 Years,Female,220
+Makawanpur,2067/68,Total Treatment,5 Years & Above,Male,201
+Rautahat,2067/68,Clinical Malaria,Under 5 Years,Female,107
+Rautahat,2067/68,Clinical Malaria,5 Years & Above,Male,88
+Rautahat,2067/68,Clinical Malaria,Under 5 Years,Female,1035
+Rautahat,2067/68,Clinical Malaria,5 Years & Above,Male,1268
+Rautahat,2067/68,Total Treatment,Under 5 Years,Female,107
+Rautahat,2067/68,Total Treatment,5 Years & Above,Male,88
+Rautahat,2067/68,Total Treatment,Under 5 Years,Female,1035
+Rautahat,2067/68,Total Treatment,5 Years & Above,Male,1268
+Bara,2067/68,Clinical Malaria,Under 5 Years,Female,32
+Bara,2067/68,Clinical Malaria,5 Years & Above,Male,50
+Bara,2067/68,Clinical Malaria,Under 5 Years,Female,1850
+Bara,2067/68,Clinical Malaria,5 Years & Above,Male,2712
+Bara,2067/68,Total Treatment,Under 5 Years,Female,32
+Bara,2067/68,Total Treatment,5 Years & Above,Male,50
+Bara,2067/68,Total Treatment,Under 5 Years,Female,1850
+Bara,2067/68,Total Treatment,5 Years & Above,Male,2712
+Parsa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2067/68,Total Treatment,Under 5 Years,Female,0
+Parsa,2067/68,Total Treatment,5 Years & Above,Male,0
+Parsa,2067/68,Total Treatment,Under 5 Years,Female,0
+Parsa,2067/68,Total Treatment,5 Years & Above,Male,0
+Chitwan,2067/68,Clinical Malaria,Under 5 Years,Female,19
+Chitwan,2067/68,Clinical Malaria,5 Years & Above,Male,7
+Chitwan,2067/68,Clinical Malaria,Under 5 Years,Female,117
+Chitwan,2067/68,Clinical Malaria,5 Years & Above,Male,156
+Chitwan,2067/68,Total Treatment,Under 5 Years,Female,19
+Chitwan,2067/68,Total Treatment,5 Years & Above,Male,7
+Chitwan,2067/68,Total Treatment,Under 5 Years,Female,117
+Chitwan,2067/68,Total Treatment,5 Years & Above,Male,156
+Gorkha,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Gorkha,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Gorkha,2067/68,Clinical Malaria,Under 5 Years,Female,283
+Gorkha,2067/68,Clinical Malaria,5 Years & Above,Male,314
+Gorkha,2067/68,Total Treatment,Under 5 Years,Female,0
+Gorkha,2067/68,Total Treatment,5 Years & Above,Male,0
+Gorkha,2067/68,Total Treatment,Under 5 Years,Female,283
+Gorkha,2067/68,Total Treatment,5 Years & Above,Male,314
+Lamjung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Lamjung,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Lamjung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Lamjung,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Lamjung,2067/68,Total Treatment,Under 5 Years,Female,0
+Lamjung,2067/68,Total Treatment,5 Years & Above,Male,0
+Lamjung,2067/68,Total Treatment,Under 5 Years,Female,0
+Lamjung,2067/68,Total Treatment,5 Years & Above,Male,0
+Tanahu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Tanahu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Tanahu,2067/68,Clinical Malaria,Under 5 Years,Female,9
+Tanahu,2067/68,Clinical Malaria,5 Years & Above,Male,2
+Tanahu,2067/68,Total Treatment,Under 5 Years,Female,0
+Tanahu,2067/68,Total Treatment,5 Years & Above,Male,0
+Tanahu,2067/68,Total Treatment,Under 5 Years,Female,9
+Tanahu,2067/68,Total Treatment,5 Years & Above,Male,2
+Syangja,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Syangja,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Syangja,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Syangja,2067/68,Clinical Malaria,5 Years & Above,Male,4
+Syangja,2067/68,Total Treatment,Under 5 Years,Female,0
+Syangja,2067/68,Total Treatment,5 Years & Above,Male,0
+Syangja,2067/68,Total Treatment,Under 5 Years,Female,0
+Syangja,2067/68,Total Treatment,5 Years & Above,Male,4
+Kaski,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kaski,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kaski,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kaski,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kaski,2067/68,Total Treatment,Under 5 Years,Female,0
+Kaski,2067/68,Total Treatment,5 Years & Above,Male,0
+Kaski,2067/68,Total Treatment,Under 5 Years,Female,0
+Kaski,2067/68,Total Treatment,5 Years & Above,Male,0
+Manang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Manang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Manang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Manang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Manang,2067/68,Total Treatment,Under 5 Years,Female,0
+Manang,2067/68,Total Treatment,5 Years & Above,Male,0
+Manang,2067/68,Total Treatment,Under 5 Years,Female,0
+Manang,2067/68,Total Treatment,5 Years & Above,Male,0
+Mustang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2067/68,Total Treatment,Under 5 Years,Female,0
+Mustang,2067/68,Total Treatment,5 Years & Above,Male,0
+Mustang,2067/68,Total Treatment,Under 5 Years,Female,0
+Mustang,2067/68,Total Treatment,5 Years & Above,Male,0
+Myagdi,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Myagdi,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Myagdi,2067/68,Total Treatment,Under 5 Years,Female,0
+Myagdi,2067/68,Total Treatment,5 Years & Above,Male,0
+Myagdi,2067/68,Total Treatment,Under 5 Years,Female,0
+Myagdi,2067/68,Total Treatment,5 Years & Above,Male,0
+Parbat,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Parbat,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Parbat,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Parbat,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Parbat,2067/68,Total Treatment,Under 5 Years,Female,0
+Parbat,2067/68,Total Treatment,5 Years & Above,Male,0
+Parbat,2067/68,Total Treatment,Under 5 Years,Female,0
+Parbat,2067/68,Total Treatment,5 Years & Above,Male,0
+Baglung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2067/68,Total Treatment,Under 5 Years,Female,0
+Baglung,2067/68,Total Treatment,5 Years & Above,Male,0
+Baglung,2067/68,Total Treatment,Under 5 Years,Female,0
+Baglung,2067/68,Total Treatment,5 Years & Above,Male,0
+Gulmi,2067/68,Clinical Malaria,Under 5 Years,Female,7
+Gulmi,2067/68,Clinical Malaria,5 Years & Above,Male,11
+Gulmi,2067/68,Clinical Malaria,Under 5 Years,Female,42
+Gulmi,2067/68,Clinical Malaria,5 Years & Above,Male,104
+Gulmi,2067/68,Total Treatment,Under 5 Years,Female,7
+Gulmi,2067/68,Total Treatment,5 Years & Above,Male,11
+Gulmi,2067/68,Total Treatment,Under 5 Years,Female,42
+Gulmi,2067/68,Total Treatment,5 Years & Above,Male,104
+Palpa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Palpa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Palpa,2067/68,Clinical Malaria,Under 5 Years,Female,24
+Palpa,2067/68,Clinical Malaria,5 Years & Above,Male,66
+Palpa,2067/68,Total Treatment,Under 5 Years,Female,0
+Palpa,2067/68,Total Treatment,5 Years & Above,Male,0
+Palpa,2067/68,Total Treatment,Under 5 Years,Female,24
+Palpa,2067/68,Total Treatment,5 Years & Above,Male,66
+Nawalparasi,2067/68,Clinical Malaria,Under 5 Years,Female,113
+Nawalparasi,2067/68,Clinical Malaria,5 Years & Above,Male,108
+Nawalparasi,2067/68,Clinical Malaria,Under 5 Years,Female,1565
+Nawalparasi,2067/68,Clinical Malaria,5 Years & Above,Male,1660
+Nawalparasi,2067/68,Total Treatment,Under 5 Years,Female,113
+Nawalparasi,2067/68,Total Treatment,5 Years & Above,Male,108
+Nawalparasi,2067/68,Total Treatment,Under 5 Years,Female,1565
+Nawalparasi,2067/68,Total Treatment,5 Years & Above,Male,1660
+Rupandehi,2067/68,Clinical Malaria,Under 5 Years,Female,20
+Rupandehi,2067/68,Clinical Malaria,5 Years & Above,Male,28
+Rupandehi,2067/68,Clinical Malaria,Under 5 Years,Female,1485
+Rupandehi,2067/68,Clinical Malaria,5 Years & Above,Male,1695
+Rupandehi,2067/68,Total Treatment,Under 5 Years,Female,20
+Rupandehi,2067/68,Total Treatment,5 Years & Above,Male,28
+Rupandehi,2067/68,Total Treatment,Under 5 Years,Female,1485
+Rupandehi,2067/68,Total Treatment,5 Years & Above,Male,1695
+Kapilvastu,2067/68,Clinical Malaria,Under 5 Years,Female,56
+Kapilvastu,2067/68,Clinical Malaria,5 Years & Above,Male,108
+Kapilvastu,2067/68,Clinical Malaria,Under 5 Years,Female,1165
+Kapilvastu,2067/68,Clinical Malaria,5 Years & Above,Male,1384
+Kapilvastu,2067/68,Total Treatment,Under 5 Years,Female,56
+Kapilvastu,2067/68,Total Treatment,5 Years & Above,Male,108
+Kapilvastu,2067/68,Total Treatment,Under 5 Years,Female,1165
+Kapilvastu,2067/68,Total Treatment,5 Years & Above,Male,1384
+Arghakhanchi,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Arghakhanchi,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Arghakhanchi,2067/68,Clinical Malaria,Under 5 Years,Female,13
+Arghakhanchi,2067/68,Clinical Malaria,5 Years & Above,Male,23
+Arghakhanchi,2067/68,Total Treatment,Under 5 Years,Female,0
+Arghakhanchi,2067/68,Total Treatment,5 Years & Above,Male,0
+Arghakhanchi,2067/68,Total Treatment,Under 5 Years,Female,13
+Arghakhanchi,2067/68,Total Treatment,5 Years & Above,Male,23
+Pyuthan,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Pyuthan,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Pyuthan,2067/68,Total Treatment,Under 5 Years,Female,0
+Pyuthan,2067/68,Total Treatment,5 Years & Above,Male,0
+Pyuthan,2067/68,Total Treatment,Under 5 Years,Female,0
+Pyuthan,2067/68,Total Treatment,5 Years & Above,Male,0
+Rolpa,2067/68,Clinical Malaria,Under 5 Years,Female,4
+Rolpa,2067/68,Clinical Malaria,5 Years & Above,Male,3
+Rolpa,2067/68,Clinical Malaria,Under 5 Years,Female,15
+Rolpa,2067/68,Clinical Malaria,5 Years & Above,Male,16
+Rolpa,2067/68,Total Treatment,Under 5 Years,Female,4
+Rolpa,2067/68,Total Treatment,5 Years & Above,Male,3
+Rolpa,2067/68,Total Treatment,Under 5 Years,Female,15
+Rolpa,2067/68,Total Treatment,5 Years & Above,Male,16
+Rukum,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2067/68,Total Treatment,Under 5 Years,Female,0
+Rukum,2067/68,Total Treatment,5 Years & Above,Male,0
+Rukum,2067/68,Total Treatment,Under 5 Years,Female,0
+Rukum,2067/68,Total Treatment,5 Years & Above,Male,0
+Salyan,2067/68,Clinical Malaria,Under 5 Years,Female,9
+Salyan,2067/68,Clinical Malaria,5 Years & Above,Male,12
+Salyan,2067/68,Clinical Malaria,Under 5 Years,Female,13
+Salyan,2067/68,Clinical Malaria,5 Years & Above,Male,23
+Salyan,2067/68,Total Treatment,Under 5 Years,Female,9
+Salyan,2067/68,Total Treatment,5 Years & Above,Male,12
+Salyan,2067/68,Total Treatment,Under 5 Years,Female,13
+Salyan,2067/68,Total Treatment,5 Years & Above,Male,23
+Dang,2067/68,Clinical Malaria,Under 5 Years,Female,1009
+Dang,2067/68,Clinical Malaria,5 Years & Above,Male,853
+Dang,2067/68,Clinical Malaria,Under 5 Years,Female,1606
+Dang,2067/68,Clinical Malaria,5 Years & Above,Male,1554
+Dang,2067/68,Total Treatment,Under 5 Years,Female,1009
+Dang,2067/68,Total Treatment,5 Years & Above,Male,853
+Dang,2067/68,Total Treatment,Under 5 Years,Female,1606
+Dang,2067/68,Total Treatment,5 Years & Above,Male,1554
+Banke,2067/68,Clinical Malaria,Under 5 Years,Female,586
+Banke,2067/68,Clinical Malaria,5 Years & Above,Male,619
+Banke,2067/68,Clinical Malaria,Under 5 Years,Female,740
+Banke,2067/68,Clinical Malaria,5 Years & Above,Male,791
+Banke,2067/68,Total Treatment,Under 5 Years,Female,586
+Banke,2067/68,Total Treatment,5 Years & Above,Male,619
+Banke,2067/68,Total Treatment,Under 5 Years,Female,740
+Banke,2067/68,Total Treatment,5 Years & Above,Male,791
+Bardiya,2067/68,Clinical Malaria,Under 5 Years,Female,1832
+Bardiya,2067/68,Clinical Malaria,5 Years & Above,Male,1951
+Bardiya,2067/68,Clinical Malaria,Under 5 Years,Female,2464
+Bardiya,2067/68,Clinical Malaria,5 Years & Above,Male,2375
+Bardiya,2067/68,Total Treatment,Under 5 Years,Female,1832
+Bardiya,2067/68,Total Treatment,5 Years & Above,Male,1951
+Bardiya,2067/68,Total Treatment,Under 5 Years,Female,2464
+Bardiya,2067/68,Total Treatment,5 Years & Above,Male,2375
+Surkhet,2067/68,Clinical Malaria,Under 5 Years,Female,2002
+Surkhet,2067/68,Clinical Malaria,5 Years & Above,Male,2151
+Surkhet,2067/68,Clinical Malaria,Under 5 Years,Female,1315
+Surkhet,2067/68,Clinical Malaria,5 Years & Above,Male,1211
+Surkhet,2067/68,Total Treatment,Under 5 Years,Female,2002
+Surkhet,2067/68,Total Treatment,5 Years & Above,Male,2151
+Surkhet,2067/68,Total Treatment,Under 5 Years,Female,1315
+Surkhet,2067/68,Total Treatment,5 Years & Above,Male,1211
+Dailekh,2067/68,Clinical Malaria,Under 5 Years,Female,1
+Dailekh,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Dailekh,2067/68,Clinical Malaria,Under 5 Years,Female,1
+Dailekh,2067/68,Clinical Malaria,5 Years & Above,Male,9
+Dailekh,2067/68,Total Treatment,Under 5 Years,Female,1
+Dailekh,2067/68,Total Treatment,5 Years & Above,Male,0
+Dailekh,2067/68,Total Treatment,Under 5 Years,Female,1
+Dailekh,2067/68,Total Treatment,5 Years & Above,Male,9
+Jajarkot,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2067/68,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2067/68,Total Treatment,5 Years & Above,Male,0
+Jajarkot,2067/68,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2067/68,Total Treatment,5 Years & Above,Male,0
+Dolpa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2067/68,Total Treatment,Under 5 Years,Female,0
+Dolpa,2067/68,Total Treatment,5 Years & Above,Male,0
+Dolpa,2067/68,Total Treatment,Under 5 Years,Female,0
+Dolpa,2067/68,Total Treatment,5 Years & Above,Male,0
+Jumla,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2067/68,Total Treatment,Under 5 Years,Female,0
+Jumla,2067/68,Total Treatment,5 Years & Above,Male,0
+Jumla,2067/68,Total Treatment,Under 5 Years,Female,0
+Jumla,2067/68,Total Treatment,5 Years & Above,Male,0
+Kalikot,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2067/68,Total Treatment,Under 5 Years,Female,0
+Kalikot,2067/68,Total Treatment,5 Years & Above,Male,0
+Kalikot,2067/68,Total Treatment,Under 5 Years,Female,0
+Kalikot,2067/68,Total Treatment,5 Years & Above,Male,0
+Mugu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2067/68,Total Treatment,Under 5 Years,Female,0
+Mugu,2067/68,Total Treatment,5 Years & Above,Male,0
+Mugu,2067/68,Total Treatment,Under 5 Years,Female,0
+Mugu,2067/68,Total Treatment,5 Years & Above,Male,0
+Humla,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Humla,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Humla,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Humla,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Humla,2067/68,Total Treatment,Under 5 Years,Female,0
+Humla,2067/68,Total Treatment,5 Years & Above,Male,0
+Humla,2067/68,Total Treatment,Under 5 Years,Female,0
+Humla,2067/68,Total Treatment,5 Years & Above,Male,0
+Bajura,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Bajura,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bajura,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Bajura,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bajura,2067/68,Total Treatment,Under 5 Years,Female,0
+Bajura,2067/68,Total Treatment,5 Years & Above,Male,0
+Bajura,2067/68,Total Treatment,Under 5 Years,Female,0
+Bajura,2067/68,Total Treatment,5 Years & Above,Male,0
+Bajhang,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Bajhang,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Bajhang,2067/68,Clinical Malaria,Under 5 Years,Female,5
+Bajhang,2067/68,Clinical Malaria,5 Years & Above,Male,9
+Bajhang,2067/68,Total Treatment,Under 5 Years,Female,0
+Bajhang,2067/68,Total Treatment,5 Years & Above,Male,0
+Bajhang,2067/68,Total Treatment,Under 5 Years,Female,5
+Bajhang,2067/68,Total Treatment,5 Years & Above,Male,9
+Achham,2067/68,Clinical Malaria,Under 5 Years,Female,1
+Achham,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Achham,2067/68,Clinical Malaria,Under 5 Years,Female,7
+Achham,2067/68,Clinical Malaria,5 Years & Above,Male,36
+Achham,2067/68,Total Treatment,Under 5 Years,Female,1
+Achham,2067/68,Total Treatment,5 Years & Above,Male,0
+Achham,2067/68,Total Treatment,Under 5 Years,Female,7
+Achham,2067/68,Total Treatment,5 Years & Above,Male,36
+Doti,2067/68,Clinical Malaria,Under 5 Years,Female,6
+Doti,2067/68,Clinical Malaria,5 Years & Above,Male,1
+Doti,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Doti,2067/68,Clinical Malaria,5 Years & Above,Male,1
+Doti,2067/68,Total Treatment,Under 5 Years,Female,6
+Doti,2067/68,Total Treatment,5 Years & Above,Male,1
+Doti,2067/68,Total Treatment,Under 5 Years,Female,0
+Doti,2067/68,Total Treatment,5 Years & Above,Male,1
+Kailali,2067/68,Clinical Malaria,Under 5 Years,Female,1358
+Kailali,2067/68,Clinical Malaria,5 Years & Above,Male,1450
+Kailali,2067/68,Clinical Malaria,Under 5 Years,Female,1252
+Kailali,2067/68,Clinical Malaria,5 Years & Above,Male,1252
+Kailali,2067/68,Total Treatment,Under 5 Years,Female,1358
+Kailali,2067/68,Total Treatment,5 Years & Above,Male,1450
+Kailali,2067/68,Total Treatment,Under 5 Years,Female,1252
+Kailali,2067/68,Total Treatment,5 Years & Above,Male,1252
+Kanchanpur,2067/68,Clinical Malaria,Under 5 Years,Female,14
+Kanchanpur,2067/68,Clinical Malaria,5 Years & Above,Male,14
+Kanchanpur,2067/68,Clinical Malaria,Under 5 Years,Female,68
+Kanchanpur,2067/68,Clinical Malaria,5 Years & Above,Male,80
+Kanchanpur,2067/68,Total Treatment,Under 5 Years,Female,14
+Kanchanpur,2067/68,Total Treatment,5 Years & Above,Male,14
+Kanchanpur,2067/68,Total Treatment,Under 5 Years,Female,68
+Kanchanpur,2067/68,Total Treatment,5 Years & Above,Male,80
+Dadeldhura,2067/68,Clinical Malaria,Under 5 Years,Female,60
+Dadeldhura,2067/68,Clinical Malaria,5 Years & Above,Male,24
+Dadeldhura,2067/68,Clinical Malaria,Under 5 Years,Female,18
+Dadeldhura,2067/68,Clinical Malaria,5 Years & Above,Male,48
+Dadeldhura,2067/68,Total Treatment,Under 5 Years,Female,60
+Dadeldhura,2067/68,Total Treatment,5 Years & Above,Male,24
+Dadeldhura,2067/68,Total Treatment,Under 5 Years,Female,18
+Dadeldhura,2067/68,Total Treatment,5 Years & Above,Male,48
+Baitadi,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Baitadi,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Baitadi,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Baitadi,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Baitadi,2067/68,Total Treatment,Under 5 Years,Female,0
+Baitadi,2067/68,Total Treatment,5 Years & Above,Male,0
+Baitadi,2067/68,Total Treatment,Under 5 Years,Female,0
+Baitadi,2067/68,Total Treatment,5 Years & Above,Male,0
+Darchula,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2067/68,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2067/68,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2067/68,Total Treatment,Under 5 Years,Female,0
+Darchula,2067/68,Total Treatment,5 Years & Above,Male,0
+Darchula,2067/68,Total Treatment,Under 5 Years,Female,0
+Darchula,2067/68,Total Treatment,5 Years & Above,Male,0
+Taplejung,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2068/69,Clinical Malaria,5 Years & Above,Male,2
+Taplejung,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2068/69,Clinical Malaria,5 Years & Above,Male,2
+Taplejung,2068/69,Total Treatment,Under 5 Years,Female,0
+Taplejung,2068/69,Total Treatment,5 Years & Above,Male,2
+Taplejung,2068/69,Total Treatment,Under 5 Years,Female,0
+Taplejung,2068/69,Total Treatment,5 Years & Above,Male,3
+Panchthar,2068/69,Clinical Malaria,Under 5 Years,Female,6
+Panchthar,2068/69,Clinical Malaria,5 Years & Above,Male,10
+Panchthar,2068/69,Clinical Malaria,Under 5 Years,Female,21
+Panchthar,2068/69,Clinical Malaria,5 Years & Above,Male,33
+Panchthar,2068/69,Total Treatment,Under 5 Years,Female,6
+Panchthar,2068/69,Total Treatment,5 Years & Above,Male,10
+Panchthar,2068/69,Total Treatment,Under 5 Years,Female,22
+Panchthar,2068/69,Total Treatment,5 Years & Above,Male,39
+Ilam,2068/69,Clinical Malaria,Under 5 Years,Female,10
+Ilam,2068/69,Clinical Malaria,5 Years & Above,Male,10
+Ilam,2068/69,Clinical Malaria,Under 5 Years,Female,46
+Ilam,2068/69,Clinical Malaria,5 Years & Above,Male,42
+Ilam,2068/69,Total Treatment,Under 5 Years,Female,14
+Ilam,2068/69,Total Treatment,5 Years & Above,Male,11
+Ilam,2068/69,Total Treatment,Under 5 Years,Female,47
+Ilam,2068/69,Total Treatment,5 Years & Above,Male,51
+Jhapa,2068/69,Clinical Malaria,Under 5 Years,Female,124
+Jhapa,2068/69,Clinical Malaria,5 Years & Above,Male,136
+Jhapa,2068/69,Clinical Malaria,Under 5 Years,Female,1115
+Jhapa,2068/69,Clinical Malaria,5 Years & Above,Male,1298
+Jhapa,2068/69,Total Treatment,Under 5 Years,Female,98
+Jhapa,2068/69,Total Treatment,5 Years & Above,Male,108
+Jhapa,2068/69,Total Treatment,Under 5 Years,Female,962
+Jhapa,2068/69,Total Treatment,5 Years & Above,Male,1191
+Morang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Morang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Morang,2068/69,Clinical Malaria,Under 5 Years,Female,482
+Morang,2068/69,Clinical Malaria,5 Years & Above,Male,4064
+Morang,2068/69,Total Treatment,Under 5 Years,Female,2
+Morang,2068/69,Total Treatment,5 Years & Above,Male,2
+Morang,2068/69,Total Treatment,Under 5 Years,Female,497
+Morang,2068/69,Total Treatment,5 Years & Above,Male,4100
+Sunsari,2068/69,Clinical Malaria,Under 5 Years,Female,4
+Sunsari,2068/69,Clinical Malaria,5 Years & Above,Male,3
+Sunsari,2068/69,Clinical Malaria,Under 5 Years,Female,838
+Sunsari,2068/69,Clinical Malaria,5 Years & Above,Male,903
+Sunsari,2068/69,Total Treatment,Under 5 Years,Female,4
+Sunsari,2068/69,Total Treatment,5 Years & Above,Male,4
+Sunsari,2068/69,Total Treatment,Under 5 Years,Female,843
+Sunsari,2068/69,Total Treatment,5 Years & Above,Male,915
+Dhankuta,2068/69,Clinical Malaria,Under 5 Years,Female,7
+Dhankuta,2068/69,Clinical Malaria,5 Years & Above,Male,12
+Dhankuta,2068/69,Clinical Malaria,Under 5 Years,Female,32
+Dhankuta,2068/69,Clinical Malaria,5 Years & Above,Male,24
+Dhankuta,2068/69,Total Treatment,Under 5 Years,Female,7
+Dhankuta,2068/69,Total Treatment,5 Years & Above,Male,12
+Dhankuta,2068/69,Total Treatment,Under 5 Years,Female,32
+Dhankuta,2068/69,Total Treatment,5 Years & Above,Male,24
+Teharthum,2068/69,Clinical Malaria,Under 5 Years,Female,2
+Teharthum,2068/69,Clinical Malaria,5 Years & Above,Male,1
+Teharthum,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Teharthum,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Teharthum,2068/69,Total Treatment,Under 5 Years,Female,2
+Teharthum,2068/69,Total Treatment,5 Years & Above,Male,1
+Teharthum,2068/69,Total Treatment,Under 5 Years,Female,0
+Teharthum,2068/69,Total Treatment,5 Years & Above,Male,0
+Sankhuwasabha,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Sankhuwasabha,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Sankhuwasabha,2068/69,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2068/69,Total Treatment,5 Years & Above,Male,0
+Sankhuwasabha,2068/69,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2068/69,Total Treatment,5 Years & Above,Male,4
+Bhojpur,2068/69,Clinical Malaria,Under 5 Years,Female,6
+Bhojpur,2068/69,Clinical Malaria,5 Years & Above,Male,4
+Bhojpur,2068/69,Clinical Malaria,Under 5 Years,Female,22
+Bhojpur,2068/69,Clinical Malaria,5 Years & Above,Male,33
+Bhojpur,2068/69,Total Treatment,Under 5 Years,Female,6
+Bhojpur,2068/69,Total Treatment,5 Years & Above,Male,5
+Bhojpur,2068/69,Total Treatment,Under 5 Years,Female,25
+Bhojpur,2068/69,Total Treatment,5 Years & Above,Male,36
+Solukhumbu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2068/69,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2068/69,Total Treatment,5 Years & Above,Male,0
+Solukhumbu,2068/69,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2068/69,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Okhaldhunga,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Okhaldhunga,2068/69,Clinical Malaria,Under 5 Years,Female,1
+Okhaldhunga,2068/69,Clinical Malaria,5 Years & Above,Male,3
+Okhaldhunga,2068/69,Total Treatment,Under 5 Years,Female,0
+Okhaldhunga,2068/69,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2068/69,Total Treatment,Under 5 Years,Female,9
+Okhaldhunga,2068/69,Total Treatment,5 Years & Above,Male,27
+Khotang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Khotang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Khotang,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Khotang,2068/69,Clinical Malaria,5 Years & Above,Male,4
+Khotang,2068/69,Total Treatment,Under 5 Years,Female,0
+Khotang,2068/69,Total Treatment,5 Years & Above,Male,0
+Khotang,2068/69,Total Treatment,Under 5 Years,Female,3
+Khotang,2068/69,Total Treatment,5 Years & Above,Male,4
+Udaypur,2068/69,Clinical Malaria,Under 5 Years,Female,6
+Udaypur,2068/69,Clinical Malaria,5 Years & Above,Male,4
+Udaypur,2068/69,Clinical Malaria,Under 5 Years,Female,47
+Udaypur,2068/69,Clinical Malaria,5 Years & Above,Male,90
+Udaypur,2068/69,Total Treatment,Under 5 Years,Female,6
+Udaypur,2068/69,Total Treatment,5 Years & Above,Male,4
+Udaypur,2068/69,Total Treatment,Under 5 Years,Female,52
+Udaypur,2068/69,Total Treatment,5 Years & Above,Male,101
+Saptari,2068/69,Clinical Malaria,Under 5 Years,Female,9
+Saptari,2068/69,Clinical Malaria,5 Years & Above,Male,16
+Saptari,2068/69,Clinical Malaria,Under 5 Years,Female,840
+Saptari,2068/69,Clinical Malaria,5 Years & Above,Male,748
+Saptari,2068/69,Total Treatment,Under 5 Years,Female,9
+Saptari,2068/69,Total Treatment,5 Years & Above,Male,16
+Saptari,2068/69,Total Treatment,Under 5 Years,Female,842
+Saptari,2068/69,Total Treatment,5 Years & Above,Male,754
+Siraha,2068/69,Clinical Malaria,Under 5 Years,Female,56
+Siraha,2068/69,Clinical Malaria,5 Years & Above,Male,71
+Siraha,2068/69,Clinical Malaria,Under 5 Years,Female,1158
+Siraha,2068/69,Clinical Malaria,5 Years & Above,Male,1082
+Siraha,2068/69,Total Treatment,Under 5 Years,Female,56
+Siraha,2068/69,Total Treatment,5 Years & Above,Male,71
+Siraha,2068/69,Total Treatment,Under 5 Years,Female,1166
+Siraha,2068/69,Total Treatment,5 Years & Above,Male,1103
+Dhanusha,2068/69,Clinical Malaria,Under 5 Years,Female,1139
+Dhanusha,2068/69,Clinical Malaria,5 Years & Above,Male,1248
+Dhanusha,2068/69,Clinical Malaria,Under 5 Years,Female,4705
+Dhanusha,2068/69,Clinical Malaria,5 Years & Above,Male,5404
+Dhanusha,2068/69,Total Treatment,Under 5 Years,Female,1139
+Dhanusha,2068/69,Total Treatment,5 Years & Above,Male,1251
+Dhanusha,2068/69,Total Treatment,Under 5 Years,Female,4709
+Dhanusha,2068/69,Total Treatment,5 Years & Above,Male,5433
+Mahottari,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Mahottari,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Mahottari,2068/69,Clinical Malaria,Under 5 Years,Female,1014
+Mahottari,2068/69,Clinical Malaria,5 Years & Above,Male,3852
+Mahottari,2068/69,Total Treatment,Under 5 Years,Female,3
+Mahottari,2068/69,Total Treatment,5 Years & Above,Male,2
+Mahottari,2068/69,Total Treatment,Under 5 Years,Female,1058
+Mahottari,2068/69,Total Treatment,5 Years & Above,Male,3927
+Sarlahi,2068/69,Clinical Malaria,Under 5 Years,Female,39
+Sarlahi,2068/69,Clinical Malaria,5 Years & Above,Male,22
+Sarlahi,2068/69,Clinical Malaria,Under 5 Years,Female,626
+Sarlahi,2068/69,Clinical Malaria,5 Years & Above,Male,1334
+Sarlahi,2068/69,Total Treatment,Under 5 Years,Female,40
+Sarlahi,2068/69,Total Treatment,5 Years & Above,Male,25
+Sarlahi,2068/69,Total Treatment,Under 5 Years,Female,638
+Sarlahi,2068/69,Total Treatment,5 Years & Above,Male,1412
+Sindhuli,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Sindhuli,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Sindhuli,2068/69,Clinical Malaria,Under 5 Years,Female,114
+Sindhuli,2068/69,Clinical Malaria,5 Years & Above,Male,125
+Sindhuli,2068/69,Total Treatment,Under 5 Years,Female,0
+Sindhuli,2068/69,Total Treatment,5 Years & Above,Male,0
+Sindhuli,2068/69,Total Treatment,Under 5 Years,Female,115
+Sindhuli,2068/69,Total Treatment,5 Years & Above,Male,140
+Ramechhap,2068/69,Clinical Malaria,Under 5 Years,Female,6
+Ramechhap,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Ramechhap,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Ramechhap,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Ramechhap,2068/69,Total Treatment,Under 5 Years,Female,6
+Ramechhap,2068/69,Total Treatment,5 Years & Above,Male,0
+Ramechhap,2068/69,Total Treatment,Under 5 Years,Female,0
+Ramechhap,2068/69,Total Treatment,5 Years & Above,Male,0
+Dolkha,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2068/69,Total Treatment,Under 5 Years,Female,0
+Dolkha,2068/69,Total Treatment,5 Years & Above,Male,0
+Dolkha,2068/69,Total Treatment,Under 5 Years,Female,0
+Dolkha,2068/69,Total Treatment,5 Years & Above,Male,0
+Sindhupalchowk,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Sindhupalchowk,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Sindhupalchowk,2068/69,Clinical Malaria,Under 5 Years,Female,50
+Sindhupalchowk,2068/69,Clinical Malaria,5 Years & Above,Male,37
+Sindhupalchowk,2068/69,Total Treatment,Under 5 Years,Female,0
+Sindhupalchowk,2068/69,Total Treatment,5 Years & Above,Male,0
+Sindhupalchowk,2068/69,Total Treatment,Under 5 Years,Female,50
+Sindhupalchowk,2068/69,Total Treatment,5 Years & Above,Male,37
+Kavre,2068/69,Clinical Malaria,Under 5 Years,Female,2
+Kavre,2068/69,Clinical Malaria,5 Years & Above,Male,1
+Kavre,2068/69,Clinical Malaria,Under 5 Years,Female,63
+Kavre,2068/69,Clinical Malaria,5 Years & Above,Male,78
+Kavre,2068/69,Total Treatment,Under 5 Years,Female,2
+Kavre,2068/69,Total Treatment,5 Years & Above,Male,1
+Kavre,2068/69,Total Treatment,Under 5 Years,Female,63
+Kavre,2068/69,Total Treatment,5 Years & Above,Male,82
+Lalitpur,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2068/69,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2068/69,Total Treatment,5 Years & Above,Male,0
+Lalitpur,2068/69,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2068/69,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2068/69,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2068/69,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2068/69,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2068/69,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2068/69,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2068/69,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2068/69,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2068/69,Total Treatment,5 Years & Above,Male,0
+Nuwakot,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Nuwakot,2068/69,Clinical Malaria,5 Years & Above,Male,3
+Nuwakot,2068/69,Clinical Malaria,Under 5 Years,Female,8
+Nuwakot,2068/69,Clinical Malaria,5 Years & Above,Male,7
+Nuwakot,2068/69,Total Treatment,Under 5 Years,Female,0
+Nuwakot,2068/69,Total Treatment,5 Years & Above,Male,3
+Nuwakot,2068/69,Total Treatment,Under 5 Years,Female,9
+Nuwakot,2068/69,Total Treatment,5 Years & Above,Male,7
+Rasuwa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2068/69,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2068/69,Total Treatment,5 Years & Above,Male,0
+Rasuwa,2068/69,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2068/69,Total Treatment,5 Years & Above,Male,0
+Dhading,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Dhading,2068/69,Clinical Malaria,5 Years & Above,Male,1
+Dhading,2068/69,Clinical Malaria,Under 5 Years,Female,25
+Dhading,2068/69,Clinical Malaria,5 Years & Above,Male,41
+Dhading,2068/69,Total Treatment,Under 5 Years,Female,3
+Dhading,2068/69,Total Treatment,5 Years & Above,Male,1
+Dhading,2068/69,Total Treatment,Under 5 Years,Female,25
+Dhading,2068/69,Total Treatment,5 Years & Above,Male,42
+Makawanpur,2068/69,Clinical Malaria,Under 5 Years,Female,16
+Makawanpur,2068/69,Clinical Malaria,5 Years & Above,Male,13
+Makawanpur,2068/69,Clinical Malaria,Under 5 Years,Female,103
+Makawanpur,2068/69,Clinical Malaria,5 Years & Above,Male,120
+Makawanpur,2068/69,Total Treatment,Under 5 Years,Female,22
+Makawanpur,2068/69,Total Treatment,5 Years & Above,Male,16
+Makawanpur,2068/69,Total Treatment,Under 5 Years,Female,116
+Makawanpur,2068/69,Total Treatment,5 Years & Above,Male,128
+Rautahat,2068/69,Clinical Malaria,Under 5 Years,Female,97
+Rautahat,2068/69,Clinical Malaria,5 Years & Above,Male,57
+Rautahat,2068/69,Clinical Malaria,Under 5 Years,Female,1115
+Rautahat,2068/69,Clinical Malaria,5 Years & Above,Male,1287
+Rautahat,2068/69,Total Treatment,Under 5 Years,Female,106
+Rautahat,2068/69,Total Treatment,5 Years & Above,Male,65
+Rautahat,2068/69,Total Treatment,Under 5 Years,Female,1031
+Rautahat,2068/69,Total Treatment,5 Years & Above,Male,1188
+Bara,2068/69,Clinical Malaria,Under 5 Years,Female,15
+Bara,2068/69,Clinical Malaria,5 Years & Above,Male,15
+Bara,2068/69,Clinical Malaria,Under 5 Years,Female,725
+Bara,2068/69,Clinical Malaria,5 Years & Above,Male,912
+Bara,2068/69,Total Treatment,Under 5 Years,Female,15
+Bara,2068/69,Total Treatment,5 Years & Above,Male,15
+Bara,2068/69,Total Treatment,Under 5 Years,Female,734
+Bara,2068/69,Total Treatment,5 Years & Above,Male,927
+Parsa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2068/69,Total Treatment,Under 5 Years,Female,0
+Parsa,2068/69,Total Treatment,5 Years & Above,Male,0
+Parsa,2068/69,Total Treatment,Under 5 Years,Female,0
+Parsa,2068/69,Total Treatment,5 Years & Above,Male,0
+Chitwan,2068/69,Clinical Malaria,Under 5 Years,Female,2
+Chitwan,2068/69,Clinical Malaria,5 Years & Above,Male,3
+Chitwan,2068/69,Clinical Malaria,Under 5 Years,Female,79
+Chitwan,2068/69,Clinical Malaria,5 Years & Above,Male,97
+Chitwan,2068/69,Total Treatment,Under 5 Years,Female,2
+Chitwan,2068/69,Total Treatment,5 Years & Above,Male,3
+Chitwan,2068/69,Total Treatment,Under 5 Years,Female,83
+Chitwan,2068/69,Total Treatment,5 Years & Above,Male,120
+Gorkha,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Gorkha,2068/69,Clinical Malaria,5 Years & Above,Male,8
+Gorkha,2068/69,Clinical Malaria,Under 5 Years,Female,18
+Gorkha,2068/69,Clinical Malaria,5 Years & Above,Male,24
+Gorkha,2068/69,Total Treatment,Under 5 Years,Female,3
+Gorkha,2068/69,Total Treatment,5 Years & Above,Male,8
+Gorkha,2068/69,Total Treatment,Under 5 Years,Female,20
+Gorkha,2068/69,Total Treatment,5 Years & Above,Male,28
+Lamjung,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Lamjung,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Lamjung,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Lamjung,2068/69,Clinical Malaria,5 Years & Above,Male,7
+Lamjung,2068/69,Total Treatment,Under 5 Years,Female,0
+Lamjung,2068/69,Total Treatment,5 Years & Above,Male,0
+Lamjung,2068/69,Total Treatment,Under 5 Years,Female,2
+Lamjung,2068/69,Total Treatment,5 Years & Above,Male,5
+Tanahu,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Tanahu,2068/69,Clinical Malaria,5 Years & Above,Male,2
+Tanahu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Tanahu,2068/69,Clinical Malaria,5 Years & Above,Male,18
+Tanahu,2068/69,Total Treatment,Under 5 Years,Female,0
+Tanahu,2068/69,Total Treatment,5 Years & Above,Male,0
+Tanahu,2068/69,Total Treatment,Under 5 Years,Female,12
+Tanahu,2068/69,Total Treatment,5 Years & Above,Male,6
+Syangja,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Syangja,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Syangja,2068/69,Clinical Malaria,Under 5 Years,Female,1
+Syangja,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Syangja,2068/69,Total Treatment,Under 5 Years,Female,0
+Syangja,2068/69,Total Treatment,5 Years & Above,Male,1
+Syangja,2068/69,Total Treatment,Under 5 Years,Female,1
+Syangja,2068/69,Total Treatment,5 Years & Above,Male,3
+Kaski,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Kaski,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Kaski,2068/69,Clinical Malaria,Under 5 Years,Female,40
+Kaski,2068/69,Clinical Malaria,5 Years & Above,Male,41
+Kaski,2068/69,Total Treatment,Under 5 Years,Female,4
+Kaski,2068/69,Total Treatment,5 Years & Above,Male,4
+Kaski,2068/69,Total Treatment,Under 5 Years,Female,49
+Kaski,2068/69,Total Treatment,5 Years & Above,Male,65
+Manang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Manang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Manang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Manang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Manang,2068/69,Total Treatment,Under 5 Years,Female,0
+Manang,2068/69,Total Treatment,5 Years & Above,Male,0
+Manang,2068/69,Total Treatment,Under 5 Years,Female,0
+Manang,2068/69,Total Treatment,5 Years & Above,Male,0
+Mustang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2068/69,Total Treatment,Under 5 Years,Female,0
+Mustang,2068/69,Total Treatment,5 Years & Above,Male,0
+Mustang,2068/69,Total Treatment,Under 5 Years,Female,0
+Mustang,2068/69,Total Treatment,5 Years & Above,Male,0
+Myagdi,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Myagdi,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2068/69,Clinical Malaria,5 Years & Above,Male,1
+Myagdi,2068/69,Total Treatment,Under 5 Years,Female,0
+Myagdi,2068/69,Total Treatment,5 Years & Above,Male,0
+Myagdi,2068/69,Total Treatment,Under 5 Years,Female,0
+Myagdi,2068/69,Total Treatment,5 Years & Above,Male,2
+Parbat,2068/69,Clinical Malaria,Under 5 Years,Female,7
+Parbat,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Parbat,2068/69,Clinical Malaria,Under 5 Years,Female,9
+Parbat,2068/69,Clinical Malaria,5 Years & Above,Male,33
+Parbat,2068/69,Total Treatment,Under 5 Years,Female,7
+Parbat,2068/69,Total Treatment,5 Years & Above,Male,0
+Parbat,2068/69,Total Treatment,Under 5 Years,Female,9
+Parbat,2068/69,Total Treatment,5 Years & Above,Male,37
+Baglung,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2068/69,Total Treatment,Under 5 Years,Female,0
+Baglung,2068/69,Total Treatment,5 Years & Above,Male,0
+Baglung,2068/69,Total Treatment,Under 5 Years,Female,0
+Baglung,2068/69,Total Treatment,5 Years & Above,Male,1
+Gulmi,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Gulmi,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Gulmi,2068/69,Clinical Malaria,Under 5 Years,Female,37
+Gulmi,2068/69,Clinical Malaria,5 Years & Above,Male,69
+Gulmi,2068/69,Total Treatment,Under 5 Years,Female,0
+Gulmi,2068/69,Total Treatment,5 Years & Above,Male,0
+Gulmi,2068/69,Total Treatment,Under 5 Years,Female,42
+Gulmi,2068/69,Total Treatment,5 Years & Above,Male,75
+Palpa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Palpa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Palpa,2068/69,Clinical Malaria,Under 5 Years,Female,44
+Palpa,2068/69,Clinical Malaria,5 Years & Above,Male,74
+Palpa,2068/69,Total Treatment,Under 5 Years,Female,0
+Palpa,2068/69,Total Treatment,5 Years & Above,Male,0
+Palpa,2068/69,Total Treatment,Under 5 Years,Female,50
+Palpa,2068/69,Total Treatment,5 Years & Above,Male,86
+Nawalparasi,2068/69,Clinical Malaria,Under 5 Years,Female,74
+Nawalparasi,2068/69,Clinical Malaria,5 Years & Above,Male,96
+Nawalparasi,2068/69,Clinical Malaria,Under 5 Years,Female,721
+Nawalparasi,2068/69,Clinical Malaria,5 Years & Above,Male,763
+Nawalparasi,2068/69,Total Treatment,Under 5 Years,Female,75
+Nawalparasi,2068/69,Total Treatment,5 Years & Above,Male,96
+Nawalparasi,2068/69,Total Treatment,Under 5 Years,Female,725
+Nawalparasi,2068/69,Total Treatment,5 Years & Above,Male,808
+Rupandehi,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rupandehi,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rupandehi,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rupandehi,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rupandehi,2068/69,Total Treatment,Under 5 Years,Female,0
+Rupandehi,2068/69,Total Treatment,5 Years & Above,Male,0
+Rupandehi,2068/69,Total Treatment,Under 5 Years,Female,0
+Rupandehi,2068/69,Total Treatment,5 Years & Above,Male,0
+Kapilvastu,2068/69,Clinical Malaria,Under 5 Years,Female,123
+Kapilvastu,2068/69,Clinical Malaria,5 Years & Above,Male,136
+Kapilvastu,2068/69,Clinical Malaria,Under 5 Years,Female,544
+Kapilvastu,2068/69,Clinical Malaria,5 Years & Above,Male,707
+Kapilvastu,2068/69,Total Treatment,Under 5 Years,Female,118
+Kapilvastu,2068/69,Total Treatment,5 Years & Above,Male,133
+Kapilvastu,2068/69,Total Treatment,Under 5 Years,Female,441
+Kapilvastu,2068/69,Total Treatment,5 Years & Above,Male,680
+Arghakhanchi,2068/69,Clinical Malaria,Under 5 Years,Female,40
+Arghakhanchi,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Arghakhanchi,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Arghakhanchi,2068/69,Clinical Malaria,5 Years & Above,Male,5
+Arghakhanchi,2068/69,Total Treatment,Under 5 Years,Female,25
+Arghakhanchi,2068/69,Total Treatment,5 Years & Above,Male,0
+Arghakhanchi,2068/69,Total Treatment,Under 5 Years,Female,0
+Arghakhanchi,2068/69,Total Treatment,5 Years & Above,Male,0
+Pyuthan,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Pyuthan,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2068/69,Clinical Malaria,5 Years & Above,Male,1
+Pyuthan,2068/69,Total Treatment,Under 5 Years,Female,0
+Pyuthan,2068/69,Total Treatment,5 Years & Above,Male,0
+Pyuthan,2068/69,Total Treatment,Under 5 Years,Female,0
+Pyuthan,2068/69,Total Treatment,5 Years & Above,Male,1
+Rolpa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rolpa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rolpa,2068/69,Clinical Malaria,Under 5 Years,Female,4
+Rolpa,2068/69,Clinical Malaria,5 Years & Above,Male,5
+Rolpa,2068/69,Total Treatment,Under 5 Years,Female,0
+Rolpa,2068/69,Total Treatment,5 Years & Above,Male,0
+Rolpa,2068/69,Total Treatment,Under 5 Years,Female,4
+Rolpa,2068/69,Total Treatment,5 Years & Above,Male,5
+Rukum,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2068/69,Total Treatment,Under 5 Years,Female,0
+Rukum,2068/69,Total Treatment,5 Years & Above,Male,0
+Rukum,2068/69,Total Treatment,Under 5 Years,Female,0
+Rukum,2068/69,Total Treatment,5 Years & Above,Male,0
+Salyan,2068/69,Clinical Malaria,Under 5 Years,Female,19
+Salyan,2068/69,Clinical Malaria,5 Years & Above,Male,36
+Salyan,2068/69,Clinical Malaria,Under 5 Years,Female,68
+Salyan,2068/69,Clinical Malaria,5 Years & Above,Male,77
+Salyan,2068/69,Total Treatment,Under 5 Years,Female,19
+Salyan,2068/69,Total Treatment,5 Years & Above,Male,36
+Salyan,2068/69,Total Treatment,Under 5 Years,Female,68
+Salyan,2068/69,Total Treatment,5 Years & Above,Male,77
+Dang,2068/69,Clinical Malaria,Under 5 Years,Female,1936
+Dang,2068/69,Clinical Malaria,5 Years & Above,Male,1856
+Dang,2068/69,Clinical Malaria,Under 5 Years,Female,731
+Dang,2068/69,Clinical Malaria,5 Years & Above,Male,810
+Dang,2068/69,Total Treatment,Under 5 Years,Female,1956
+Dang,2068/69,Total Treatment,5 Years & Above,Male,1876
+Dang,2068/69,Total Treatment,Under 5 Years,Female,745
+Dang,2068/69,Total Treatment,5 Years & Above,Male,845
+Banke,2068/69,Clinical Malaria,Under 5 Years,Female,1462
+Banke,2068/69,Clinical Malaria,5 Years & Above,Male,1423
+Banke,2068/69,Clinical Malaria,Under 5 Years,Female,792
+Banke,2068/69,Clinical Malaria,5 Years & Above,Male,779
+Banke,2068/69,Total Treatment,Under 5 Years,Female,1462
+Banke,2068/69,Total Treatment,5 Years & Above,Male,1423
+Banke,2068/69,Total Treatment,Under 5 Years,Female,798
+Banke,2068/69,Total Treatment,5 Years & Above,Male,849
+Bardiya,2068/69,Clinical Malaria,Under 5 Years,Female,1457
+Bardiya,2068/69,Clinical Malaria,5 Years & Above,Male,1475
+Bardiya,2068/69,Clinical Malaria,Under 5 Years,Female,1695
+Bardiya,2068/69,Clinical Malaria,5 Years & Above,Male,1742
+Bardiya,2068/69,Total Treatment,Under 5 Years,Female,1463
+Bardiya,2068/69,Total Treatment,5 Years & Above,Male,1480
+Bardiya,2068/69,Total Treatment,Under 5 Years,Female,1729
+Bardiya,2068/69,Total Treatment,5 Years & Above,Male,1830
+Surkhet,2068/69,Clinical Malaria,Under 5 Years,Female,1932
+Surkhet,2068/69,Clinical Malaria,5 Years & Above,Male,1598
+Surkhet,2068/69,Clinical Malaria,Under 5 Years,Female,1091
+Surkhet,2068/69,Clinical Malaria,5 Years & Above,Male,1117
+Surkhet,2068/69,Total Treatment,Under 5 Years,Female,1933
+Surkhet,2068/69,Total Treatment,5 Years & Above,Male,1600
+Surkhet,2068/69,Total Treatment,Under 5 Years,Female,1115
+Surkhet,2068/69,Total Treatment,5 Years & Above,Male,1165
+Dailekh,2068/69,Clinical Malaria,Under 5 Years,Female,1
+Dailekh,2068/69,Clinical Malaria,5 Years & Above,Male,2
+Dailekh,2068/69,Clinical Malaria,Under 5 Years,Female,5
+Dailekh,2068/69,Clinical Malaria,5 Years & Above,Male,6
+Dailekh,2068/69,Total Treatment,Under 5 Years,Female,1
+Dailekh,2068/69,Total Treatment,5 Years & Above,Male,2
+Dailekh,2068/69,Total Treatment,Under 5 Years,Female,17
+Dailekh,2068/69,Total Treatment,5 Years & Above,Male,17
+Jajarkot,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2068/69,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2068/69,Total Treatment,5 Years & Above,Male,0
+Jajarkot,2068/69,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2068/69,Total Treatment,5 Years & Above,Male,0
+Dolpa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2068/69,Total Treatment,Under 5 Years,Female,0
+Dolpa,2068/69,Total Treatment,5 Years & Above,Male,0
+Dolpa,2068/69,Total Treatment,Under 5 Years,Female,0
+Dolpa,2068/69,Total Treatment,5 Years & Above,Male,0
+Jumla,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2068/69,Total Treatment,Under 5 Years,Female,0
+Jumla,2068/69,Total Treatment,5 Years & Above,Male,0
+Jumla,2068/69,Total Treatment,Under 5 Years,Female,0
+Jumla,2068/69,Total Treatment,5 Years & Above,Male,1
+Kalikot,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2068/69,Total Treatment,Under 5 Years,Female,0
+Kalikot,2068/69,Total Treatment,5 Years & Above,Male,0
+Kalikot,2068/69,Total Treatment,Under 5 Years,Female,0
+Kalikot,2068/69,Total Treatment,5 Years & Above,Male,4
+Mugu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2068/69,Total Treatment,Under 5 Years,Female,0
+Mugu,2068/69,Total Treatment,5 Years & Above,Male,0
+Mugu,2068/69,Total Treatment,Under 5 Years,Female,0
+Mugu,2068/69,Total Treatment,5 Years & Above,Male,0
+Humla,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Humla,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Humla,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Humla,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Humla,2068/69,Total Treatment,Under 5 Years,Female,0
+Humla,2068/69,Total Treatment,5 Years & Above,Male,0
+Humla,2068/69,Total Treatment,Under 5 Years,Female,0
+Humla,2068/69,Total Treatment,5 Years & Above,Male,0
+Bajura,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Bajura,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Bajura,2068/69,Clinical Malaria,Under 5 Years,Female,7
+Bajura,2068/69,Clinical Malaria,5 Years & Above,Male,10
+Bajura,2068/69,Total Treatment,Under 5 Years,Female,0
+Bajura,2068/69,Total Treatment,5 Years & Above,Male,0
+Bajura,2068/69,Total Treatment,Under 5 Years,Female,7
+Bajura,2068/69,Total Treatment,5 Years & Above,Male,10
+Bajhang,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Bajhang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Bajhang,2068/69,Clinical Malaria,Under 5 Years,Female,2
+Bajhang,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Bajhang,2068/69,Total Treatment,Under 5 Years,Female,0
+Bajhang,2068/69,Total Treatment,5 Years & Above,Male,0
+Bajhang,2068/69,Total Treatment,Under 5 Years,Female,2
+Bajhang,2068/69,Total Treatment,5 Years & Above,Male,2
+Achham,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Achham,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Achham,2068/69,Clinical Malaria,Under 5 Years,Female,16
+Achham,2068/69,Clinical Malaria,5 Years & Above,Male,15
+Achham,2068/69,Total Treatment,Under 5 Years,Female,0
+Achham,2068/69,Total Treatment,5 Years & Above,Male,1
+Achham,2068/69,Total Treatment,Under 5 Years,Female,18
+Achham,2068/69,Total Treatment,5 Years & Above,Male,58
+Doti,2068/69,Clinical Malaria,Under 5 Years,Female,74
+Doti,2068/69,Clinical Malaria,5 Years & Above,Male,83
+Doti,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Doti,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Doti,2068/69,Total Treatment,Under 5 Years,Female,5
+Doti,2068/69,Total Treatment,5 Years & Above,Male,12
+Doti,2068/69,Total Treatment,Under 5 Years,Female,0
+Doti,2068/69,Total Treatment,5 Years & Above,Male,0
+Kailali,2068/69,Clinical Malaria,Under 5 Years,Female,1018
+Kailali,2068/69,Clinical Malaria,5 Years & Above,Male,990
+Kailali,2068/69,Clinical Malaria,Under 5 Years,Female,904
+Kailali,2068/69,Clinical Malaria,5 Years & Above,Male,954
+Kailali,2068/69,Total Treatment,Under 5 Years,Female,1019
+Kailali,2068/69,Total Treatment,5 Years & Above,Male,993
+Kailali,2068/69,Total Treatment,Under 5 Years,Female,1046
+Kailali,2068/69,Total Treatment,5 Years & Above,Male,1409
+Kanchanpur,2068/69,Clinical Malaria,Under 5 Years,Female,12
+Kanchanpur,2068/69,Clinical Malaria,5 Years & Above,Male,13
+Kanchanpur,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Kanchanpur,2068/69,Clinical Malaria,5 Years & Above,Male,11
+Kanchanpur,2068/69,Total Treatment,Under 5 Years,Female,13
+Kanchanpur,2068/69,Total Treatment,5 Years & Above,Male,16
+Kanchanpur,2068/69,Total Treatment,Under 5 Years,Female,49
+Kanchanpur,2068/69,Total Treatment,5 Years & Above,Male,146
+Dadeldhura,2068/69,Clinical Malaria,Under 5 Years,Female,33
+Dadeldhura,2068/69,Clinical Malaria,5 Years & Above,Male,3
+Dadeldhura,2068/69,Clinical Malaria,Under 5 Years,Female,28
+Dadeldhura,2068/69,Clinical Malaria,5 Years & Above,Male,17
+Dadeldhura,2068/69,Total Treatment,Under 5 Years,Female,33
+Dadeldhura,2068/69,Total Treatment,5 Years & Above,Male,3
+Dadeldhura,2068/69,Total Treatment,Under 5 Years,Female,44
+Dadeldhura,2068/69,Total Treatment,5 Years & Above,Male,37
+Baitadi,2068/69,Clinical Malaria,Under 5 Years,Female,3
+Baitadi,2068/69,Clinical Malaria,5 Years & Above,Male,6
+Baitadi,2068/69,Clinical Malaria,Under 5 Years,Female,26
+Baitadi,2068/69,Clinical Malaria,5 Years & Above,Male,19
+Baitadi,2068/69,Total Treatment,Under 5 Years,Female,1
+Baitadi,2068/69,Total Treatment,5 Years & Above,Male,3
+Baitadi,2068/69,Total Treatment,Under 5 Years,Female,68
+Baitadi,2068/69,Total Treatment,5 Years & Above,Male,39
+Darchula,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2068/69,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2068/69,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2068/69,Total Treatment,Under 5 Years,Female,0
+Darchula,2068/69,Total Treatment,5 Years & Above,Male,0
+Darchula,2068/69,Total Treatment,Under 5 Years,Female,0
+Darchula,2068/69,Total Treatment,5 Years & Above,Male,0
+Taplejung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Taplejung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Taplejung,2069/70,Clinical Malaria,5 Years & Above,Male,3
+Taplejung,2069/70,Total Treatment,Under 5 Years,Female,0
+Taplejung,2069/70,Total Treatment,5 Years & Above,Male,0
+Taplejung,2069/70,Total Treatment,Under 5 Years,Female,0
+Taplejung,2069/70,Total Treatment,5 Years & Above,Male,3
+Panchthar,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Panchthar,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Panchthar,2069/70,Clinical Malaria,Under 5 Years,Female,7
+Panchthar,2069/70,Clinical Malaria,5 Years & Above,Male,10
+Panchthar,2069/70,Total Treatment,Under 5 Years,Female,0
+Panchthar,2069/70,Total Treatment,5 Years & Above,Male,0
+Panchthar,2069/70,Total Treatment,Under 5 Years,Female,1
+Panchthar,2069/70,Total Treatment,5 Years & Above,Male,3
+Ilam,2069/70,Clinical Malaria,Under 5 Years,Female,6
+Ilam,2069/70,Clinical Malaria,5 Years & Above,Male,6
+Ilam,2069/70,Clinical Malaria,Under 5 Years,Female,18
+Ilam,2069/70,Clinical Malaria,5 Years & Above,Male,23
+Ilam,2069/70,Total Treatment,Under 5 Years,Female,2
+Ilam,2069/70,Total Treatment,5 Years & Above,Male,3
+Ilam,2069/70,Total Treatment,Under 5 Years,Female,12
+Ilam,2069/70,Total Treatment,5 Years & Above,Male,17
+Jhapa,2069/70,Clinical Malaria,Under 5 Years,Female,104
+Jhapa,2069/70,Clinical Malaria,5 Years & Above,Male,115
+Jhapa,2069/70,Clinical Malaria,Under 5 Years,Female,858
+Jhapa,2069/70,Clinical Malaria,5 Years & Above,Male,981
+Jhapa,2069/70,Total Treatment,Under 5 Years,Female,5
+Jhapa,2069/70,Total Treatment,5 Years & Above,Male,5
+Jhapa,2069/70,Total Treatment,Under 5 Years,Female,126
+Jhapa,2069/70,Total Treatment,5 Years & Above,Male,169
+Morang,2069/70,Clinical Malaria,Under 5 Years,Female,479
+Morang,2069/70,Clinical Malaria,5 Years & Above,Male,380
+Morang,2069/70,Clinical Malaria,Under 5 Years,Female,1498
+Morang,2069/70,Clinical Malaria,5 Years & Above,Male,1811
+Morang,2069/70,Total Treatment,Under 5 Years,Female,373
+Morang,2069/70,Total Treatment,5 Years & Above,Male,299
+Morang,2069/70,Total Treatment,Under 5 Years,Female,1232
+Morang,2069/70,Total Treatment,5 Years & Above,Male,1472
+Sunsari,2069/70,Clinical Malaria,Under 5 Years,Female,3
+Sunsari,2069/70,Clinical Malaria,5 Years & Above,Male,2
+Sunsari,2069/70,Clinical Malaria,Under 5 Years,Female,658
+Sunsari,2069/70,Clinical Malaria,5 Years & Above,Male,673
+Sunsari,2069/70,Total Treatment,Under 5 Years,Female,4
+Sunsari,2069/70,Total Treatment,5 Years & Above,Male,3
+Sunsari,2069/70,Total Treatment,Under 5 Years,Female,587
+Sunsari,2069/70,Total Treatment,5 Years & Above,Male,593
+Dhankuta,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Dhankuta,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dhankuta,2069/70,Clinical Malaria,Under 5 Years,Female,76
+Dhankuta,2069/70,Clinical Malaria,5 Years & Above,Male,65
+Dhankuta,2069/70,Total Treatment,Under 5 Years,Female,2
+Dhankuta,2069/70,Total Treatment,5 Years & Above,Male,0
+Dhankuta,2069/70,Total Treatment,Under 5 Years,Female,48
+Dhankuta,2069/70,Total Treatment,5 Years & Above,Male,38
+Teharthum,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Teharthum,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Teharthum,2069/70,Clinical Malaria,Under 5 Years,Female,2
+Teharthum,2069/70,Clinical Malaria,5 Years & Above,Male,4
+Teharthum,2069/70,Total Treatment,Under 5 Years,Female,1
+Teharthum,2069/70,Total Treatment,5 Years & Above,Male,0
+Teharthum,2069/70,Total Treatment,Under 5 Years,Female,2
+Teharthum,2069/70,Total Treatment,5 Years & Above,Male,5
+Sankhuwasabha,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Sankhuwasabha,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Sankhuwasabha,2069/70,Clinical Malaria,5 Years & Above,Male,2
+Sankhuwasabha,2069/70,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2069/70,Total Treatment,5 Years & Above,Male,0
+Sankhuwasabha,2069/70,Total Treatment,Under 5 Years,Female,0
+Sankhuwasabha,2069/70,Total Treatment,5 Years & Above,Male,2
+Bhojpur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Bhojpur,2069/70,Clinical Malaria,5 Years & Above,Male,5
+Bhojpur,2069/70,Clinical Malaria,Under 5 Years,Female,37
+Bhojpur,2069/70,Clinical Malaria,5 Years & Above,Male,35
+Bhojpur,2069/70,Total Treatment,Under 5 Years,Female,0
+Bhojpur,2069/70,Total Treatment,5 Years & Above,Male,5
+Bhojpur,2069/70,Total Treatment,Under 5 Years,Female,37
+Bhojpur,2069/70,Total Treatment,5 Years & Above,Male,38
+Solukhumbu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Solukhumbu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Solukhumbu,2069/70,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2069/70,Total Treatment,5 Years & Above,Male,0
+Solukhumbu,2069/70,Total Treatment,Under 5 Years,Female,0
+Solukhumbu,2069/70,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Okhaldhunga,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Okhaldhunga,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Okhaldhunga,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Okhaldhunga,2069/70,Total Treatment,Under 5 Years,Female,1
+Okhaldhunga,2069/70,Total Treatment,5 Years & Above,Male,0
+Okhaldhunga,2069/70,Total Treatment,Under 5 Years,Female,5
+Okhaldhunga,2069/70,Total Treatment,5 Years & Above,Male,3
+Khotang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Khotang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Khotang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Khotang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Khotang,2069/70,Total Treatment,Under 5 Years,Female,0
+Khotang,2069/70,Total Treatment,5 Years & Above,Male,0
+Khotang,2069/70,Total Treatment,Under 5 Years,Female,0
+Khotang,2069/70,Total Treatment,5 Years & Above,Male,0
+Udaypur,2069/70,Clinical Malaria,Under 5 Years,Female,6
+Udaypur,2069/70,Clinical Malaria,5 Years & Above,Male,4
+Udaypur,2069/70,Clinical Malaria,Under 5 Years,Female,33
+Udaypur,2069/70,Clinical Malaria,5 Years & Above,Male,45
+Udaypur,2069/70,Total Treatment,Under 5 Years,Female,0
+Udaypur,2069/70,Total Treatment,5 Years & Above,Male,1
+Udaypur,2069/70,Total Treatment,Under 5 Years,Female,14
+Udaypur,2069/70,Total Treatment,5 Years & Above,Male,24
+Saptari,2069/70,Clinical Malaria,Under 5 Years,Female,31
+Saptari,2069/70,Clinical Malaria,5 Years & Above,Male,29
+Saptari,2069/70,Clinical Malaria,Under 5 Years,Female,925
+Saptari,2069/70,Clinical Malaria,5 Years & Above,Male,856
+Saptari,2069/70,Total Treatment,Under 5 Years,Female,26
+Saptari,2069/70,Total Treatment,5 Years & Above,Male,28
+Saptari,2069/70,Total Treatment,Under 5 Years,Female,704
+Saptari,2069/70,Total Treatment,5 Years & Above,Male,678
+Siraha,2069/70,Clinical Malaria,Under 5 Years,Female,58
+Siraha,2069/70,Clinical Malaria,5 Years & Above,Male,42
+Siraha,2069/70,Clinical Malaria,Under 5 Years,Female,688
+Siraha,2069/70,Clinical Malaria,5 Years & Above,Male,597
+Siraha,2069/70,Total Treatment,Under 5 Years,Female,1
+Siraha,2069/70,Total Treatment,5 Years & Above,Male,0
+Siraha,2069/70,Total Treatment,Under 5 Years,Female,62
+Siraha,2069/70,Total Treatment,5 Years & Above,Male,54
+Dhanusha,2069/70,Clinical Malaria,Under 5 Years,Female,852
+Dhanusha,2069/70,Clinical Malaria,5 Years & Above,Male,894
+Dhanusha,2069/70,Clinical Malaria,Under 5 Years,Female,3007
+Dhanusha,2069/70,Clinical Malaria,5 Years & Above,Male,3231
+Dhanusha,2069/70,Total Treatment,Under 5 Years,Female,22
+Dhanusha,2069/70,Total Treatment,5 Years & Above,Male,19
+Dhanusha,2069/70,Total Treatment,Under 5 Years,Female,108
+Dhanusha,2069/70,Total Treatment,5 Years & Above,Male,105
+Mahottari,2069/70,Clinical Malaria,Under 5 Years,Female,345
+Mahottari,2069/70,Clinical Malaria,5 Years & Above,Male,330
+Mahottari,2069/70,Clinical Malaria,Under 5 Years,Female,1186
+Mahottari,2069/70,Clinical Malaria,5 Years & Above,Male,1337
+Mahottari,2069/70,Total Treatment,Under 5 Years,Female,233
+Mahottari,2069/70,Total Treatment,5 Years & Above,Male,241
+Mahottari,2069/70,Total Treatment,Under 5 Years,Female,781
+Mahottari,2069/70,Total Treatment,5 Years & Above,Male,890
+Sarlahi,2069/70,Clinical Malaria,Under 5 Years,Female,10
+Sarlahi,2069/70,Clinical Malaria,5 Years & Above,Male,10
+Sarlahi,2069/70,Clinical Malaria,Under 5 Years,Female,429
+Sarlahi,2069/70,Clinical Malaria,5 Years & Above,Male,777
+Sarlahi,2069/70,Total Treatment,Under 5 Years,Female,2
+Sarlahi,2069/70,Total Treatment,5 Years & Above,Male,4
+Sarlahi,2069/70,Total Treatment,Under 5 Years,Female,85
+Sarlahi,2069/70,Total Treatment,5 Years & Above,Male,152
+Sindhuli,2069/70,Clinical Malaria,Under 5 Years,Female,10
+Sindhuli,2069/70,Clinical Malaria,5 Years & Above,Male,11
+Sindhuli,2069/70,Clinical Malaria,Under 5 Years,Female,170
+Sindhuli,2069/70,Clinical Malaria,5 Years & Above,Male,218
+Sindhuli,2069/70,Total Treatment,Under 5 Years,Female,0
+Sindhuli,2069/70,Total Treatment,5 Years & Above,Male,0
+Sindhuli,2069/70,Total Treatment,Under 5 Years,Female,27
+Sindhuli,2069/70,Total Treatment,5 Years & Above,Male,33
+Ramechhap,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Ramechhap,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Ramechhap,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Ramechhap,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Ramechhap,2069/70,Total Treatment,Under 5 Years,Female,0
+Ramechhap,2069/70,Total Treatment,5 Years & Above,Male,0
+Ramechhap,2069/70,Total Treatment,Under 5 Years,Female,0
+Ramechhap,2069/70,Total Treatment,5 Years & Above,Male,0
+Dolkha,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dolkha,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dolkha,2069/70,Total Treatment,Under 5 Years,Female,0
+Dolkha,2069/70,Total Treatment,5 Years & Above,Male,0
+Dolkha,2069/70,Total Treatment,Under 5 Years,Female,0
+Dolkha,2069/70,Total Treatment,5 Years & Above,Male,0
+Sindhupalchowk,2069/70,Clinical Malaria,Under 5 Years,Female,2
+Sindhupalchowk,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Sindhupalchowk,2069/70,Clinical Malaria,Under 5 Years,Female,37
+Sindhupalchowk,2069/70,Clinical Malaria,5 Years & Above,Male,34
+Sindhupalchowk,2069/70,Total Treatment,Under 5 Years,Female,0
+Sindhupalchowk,2069/70,Total Treatment,5 Years & Above,Male,0
+Sindhupalchowk,2069/70,Total Treatment,Under 5 Years,Female,18
+Sindhupalchowk,2069/70,Total Treatment,5 Years & Above,Male,16
+Kavre,2069/70,Clinical Malaria,Under 5 Years,Female,3
+Kavre,2069/70,Clinical Malaria,5 Years & Above,Male,2
+Kavre,2069/70,Clinical Malaria,Under 5 Years,Female,14
+Kavre,2069/70,Clinical Malaria,5 Years & Above,Male,20
+Kavre,2069/70,Total Treatment,Under 5 Years,Female,2
+Kavre,2069/70,Total Treatment,5 Years & Above,Male,1
+Kavre,2069/70,Total Treatment,Under 5 Years,Female,13
+Kavre,2069/70,Total Treatment,5 Years & Above,Male,16
+Lalitpur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Lalitpur,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Lalitpur,2069/70,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2069/70,Total Treatment,5 Years & Above,Male,0
+Lalitpur,2069/70,Total Treatment,Under 5 Years,Female,0
+Lalitpur,2069/70,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Bhaktapur,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Bhaktapur,2069/70,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2069/70,Total Treatment,5 Years & Above,Male,0
+Bhaktapur,2069/70,Total Treatment,Under 5 Years,Female,0
+Bhaktapur,2069/70,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kathmandu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Kathmandu,2069/70,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2069/70,Total Treatment,5 Years & Above,Male,0
+Kathmandu,2069/70,Total Treatment,Under 5 Years,Female,0
+Kathmandu,2069/70,Total Treatment,5 Years & Above,Male,0
+Nuwakot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Nuwakot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Nuwakot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Nuwakot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Nuwakot,2069/70,Total Treatment,Under 5 Years,Female,0
+Nuwakot,2069/70,Total Treatment,5 Years & Above,Male,0
+Nuwakot,2069/70,Total Treatment,Under 5 Years,Female,0
+Nuwakot,2069/70,Total Treatment,5 Years & Above,Male,0
+Rasuwa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rasuwa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rasuwa,2069/70,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2069/70,Total Treatment,5 Years & Above,Male,0
+Rasuwa,2069/70,Total Treatment,Under 5 Years,Female,0
+Rasuwa,2069/70,Total Treatment,5 Years & Above,Male,0
+Dhading,2069/70,Clinical Malaria,Under 5 Years,Female,5
+Dhading,2069/70,Clinical Malaria,5 Years & Above,Male,7
+Dhading,2069/70,Clinical Malaria,Under 5 Years,Female,66
+Dhading,2069/70,Clinical Malaria,5 Years & Above,Male,85
+Dhading,2069/70,Total Treatment,Under 5 Years,Female,2
+Dhading,2069/70,Total Treatment,5 Years & Above,Male,5
+Dhading,2069/70,Total Treatment,Under 5 Years,Female,61
+Dhading,2069/70,Total Treatment,5 Years & Above,Male,79
+Makawanpur,2069/70,Clinical Malaria,Under 5 Years,Female,5
+Makawanpur,2069/70,Clinical Malaria,5 Years & Above,Male,5
+Makawanpur,2069/70,Clinical Malaria,Under 5 Years,Female,35
+Makawanpur,2069/70,Clinical Malaria,5 Years & Above,Male,34
+Makawanpur,2069/70,Total Treatment,Under 5 Years,Female,3
+Makawanpur,2069/70,Total Treatment,5 Years & Above,Male,5
+Makawanpur,2069/70,Total Treatment,Under 5 Years,Female,24
+Makawanpur,2069/70,Total Treatment,5 Years & Above,Male,32
+Rautahat,2069/70,Clinical Malaria,Under 5 Years,Female,35
+Rautahat,2069/70,Clinical Malaria,5 Years & Above,Male,43
+Rautahat,2069/70,Clinical Malaria,Under 5 Years,Female,2548
+Rautahat,2069/70,Clinical Malaria,5 Years & Above,Male,2831
+Rautahat,2069/70,Total Treatment,Under 5 Years,Female,23
+Rautahat,2069/70,Total Treatment,5 Years & Above,Male,21
+Rautahat,2069/70,Total Treatment,Under 5 Years,Female,2316
+Rautahat,2069/70,Total Treatment,5 Years & Above,Male,2645
+Bara,2069/70,Clinical Malaria,Under 5 Years,Female,32
+Bara,2069/70,Clinical Malaria,5 Years & Above,Male,27
+Bara,2069/70,Clinical Malaria,Under 5 Years,Female,933
+Bara,2069/70,Clinical Malaria,5 Years & Above,Male,1013
+Bara,2069/70,Total Treatment,Under 5 Years,Female,21
+Bara,2069/70,Total Treatment,5 Years & Above,Male,15
+Bara,2069/70,Total Treatment,Under 5 Years,Female,392
+Bara,2069/70,Total Treatment,5 Years & Above,Male,387
+Parsa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Parsa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Parsa,2069/70,Total Treatment,Under 5 Years,Female,0
+Parsa,2069/70,Total Treatment,5 Years & Above,Male,0
+Parsa,2069/70,Total Treatment,Under 5 Years,Female,0
+Parsa,2069/70,Total Treatment,5 Years & Above,Male,0
+Chitwan,2069/70,Clinical Malaria,Under 5 Years,Female,2
+Chitwan,2069/70,Clinical Malaria,5 Years & Above,Male,4
+Chitwan,2069/70,Clinical Malaria,Under 5 Years,Female,96
+Chitwan,2069/70,Clinical Malaria,5 Years & Above,Male,102
+Chitwan,2069/70,Total Treatment,Under 5 Years,Female,1
+Chitwan,2069/70,Total Treatment,5 Years & Above,Male,1
+Chitwan,2069/70,Total Treatment,Under 5 Years,Female,44
+Chitwan,2069/70,Total Treatment,5 Years & Above,Male,63
+Gorkha,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Gorkha,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Gorkha,2069/70,Clinical Malaria,Under 5 Years,Female,11
+Gorkha,2069/70,Clinical Malaria,5 Years & Above,Male,16
+Gorkha,2069/70,Total Treatment,Under 5 Years,Female,0
+Gorkha,2069/70,Total Treatment,5 Years & Above,Male,0
+Gorkha,2069/70,Total Treatment,Under 5 Years,Female,7
+Gorkha,2069/70,Total Treatment,5 Years & Above,Male,6
+Lamjung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Lamjung,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Lamjung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Lamjung,2069/70,Clinical Malaria,5 Years & Above,Male,2
+Lamjung,2069/70,Total Treatment,Under 5 Years,Female,0
+Lamjung,2069/70,Total Treatment,5 Years & Above,Male,0
+Lamjung,2069/70,Total Treatment,Under 5 Years,Female,0
+Lamjung,2069/70,Total Treatment,5 Years & Above,Male,2
+Tanahu,2069/70,Clinical Malaria,Under 5 Years,Female,4
+Tanahu,2069/70,Clinical Malaria,5 Years & Above,Male,6
+Tanahu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Tanahu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Tanahu,2069/70,Total Treatment,Under 5 Years,Female,4
+Tanahu,2069/70,Total Treatment,5 Years & Above,Male,6
+Tanahu,2069/70,Total Treatment,Under 5 Years,Female,0
+Tanahu,2069/70,Total Treatment,5 Years & Above,Male,0
+Syangja,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Syangja,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Syangja,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Syangja,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Syangja,2069/70,Total Treatment,Under 5 Years,Female,201
+Syangja,2069/70,Total Treatment,5 Years & Above,Male,0
+Syangja,2069/70,Total Treatment,Under 5 Years,Female,3
+Syangja,2069/70,Total Treatment,5 Years & Above,Male,2
+Kaski,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kaski,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Kaski,2069/70,Clinical Malaria,Under 5 Years,Female,16
+Kaski,2069/70,Clinical Malaria,5 Years & Above,Male,15
+Kaski,2069/70,Total Treatment,Under 5 Years,Female,0
+Kaski,2069/70,Total Treatment,5 Years & Above,Male,3
+Kaski,2069/70,Total Treatment,Under 5 Years,Female,24
+Kaski,2069/70,Total Treatment,5 Years & Above,Male,42
+Manang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Manang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Manang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Manang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Manang,2069/70,Total Treatment,Under 5 Years,Female,0
+Manang,2069/70,Total Treatment,5 Years & Above,Male,0
+Manang,2069/70,Total Treatment,Under 5 Years,Female,0
+Manang,2069/70,Total Treatment,5 Years & Above,Male,0
+Mustang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Mustang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Mustang,2069/70,Total Treatment,Under 5 Years,Female,0
+Mustang,2069/70,Total Treatment,5 Years & Above,Male,0
+Mustang,2069/70,Total Treatment,Under 5 Years,Female,0
+Mustang,2069/70,Total Treatment,5 Years & Above,Male,0
+Myagdi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Myagdi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Myagdi,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Myagdi,2069/70,Total Treatment,Under 5 Years,Female,0
+Myagdi,2069/70,Total Treatment,5 Years & Above,Male,0
+Myagdi,2069/70,Total Treatment,Under 5 Years,Female,0
+Myagdi,2069/70,Total Treatment,5 Years & Above,Male,0
+Parbat,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Parbat,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Parbat,2069/70,Clinical Malaria,Under 5 Years,Female,5
+Parbat,2069/70,Clinical Malaria,5 Years & Above,Male,7
+Parbat,2069/70,Total Treatment,Under 5 Years,Female,0
+Parbat,2069/70,Total Treatment,5 Years & Above,Male,0
+Parbat,2069/70,Total Treatment,Under 5 Years,Female,0
+Parbat,2069/70,Total Treatment,5 Years & Above,Male,2
+Baglung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Baglung,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Baglung,2069/70,Total Treatment,Under 5 Years,Female,0
+Baglung,2069/70,Total Treatment,5 Years & Above,Male,0
+Baglung,2069/70,Total Treatment,Under 5 Years,Female,0
+Baglung,2069/70,Total Treatment,5 Years & Above,Male,0
+Gulmi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Gulmi,2069/70,Clinical Malaria,5 Years & Above,Male,5
+Gulmi,2069/70,Clinical Malaria,Under 5 Years,Female,4
+Gulmi,2069/70,Clinical Malaria,5 Years & Above,Male,9
+Gulmi,2069/70,Total Treatment,Under 5 Years,Female,5
+Gulmi,2069/70,Total Treatment,5 Years & Above,Male,5
+Gulmi,2069/70,Total Treatment,Under 5 Years,Female,20
+Gulmi,2069/70,Total Treatment,5 Years & Above,Male,41
+Palpa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Palpa,2069/70,Clinical Malaria,5 Years & Above,Male,3
+Palpa,2069/70,Clinical Malaria,Under 5 Years,Female,14
+Palpa,2069/70,Clinical Malaria,5 Years & Above,Male,22
+Palpa,2069/70,Total Treatment,Under 5 Years,Female,0
+Palpa,2069/70,Total Treatment,5 Years & Above,Male,3
+Palpa,2069/70,Total Treatment,Under 5 Years,Female,16
+Palpa,2069/70,Total Treatment,5 Years & Above,Male,25
+Nawalparasi,2069/70,Clinical Malaria,Under 5 Years,Female,73
+Nawalparasi,2069/70,Clinical Malaria,5 Years & Above,Male,140
+Nawalparasi,2069/70,Clinical Malaria,Under 5 Years,Female,1509
+Nawalparasi,2069/70,Clinical Malaria,5 Years & Above,Male,1339
+Nawalparasi,2069/70,Total Treatment,Under 5 Years,Female,50
+Nawalparasi,2069/70,Total Treatment,5 Years & Above,Male,125
+Nawalparasi,2069/70,Total Treatment,Under 5 Years,Female,1013
+Nawalparasi,2069/70,Total Treatment,5 Years & Above,Male,859
+Rupandehi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rupandehi,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rupandehi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rupandehi,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rupandehi,2069/70,Total Treatment,Under 5 Years,Female,0
+Rupandehi,2069/70,Total Treatment,5 Years & Above,Male,0
+Rupandehi,2069/70,Total Treatment,Under 5 Years,Female,0
+Rupandehi,2069/70,Total Treatment,5 Years & Above,Male,0
+Kapilvastu,2069/70,Clinical Malaria,Under 5 Years,Female,43
+Kapilvastu,2069/70,Clinical Malaria,5 Years & Above,Male,54
+Kapilvastu,2069/70,Clinical Malaria,Under 5 Years,Female,263
+Kapilvastu,2069/70,Clinical Malaria,5 Years & Above,Male,346
+Kapilvastu,2069/70,Total Treatment,Under 5 Years,Female,7
+Kapilvastu,2069/70,Total Treatment,5 Years & Above,Male,9
+Kapilvastu,2069/70,Total Treatment,Under 5 Years,Female,109
+Kapilvastu,2069/70,Total Treatment,5 Years & Above,Male,156
+Arghakhanchi,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Arghakhanchi,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Arghakhanchi,2069/70,Clinical Malaria,Under 5 Years,Female,2
+Arghakhanchi,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Arghakhanchi,2069/70,Total Treatment,Under 5 Years,Female,0
+Arghakhanchi,2069/70,Total Treatment,5 Years & Above,Male,0
+Arghakhanchi,2069/70,Total Treatment,Under 5 Years,Female,0
+Arghakhanchi,2069/70,Total Treatment,5 Years & Above,Male,0
+Pyuthan,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Pyuthan,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Pyuthan,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Pyuthan,2069/70,Total Treatment,Under 5 Years,Female,0
+Pyuthan,2069/70,Total Treatment,5 Years & Above,Male,0
+Pyuthan,2069/70,Total Treatment,Under 5 Years,Female,5
+Pyuthan,2069/70,Total Treatment,5 Years & Above,Male,12
+Rolpa,2069/70,Clinical Malaria,Under 5 Years,Female,3
+Rolpa,2069/70,Clinical Malaria,5 Years & Above,Male,4
+Rolpa,2069/70,Clinical Malaria,Under 5 Years,Female,1
+Rolpa,2069/70,Clinical Malaria,5 Years & Above,Male,2
+Rolpa,2069/70,Total Treatment,Under 5 Years,Female,3
+Rolpa,2069/70,Total Treatment,5 Years & Above,Male,4
+Rolpa,2069/70,Total Treatment,Under 5 Years,Female,1
+Rolpa,2069/70,Total Treatment,5 Years & Above,Male,2
+Rukum,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Rukum,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Rukum,2069/70,Total Treatment,Under 5 Years,Female,0
+Rukum,2069/70,Total Treatment,5 Years & Above,Male,0
+Rukum,2069/70,Total Treatment,Under 5 Years,Female,0
+Rukum,2069/70,Total Treatment,5 Years & Above,Male,0
+Salyan,2069/70,Clinical Malaria,Under 5 Years,Female,20
+Salyan,2069/70,Clinical Malaria,5 Years & Above,Male,27
+Salyan,2069/70,Clinical Malaria,Under 5 Years,Female,30
+Salyan,2069/70,Clinical Malaria,5 Years & Above,Male,26
+Salyan,2069/70,Total Treatment,Under 5 Years,Female,13
+Salyan,2069/70,Total Treatment,5 Years & Above,Male,24
+Salyan,2069/70,Total Treatment,Under 5 Years,Female,20
+Salyan,2069/70,Total Treatment,5 Years & Above,Male,21
+Dang,2069/70,Clinical Malaria,Under 5 Years,Female,1212
+Dang,2069/70,Clinical Malaria,5 Years & Above,Male,1216
+Dang,2069/70,Clinical Malaria,Under 5 Years,Female,694
+Dang,2069/70,Clinical Malaria,5 Years & Above,Male,595
+Dang,2069/70,Total Treatment,Under 5 Years,Female,455
+Dang,2069/70,Total Treatment,5 Years & Above,Male,430
+Dang,2069/70,Total Treatment,Under 5 Years,Female,228
+Dang,2069/70,Total Treatment,5 Years & Above,Male,221
+Banke,2069/70,Clinical Malaria,Under 5 Years,Female,11
+Banke,2069/70,Clinical Malaria,5 Years & Above,Male,13
+Banke,2069/70,Clinical Malaria,Under 5 Years,Female,206
+Banke,2069/70,Clinical Malaria,5 Years & Above,Male,215
+Banke,2069/70,Total Treatment,Under 5 Years,Female,11
+Banke,2069/70,Total Treatment,5 Years & Above,Male,13
+Banke,2069/70,Total Treatment,Under 5 Years,Female,211
+Banke,2069/70,Total Treatment,5 Years & Above,Male,259
+Bardiya,2069/70,Clinical Malaria,Under 5 Years,Female,1120
+Bardiya,2069/70,Clinical Malaria,5 Years & Above,Male,1133
+Bardiya,2069/70,Clinical Malaria,Under 5 Years,Female,1063
+Bardiya,2069/70,Clinical Malaria,5 Years & Above,Male,979
+Bardiya,2069/70,Total Treatment,Under 5 Years,Female,882
+Bardiya,2069/70,Total Treatment,5 Years & Above,Male,889
+Bardiya,2069/70,Total Treatment,Under 5 Years,Female,936
+Bardiya,2069/70,Total Treatment,5 Years & Above,Male,883
+Surkhet,2069/70,Clinical Malaria,Under 5 Years,Female,1755
+Surkhet,2069/70,Clinical Malaria,5 Years & Above,Male,1667
+Surkhet,2069/70,Clinical Malaria,Under 5 Years,Female,859
+Surkhet,2069/70,Clinical Malaria,5 Years & Above,Male,920
+Surkhet,2069/70,Total Treatment,Under 5 Years,Female,1756
+Surkhet,2069/70,Total Treatment,5 Years & Above,Male,1670
+Surkhet,2069/70,Total Treatment,Under 5 Years,Female,894
+Surkhet,2069/70,Total Treatment,5 Years & Above,Male,988
+Dailekh,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dailekh,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dailekh,2069/70,Clinical Malaria,Under 5 Years,Female,5
+Dailekh,2069/70,Clinical Malaria,5 Years & Above,Male,11
+Dailekh,2069/70,Total Treatment,Under 5 Years,Female,0
+Dailekh,2069/70,Total Treatment,5 Years & Above,Male,0
+Dailekh,2069/70,Total Treatment,Under 5 Years,Female,7
+Dailekh,2069/70,Total Treatment,5 Years & Above,Male,19
+Jajarkot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Jajarkot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Jajarkot,2069/70,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2069/70,Total Treatment,5 Years & Above,Male,0
+Jajarkot,2069/70,Total Treatment,Under 5 Years,Female,0
+Jajarkot,2069/70,Total Treatment,5 Years & Above,Male,0
+Dolpa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dolpa,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dolpa,2069/70,Total Treatment,Under 5 Years,Female,0
+Dolpa,2069/70,Total Treatment,5 Years & Above,Male,0
+Dolpa,2069/70,Total Treatment,Under 5 Years,Female,0
+Dolpa,2069/70,Total Treatment,5 Years & Above,Male,0
+Jumla,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Jumla,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Jumla,2069/70,Total Treatment,Under 5 Years,Female,0
+Jumla,2069/70,Total Treatment,5 Years & Above,Male,0
+Jumla,2069/70,Total Treatment,Under 5 Years,Female,0
+Jumla,2069/70,Total Treatment,5 Years & Above,Male,0
+Kalikot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kalikot,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Kalikot,2069/70,Total Treatment,Under 5 Years,Female,0
+Kalikot,2069/70,Total Treatment,5 Years & Above,Male,0
+Kalikot,2069/70,Total Treatment,Under 5 Years,Female,1
+Kalikot,2069/70,Total Treatment,5 Years & Above,Male,0
+Mugu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Mugu,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Mugu,2069/70,Total Treatment,Under 5 Years,Female,0
+Mugu,2069/70,Total Treatment,5 Years & Above,Male,0
+Mugu,2069/70,Total Treatment,Under 5 Years,Female,0
+Mugu,2069/70,Total Treatment,5 Years & Above,Male,0
+Humla,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Humla,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Humla,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Humla,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Humla,2069/70,Total Treatment,Under 5 Years,Female,0
+Humla,2069/70,Total Treatment,5 Years & Above,Male,0
+Humla,2069/70,Total Treatment,Under 5 Years,Female,0
+Humla,2069/70,Total Treatment,5 Years & Above,Male,0
+Bajura,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Bajura,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Bajura,2069/70,Clinical Malaria,Under 5 Years,Female,14
+Bajura,2069/70,Clinical Malaria,5 Years & Above,Male,22
+Bajura,2069/70,Total Treatment,Under 5 Years,Female,0
+Bajura,2069/70,Total Treatment,5 Years & Above,Male,0
+Bajura,2069/70,Total Treatment,Under 5 Years,Female,0
+Bajura,2069/70,Total Treatment,5 Years & Above,Male,0
+Bajhang,2069/70,Clinical Malaria,Under 5 Years,Female,8
+Bajhang,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Bajhang,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Bajhang,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Bajhang,2069/70,Total Treatment,Under 5 Years,Female,0
+Bajhang,2069/70,Total Treatment,5 Years & Above,Male,0
+Bajhang,2069/70,Total Treatment,Under 5 Years,Female,0
+Bajhang,2069/70,Total Treatment,5 Years & Above,Male,0
+Achham,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Achham,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Achham,2069/70,Clinical Malaria,Under 5 Years,Female,5
+Achham,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Achham,2069/70,Total Treatment,Under 5 Years,Female,0
+Achham,2069/70,Total Treatment,5 Years & Above,Male,0
+Achham,2069/70,Total Treatment,Under 5 Years,Female,1
+Achham,2069/70,Total Treatment,5 Years & Above,Male,1
+Doti,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Doti,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Doti,2069/70,Clinical Malaria,Under 5 Years,Female,2
+Doti,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Doti,2069/70,Total Treatment,Under 5 Years,Female,0
+Doti,2069/70,Total Treatment,5 Years & Above,Male,0
+Doti,2069/70,Total Treatment,Under 5 Years,Female,4
+Doti,2069/70,Total Treatment,5 Years & Above,Male,12
+Kailali,2069/70,Clinical Malaria,Under 5 Years,Female,435
+Kailali,2069/70,Clinical Malaria,5 Years & Above,Male,500
+Kailali,2069/70,Clinical Malaria,Under 5 Years,Female,960
+Kailali,2069/70,Clinical Malaria,5 Years & Above,Male,1078
+Kailali,2069/70,Total Treatment,Under 5 Years,Female,438
+Kailali,2069/70,Total Treatment,5 Years & Above,Male,507
+Kailali,2069/70,Total Treatment,Under 5 Years,Female,1008
+Kailali,2069/70,Total Treatment,5 Years & Above,Male,1326
+Kanchanpur,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Kanchanpur,2069/70,Clinical Malaria,5 Years & Above,Male,3
+Kanchanpur,2069/70,Clinical Malaria,Under 5 Years,Female,3
+Kanchanpur,2069/70,Clinical Malaria,5 Years & Above,Male,1
+Kanchanpur,2069/70,Total Treatment,Under 5 Years,Female,0
+Kanchanpur,2069/70,Total Treatment,5 Years & Above,Male,5
+Kanchanpur,2069/70,Total Treatment,Under 5 Years,Female,77
+Kanchanpur,2069/70,Total Treatment,5 Years & Above,Male,163
+Dadeldhura,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Dadeldhura,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Dadeldhura,2069/70,Clinical Malaria,Under 5 Years,Female,38
+Dadeldhura,2069/70,Clinical Malaria,5 Years & Above,Male,40
+Dadeldhura,2069/70,Total Treatment,Under 5 Years,Female,2
+Dadeldhura,2069/70,Total Treatment,5 Years & Above,Male,0
+Dadeldhura,2069/70,Total Treatment,Under 5 Years,Female,12
+Dadeldhura,2069/70,Total Treatment,5 Years & Above,Male,34
+Baitadi,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Baitadi,2069/70,Clinical Malaria,5 Years & Above,Male,9
+Baitadi,2069/70,Clinical Malaria,Under 5 Years,Female,22
+Baitadi,2069/70,Clinical Malaria,5 Years & Above,Male,22
+Baitadi,2069/70,Total Treatment,Under 5 Years,Female,0
+Baitadi,2069/70,Total Treatment,5 Years & Above,Male,18
+Baitadi,2069/70,Total Treatment,Under 5 Years,Female,39
+Baitadi,2069/70,Total Treatment,5 Years & Above,Male,54
+Darchula,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2069/70,Clinical Malaria,Under 5 Years,Female,0
+Darchula,2069/70,Clinical Malaria,5 Years & Above,Male,0
+Darchula,2069/70,Total Treatment,Under 5 Years,Female,0
+Darchula,2069/70,Total Treatment,5 Years & Above,Male,0
+Darchula,2069/70,Total Treatment,Under 5 Years,Female,0
+Darchula,2069/70,Total Treatment,5 Years & Above,Male,0

@@ -1,0 +1,1051 @@
+District,Year,Type of disease,Number of patients
+Taplejung,2068/69,Acute Encephalitis like syndrome (AES),13
+Taplejung,2068/69,Filariasis,4
+Taplejung,2068/69,Clinical Malaria,33
+Taplejung,2068/69,Malaria (PF),0
+Taplejung,2068/69,Malaria,0
+Taplejung,2068/69,Dengue Fever,0
+Taplejung,2068/69,Kala-azar,0
+Panchthar,2068/69,Acute Encephalitis like syndrome (AES),0
+Panchthar,2068/69,Filariasis,0
+Panchthar,2068/69,Clinical Malaria,94
+Panchthar,2068/69,Malaria (PF),8
+Panchthar,2068/69,Malaria,0
+Panchthar,2068/69,Dengue Fever,0
+Panchthar,2068/69,Kala-azar,0
+Ilam,2068/69,Acute Encephalitis like syndrome (AES),6
+Ilam,2068/69,Filariasis,0
+Ilam,2068/69,Clinical Malaria,102
+Ilam,2068/69,Malaria (PF),3
+Ilam,2068/69,Malaria,7
+Ilam,2068/69,Dengue Fever,0
+Ilam,2068/69,Kala-azar,0
+Jhapa,2068/69,Acute Encephalitis like syndrome (AES),0
+Jhapa,2068/69,Filariasis,26
+Jhapa,2068/69,Clinical Malaria,2676
+Jhapa,2068/69,Malaria (PF),77
+Jhapa,2068/69,Malaria,124
+Jhapa,2068/69,Dengue Fever,0
+Jhapa,2068/69,Kala-azar,21
+Morang,2068/69,Acute Encephalitis like syndrome (AES),36
+Morang,2068/69,Filariasis,8
+Morang,2068/69,Clinical Malaria,4289
+Morang,2068/69,Malaria (PF),38
+Morang,2068/69,Malaria,65
+Morang,2068/69,Dengue Fever,0
+Morang,2068/69,Kala-azar,1
+Sunsari,2068/69,Acute Encephalitis like syndrome (AES),0
+Sunsari,2068/69,Filariasis,0
+Sunsari,2068/69,Clinical Malaria,1801
+Sunsari,2068/69,Malaria (PF),1
+Sunsari,2068/69,Malaria,6
+Sunsari,2068/69,Dengue Fever,0
+Sunsari,2068/69,Kala-azar,0
+Dhankuta,2068/69,Acute Encephalitis like syndrome (AES),0
+Dhankuta,2068/69,Filariasis,2
+Dhankuta,2068/69,Clinical Malaria,69
+Dhankuta,2068/69,Malaria (PF),0
+Dhankuta,2068/69,Malaria,0
+Dhankuta,2068/69,Dengue Fever,0
+Dhankuta,2068/69,Kala-azar,0
+Teharthum,2068/69,Acute Encephalitis like syndrome (AES),3
+Teharthum,2068/69,Filariasis,1
+Teharthum,2068/69,Clinical Malaria,66
+Teharthum,2068/69,Malaria (PF),1
+Teharthum,2068/69,Malaria,7
+Teharthum,2068/69,Dengue Fever,0
+Teharthum,2068/69,Kala-azar,0
+Sankhuwasabha,2068/69,Acute Encephalitis like syndrome (AES),10
+Sankhuwasabha,2068/69,Filariasis,4
+Sankhuwasabha,2068/69,Clinical Malaria,52
+Sankhuwasabha,2068/69,Malaria (PF),0
+Sankhuwasabha,2068/69,Malaria,0
+Sankhuwasabha,2068/69,Dengue Fever,0
+Sankhuwasabha,2068/69,Kala-azar,0
+Bhojpur,2068/69,Acute Encephalitis like syndrome (AES),0
+Bhojpur,2068/69,Filariasis,0
+Bhojpur,2068/69,Clinical Malaria,148
+Bhojpur,2068/69,Malaria (PF),0
+Bhojpur,2068/69,Malaria,12
+Bhojpur,2068/69,Dengue Fever,0
+Bhojpur,2068/69,Kala-azar,0
+Solukhumbu,2068/69,Acute Encephalitis like syndrome (AES),0
+Solukhumbu,2068/69,Filariasis,0
+Solukhumbu,2068/69,Clinical Malaria,0
+Solukhumbu,2068/69,Malaria (PF),0
+Solukhumbu,2068/69,Malaria,0
+Solukhumbu,2068/69,Dengue Fever,0
+Solukhumbu,2068/69,Kala-azar,0
+Okhaldhunga,2068/69,Acute Encephalitis like syndrome (AES),7
+Okhaldhunga,2068/69,Filariasis,31
+Okhaldhunga,2068/69,Clinical Malaria,12
+Okhaldhunga,2068/69,Malaria (PF),1
+Okhaldhunga,2068/69,Malaria,2
+Okhaldhunga,2068/69,Dengue Fever,0
+Okhaldhunga,2068/69,Kala-azar,3
+Khotang,2068/69,Acute Encephalitis like syndrome (AES),1
+Khotang,2068/69,Filariasis,4
+Khotang,2068/69,Clinical Malaria,41
+Khotang,2068/69,Malaria (PF),0
+Khotang,2068/69,Malaria,0
+Khotang,2068/69,Dengue Fever,0
+Khotang,2068/69,Kala-azar,29
+Udaypur,2068/69,Acute Encephalitis like syndrome (AES),32
+Udaypur,2068/69,Filariasis,35
+Udaypur,2068/69,Clinical Malaria,523
+Udaypur,2068/69,Malaria (PF),13
+Udaypur,2068/69,Malaria,42
+Udaypur,2068/69,Dengue Fever,0
+Udaypur,2068/69,Kala-azar,38
+Saptari,2068/69,Acute Encephalitis like syndrome (AES),0
+Saptari,2068/69,Filariasis,0
+Saptari,2068/69,Clinical Malaria,2026
+Saptari,2068/69,Malaria (PF),14
+Saptari,2068/69,Malaria,1
+Saptari,2068/69,Dengue Fever,0
+Saptari,2068/69,Kala-azar,0
+Siraha,2068/69,Acute Encephalitis like syndrome (AES),0
+Siraha,2068/69,Filariasis,10
+Siraha,2068/69,Clinical Malaria,2125
+Siraha,2068/69,Malaria (PF),7
+Siraha,2068/69,Malaria,114
+Siraha,2068/69,Dengue Fever,0
+Siraha,2068/69,Kala-azar,42
+Dhanusha,2068/69,Acute Encephalitis like syndrome (AES),0
+Dhanusha,2068/69,Filariasis,1
+Dhanusha,2068/69,Clinical Malaria,12863
+Dhanusha,2068/69,Malaria (PF),8
+Dhanusha,2068/69,Malaria,25
+Dhanusha,2068/69,Dengue Fever,0
+Dhanusha,2068/69,Kala-azar,5
+Mahottari,2068/69,Acute Encephalitis like syndrome (AES),0
+Mahottari,2068/69,Filariasis,44
+Mahottari,2068/69,Clinical Malaria,5501
+Mahottari,2068/69,Malaria (PF),2
+Mahottari,2068/69,Malaria,10
+Mahottari,2068/69,Dengue Fever,0
+Mahottari,2068/69,Kala-azar,1
+Sarlahi,2068/69,Acute Encephalitis like syndrome (AES),0
+Sarlahi,2068/69,Filariasis,119
+Sarlahi,2068/69,Clinical Malaria,4048
+Sarlahi,2068/69,Malaria (PF),65
+Sarlahi,2068/69,Malaria,133
+Sarlahi,2068/69,Dengue Fever,6
+Sarlahi,2068/69,Kala-azar,381
+Sindhuli,2068/69,Acute Encephalitis like syndrome (AES),1
+Sindhuli,2068/69,Filariasis,6
+Sindhuli,2068/69,Clinical Malaria,969
+Sindhuli,2068/69,Malaria (PF),2
+Sindhuli,2068/69,Malaria,18
+Sindhuli,2068/69,Dengue Fever,0
+Sindhuli,2068/69,Kala-azar,0
+Ramechhap,2068/69,Acute Encephalitis like syndrome (AES),8
+Ramechhap,2068/69,Filariasis,3
+Ramechhap,2068/69,Clinical Malaria,10
+Ramechhap,2068/69,Malaria (PF),0
+Ramechhap,2068/69,Malaria,0
+Ramechhap,2068/69,Dengue Fever,0
+Ramechhap,2068/69,Kala-azar,0
+Dolkha,2068/69,Acute Encephalitis like syndrome (AES),0
+Dolkha,2068/69,Filariasis,0
+Dolkha,2068/69,Clinical Malaria,1
+Dolkha,2068/69,Malaria (PF),2
+Dolkha,2068/69,Malaria,0
+Dolkha,2068/69,Dengue Fever,0
+Dolkha,2068/69,Kala-azar,0
+Sindhupalchowk,2068/69,Acute Encephalitis like syndrome (AES),0
+Sindhupalchowk,2068/69,Filariasis,0
+Sindhupalchowk,2068/69,Clinical Malaria,122
+Sindhupalchowk,2068/69,Malaria (PF),0
+Sindhupalchowk,2068/69,Malaria,6
+Sindhupalchowk,2068/69,Dengue Fever,0
+Sindhupalchowk,2068/69,Kala-azar,0
+Kavre,2068/69,Acute Encephalitis like syndrome (AES),0
+Kavre,2068/69,Filariasis,4
+Kavre,2068/69,Clinical Malaria,126
+Kavre,2068/69,Malaria (PF),0
+Kavre,2068/69,Malaria,4
+Kavre,2068/69,Dengue Fever,0
+Kavre,2068/69,Kala-azar,0
+Lalitpur,2068/69,Acute Encephalitis like syndrome (AES),0
+Lalitpur,2068/69,Filariasis,0
+Lalitpur,2068/69,Clinical Malaria,0
+Lalitpur,2068/69,Malaria (PF),0
+Lalitpur,2068/69,Malaria,0
+Lalitpur,2068/69,Dengue Fever,0
+Lalitpur,2068/69,Kala-azar,0
+Bhaktapur,2068/69,Acute Encephalitis like syndrome (AES),62
+Bhaktapur,2068/69,Filariasis,11
+Bhaktapur,2068/69,Clinical Malaria,2
+Bhaktapur,2068/69,Malaria (PF),0
+Bhaktapur,2068/69,Malaria,9
+Bhaktapur,2068/69,Dengue Fever,0
+Bhaktapur,2068/69,Kala-azar,5
+Kathmandu,2068/69,Acute Encephalitis like syndrome (AES),20
+Kathmandu,2068/69,Filariasis,3
+Kathmandu,2068/69,Clinical Malaria,47
+Kathmandu,2068/69,Malaria (PF),22
+Kathmandu,2068/69,Malaria,32
+Kathmandu,2068/69,Dengue Fever,7
+Kathmandu,2068/69,Kala-azar,12
+Nuwakot,2068/69,Acute Encephalitis like syndrome (AES),1
+Nuwakot,2068/69,Filariasis,10
+Nuwakot,2068/69,Clinical Malaria,23
+Nuwakot,2068/69,Malaria (PF),1
+Nuwakot,2068/69,Malaria,11
+Nuwakot,2068/69,Dengue Fever,0
+Nuwakot,2068/69,Kala-azar,0
+Rasuwa,2068/69,Acute Encephalitis like syndrome (AES),0
+Rasuwa,2068/69,Filariasis,0
+Rasuwa,2068/69,Clinical Malaria,0
+Rasuwa,2068/69,Malaria (PF),0
+Rasuwa,2068/69,Malaria,0
+Rasuwa,2068/69,Dengue Fever,0
+Rasuwa,2068/69,Kala-azar,0
+Dhading,2068/69,Acute Encephalitis like syndrome (AES),0
+Dhading,2068/69,Filariasis,10
+Dhading,2068/69,Clinical Malaria,157
+Dhading,2068/69,Malaria (PF),0
+Dhading,2068/69,Malaria,0
+Dhading,2068/69,Dengue Fever,0
+Dhading,2068/69,Kala-azar,0
+Makawanpur,2068/69,Acute Encephalitis like syndrome (AES),1
+Makawanpur,2068/69,Filariasis,8
+Makawanpur,2068/69,Clinical Malaria,566
+Makawanpur,2068/69,Malaria (PF),3
+Makawanpur,2068/69,Malaria,1
+Makawanpur,2068/69,Dengue Fever,0
+Makawanpur,2068/69,Kala-azar,1
+Rautahat,2068/69,Acute Encephalitis like syndrome (AES),15
+Rautahat,2068/69,Filariasis,34
+Rautahat,2068/69,Clinical Malaria,5288
+Rautahat,2068/69,Malaria (PF),4
+Rautahat,2068/69,Malaria,2
+Rautahat,2068/69,Dengue Fever,0
+Rautahat,2068/69,Kala-azar,28
+Bara,2068/69,Acute Encephalitis like syndrome (AES),3
+Bara,2068/69,Filariasis,47
+Bara,2068/69,Clinical Malaria,2332
+Bara,2068/69,Malaria (PF),3
+Bara,2068/69,Malaria,0
+Bara,2068/69,Dengue Fever,0
+Bara,2068/69,Kala-azar,2
+Parsa,2068/69,Acute Encephalitis like syndrome (AES),0
+Parsa,2068/69,Filariasis,0
+Parsa,2068/69,Clinical Malaria,0
+Parsa,2068/69,Malaria (PF),0
+Parsa,2068/69,Malaria,0
+Parsa,2068/69,Dengue Fever,0
+Parsa,2068/69,Kala-azar,0
+Chitwan,2068/69,Acute Encephalitis like syndrome (AES),0
+Chitwan,2068/69,Filariasis,0
+Chitwan,2068/69,Clinical Malaria,353
+Chitwan,2068/69,Malaria (PF),12
+Chitwan,2068/69,Malaria,21
+Chitwan,2068/69,Dengue Fever,0
+Chitwan,2068/69,Kala-azar,0
+Gorkha,2068/69,Acute Encephalitis like syndrome (AES),0
+Gorkha,2068/69,Filariasis,0
+Gorkha,2068/69,Clinical Malaria,98
+Gorkha,2068/69,Malaria (PF),0
+Gorkha,2068/69,Malaria,7
+Gorkha,2068/69,Dengue Fever,0
+Gorkha,2068/69,Kala-azar,0
+Lamjung,2068/69,Acute Encephalitis like syndrome (AES),0
+Lamjung,2068/69,Filariasis,0
+Lamjung,2068/69,Clinical Malaria,9
+Lamjung,2068/69,Malaria (PF),0
+Lamjung,2068/69,Malaria,1
+Lamjung,2068/69,Dengue Fever,0
+Lamjung,2068/69,Kala-azar,0
+Tanahu,2068/69,Acute Encephalitis like syndrome (AES),0
+Tanahu,2068/69,Filariasis,4
+Tanahu,2068/69,Clinical Malaria,32
+Tanahu,2068/69,Malaria (PF),1
+Tanahu,2068/69,Malaria,1
+Tanahu,2068/69,Dengue Fever,0
+Tanahu,2068/69,Kala-azar,0
+Syangja,2068/69,Acute Encephalitis like syndrome (AES),0
+Syangja,2068/69,Filariasis,2
+Syangja,2068/69,Clinical Malaria,60
+Syangja,2068/69,Malaria (PF),6
+Syangja,2068/69,Malaria,6
+Syangja,2068/69,Dengue Fever,0
+Syangja,2068/69,Kala-azar,0
+Kaski,2068/69,Acute Encephalitis like syndrome (AES),3
+Kaski,2068/69,Filariasis,0
+Kaski,2068/69,Clinical Malaria,60
+Kaski,2068/69,Malaria (PF),13
+Kaski,2068/69,Malaria,7
+Kaski,2068/69,Dengue Fever,0
+Kaski,2068/69,Kala-azar,1
+Manang,2068/69,Acute Encephalitis like syndrome (AES),0
+Manang,2068/69,Filariasis,0
+Manang,2068/69,Clinical Malaria,0
+Manang,2068/69,Malaria (PF),0
+Manang,2068/69,Malaria,0
+Manang,2068/69,Dengue Fever,0
+Manang,2068/69,Kala-azar,0
+Mustang,2068/69,Acute Encephalitis like syndrome (AES),0
+Mustang,2068/69,Filariasis,0
+Mustang,2068/69,Clinical Malaria,0
+Mustang,2068/69,Malaria (PF),0
+Mustang,2068/69,Malaria,0
+Mustang,2068/69,Dengue Fever,0
+Mustang,2068/69,Kala-azar,0
+Myagdi,2068/69,Acute Encephalitis like syndrome (AES),1
+Myagdi,2068/69,Filariasis,0
+Myagdi,2068/69,Clinical Malaria,1
+Myagdi,2068/69,Malaria (PF),0
+Myagdi,2068/69,Malaria,0
+Myagdi,2068/69,Dengue Fever,0
+Myagdi,2068/69,Kala-azar,0
+Parbat,2068/69,Acute Encephalitis like syndrome (AES),1
+Parbat,2068/69,Filariasis,0
+Parbat,2068/69,Clinical Malaria,12
+Parbat,2068/69,Malaria (PF),1
+Parbat,2068/69,Malaria,4
+Parbat,2068/69,Dengue Fever,0
+Parbat,2068/69,Kala-azar,0
+Baglung,2068/69,Acute Encephalitis like syndrome (AES),0
+Baglung,2068/69,Filariasis,0
+Baglung,2068/69,Clinical Malaria,0
+Baglung,2068/69,Malaria (PF),0
+Baglung,2068/69,Malaria,0
+Baglung,2068/69,Dengue Fever,0
+Baglung,2068/69,Kala-azar,0
+Gulmi,2068/69,Acute Encephalitis like syndrome (AES),0
+Gulmi,2068/69,Filariasis,0
+Gulmi,2068/69,Clinical Malaria,119
+Gulmi,2068/69,Malaria (PF),13
+Gulmi,2068/69,Malaria,3
+Gulmi,2068/69,Dengue Fever,0
+Gulmi,2068/69,Kala-azar,0
+Palpa,2068/69,Acute Encephalitis like syndrome (AES),55
+Palpa,2068/69,Filariasis,3
+Palpa,2068/69,Clinical Malaria,118
+Palpa,2068/69,Malaria (PF),0
+Palpa,2068/69,Malaria,17
+Palpa,2068/69,Dengue Fever,0
+Palpa,2068/69,Kala-azar,1
+Nawalparasi,2068/69,Acute Encephalitis like syndrome (AES),7
+Nawalparasi,2068/69,Filariasis,11
+Nawalparasi,2068/69,Clinical Malaria,2896
+Nawalparasi,2068/69,Malaria (PF),17
+Nawalparasi,2068/69,Malaria,30
+Nawalparasi,2068/69,Dengue Fever,0
+Nawalparasi,2068/69,Kala-azar,6
+Rupandehi,2068/69,Acute Encephalitis like syndrome (AES),0
+Rupandehi,2068/69,Filariasis,0
+Rupandehi,2068/69,Clinical Malaria,0
+Rupandehi,2068/69,Malaria (PF),0
+Rupandehi,2068/69,Malaria,0
+Rupandehi,2068/69,Dengue Fever,0
+Rupandehi,2068/69,Kala-azar,0
+Kapilvastu,2068/69,Acute Encephalitis like syndrome (AES),0
+Kapilvastu,2068/69,Filariasis,567
+Kapilvastu,2068/69,Clinical Malaria,3740
+Kapilvastu,2068/69,Malaria (PF),1
+Kapilvastu,2068/69,Malaria,1
+Kapilvastu,2068/69,Dengue Fever,0
+Kapilvastu,2068/69,Kala-azar,0
+Arghakhanchi,2068/69,Acute Encephalitis like syndrome (AES),0
+Arghakhanchi,2068/69,Filariasis,0
+Arghakhanchi,2068/69,Clinical Malaria,109
+Arghakhanchi,2068/69,Malaria (PF),0
+Arghakhanchi,2068/69,Malaria,0
+Arghakhanchi,2068/69,Dengue Fever,0
+Arghakhanchi,2068/69,Kala-azar,0
+Pyuthan,2068/69,Acute Encephalitis like syndrome (AES),0
+Pyuthan,2068/69,Filariasis,0
+Pyuthan,2068/69,Clinical Malaria,40
+Pyuthan,2068/69,Malaria (PF),21
+Pyuthan,2068/69,Malaria,1
+Pyuthan,2068/69,Dengue Fever,0
+Pyuthan,2068/69,Kala-azar,0
+Rolpa,2068/69,Acute Encephalitis like syndrome (AES),9
+Rolpa,2068/69,Filariasis,0
+Rolpa,2068/69,Clinical Malaria,45
+Rolpa,2068/69,Malaria (PF),0
+Rolpa,2068/69,Malaria,0
+Rolpa,2068/69,Dengue Fever,0
+Rolpa,2068/69,Kala-azar,0
+Rukum,2068/69,Acute Encephalitis like syndrome (AES),0
+Rukum,2068/69,Filariasis,2
+Rukum,2068/69,Clinical Malaria,0
+Rukum,2068/69,Malaria (PF),2
+Rukum,2068/69,Malaria,4
+Rukum,2068/69,Dengue Fever,0
+Rukum,2068/69,Kala-azar,0
+Salyan,2068/69,Acute Encephalitis like syndrome (AES),0
+Salyan,2068/69,Filariasis,0
+Salyan,2068/69,Clinical Malaria,179
+Salyan,2068/69,Malaria (PF),0
+Salyan,2068/69,Malaria,0
+Salyan,2068/69,Dengue Fever,0
+Salyan,2068/69,Kala-azar,0
+Dang,2068/69,Acute Encephalitis like syndrome (AES),9
+Dang,2068/69,Filariasis,1
+Dang,2068/69,Clinical Malaria,5403
+Dang,2068/69,Malaria (PF),0
+Dang,2068/69,Malaria,15
+Dang,2068/69,Dengue Fever,0
+Dang,2068/69,Kala-azar,0
+Banke,2068/69,Acute Encephalitis like syndrome (AES),2
+Banke,2068/69,Filariasis,4
+Banke,2068/69,Clinical Malaria,4438
+Banke,2068/69,Malaria (PF),12
+Banke,2068/69,Malaria,63
+Banke,2068/69,Dengue Fever,0
+Banke,2068/69,Kala-azar,0
+Bardiya,2068/69,Acute Encephalitis like syndrome (AES),0
+Bardiya,2068/69,Filariasis,9
+Bardiya,2068/69,Clinical Malaria,6408
+Bardiya,2068/69,Malaria (PF),17
+Bardiya,2068/69,Malaria,98
+Bardiya,2068/69,Dengue Fever,0
+Bardiya,2068/69,Kala-azar,0
+Surkhet,2068/69,Acute Encephalitis like syndrome (AES),6
+Surkhet,2068/69,Filariasis,0
+Surkhet,2068/69,Clinical Malaria,5687
+Surkhet,2068/69,Malaria (PF),0
+Surkhet,2068/69,Malaria,47
+Surkhet,2068/69,Dengue Fever,0
+Surkhet,2068/69,Kala-azar,1
+Dailekh,2068/69,Acute Encephalitis like syndrome (AES),0
+Dailekh,2068/69,Filariasis,0
+Dailekh,2068/69,Clinical Malaria,28
+Dailekh,2068/69,Malaria (PF),0
+Dailekh,2068/69,Malaria,23
+Dailekh,2068/69,Dengue Fever,0
+Dailekh,2068/69,Kala-azar,0
+Jajarkot,2068/69,Acute Encephalitis like syndrome (AES),0
+Jajarkot,2068/69,Filariasis,0
+Jajarkot,2068/69,Clinical Malaria,0
+Jajarkot,2068/69,Malaria (PF),0
+Jajarkot,2068/69,Malaria,0
+Jajarkot,2068/69,Dengue Fever,0
+Jajarkot,2068/69,Kala-azar,0
+Dolpa,2068/69,Acute Encephalitis like syndrome (AES),0
+Dolpa,2068/69,Filariasis,0
+Dolpa,2068/69,Clinical Malaria,0
+Dolpa,2068/69,Malaria (PF),0
+Dolpa,2068/69,Malaria,0
+Dolpa,2068/69,Dengue Fever,0
+Dolpa,2068/69,Kala-azar,0
+Jumla,2068/69,Acute Encephalitis like syndrome (AES),0
+Jumla,2068/69,Filariasis,0
+Jumla,2068/69,Clinical Malaria,12
+Jumla,2068/69,Malaria (PF),0
+Jumla,2068/69,Malaria,0
+Jumla,2068/69,Dengue Fever,0
+Jumla,2068/69,Kala-azar,0
+Kalikot,2068/69,Acute Encephalitis like syndrome (AES),79
+Kalikot,2068/69,Filariasis,0
+Kalikot,2068/69,Clinical Malaria,6
+Kalikot,2068/69,Malaria (PF),0
+Kalikot,2068/69,Malaria,0
+Kalikot,2068/69,Dengue Fever,0
+Kalikot,2068/69,Kala-azar,5
+Mugu,2068/69,Acute Encephalitis like syndrome (AES),0
+Mugu,2068/69,Filariasis,0
+Mugu,2068/69,Clinical Malaria,0
+Mugu,2068/69,Malaria (PF),0
+Mugu,2068/69,Malaria,0
+Mugu,2068/69,Dengue Fever,0
+Mugu,2068/69,Kala-azar,0
+Humla,2068/69,Acute Encephalitis like syndrome (AES),0
+Humla,2068/69,Filariasis,0
+Humla,2068/69,Clinical Malaria,3
+Humla,2068/69,Malaria (PF),0
+Humla,2068/69,Malaria,0
+Humla,2068/69,Dengue Fever,0
+Humla,2068/69,Kala-azar,0
+Bajura,2068/69,Acute Encephalitis like syndrome (AES),0
+Bajura,2068/69,Filariasis,0
+Bajura,2068/69,Clinical Malaria,87
+Bajura,2068/69,Malaria (PF),5
+Bajura,2068/69,Malaria,0
+Bajura,2068/69,Dengue Fever,0
+Bajura,2068/69,Kala-azar,0
+Bajhang,2068/69,Acute Encephalitis like syndrome (AES),0
+Bajhang,2068/69,Filariasis,0
+Bajhang,2068/69,Clinical Malaria,55
+Bajhang,2068/69,Malaria (PF),1
+Bajhang,2068/69,Malaria,5
+Bajhang,2068/69,Dengue Fever,0
+Bajhang,2068/69,Kala-azar,0
+Achham,2068/69,Acute Encephalitis like syndrome (AES),147
+Achham,2068/69,Filariasis,1
+Achham,2068/69,Clinical Malaria,46
+Achham,2068/69,Malaria (PF),9
+Achham,2068/69,Malaria,84
+Achham,2068/69,Dengue Fever,0
+Achham,2068/69,Kala-azar,2
+Doti,2068/69,Acute Encephalitis like syndrome (AES),0
+Doti,2068/69,Filariasis,0
+Doti,2068/69,Clinical Malaria,157
+Doti,2068/69,Malaria (PF),1
+Doti,2068/69,Malaria,0
+Doti,2068/69,Dengue Fever,0
+Doti,2068/69,Kala-azar,0
+Kailali,2068/69,Acute Encephalitis like syndrome (AES),37
+Kailali,2068/69,Filariasis,8
+Kailali,2068/69,Clinical Malaria,4201
+Kailali,2068/69,Malaria (PF),298
+Kailali,2068/69,Malaria,766
+Kailali,2068/69,Dengue Fever,0
+Kailali,2068/69,Kala-azar,0
+Kanchanpur,2068/69,Acute Encephalitis like syndrome (AES),0
+Kanchanpur,2068/69,Filariasis,0
+Kanchanpur,2068/69,Clinical Malaria,58
+Kanchanpur,2068/69,Malaria (PF),30
+Kanchanpur,2068/69,Malaria,101
+Kanchanpur,2068/69,Dengue Fever,0
+Kanchanpur,2068/69,Kala-azar,0
+Dadeldhura,2068/69,Acute Encephalitis like syndrome (AES),22
+Dadeldhura,2068/69,Filariasis,7
+Dadeldhura,2068/69,Clinical Malaria,151
+Dadeldhura,2068/69,Malaria (PF),3
+Dadeldhura,2068/69,Malaria,62
+Dadeldhura,2068/69,Dengue Fever,0
+Dadeldhura,2068/69,Kala-azar,1
+Baitadi,2068/69,Acute Encephalitis like syndrome (AES),1
+Baitadi,2068/69,Filariasis,0
+Baitadi,2068/69,Clinical Malaria,142
+Baitadi,2068/69,Malaria (PF),5
+Baitadi,2068/69,Malaria,48
+Baitadi,2068/69,Dengue Fever,0
+Baitadi,2068/69,Kala-azar,0
+Darchula,2068/69,Acute Encephalitis like syndrome (AES),0
+Darchula,2068/69,Filariasis,0
+Darchula,2068/69,Clinical Malaria,7
+Darchula,2068/69,Malaria (PF),1
+Darchula,2068/69,Malaria,0
+Darchula,2068/69,Dengue Fever,0
+Darchula,2068/69,Kala-azar,0
+Taplejung,2069/70,Acute Encephalitis like syndrome (AES,4
+Taplejung,2069/70,Filariasis,0
+Taplejung,2069/70,Clinical Malaria,15
+Taplejung,2069/70,Malaria (PF),6
+Taplejung,2069/70,Malaria (PV),0
+Taplejung,2069/70,Dangue Fever,1
+Taplejung,2069/70,Kala-azar,0
+Panchthar,2069/70,Acute Encephalitis like syndrome (AES,1
+Panchthar,2069/70,Filariasis,0
+Panchthar,2069/70,Clinical Malaria,129
+Panchthar,2069/70,Malaria (PF),0
+Panchthar,2069/70,Malaria (PV),0
+Panchthar,2069/70,Dangue Fever,0
+Panchthar,2069/70,Kala-azar,0
+Ilam,2069/70,Acute Encephalitis like syndrome (AES,0
+Ilam,2069/70,Filariasis,0
+Ilam,2069/70,Clinical Malaria,66
+Ilam,2069/70,Malaria (PF),2
+Ilam,2069/70,Malaria (PV),4
+Ilam,2069/70,Dangue Fever,1
+Ilam,2069/70,Kala-azar,0
+Jhapa,2069/70,Acute Encephalitis like syndrome (AES,0
+Jhapa,2069/70,Filariasis,34
+Jhapa,2069/70,Clinical Malaria,2056
+Jhapa,2069/70,Malaria (PF),22
+Jhapa,2069/70,Malaria (PV),59
+Jhapa,2069/70,Dangue Fever,77
+Jhapa,2069/70,Kala-azar,11
+Morang,2069/70,Acute Encephalitis like syndrome (AES,27
+Morang,2069/70,Filariasis,17
+Morang,2069/70,Clinical Malaria,4631
+Morang,2069/70,Malaria (PF),56
+Morang,2069/70,Malaria (PV),29
+Morang,2069/70,Dangue Fever,0
+Morang,2069/70,Kala-azar,4
+Sunsari,2069/70,Acute Encephalitis like syndrome (AES,52
+Sunsari,2069/70,Filariasis,0
+Sunsari,2069/70,Clinical Malaria,1304
+Sunsari,2069/70,Malaria (PF),5
+Sunsari,2069/70,Malaria (PV),12
+Sunsari,2069/70,Dangue Fever,0
+Sunsari,2069/70,Kala-azar,0
+Dhankuta,2069/70,Acute Encephalitis like syndrome (AES,1
+Dhankuta,2069/70,Filariasis,1
+Dhankuta,2069/70,Clinical Malaria,165
+Dhankuta,2069/70,Malaria (PF),0
+Dhankuta,2069/70,Malaria (PV),3
+Dhankuta,2069/70,Dangue Fever,0
+Dhankuta,2069/70,Kala-azar,0
+Teharthum,2069/70,Acute Encephalitis like syndrome (AES,4
+Teharthum,2069/70,Filariasis,0
+Teharthum,2069/70,Clinical Malaria,49
+Teharthum,2069/70,Malaria (PF),0
+Teharthum,2069/70,Malaria (PV),12
+Teharthum,2069/70,Dangue Fever,0
+Teharthum,2069/70,Kala-azar,0
+Sankhuwasabha,2069/70,Acute Encephalitis like syndrome (AES,0
+Sankhuwasabha,2069/70,Filariasis,0
+Sankhuwasabha,2069/70,Clinical Malaria,11
+Sankhuwasabha,2069/70,Malaria (PF),1
+Sankhuwasabha,2069/70,Malaria (PV),0
+Sankhuwasabha,2069/70,Dangue Fever,0
+Sankhuwasabha,2069/70,Kala-azar,0
+Bhojpur,2069/70,Acute Encephalitis like syndrome (AES,3
+Bhojpur,2069/70,Filariasis,0
+Bhojpur,2069/70,Clinical Malaria,125
+Bhojpur,2069/70,Malaria (PF),0
+Bhojpur,2069/70,Malaria (PV),1
+Bhojpur,2069/70,Dangue Fever,2
+Bhojpur,2069/70,Kala-azar,0
+Solukhumbu,2069/70,Acute Encephalitis like syndrome (AES,0
+Solukhumbu,2069/70,Filariasis,0
+Solukhumbu,2069/70,Clinical Malaria,0
+Solukhumbu,2069/70,Malaria (PF),0
+Solukhumbu,2069/70,Malaria (PV),0
+Solukhumbu,2069/70,Dangue Fever,0
+Solukhumbu,2069/70,Kala-azar,9
+Okhaldhunga,2069/70,Acute Encephalitis like syndrome (AES,21
+Okhaldhunga,2069/70,Filariasis,8
+Okhaldhunga,2069/70,Clinical Malaria,5
+Okhaldhunga,2069/70,Malaria (PF),3
+Okhaldhunga,2069/70,Malaria (PV),27
+Okhaldhunga,2069/70,Dangue Fever,0
+Okhaldhunga,2069/70,Kala-azar,8
+Khotang,2069/70,Acute Encephalitis like syndrome (AES,0
+Khotang,2069/70,Filariasis,0
+Khotang,2069/70,Clinical Malaria,3
+Khotang,2069/70,Malaria (PF),0
+Khotang,2069/70,Malaria (PV),0
+Khotang,2069/70,Dangue Fever,0
+Khotang,2069/70,Kala-azar,0
+Udaypur,2069/70,Acute Encephalitis like syndrome (AES,88
+Udaypur,2069/70,Filariasis,1
+Udaypur,2069/70,Clinical Malaria,376
+Udaypur,2069/70,Malaria (PF),10
+Udaypur,2069/70,Malaria (PV),15
+Udaypur,2069/70,Dangue Fever,0
+Udaypur,2069/70,Kala-azar,5
+Saptari,2069/70,Acute Encephalitis like syndrome (AES,0
+Saptari,2069/70,Filariasis,8
+Saptari,2069/70,Clinical Malaria,2052
+Saptari,2069/70,Malaria (PF),0
+Saptari,2069/70,Malaria (PV),6
+Saptari,2069/70,Dangue Fever,0
+Saptari,2069/70,Kala-azar,8
+Siraha,2069/70,Acute Encephalitis like syndrome (AES,0
+Siraha,2069/70,Filariasis,3
+Siraha,2069/70,Clinical Malaria,1376
+Siraha,2069/70,Malaria (PF),8
+Siraha,2069/70,Malaria (PV),16
+Siraha,2069/70,Dangue Fever,0
+Siraha,2069/70,Kala-azar,20
+Dhanusha,2069/70,Acute Encephalitis like syndrome (AES,41
+Dhanusha,2069/70,Filariasis,265
+Dhanusha,2069/70,Clinical Malaria,7530
+Dhanusha,2069/70,Malaria (PF),62
+Dhanusha,2069/70,Malaria (PV),44
+Dhanusha,2069/70,Dangue Fever,47
+Dhanusha,2069/70,Kala-azar,54
+Mahottari,2069/70,Acute Encephalitis like syndrome (AES,0
+Mahottari,2069/70,Filariasis,130
+Mahottari,2069/70,Clinical Malaria,5897
+Mahottari,2069/70,Malaria (PF),92
+Mahottari,2069/70,Malaria (PV),28
+Mahottari,2069/70,Dangue Fever,0
+Mahottari,2069/70,Kala-azar,294
+Sarlahi,2069/70,Acute Encephalitis like syndrome (AES,1
+Sarlahi,2069/70,Filariasis,48
+Sarlahi,2069/70,Clinical Malaria,3121
+Sarlahi,2069/70,Malaria (PF),37
+Sarlahi,2069/70,Malaria (PV),40
+Sarlahi,2069/70,Dangue Fever,0
+Sarlahi,2069/70,Kala-azar,323
+Sindhuli,2069/70,Acute Encephalitis like syndrome (AES,2
+Sindhuli,2069/70,Filariasis,0
+Sindhuli,2069/70,Clinical Malaria,994
+Sindhuli,2069/70,Malaria (PF),1
+Sindhuli,2069/70,Malaria (PV),3
+Sindhuli,2069/70,Dangue Fever,0
+Sindhuli,2069/70,Kala-azar,0
+Ramechhap,2069/70,Acute Encephalitis like syndrome (AES,3
+Ramechhap,2069/70,Filariasis,0
+Ramechhap,2069/70,Clinical Malaria,1
+Ramechhap,2069/70,Malaria (PF),0
+Ramechhap,2069/70,Malaria (PV),1
+Ramechhap,2069/70,Dangue Fever,0
+Ramechhap,2069/70,Kala-azar,0
+Dolkha,2069/70,Acute Encephalitis like syndrome (AES,15
+Dolkha,2069/70,Filariasis,8
+Dolkha,2069/70,Clinical Malaria,15
+Dolkha,2069/70,Malaria (PF),4
+Dolkha,2069/70,Malaria (PV),32
+Dolkha,2069/70,Dangue Fever,0
+Dolkha,2069/70,Kala-azar,21
+Sindhupalchowk,2069/70,Acute Encephalitis like syndrome (AES,1
+Sindhupalchowk,2069/70,Filariasis,0
+Sindhupalchowk,2069/70,Clinical Malaria,55
+Sindhupalchowk,2069/70,Malaria (PF),0
+Sindhupalchowk,2069/70,Malaria (PV),0
+Sindhupalchowk,2069/70,Dangue Fever,0
+Sindhupalchowk,2069/70,Kala-azar,0
+Kavre,2069/70,Acute Encephalitis like syndrome (AES,1
+Kavre,2069/70,Filariasis,3
+Kavre,2069/70,Clinical Malaria,103
+Kavre,2069/70,Malaria (PF),0
+Kavre,2069/70,Malaria (PV),0
+Kavre,2069/70,Dangue Fever,0
+Kavre,2069/70,Kala-azar,0
+Lalitpur,2069/70,Acute Encephalitis like syndrome (AES,0
+Lalitpur,2069/70,Filariasis,0
+Lalitpur,2069/70,Clinical Malaria,0
+Lalitpur,2069/70,Malaria (PF),0
+Lalitpur,2069/70,Malaria (PV),0
+Lalitpur,2069/70,Dangue Fever,0
+Lalitpur,2069/70,Kala-azar,0
+Bhaktapur,2069/70,Acute Encephalitis like syndrome (AES,2
+Bhaktapur,2069/70,Filariasis,6
+Bhaktapur,2069/70,Clinical Malaria,0
+Bhaktapur,2069/70,Malaria (PF),0
+Bhaktapur,2069/70,Malaria (PV),3
+Bhaktapur,2069/70,Dangue Fever,0
+Bhaktapur,2069/70,Kala-azar,0
+Kathmandu,2069/70,Acute Encephalitis like syndrome (AES,81
+Kathmandu,2069/70,Filariasis,46
+Kathmandu,2069/70,Clinical Malaria,112
+Kathmandu,2069/70,Malaria (PF),22
+Kathmandu,2069/70,Malaria (PV),7
+Kathmandu,2069/70,Dangue Fever,22
+Kathmandu,2069/70,Kala-azar,43
+Nuwakot,2069/70,Acute Encephalitis like syndrome (AES,82
+Nuwakot,2069/70,Filariasis,23
+Nuwakot,2069/70,Clinical Malaria,6
+Nuwakot,2069/70,Malaria (PF),0
+Nuwakot,2069/70,Malaria (PV),0
+Nuwakot,2069/70,Dangue Fever,0
+Nuwakot,2069/70,Kala-azar,0
+Rasuwa,2069/70,Acute Encephalitis like syndrome (AES,0
+Rasuwa,2069/70,Filariasis,0
+Rasuwa,2069/70,Clinical Malaria,0
+Rasuwa,2069/70,Malaria (PF),0
+Rasuwa,2069/70,Malaria (PV),0
+Rasuwa,2069/70,Dangue Fever,0
+Rasuwa,2069/70,Kala-azar,0
+Dhading,2069/70,Acute Encephalitis like syndrome (AES,17
+Dhading,2069/70,Filariasis,17
+Dhading,2069/70,Clinical Malaria,219
+Dhading,2069/70,Malaria (PF),1
+Dhading,2069/70,Malaria (PV),3
+Dhading,2069/70,Dangue Fever,2
+Dhading,2069/70,Kala-azar,0
+Makawanpur,2069/70,Acute Encephalitis like syndrome (AES,2
+Makawanpur,2069/70,Filariasis,14
+Makawanpur,2069/70,Clinical Malaria,501
+Makawanpur,2069/70,Malaria (PF),24
+Makawanpur,2069/70,Malaria (PV),4
+Makawanpur,2069/70,Dangue Fever,34
+Makawanpur,2069/70,Kala-azar,17
+Rautahat,2069/70,Acute Encephalitis like syndrome (AES,7
+Rautahat,2069/70,Filariasis,44
+Rautahat,2069/70,Clinical Malaria,8433
+Rautahat,2069/70,Malaria (PF),122
+Rautahat,2069/70,Malaria (PV),53
+Rautahat,2069/70,Dangue Fever,10
+Rautahat,2069/70,Kala-azar,13
+Bara,2069/70,Acute Encephalitis like syndrome (AES,18
+Bara,2069/70,Filariasis,15
+Bara,2069/70,Clinical Malaria,2816
+Bara,2069/70,Malaria (PF),14
+Bara,2069/70,Malaria (PV),49
+Bara,2069/70,Dangue Fever,0
+Bara,2069/70,Kala-azar,10
+Parsa,2069/70,Acute Encephalitis like syndrome (AES,0
+Parsa,2069/70,Filariasis,0
+Parsa,2069/70,Clinical Malaria,0
+Parsa,2069/70,Malaria (PF),0
+Parsa,2069/70,Malaria (PV),0
+Parsa,2069/70,Dangue Fever,0
+Parsa,2069/70,Kala-azar,0
+Chitwan,2069/70,Acute Encephalitis like syndrome (AES,4
+Chitwan,2069/70,Filariasis,11
+Chitwan,2069/70,Clinical Malaria,429
+Chitwan,2069/70,Malaria (PF),7
+Chitwan,2069/70,Malaria (PV),13
+Chitwan,2069/70,Dangue Fever,10
+Chitwan,2069/70,Kala-azar,0
+Gorkha,2069/70,Acute Encephalitis like syndrome (AES,1
+Gorkha,2069/70,Filariasis,3
+Gorkha,2069/70,Clinical Malaria,54
+Gorkha,2069/70,Malaria (PF),0
+Gorkha,2069/70,Malaria (PV),8
+Gorkha,2069/70,Dangue Fever,0
+Gorkha,2069/70,Kala-azar,0
+Lamjung,2069/70,Acute Encephalitis like syndrome (AES,0
+Lamjung,2069/70,Filariasis,0
+Lamjung,2069/70,Clinical Malaria,6
+Lamjung,2069/70,Malaria (PF),2
+Lamjung,2069/70,Malaria (PV),1
+Lamjung,2069/70,Dangue Fever,0
+Lamjung,2069/70,Kala-azar,0
+Tanahu,2069/70,Acute Encephalitis like syndrome (AES,0
+Tanahu,2069/70,Filariasis,7
+Tanahu,2069/70,Clinical Malaria,17
+Tanahu,2069/70,Malaria (PF),1
+Tanahu,2069/70,Malaria (PV),0
+Tanahu,2069/70,Dangue Fever,0
+Tanahu,2069/70,Kala-azar,8
+Syangja,2069/70,Acute Encephalitis like syndrome (AES,0
+Syangja,2069/70,Filariasis,1
+Syangja,2069/70,Clinical Malaria,1
+Syangja,2069/70,Malaria (PF),0
+Syangja,2069/70,Malaria (PV),6
+Syangja,2069/70,Dangue Fever,0
+Syangja,2069/70,Kala-azar,0
+Kaski,2069/70,Acute Encephalitis like syndrome (AES,24
+Kaski,2069/70,Filariasis,0
+Kaski,2069/70,Clinical Malaria,76
+Kaski,2069/70,Malaria (PF),25
+Kaski,2069/70,Malaria (PV),16
+Kaski,2069/70,Dangue Fever,0
+Kaski,2069/70,Kala-azar,3
+Manang,2069/70,Acute Encephalitis like syndrome (AES,0
+Manang,2069/70,Filariasis,0
+Manang,2069/70,Clinical Malaria,0
+Manang,2069/70,Malaria (PF),0
+Manang,2069/70,Malaria (PV),0
+Manang,2069/70,Dangue Fever,0
+Manang,2069/70,Kala-azar,0
+Mustang,2069/70,Acute Encephalitis like syndrome (AES,0
+Mustang,2069/70,Filariasis,0
+Mustang,2069/70,Clinical Malaria,0
+Mustang,2069/70,Malaria (PF),0
+Mustang,2069/70,Malaria (PV),0
+Mustang,2069/70,Dangue Fever,0
+Mustang,2069/70,Kala-azar,0
+Myagdi,2069/70,Acute Encephalitis like syndrome (AES,0
+Myagdi,2069/70,Filariasis,0
+Myagdi,2069/70,Clinical Malaria,0
+Myagdi,2069/70,Malaria (PF),0
+Myagdi,2069/70,Malaria (PV),0
+Myagdi,2069/70,Dangue Fever,0
+Myagdi,2069/70,Kala-azar,0
+Parbat,2069/70,Acute Encephalitis like syndrome (AES,1
+Parbat,2069/70,Filariasis,0
+Parbat,2069/70,Clinical Malaria,3
+Parbat,2069/70,Malaria (PF),0
+Parbat,2069/70,Malaria (PV),1
+Parbat,2069/70,Dangue Fever,0
+Parbat,2069/70,Kala-azar,0
+Baglung,2069/70,Acute Encephalitis like syndrome (AES,0
+Baglung,2069/70,Filariasis,0
+Baglung,2069/70,Clinical Malaria,0
+Baglung,2069/70,Malaria (PF),0
+Baglung,2069/70,Malaria (PV),10
+Baglung,2069/70,Dangue Fever,0
+Baglung,2069/70,Kala-azar,0
+Gulmi,2069/70,Acute Encephalitis like syndrome (AES,0
+Gulmi,2069/70,Filariasis,0
+Gulmi,2069/70,Clinical Malaria,17
+Gulmi,2069/70,Malaria (PF),56
+Gulmi,2069/70,Malaria (PV),1
+Gulmi,2069/70,Dangue Fever,0
+Gulmi,2069/70,Kala-azar,0
+Palpa,2069/70,Acute Encephalitis like syndrome (AES,74
+Palpa,2069/70,Filariasis,9
+Palpa,2069/70,Clinical Malaria,135
+Palpa,2069/70,Malaria (PF),8
+Palpa,2069/70,Malaria (PV),46
+Palpa,2069/70,Dangue Fever,2
+Palpa,2069/70,Kala-azar,30
+Nawalparasi,2069/70,Acute Encephalitis like syndrome (AES,7
+Nawalparasi,2069/70,Filariasis,1
+Nawalparasi,2069/70,Clinical Malaria,3119
+Nawalparasi,2069/70,Malaria (PF),4
+Nawalparasi,2069/70,Malaria (PV),43
+Nawalparasi,2069/70,Dangue Fever,1
+Nawalparasi,2069/70,Kala-azar,0
+Rupandehi,2069/70,Acute Encephalitis like syndrome (AES,0
+Rupandehi,2069/70,Filariasis,0
+Rupandehi,2069/70,Clinical Malaria,0
+Rupandehi,2069/70,Malaria (PF),0
+Rupandehi,2069/70,Malaria (PV),0
+Rupandehi,2069/70,Dangue Fever,0
+Rupandehi,2069/70,Kala-azar,0
+Kapilvastu,2069/70,Acute Encephalitis like syndrome (AES,152
+Kapilvastu,2069/70,Filariasis,316
+Kapilvastu,2069/70,Clinical Malaria,2379
+Kapilvastu,2069/70,Malaria (PF),69
+Kapilvastu,2069/70,Malaria (PV),45
+Kapilvastu,2069/70,Dangue Fever,0
+Kapilvastu,2069/70,Kala-azar,31
+Arghakhanchi,2069/70,Acute Encephalitis like syndrome (AES,2
+Arghakhanchi,2069/70,Filariasis,0
+Arghakhanchi,2069/70,Clinical Malaria,38
+Arghakhanchi,2069/70,Malaria (PF),0
+Arghakhanchi,2069/70,Malaria (PV),0
+Arghakhanchi,2069/70,Dangue Fever,0
+Arghakhanchi,2069/70,Kala-azar,0
+Pyuthan,2069/70,Acute Encephalitis like syndrome (AES,0
+Pyuthan,2069/70,Filariasis,0
+Pyuthan,2069/70,Clinical Malaria,116
+Pyuthan,2069/70,Malaria (PF),10
+Pyuthan,2069/70,Malaria (PV),5
+Pyuthan,2069/70,Dangue Fever,0
+Pyuthan,2069/70,Kala-azar,0
+Rolpa,2069/70,Acute Encephalitis like syndrome (AES,0
+Rolpa,2069/70,Filariasis,0
+Rolpa,2069/70,Clinical Malaria,45
+Rolpa,2069/70,Malaria (PF),0
+Rolpa,2069/70,Malaria (PV),0
+Rolpa,2069/70,Dangue Fever,0
+Rolpa,2069/70,Kala-azar,0
+Rukum,2069/70,Acute Encephalitis like syndrome (AES,10
+Rukum,2069/70,Filariasis,2
+Rukum,2069/70,Clinical Malaria,3
+Rukum,2069/70,Malaria (PF),0
+Rukum,2069/70,Malaria (PV),3
+Rukum,2069/70,Dangue Fever,0
+Rukum,2069/70,Kala-azar,1
+Salyan,2069/70,Acute Encephalitis like syndrome (AES,0
+Salyan,2069/70,Filariasis,0
+Salyan,2069/70,Clinical Malaria,100
+Salyan,2069/70,Malaria (PF),0
+Salyan,2069/70,Malaria (PV),0
+Salyan,2069/70,Dangue Fever,0
+Salyan,2069/70,Kala-azar,0
+Dang,2069/70,Acute Encephalitis like syndrome (AES,0
+Dang,2069/70,Filariasis,2
+Dang,2069/70,Clinical Malaria,3651
+Dang,2069/70,Malaria (PF),3
+Dang,2069/70,Malaria (PV),10
+Dang,2069/70,Dangue Fever,0
+Dang,2069/70,Kala-azar,0
+Banke,2069/70,Acute Encephalitis like syndrome (AES,12
+Banke,2069/70,Filariasis,4
+Banke,2069/70,Clinical Malaria,667
+Banke,2069/70,Malaria (PF),6
+Banke,2069/70,Malaria (PV),46
+Banke,2069/70,Dangue Fever,0
+Banke,2069/70,Kala-azar,0
+Bardiya,2069/70,Acute Encephalitis like syndrome (AES,3
+Bardiya,2069/70,Filariasis,14
+Bardiya,2069/70,Clinical Malaria,4295
+Bardiya,2069/70,Malaria (PF),6
+Bardiya,2069/70,Malaria (PV),55
+Bardiya,2069/70,Dangue Fever,0
+Bardiya,2069/70,Kala-azar,0
+Surkhet,2069/70,Acute Encephalitis like syndrome (AES,0
+Surkhet,2069/70,Filariasis,4
+Surkhet,2069/70,Clinical Malaria,5533
+Surkhet,2069/70,Malaria (PF),3
+Surkhet,2069/70,Malaria (PV),42
+Surkhet,2069/70,Dangue Fever,0
+Surkhet,2069/70,Kala-azar,1
+Dailekh,2069/70,Acute Encephalitis like syndrome (AES,0
+Dailekh,2069/70,Filariasis,0
+Dailekh,2069/70,Clinical Malaria,31
+Dailekh,2069/70,Malaria (PF),0
+Dailekh,2069/70,Malaria (PV),10
+Dailekh,2069/70,Dangue Fever,0
+Dailekh,2069/70,Kala-azar,0
+Jajarkot,2069/70,Acute Encephalitis like syndrome (AES,0
+Jajarkot,2069/70,Filariasis,0
+Jajarkot,2069/70,Clinical Malaria,0
+Jajarkot,2069/70,Malaria (PF),0
+Jajarkot,2069/70,Malaria (PV),0
+Jajarkot,2069/70,Dangue Fever,0
+Jajarkot,2069/70,Kala-azar,0
+Dolpa,2069/70,Acute Encephalitis like syndrome (AES,0
+Dolpa,2069/70,Filariasis,0
+Dolpa,2069/70,Clinical Malaria,0
+Dolpa,2069/70,Malaria (PF),0
+Dolpa,2069/70,Malaria (PV),0
+Dolpa,2069/70,Dangue Fever,0
+Dolpa,2069/70,Kala-azar,0
+Jumla,2069/70,Acute Encephalitis like syndrome (AES,11
+Jumla,2069/70,Filariasis,0
+Jumla,2069/70,Clinical Malaria,5
+Jumla,2069/70,Malaria (PF),0
+Jumla,2069/70,Malaria (PV),0
+Jumla,2069/70,Dangue Fever,0
+Jumla,2069/70,Kala-azar,0
+Kalikot,2069/70,Acute Encephalitis like syndrome (AES,0
+Kalikot,2069/70,Filariasis,0
+Kalikot,2069/70,Clinical Malaria,1
+Kalikot,2069/70,Malaria (PF),0
+Kalikot,2069/70,Malaria (PV),0
+Kalikot,2069/70,Dangue Fever,0
+Kalikot,2069/70,Kala-azar,0
+Mugu,2069/70,Acute Encephalitis like syndrome (AES,0
+Mugu,2069/70,Filariasis,0
+Mugu,2069/70,Clinical Malaria,7
+Mugu,2069/70,Malaria (PF),0
+Mugu,2069/70,Malaria (PV),0
+Mugu,2069/70,Dangue Fever,0
+Mugu,2069/70,Kala-azar,4
+Humla,2069/70,Acute Encephalitis like syndrome (AES,0
+Humla,2069/70,Filariasis,0
+Humla,2069/70,Clinical Malaria,3
+Humla,2069/70,Malaria (PF),0
+Humla,2069/70,Malaria (PV),0
+Humla,2069/70,Dangue Fever,0
+Humla,2069/70,Kala-azar,0
+Bajura,2069/70,Acute Encephalitis like syndrome (AES,0
+Bajura,2069/70,Filariasis,0
+Bajura,2069/70,Clinical Malaria,109
+Bajura,2069/70,Malaria (PF),3
+Bajura,2069/70,Malaria (PV),13
+Bajura,2069/70,Dangue Fever,0
+Bajura,2069/70,Kala-azar,0
+Bajhang,2069/70,Acute Encephalitis like syndrome (AES,0
+Bajhang,2069/70,Filariasis,1
+Bajhang,2069/70,Clinical Malaria,27
+Bajhang,2069/70,Malaria (PF),0
+Bajhang,2069/70,Malaria (PV),3
+Bajhang,2069/70,Dangue Fever,0
+Bajhang,2069/70,Kala-azar,0
+Achham,2069/70,Acute Encephalitis like syndrome (AES,0
+Achham,2069/70,Filariasis,21
+Achham,2069/70,Clinical Malaria,35
+Achham,2069/70,Malaria (PF),10
+Achham,2069/70,Malaria (PV),47
+Achham,2069/70,Dangue Fever,1
+Achham,2069/70,Kala-azar,1
+Doti,2069/70,Acute Encephalitis like syndrome (AES,7
+Doti,2069/70,Filariasis,0
+Doti,2069/70,Clinical Malaria,62
+Doti,2069/70,Malaria (PF),5
+Doti,2069/70,Malaria (PV),11
+Doti,2069/70,Dangue Fever,0
+Doti,2069/70,Kala-azar,0
+Kailali,2069/70,Acute Encephalitis like syndrome (AES,9
+Kailali,2069/70,Filariasis,37
+Kailali,2069/70,Clinical Malaria,4527
+Kailali,2069/70,Malaria (PF),124
+Kailali,2069/70,Malaria (PV),622
+Kailali,2069/70,Dangue Fever,9
+Kailali,2069/70,Kala-azar,0
+Kanchanpur,2069/70,Acute Encephalitis like syndrome (AES,6
+Kanchanpur,2069/70,Filariasis,22
+Kanchanpur,2069/70,Clinical Malaria,83
+Kanchanpur,2069/70,Malaria (PF),31
+Kanchanpur,2069/70,Malaria (PV),157
+Kanchanpur,2069/70,Dangue Fever,0
+Kanchanpur,2069/70,Kala-azar,0
+Dadeldhura,2069/70,Acute Encephalitis like syndrome (AES,3
+Dadeldhura,2069/70,Filariasis,0
+Dadeldhura,2069/70,Clinical Malaria,192
+Dadeldhura,2069/70,Malaria (PF),8
+Dadeldhura,2069/70,Malaria (PV),48
+Dadeldhura,2069/70,Dangue Fever,0
+Dadeldhura,2069/70,Kala-azar,0
+Baitadi,2069/70,Acute Encephalitis like syndrome (AES,0
+Baitadi,2069/70,Filariasis,0
+Baitadi,2069/70,Clinical Malaria,83
+Baitadi,2069/70,Malaria (PF),1
+Baitadi,2069/70,Malaria (PV),20
+Baitadi,2069/70,Dangue Fever,0
+Baitadi,2069/70,Kala-azar,0
+Darchula,2069/70,Acute Encephalitis like syndrome (AES,0
+Darchula,2069/70,Filariasis,0
+Darchula,2069/70,Clinical Malaria,0
+Darchula,2069/70,Malaria (PF),0
+Darchula,2069/70,Malaria (PV),0
+Darchula,2069/70,Dangue Fever,0
+Darchula,2069/70,Kala-azar,0
