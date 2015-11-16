@@ -1,0 +1,2851 @@
+District,zone,belt,region,Year BS,Year AD,Respiratory problems,Morbidity Number
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13490.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",5992.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Pneumonia,6910.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,242.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Bronchitis,3191.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Asthama,3118.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Viral Influnenza,1790.0
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,178.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",7157.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",4019.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Pneumonia,5056.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,110.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Bronchitis,2625.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Asthama,1493.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Viral Influnenza,1273.0
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,93.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8802.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",7682.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Pneumonia,5394.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,291.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Bronchitis,1515.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Asthama,1579.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Viral Influnenza,3744.0
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,71.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",21951.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",33588.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Pneumonia,14501.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Sever Pneumonia,1205.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Bronchitis,7298.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Asthama,5969.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Viral Influnenza,9527.0
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Foreign body in respiratory tract,98.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",11472.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",9835.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Pneumonia,6826.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,471.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Bronchitis,2992.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Asthama,3508.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Viral Influnenza,811.0
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,159.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",29984.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",26767.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Pneumonia,12185.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Sever Pneumonia,645.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Bronchitis,7842.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Asthama,5541.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Viral Influnenza,2867.0
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Foreign body in respiratory tract,252.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",16122.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",13082.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Pneumonia,6836.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,336.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Bronchitis,3441.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Asthama,4105.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Viral Influnenza,1177.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,142.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8205.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",6140.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Pneumonia,5709.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,341.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Bronchitis,1490.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Asthama,1604.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Viral Influnenza,587.0
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,43.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",10112.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",7286.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Pneumonia,5702.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Sever Pneumonia,141.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Bronchitis,1087.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Asthama,2110.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Viral Influnenza,622.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Foreign body in respiratory tract,63.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",35796.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",22835.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Pneumonia,12328.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Sever Pneumonia,265.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Bronchitis,12298.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Asthama,9521.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Viral Influnenza,6339.0
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Foreign body in respiratory tract,207.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",30568.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",28282.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Pneumonia,14386.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Sever Pneumonia,677.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Bronchitis,12588.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Asthama,8811.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Viral Influnenza,3791.0
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Foreign body in respiratory tract,207.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",7358.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",8259.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Pneumonia,2385.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Sever Pneumonia,180.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Bronchitis,2499.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Asthama,2382.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Viral Influnenza,164.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Foreign body in respiratory tract,120.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",36345.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",27927.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Pneumonia,18023.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Sever Pneumonia,696.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Bronchitis,4228.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Asthama,5365.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Viral Influnenza,2489.0
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Foreign body in respiratory tract,58.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8308.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",7036.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Pneumonia,4861.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Sever Pneumonia,357.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Bronchitis,1601.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Asthama,1943.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Viral Influnenza,1287.0
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Foreign body in respiratory tract,117.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",5014.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",6492.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Pneumonia,3836.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,74.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Bronchitis,1906.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Asthama,1362.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Viral Influnenza,870.0
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,83.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8077.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,"Upper respiratory tract
+Infection",5944.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Pneumonia,4104.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Sever Pneumonia,223.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Bronchitis,3462.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Asthama,2485.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Viral Influnenza,1562.0
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Foreign body in respiratory tract,267.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",17293.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",14895.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Pneumonia,7476.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Sever Pneumonia,597.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Bronchitis,8218.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Asthama,9115.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Viral Influnenza,1284.0
+Bara,Narayani,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,181.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",6730.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",7861.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,2787.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,26.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,1170.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Asthama,2406.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,1607.0
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,61.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13222.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",12853.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Pneumonia,7452.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Sever Pneumonia,225.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Bronchitis,3514.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Asthama,5214.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Viral Influnenza,2487.0
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,582.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",15449.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",11236.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,8163.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,480.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,4059.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Asthama,6057.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,4603.0
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,110.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",35310.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",24498.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Pneumonia,12300.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Sever Pneumonia,456.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Bronchitis,11579.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Asthama,12362.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Viral Influnenza,5131.0
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,419.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",14019.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",10892.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Pneumonia,4040.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Sever Pneumonia,135.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Bronchitis,2597.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Asthama,3619.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Viral Influnenza,1866.0
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Foreign body in respiratory tract,289.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",18188.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",17910.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,7305.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,265.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,4146.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Asthama,10210.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,3687.0
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,479.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",23570.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",21259.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,8351.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,180.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,5436.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Asthama,7846.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,4733.0
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,152.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Asthama,0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,0.0
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,0.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",21082.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",16752.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Pneumonia,8946.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Sever Pneumonia,620.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Bronchitis,9160.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Asthama,9457.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Viral Influnenza,2489.0
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,358.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",7233.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",7329.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Pneumonia,4500.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Sever Pneumonia,393.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Bronchitis,3516.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Asthama,2687.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Viral Influnenza,1504.0
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,89.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",6869.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",5843.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Pneumonia,3066.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Sever Pneumonia,157.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Bronchitis,2006.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Asthama,5051.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Viral Influnenza,871.0
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,85.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Sever Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Bronchitis,0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Asthama,0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Viral Influnenza,0.0
+Parsa,Narayani,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,0.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8265.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",8780.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Pneumonia,3870.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Sever Pneumonia,69.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Bronchitis,2548.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Asthama,2848.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Viral Influnenza,1716.0
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,61.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",2752.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",2457.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Pneumonia,835.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Sever Pneumonia,29.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Bronchitis,363.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Asthama,739.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Viral Influnenza,1052.0
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Foreign body in respiratory tract,14.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",12788.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",13334.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Pneumonia,8305.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Sever Pneumonia,533.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Bronchitis,8323.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Asthama,8441.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Viral Influnenza,1164.0
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,224.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",24257.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",20570.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Pneumonia,8098.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Sever Pneumonia,631.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Bronchitis,13067.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Asthama,14116.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Viral Influnenza,1597.0
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Foreign body in respiratory tract,218.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",5369.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",4559.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Pneumonia,4193.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Sever Pneumonia,294.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Bronchitis,2161.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Asthama,3017.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Viral Influnenza,489.0
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Foreign body in respiratory tract,178.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",14278.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,"Upper respiratory tract
+Infection",12584.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Pneumonia,6150.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Sever Pneumonia,175.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Bronchitis,3679.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Asthama,5096.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Viral Influnenza,3364.0
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Foreign body in respiratory tract,117.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",9050.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",6622.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Pneumonia,5595.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Sever Pneumonia,95.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Bronchitis,5178.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Asthama,4220.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Viral Influnenza,1833.0
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,178.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13936.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",15372.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Pneumonia,5332.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Sever Pneumonia,443.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Bronchitis,4029.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Asthama,2445.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Viral Influnenza,1208.0
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,304.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13709.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",11405.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Pneumonia,8348.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Sever Pneumonia,176.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Bronchitis,4750.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Asthama,5630.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Viral Influnenza,5520.0
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,408.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",21955.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",14070.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Pneumonia,9997.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Sever Pneumonia,507.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Bronchitis,8327.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Asthama,5660.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Viral Influnenza,4907.0
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,234.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",18452.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",18660.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Pneumonia,8148.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Sever Pneumonia,1020.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Bronchitis,9302.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Asthama,8196.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Viral Influnenza,1923.0
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Foreign body in respiratory tract,500.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",19083.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",17404.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Pneumonia,3576.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Sever Pneumonia,253.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Bronchitis,4932.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Asthama,5211.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Viral Influnenza,2724.0
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,1524.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",6098.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",5203.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Pneumonia,3351.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Sever Pneumonia,137.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Bronchitis,2520.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Asthama,4531.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Viral Influnenza,1593.0
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,96.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",550.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",622.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Pneumonia,172.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Sever Pneumonia,24.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Bronchitis,248.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Asthama,178.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Viral Influnenza,44.0
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Foreign body in respiratory tract,0.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",2269.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",2712.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Pneumonia,620.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Sever Pneumonia,22.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Bronchitis,280.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Asthama,151.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Viral Influnenza,65.0
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Foreign body in respiratory tract,19.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8370.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",7819.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Pneumonia,2172.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Sever Pneumonia,117.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Bronchitis,2006.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Asthama,1462.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Viral Influnenza,2079.0
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,107.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",23409.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",22603.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Pneumonia,11141.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Sever Pneumonia,313.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Bronchitis,6141.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Asthama,8245.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Viral Influnenza,2085.0
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Foreign body in respiratory tract,29.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",14805.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",10973.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Pneumonia,6688.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Sever Pneumonia,41.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Bronchitis,5858.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Asthama,6685.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Viral Influnenza,3924.0
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,140.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",15568.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",16736.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Pneumonia,5370.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Sever Pneumonia,317.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Bronchitis,2690.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Asthama,3630.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Viral Influnenza,1242.0
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,89.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Sever Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Bronchitis,0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Asthama,0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Viral Influnenza,0.0
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Foreign body in respiratory tract,0.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",22290.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",17114.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Pneumonia,5519.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Sever Pneumonia,268.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Bronchitis,5732.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Asthama,7343.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Viral Influnenza,1950.0
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,282.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",10496.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,"Upper respiratory tract
+Infection",8242.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Pneumonia,3177.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Sever Pneumonia,101.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Bronchitis,2275.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Asthama,3610.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Viral Influnenza,2411.0
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Foreign body in respiratory tract,177.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",21179.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",21371.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Pneumonia,8721.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Sever Pneumonia,166.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Bronchitis,3193.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Asthama,6004.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Viral Influnenza,3276.0
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,61.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",22244.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",25062.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Pneumonia,9647.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Sever Pneumonia,453.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Bronchitis,8121.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Asthama,6333.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Viral Influnenza,2802.0
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,141.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",23824.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",16882.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Pneumonia,7254.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,292.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Bronchitis,4887.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Asthama,5870.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,456.0
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,70.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",17225.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",15017.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Pneumonia,9354.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Sever Pneumonia,719.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Bronchitis,5206.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Asthama,7237.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Viral Influnenza,1757.0
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,64.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",1019.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",1092.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Pneumonia,594.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Sever Pneumonia,82.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Bronchitis,552.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Asthama,563.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Viral Influnenza,90.0
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,25.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",4917.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",3886.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Pneumonia,2795.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Sever Pneumonia,291.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Bronchitis,1874.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Asthama,2834.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Viral Influnenza,1192.0
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,178.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",6309.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",9910.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Pneumonia,2994.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,518.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Bronchitis,2454.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Asthama,3200.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,552.0
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,25.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",4337.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",4953.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Pneumonia,2141.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Sever Pneumonia,189.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Bronchitis,1112.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Asthama,1760.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Viral Influnenza,294.0
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,20.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",4721.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",3532.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Pneumonia,1818.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Sever Pneumonia,382.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Bronchitis,1848.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Asthama,2317.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Viral Influnenza,389.0
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,400.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",2574.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",2770.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Pneumonia,1118.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Sever Pneumonia,186.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Bronchitis,730.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Asthama,1154.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Viral Influnenza,148.0
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,28.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",10057.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",15857.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Pneumonia,6907.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,430.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Bronchitis,5160.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Asthama,5979.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,3.0
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,73.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",11179.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",9708.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Pneumonia,6915.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,305.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Bronchitis,2598.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Asthama,2976.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,368.0
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,88.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",9993.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",10210.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Pneumonia,7465.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,710.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Bronchitis,2893.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Asthama,3679.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,589.0
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,155.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13591.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",11089.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Pneumonia,6401.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,485.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Bronchitis,3744.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Asthama,5778.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,433.0
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,62.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",20973.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",18923.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Pneumonia,10744.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Sever Pneumonia,533.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Bronchitis,4641.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Asthama,6534.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Viral Influnenza,3627.0
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Foreign body in respiratory tract,136.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",23794.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",22371.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Pneumonia,6757.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Sever Pneumonia,726.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Bronchitis,3553.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Asthama,6563.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Viral Influnenza,1098.0
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,258.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",13130.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",11299.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Pneumonia,6263.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Sever Pneumonia,383.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Bronchitis,3725.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Asthama,6912.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Viral Influnenza,2079.0
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,225.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",6937.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",6470.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Pneumonia,4061.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Sever Pneumonia,224.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Bronchitis,2385.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Asthama,2973.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Viral Influnenza,248.0
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,120.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",7017.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",7962.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Pneumonia,5488.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Sever Pneumonia,551.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Bronchitis,2133.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Asthama,3320.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Viral Influnenza,758.0
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,195.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",14823.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",9819.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Pneumonia,9200.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Sever Pneumonia,362.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Bronchitis,1651.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Asthama,3840.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Viral Influnenza,1789.0
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,132.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",8080.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",6113.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Pneumonia,2076.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Sever Pneumonia,117.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Bronchitis,2480.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Asthama,4663.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Viral Influnenza,907.0
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,54.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",12082.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",14240.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Pneumonia,4694.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Sever Pneumonia,272.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Bronchitis,2565.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Asthama,4110.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Viral Influnenza,1177.0
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,46.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",36358.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",19149.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Pneumonia,11553.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Sever Pneumonia,797.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Bronchitis,5323.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Asthama,8240.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Viral Influnenza,1851.0
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,73.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,"ARI/Lower respiratory
+tract Infection",19866.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,"Upper respiratory tract
+Infection",13086.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Pneumonia,8033.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Sever Pneumonia,146.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Bronchitis,4035.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Asthama,5004.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Viral Influnenza,6693.0
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Foreign body in respiratory tract,84.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7408.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",6936.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Pneumonia,4083.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Sever Pneumonia,129.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Bronchitis,1020.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Asthama,2021.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Viral Influnenza,1237.0
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Foreign body in respiratory tract,116.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",8288.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",6145.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Pneumonia,5341.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,193.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Bronchitis,1412.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Asthama,1548.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Viral Influnenza,942.0
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,132.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",8961.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",7829.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Pneumonia,4825.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,230.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Bronchitis,1515.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Asthama,1733.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Viral Influnenza,5121.0
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,52.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",22843.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",27279.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Pneumonia,15070.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Sever Pneumonia,541.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Bronchitis,9626.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Asthama,7747.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Viral Influnenza,16283.0
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Foreign body in respiratory tract,78.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",31641.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",29018.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Pneumonia,11831.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Sever Pneumonia,663.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Bronchitis,9610.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Asthama,6518.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Viral Influnenza,3954.0
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Foreign body in respiratory tract,371.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",35300.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",27773.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Pneumonia,18968.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Sever Pneumonia,363.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Bronchitis,4135.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Asthama,5465.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Viral Influnenza,4060.0
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Foreign body in respiratory tract,23.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7215.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",5271.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Pneumonia,4747.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,84.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Bronchitis,2542.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Asthama,1598.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Viral Influnenza,2522.0
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,22.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",5078.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",6777.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Pneumonia,2900.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,104.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Bronchitis,2497.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Asthama,1435.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Viral Influnenza,1458.0
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,21.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",9506.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",8109.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Pneumonia,5618.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Sever Pneumonia,76.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Bronchitis,783.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Asthama,2187.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Viral Influnenza,256.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Foreign body in respiratory tract,45.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",11552.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",6594.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Pneumonia,6665.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,273.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Bronchitis,2857.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Asthama,3429.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Viral Influnenza,2740.0
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,81.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7549.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",10470.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Pneumonia,3015.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Sever Pneumonia,182.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Bronchitis,1871.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Asthama,2470.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Viral Influnenza,264.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Foreign body in respiratory tract,106.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",13666.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",13765.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Pneumonia,5922.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,199.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Bronchitis,3012.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Asthama,3522.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Viral Influnenza,1901.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,178.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",9560.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",8259.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Pneumonia,6068.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,1037.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Bronchitis,2206.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Asthama,2971.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Viral Influnenza,1008.0
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,341.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",9000.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",6384.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Pneumonia,4311.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Sever Pneumonia,275.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Bronchitis,3903.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Asthama,2974.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Viral Influnenza,1807.0
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Foreign body in respiratory tract,229.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",27960.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",19502.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Pneumonia,10172.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Sever Pneumonia,213.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Bronchitis,11194.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Asthama,9531.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Viral Influnenza,8019.0
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Foreign body in respiratory tract,225.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",38460.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,"Upper respiratory tract
+Infection",32129.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Pneumonia,12706.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Sever Pneumonia,763.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Bronchitis,13884.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Asthama,8691.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Viral Influnenza,4541.0
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Foreign body in respiratory tract,123.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",36659.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",26743.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Pneumonia,11404.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Sever Pneumonia,406.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Bronchitis,12836.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Asthama,11399.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Viral Influnenza,4820.0
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,343.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",22343.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",18398.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Pneumonia,8034.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Sever Pneumonia,478.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Bronchitis,8966.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Asthama,9304.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Viral Influnenza,3077.0
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,141.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",23203.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",22587.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Pneumonia,8697.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Sever Pneumonia,516.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Bronchitis,13142.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Asthama,14048.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Viral Influnenza,1750.0
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,304.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",5474.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",4642.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Pneumonia,3755.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Sever Pneumonia,134.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Bronchitis,1738.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Asthama,2792.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Viral Influnenza,848.0
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,67.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",8658.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",7747.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Pneumonia,4035.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Sever Pneumonia,131.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Bronchitis,2761.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Asthama,3072.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Viral Influnenza,2541.0
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,111.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",16534.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",11350.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Pneumonia,3687.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Sever Pneumonia,143.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Bronchitis,3153.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Asthama,4002.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Viral Influnenza,3795.0
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Foreign body in respiratory tract,155.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",14444.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",13088.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Pneumonia,5744.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Sever Pneumonia,202.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Bronchitis,3340.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Asthama,4712.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Viral Influnenza,4414.0
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Foreign body in respiratory tract,143.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",23475.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",23520.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,7667.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,79.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,4739.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Asthama,7856.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,4328.0
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,64.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Asthama,0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,0.0
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,0.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",6355.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",6709.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,2073.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,53.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,1070.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Asthama,2586.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,1712.0
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,108.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",15289.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",22107.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,12004.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,616.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,4758.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Asthama,15610.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,5721.0
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,962.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",6896.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",7344.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,3180.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,277.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,2623.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Asthama,5970.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,1379.0
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,107.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",3203.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",2177.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Pneumonia,820.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Sever Pneumonia,37.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Bronchitis,440.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Asthama,581.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Viral Influnenza,1378.0
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Foreign body in respiratory tract,5.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",18367.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",13947.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Pneumonia,9175.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Sever Pneumonia,393.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Bronchitis,3709.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Asthama,6534.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Viral Influnenza,7485.0
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,106.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7058.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",7795.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Pneumonia,4628.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Sever Pneumonia,204.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Bronchitis,2919.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Asthama,3113.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Viral Influnenza,3337.0
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Foreign body in respiratory tract,21.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",10374.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",11710.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Pneumonia,7517.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Sever Pneumonia,425.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Bronchitis,6988.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Asthama,8805.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Viral Influnenza,2036.0
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,335.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",16742.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",16408.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Pneumonia,6251.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Sever Pneumonia,354.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Bronchitis,9128.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Asthama,10105.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Viral Influnenza,2212.0
+Bara,Narayani,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,120.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Sever Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Bronchitis,0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Asthama,0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Viral Influnenza,0.0
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,0.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",15552.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,"Upper respiratory tract
+Infection",16963.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Pneumonia,9457.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Sever Pneumonia,299.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Bronchitis,4120.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Asthama,9072.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Viral Influnenza,7346.0
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Foreign body in respiratory tract,630.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",12663.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",14914.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Pneumonia,7495.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Sever Pneumonia,244.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Bronchitis,3675.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Asthama,4437.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Viral Influnenza,6120.0
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,74.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7244.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",6546.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Pneumonia,4086.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Sever Pneumonia,144.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Bronchitis,3138.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Asthama,4667.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Viral Influnenza,3012.0
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,80.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",10454.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",8656.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Pneumonia,2417.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Sever Pneumonia,86.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Bronchitis,2301.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Asthama,3707.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Viral Influnenza,2834.0
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,124.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",22932.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",16691.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Pneumonia,5205.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Sever Pneumonia,238.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Bronchitis,5640.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Asthama,7034.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Viral Influnenza,3510.0
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,72.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",25316.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",22342.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Pneumonia,4655.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Sever Pneumonia,208.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Bronchitis,5468.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Asthama,6290.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Viral Influnenza,4972.0
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,609.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",659.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",645.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Pneumonia,165.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Sever Pneumonia,2.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Bronchitis,197.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Asthama,142.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Viral Influnenza,52.0
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Foreign body in respiratory tract,6.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",2141.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",3350.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Pneumonia,292.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Sever Pneumonia,0.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Bronchitis,63.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Asthama,121.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Viral Influnenza,244.0
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Foreign body in respiratory tract,9.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",8385.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",8676.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Pneumonia,2296.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Sever Pneumonia,105.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Bronchitis,1321.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Asthama,1413.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Viral Influnenza,3916.0
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,70.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",17935.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",19342.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Pneumonia,5525.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Sever Pneumonia,139.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Bronchitis,3121.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Asthama,3525.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Viral Influnenza,3408.0
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,49.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",17466.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",22163.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Pneumonia,6632.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Sever Pneumonia,400.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Bronchitis,4671.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Asthama,2500.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Viral Influnenza,2544.0
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,231.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",26328.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",19391.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Pneumonia,10246.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Sever Pneumonia,519.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Bronchitis,9200.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Asthama,6439.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Viral Influnenza,7713.0
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,299.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",15285.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",13082.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Pneumonia,6236.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Sever Pneumonia,123.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Bronchitis,6685.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Asthama,6813.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Viral Influnenza,4094.0
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,67.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",22699.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",25136.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Pneumonia,10309.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Sever Pneumonia,209.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Bronchitis,5083.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Asthama,7379.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Viral Influnenza,1964.0
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Foreign body in respiratory tract,89.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Sever Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Bronchitis,0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Asthama,0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Viral Influnenza,0.0
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Foreign body in respiratory tract,0.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",15969.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",20758.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Pneumonia,8081.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Sever Pneumonia,1036.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Bronchitis,9069.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Asthama,9102.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Viral Influnenza,2523.0
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Foreign body in respiratory tract,564.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",9668.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,"Upper respiratory tract
+Infection",7581.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Pneumonia,6266.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Sever Pneumonia,168.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Bronchitis,4876.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Asthama,4299.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Viral Influnenza,2442.0
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Foreign body in respiratory tract,124.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",9817.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",12117.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Pneumonia,6529.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,420.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Bronchitis,4366.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Asthama,4727.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,103.0
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,38.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",11114.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",9638.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Pneumonia,5977.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,167.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Bronchitis,2528.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Asthama,3040.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,384.0
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,44.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",11619.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",10467.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Pneumonia,5931.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,646.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Bronchitis,4310.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Asthama,3303.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,164.0
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,63.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",13642.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",12816.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Pneumonia,5891.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,638.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Bronchitis,3411.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Asthama,6136.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,677.0
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,39.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",17187.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",16331.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Pneumonia,7474.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Sever Pneumonia,475.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Bronchitis,5494.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Asthama,9412.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Viral Influnenza,2659.0
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,36.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",20410.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",22316.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Pneumonia,8976.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Sever Pneumonia,347.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Bronchitis,3038.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Asthama,5445.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Viral Influnenza,5671.0
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,49.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",19076.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",25377.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Pneumonia,7375.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Sever Pneumonia,280.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Bronchitis,8434.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Asthama,6625.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Viral Influnenza,4252.0
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,116.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",19185.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",23551.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Pneumonia,9005.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,351.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Bronchitis,4133.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Asthama,6222.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,5287.0
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,104.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",24385.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",17611.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Pneumonia,7114.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,300.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Bronchitis,4196.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Asthama,5758.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,109.0
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,49.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",6480.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",10432.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Pneumonia,3352.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Sever Pneumonia,522.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Bronchitis,2191.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Asthama,3631.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Viral Influnenza,856.0
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,115.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",1117.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",1391.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Pneumonia,634.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Sever Pneumonia,36.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Bronchitis,227.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Asthama,371.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Viral Influnenza,97.0
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,3.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",5034.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",6350.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Pneumonia,2353.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Sever Pneumonia,155.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Bronchitis,1112.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Asthama,1688.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Viral Influnenza,133.0
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,37.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",3335.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",3719.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Pneumonia,2040.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Sever Pneumonia,237.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Bronchitis,1886.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Asthama,2299.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Viral Influnenza,674.0
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,103.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",2880.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",2565.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Pneumonia,1421.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Sever Pneumonia,151.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Bronchitis,1010.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Asthama,1346.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Viral Influnenza,41.0
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,105.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",4064.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",4182.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Pneumonia,2426.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Sever Pneumonia,257.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Bronchitis,1394.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Asthama,2340.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Viral Influnenza,957.0
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Foreign body in respiratory tract,136.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",5186.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",5747.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Pneumonia,4358.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Sever Pneumonia,250.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Bronchitis,1431.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Asthama,3223.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Viral Influnenza,1793.0
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,63.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",7484.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",9251.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Pneumonia,3913.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Sever Pneumonia,239.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Bronchitis,1881.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Asthama,3049.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Viral Influnenza,620.0
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,38.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",21794.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",22092.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Pneumonia,6270.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Sever Pneumonia,406.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Bronchitis,2624.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Asthama,6146.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Viral Influnenza,769.0
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,106.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",11224.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",12834.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Pneumonia,3493.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Sever Pneumonia,154.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Bronchitis,2002.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Asthama,4779.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Viral Influnenza,699.0
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,67.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",31224.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",18795.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Pneumonia,7343.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Sever Pneumonia,754.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Bronchitis,3744.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Asthama,6235.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Viral Influnenza,2509.0
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,146.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",17682.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",17489.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Pneumonia,7849.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Sever Pneumonia,202.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Bronchitis,3935.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Asthama,5102.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Viral Influnenza,8789.0
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,194.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",11811.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",11226.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Pneumonia,4503.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Sever Pneumonia,467.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Bronchitis,1340.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Asthama,3773.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Viral Influnenza,2236.0
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,102.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",14764.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",13090.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Pneumonia,6235.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Sever Pneumonia,315.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Bronchitis,3247.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Asthama,6392.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Viral Influnenza,4252.0
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,325.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,"ARI/Lower respiratory
+tract Infection",6528.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,"Upper respiratory tract
+Infection",5913.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Pneumonia,1582.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Sever Pneumonia,57.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Bronchitis,2988.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Asthama,3803.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Viral Influnenza,1350.0
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Foreign body in respiratory tract,78.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",6045.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",6299.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Pneumonia,3861.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Sever Pneumonia,137.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Bronchitis,1090.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Asthama,1654.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Viral Influnenza,1063.0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Foreign body in respiratory tract,101.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7998.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",7111.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Pneumonia,4341.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,170.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Bronchitis,1238.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Asthama,1616.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Viral Influnenza,501.0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,48.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",8558.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",7147.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Pneumonia,4416.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,202.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Bronchitis,1591.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Asthama,1722.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Viral Influnenza,3064.0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,59.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",23150.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",25124.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Pneumonia,12792.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Sever Pneumonia,506.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Bronchitis,9101.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Asthama,6995.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Viral Influnenza,13190.0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Foreign body in respiratory tract,115.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",30757.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",29791.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Pneumonia,11237.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Sever Pneumonia,401.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Bronchitis,9816.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Asthama,6144.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Viral Influnenza,3714.0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Foreign body in respiratory tract,166.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",35009.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",29285.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Pneumonia,14377.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Sever Pneumonia,277.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Bronchitis,3348.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Asthama,5924.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Viral Influnenza,2436.0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Foreign body in respiratory tract,48.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7248.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",6885.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Pneumonia,4526.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,47.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Bronchitis,2745.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Asthama,1699.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Viral Influnenza,1639.0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,28.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",4965.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",6383.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Pneumonia,2448.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,82.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Bronchitis,2286.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Asthama,1339.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Viral Influnenza,1347.0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,43.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7834.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",6356.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Pneumonia,4407.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Sever Pneumonia,80.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Bronchitis,610.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Asthama,1952.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Viral Influnenza,231.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Foreign body in respiratory tract,33.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",10567.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",7375.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Pneumonia,5788.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,150.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Bronchitis,2807.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Asthama,3794.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Viral Influnenza,2073.0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,275.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",8258.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",10338.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Pneumonia,3406.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Sever Pneumonia,134.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Bronchitis,2678.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Asthama,3028.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Viral Influnenza,385.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Foreign body in respiratory tract,132.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",14844.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",15016.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Pneumonia,5558.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,111.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Bronchitis,2593.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Asthama,3093.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Viral Influnenza,1381.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,120.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9992.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",8973.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Pneumonia,6586.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,410.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Bronchitis,2964.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Asthama,3587.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Viral Influnenza,895.0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,223.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9442.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",7820.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Pneumonia,5018.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Sever Pneumonia,370.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Bronchitis,3125.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Asthama,2750.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Viral Influnenza,1448.0
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Foreign body in respiratory tract,138.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",27031.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",18836.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Pneumonia,8262.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Sever Pneumonia,201.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Bronchitis,10523.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Asthama,8446.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Viral Influnenza,5941.0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Foreign body in respiratory tract,197.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",29700.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,"Upper respiratory tract
+Infection",26019.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Pneumonia,9754.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Sever Pneumonia,307.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Bronchitis,9873.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Asthama,8192.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Viral Influnenza,3071.0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Foreign body in respiratory tract,141.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",34361.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",23597.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Pneumonia,9952.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Sever Pneumonia,412.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Bronchitis,10998.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Asthama,11120.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Viral Influnenza,5214.0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,296.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",24232.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",20923.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Pneumonia,7755.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Sever Pneumonia,267.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Bronchitis,10040.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Asthama,10275.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Viral Influnenza,2692.0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,223.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",25794.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",27289.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Pneumonia,9478.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Sever Pneumonia,1146.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Bronchitis,14920.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Asthama,17354.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Viral Influnenza,3044.0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,257.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",5337.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",5715.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Pneumonia,4333.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Sever Pneumonia,124.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Bronchitis,1837.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Asthama,2745.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Viral Influnenza,565.0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,34.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",11612.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",9907.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Pneumonia,4738.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Sever Pneumonia,157.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Bronchitis,3657.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Asthama,3312.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Viral Influnenza,2851.0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,144.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",14389.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",10760.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Pneumonia,2820.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Sever Pneumonia,47.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Bronchitis,2195.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Asthama,3364.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Viral Influnenza,2728.0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Foreign body in respiratory tract,89.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",17480.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",15158.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Pneumonia,5713.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Sever Pneumonia,280.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Bronchitis,4000.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Asthama,5340.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Viral Influnenza,4547.0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Foreign body in respiratory tract,217.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",24689.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",24126.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,7274.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,165.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,4679.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Asthama,8210.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,3734.0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,29.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Asthama,0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,0.0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,0.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",8602.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",10375.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,2918.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,114.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,1526.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Asthama,2926.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,2428.0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,148.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",24204.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",27793.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,8461.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,1024.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,8782.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Asthama,22632.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,7596.0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,350.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7186.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",7700.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,3163.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,193.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,1998.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Asthama,5227.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,2995.0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,166.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",3187.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",3184.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Pneumonia,626.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Sever Pneumonia,19.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Bronchitis,437.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Asthama,652.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Viral Influnenza,1408.0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Foreign body in respiratory tract,8.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",19845.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",15510.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Pneumonia,9200.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Sever Pneumonia,476.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Bronchitis,4117.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Asthama,6672.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Viral Influnenza,11096.0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,104.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7445.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",8910.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Pneumonia,4384.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Sever Pneumonia,209.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Bronchitis,3335.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Asthama,3820.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Viral Influnenza,3434.0
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Foreign body in respiratory tract,62.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",14881.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",14900.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Pneumonia,7799.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Sever Pneumonia,551.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Bronchitis,9558.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Asthama,10727.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Viral Influnenza,2577.0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,235.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",17585.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",18578.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Pneumonia,5659.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Sever Pneumonia,434.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Bronchitis,9296.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Asthama,11093.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Viral Influnenza,2399.0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,132.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Sever Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Bronchitis,0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Asthama,0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Viral Influnenza,0.0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,0.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",19379.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,"Upper respiratory tract
+Infection",17932.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Pneumonia,7631.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Sever Pneumonia,252.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Bronchitis,4690.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Asthama,8769.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Viral Influnenza,9222.0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Foreign body in respiratory tract,277.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",13009.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",18242.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Pneumonia,6990.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Sever Pneumonia,143.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Bronchitis,3276.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Asthama,3955.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Viral Influnenza,6982.0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,56.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7362.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",7474.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Pneumonia,3833.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Sever Pneumonia,110.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Bronchitis,3057.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Asthama,4187.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Viral Influnenza,3800.0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,33.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9974.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",9433.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Pneumonia,2620.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Sever Pneumonia,104.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Bronchitis,2300.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Asthama,3567.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Viral Influnenza,4904.0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,150.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",20789.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",15997.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Pneumonia,3757.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Sever Pneumonia,146.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Bronchitis,5600.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Asthama,6819.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Viral Influnenza,2745.0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,78.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",24904.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",26305.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Pneumonia,6368.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Sever Pneumonia,395.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Bronchitis,5998.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Asthama,7170.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Viral Influnenza,8468.0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,578.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",714.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",720.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Pneumonia,122.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Sever Pneumonia,13.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Bronchitis,149.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Asthama,111.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Viral Influnenza,27.0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Foreign body in respiratory tract,34.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",2084.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",2987.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Pneumonia,207.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Sever Pneumonia,5.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Bronchitis,113.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Asthama,178.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Viral Influnenza,127.0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Foreign body in respiratory tract,4.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",7096.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",12130.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Pneumonia,1619.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Sever Pneumonia,73.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Bronchitis,1027.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Asthama,1306.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Viral Influnenza,2115.0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,40.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",16325.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",17431.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Pneumonia,4280.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Sever Pneumonia,70.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Bronchitis,3247.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Asthama,3244.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Viral Influnenza,904.0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,33.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",18684.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",24838.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Pneumonia,6268.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Sever Pneumonia,310.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Bronchitis,4945.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Asthama,3173.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Viral Influnenza,1723.0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,312.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",20472.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",16265.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Pneumonia,6637.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Sever Pneumonia,401.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Bronchitis,7736.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Asthama,5112.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Viral Influnenza,5533.0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,188.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",15780.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",13594.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Pneumonia,5827.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Sever Pneumonia,112.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Bronchitis,6353.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Asthama,6551.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Viral Influnenza,3756.0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,310.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",25645.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",23094.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Pneumonia,9094.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Sever Pneumonia,217.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Bronchitis,5413.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Asthama,7743.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Viral Influnenza,2901.0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Foreign body in respiratory tract,76.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Sever Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Bronchitis,0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Asthama,0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Viral Influnenza,0.0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Foreign body in respiratory tract,0.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",15078.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",20314.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Pneumonia,8179.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Sever Pneumonia,756.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Bronchitis,9042.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Asthama,9195.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Viral Influnenza,2756.0
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Foreign body in respiratory tract,540.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",10214.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,"Upper respiratory tract
+Infection",7240.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Pneumonia,5084.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Sever Pneumonia,492.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Bronchitis,3922.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Asthama,3912.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Viral Influnenza,1802.0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Foreign body in respiratory tract,191.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",11395.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",13782.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Pneumonia,5884.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,510.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Bronchitis,4798.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Asthama,4782.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,119.0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,58.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9300.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",9238.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Pneumonia,4784.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,136.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Bronchitis,2018.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Asthama,2699.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,339.0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,29.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9195.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",11995.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Pneumonia,6014.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,680.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Bronchitis,2176.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Asthama,2738.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,668.0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,140.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",12772.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",12597.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Pneumonia,5339.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,367.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Bronchitis,3408.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Asthama,6192.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,470.0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,140.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",13679.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",18167.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Pneumonia,8105.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Sever Pneumonia,376.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Bronchitis,5305.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Asthama,7515.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Viral Influnenza,2509.0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,10.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",23023.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",24723.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Pneumonia,7481.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Sever Pneumonia,294.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Bronchitis,3896.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Asthama,6075.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Viral Influnenza,3243.0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,34.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",19160.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",23523.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Pneumonia,7333.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Sever Pneumonia,257.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Bronchitis,7195.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Asthama,6688.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Viral Influnenza,2902.0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,57.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",20957.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",24851.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Pneumonia,6929.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,298.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Bronchitis,4580.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Asthama,6556.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,4368.0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,79.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",23157.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",17598.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Pneumonia,6334.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,329.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Bronchitis,3322.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Asthama,5982.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,1850.0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,67.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",6273.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",10794.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Pneumonia,3113.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Sever Pneumonia,426.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Bronchitis,2132.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Asthama,3240.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Viral Influnenza,1129.0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,106.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",1570.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",1535.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Pneumonia,784.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Sever Pneumonia,21.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Bronchitis,178.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Asthama,501.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Viral Influnenza,40.0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,26.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",5946.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",7945.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Pneumonia,2825.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Sever Pneumonia,151.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Bronchitis,1241.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Asthama,1886.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Viral Influnenza,103.0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,30.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",4040.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",3990.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Pneumonia,1534.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Sever Pneumonia,268.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Bronchitis,1854.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Asthama,2777.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Viral Influnenza,353.0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,102.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",1953.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",2660.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Pneumonia,1537.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Sever Pneumonia,160.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Bronchitis,1056.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Asthama,1417.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Viral Influnenza,52.0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,49.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",2570.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",3881.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Pneumonia,1669.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Sever Pneumonia,233.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Bronchitis,1624.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Asthama,2132.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Viral Influnenza,331.0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Foreign body in respiratory tract,57.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",6323.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",6391.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Pneumonia,4110.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Sever Pneumonia,195.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Bronchitis,1609.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Asthama,3434.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Viral Influnenza,1465.0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,26.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",8838.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",10931.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Pneumonia,4257.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Sever Pneumonia,334.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Bronchitis,2098.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Asthama,2802.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Viral Influnenza,1307.0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,53.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",22602.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",30811.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Pneumonia,7315.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Sever Pneumonia,402.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Bronchitis,2604.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Asthama,6506.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Viral Influnenza,870.0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,100.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",12591.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",15555.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Pneumonia,4213.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Sever Pneumonia,310.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Bronchitis,2826.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Asthama,5712.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Viral Influnenza,806.0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,115.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",31083.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",22493.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Pneumonia,7611.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Sever Pneumonia,825.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Bronchitis,4643.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Asthama,8131.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Viral Influnenza,3576.0
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,74.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",16347.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",16335.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Pneumonia,7116.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Sever Pneumonia,216.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Bronchitis,4217.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Asthama,5140.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Viral Influnenza,7133.0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,70.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",11805.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",11771.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Pneumonia,4771.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Sever Pneumonia,311.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Bronchitis,1960.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Asthama,4983.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Viral Influnenza,2327.0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,214.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",15757.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",15817.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Pneumonia,5612.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Sever Pneumonia,262.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Bronchitis,2764.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Asthama,6358.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Viral Influnenza,4254.0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,81.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,"ARI/Lower respiratory
+tract Infection",9950.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,"Upper respiratory tract
+Infection",9748.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Pneumonia,2254.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Sever Pneumonia,151.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Bronchitis,3440.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Asthama,4411.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Viral Influnenza,2019.0
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Foreign body in respiratory tract,48.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,7891.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Upper respiratory tract Infection,7860.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Pneumonia,3826.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Sever Pneumonia,330.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Bronchitis,1118.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Asthama,1687.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Viral Influnenza,3096.0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Foreign body in respiratory tract,200.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,9108.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,8511.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Pneumonia,4691.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,229.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Bronchitis,1220.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Asthama,1602.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Viral Influnenza,1049.0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,69.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,8964.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,8497.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Pneumonia,4220.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,193.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Bronchitis,1430.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Asthama,1749.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Viral Influnenza,7610.0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,102.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,29104.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Upper respiratory tract Infection,32353.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Pneumonia,12585.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Sever Pneumonia,717.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Bronchitis,10708.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Asthama,9263.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Viral Influnenza,25567.0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Foreign body in respiratory tract,198.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,37006.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Upper respiratory tract Infection,35091.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Pneumonia,13155.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Sever Pneumonia,658.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Bronchitis,9851.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Asthama,8140.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Viral Influnenza,12693.0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Foreign body in respiratory tract,302.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,36371.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Upper respiratory tract Infection,33223.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Pneumonia,13280.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Sever Pneumonia,339.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Bronchitis,3335.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Asthama,5704.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Viral Influnenza,6519.0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Foreign body in respiratory tract,39.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,8616.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,9676.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Pneumonia,4202.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,74.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Bronchitis,2437.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Asthama,1655.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Viral Influnenza,4652.0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,22.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,4724.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,6808.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Pneumonia,2456.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,133.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Bronchitis,1889.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Asthama,1538.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Viral Influnenza,2175.0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,113.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,8629.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Upper respiratory tract Infection,7504.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Pneumonia,4579.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Sever Pneumonia,145.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Bronchitis,774.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Asthama,2120.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Viral Influnenza,1270.0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Foreign body in respiratory tract,72.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,9365.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,9980.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Pneumonia,4315.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,179.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Bronchitis,2192.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Asthama,3395.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Viral Influnenza,6991.0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,130.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,9145.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Upper respiratory tract Infection,8040.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Pneumonia,2811.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Sever Pneumonia,194.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Bronchitis,2663.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Asthama,2784.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Viral Influnenza,1043.0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Foreign body in respiratory tract,114.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,13607.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,13051.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Pneumonia,3815.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,111.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Bronchitis,2093.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Asthama,3292.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Viral Influnenza,1785.0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,69.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,13214.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,13927.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Pneumonia,7176.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,374.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Bronchitis,3599.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Asthama,3491.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Viral Influnenza,2242.0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,190.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,10596.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Upper respiratory tract Infection,9653.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Pneumonia,5465.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Sever Pneumonia,452.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Bronchitis,3236.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Asthama,2849.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Viral Influnenza,7018.0
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Foreign body in respiratory tract,133.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,34370.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Upper respiratory tract Infection,23036.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Pneumonia,7810.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Sever Pneumonia,259.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Bronchitis,10677.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Asthama,9389.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Viral Influnenza,8295.0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Foreign body in respiratory tract,149.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,ARI/Lower respiratory tract Infection,33787.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Upper respiratory tract Infection,34562.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Pneumonia,10434.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Sever Pneumonia,613.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Bronchitis,11251.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Asthama,8862.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Viral Influnenza,5255.0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Foreign body in respiratory tract,223.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,30282.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,22064.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Pneumonia,7430.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Sever Pneumonia,751.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Bronchitis,8302.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Asthama,8632.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Viral Influnenza,6401.0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,192.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,33247.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,25716.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Pneumonia,8903.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Sever Pneumonia,854.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Bronchitis,12090.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Asthama,12216.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Viral Influnenza,6299.0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,161.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,29398.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,28441.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Pneumonia,8790.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Sever Pneumonia,834.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Bronchitis,15490.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Asthama,16640.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Viral Influnenza,3559.0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,229.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,6313.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,7039.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Pneumonia,3851.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Sever Pneumonia,220.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Bronchitis,1918.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Asthama,2917.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Viral Influnenza,1753.0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,37.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,15306.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,11257.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Pneumonia,4292.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Sever Pneumonia,199.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Bronchitis,2579.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Asthama,2876.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Viral Influnenza,2785.0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,98.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,16539.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Upper respiratory tract Infection,12717.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Pneumonia,2887.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Sever Pneumonia,187.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Bronchitis,2250.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Asthama,3659.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Viral Influnenza,5842.0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Foreign body in respiratory tract,200.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,18084.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Upper respiratory tract Infection,13741.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Pneumonia,5152.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Sever Pneumonia,232.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Bronchitis,3461.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Asthama,5228.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Viral Influnenza,4643.0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Foreign body in respiratory tract,186.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,29277.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,32510.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,7021.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,145.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,4347.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Asthama,8849.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,7554.0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,108.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Asthama,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,0.0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,0.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,10724.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,12361.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,2557.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,88.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,1715.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Asthama,3060.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,2808.0
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,101.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,23821.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,31343.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,9070.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,1124.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,9424.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Asthama,18611.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,11949.0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,1427.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,10304.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,9053.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,3670.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,360.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,2671.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Asthama,6227.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,3571.0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,185.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,2712.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Upper respiratory tract Infection,5397.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Pneumonia,327.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Sever Pneumonia,7.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Bronchitis,487.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Asthama,676.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Viral Influnenza,1130.0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Foreign body in respiratory tract,66.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,19845.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,17743.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Pneumonia,8700.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Sever Pneumonia,495.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Bronchitis,4456.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Asthama,6939.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Viral Influnenza,13566.0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,86.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,9128.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Upper respiratory tract Infection,12325.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Pneumonia,4887.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Sever Pneumonia,239.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Bronchitis,3700.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Asthama,4202.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Viral Influnenza,7139.0
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Foreign body in respiratory tract,58.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,22484.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,24096.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Pneumonia,11418.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Sever Pneumonia,876.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Bronchitis,15542.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Asthama,17002.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Viral Influnenza,7733.0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,185.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,19709.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,20355.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Pneumonia,5657.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Sever Pneumonia,648.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Bronchitis,8677.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Asthama,10553.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Viral Influnenza,3337.0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,68.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Sever Pneumonia,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Bronchitis,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Asthama,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Viral Influnenza,0.0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,0.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,ARI/Lower respiratory tract Infection,32546.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Upper respiratory tract Infection,33200.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Pneumonia,10164.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Sever Pneumonia,472.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Bronchitis,4605.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Asthama,8106.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Viral Influnenza,14222.0
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Foreign body in respiratory tract,262.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,13082.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,22413.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Pneumonia,6264.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Sever Pneumonia,114.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Bronchitis,2973.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Asthama,4164.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Viral Influnenza,10793.0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,59.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,8252.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,10407.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Pneumonia,3851.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Sever Pneumonia,91.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Bronchitis,2826.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Asthama,4563.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Viral Influnenza,4272.0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,62.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,9100.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,9561.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Pneumonia,2707.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Sever Pneumonia,211.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Bronchitis,2445.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Asthama,3821.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Viral Influnenza,5751.0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,215.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,23233.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,18950.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Pneumonia,2687.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Sever Pneumonia,244.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Bronchitis,6179.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Asthama,5891.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Viral Influnenza,5945.0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,52.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,28711.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,31986.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Pneumonia,9635.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Sever Pneumonia,2616.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Bronchitis,7938.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Asthama,9758.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Viral Influnenza,8484.0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,649.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,562.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Upper respiratory tract Infection,518.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Pneumonia,84.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Sever Pneumonia,4.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Bronchitis,216.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Asthama,179.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Viral Influnenza,146.0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Foreign body in respiratory tract,2.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,2023.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Upper respiratory tract Infection,2468.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Pneumonia,100.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Sever Pneumonia,2.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Bronchitis,52.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Asthama,129.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Viral Influnenza,283.0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Foreign body in respiratory tract,0.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,6948.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,11137.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Pneumonia,1298.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Sever Pneumonia,130.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Bronchitis,1427.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Asthama,1288.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Viral Influnenza,1864.0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,58.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,18064.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,19339.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Pneumonia,4421.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Sever Pneumonia,266.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Bronchitis,2903.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Asthama,3379.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Viral Influnenza,2407.0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,47.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,17697.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,26347.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Pneumonia,5312.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Sever Pneumonia,555.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Bronchitis,4252.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Asthama,2972.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Viral Influnenza,3238.0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,137.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,15417.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,12484.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Pneumonia,3475.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Sever Pneumonia,662.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Bronchitis,5570.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Asthama,3613.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Viral Influnenza,8205.0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,100.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,15623.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,13914.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Pneumonia,5082.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Sever Pneumonia,120.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Bronchitis,5335.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Asthama,6037.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Viral Influnenza,5760.0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,1076.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,29500.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Upper respiratory tract Infection,30422.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Pneumonia,7947.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Sever Pneumonia,271.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Bronchitis,5506.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Asthama,7798.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Viral Influnenza,6684.0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Foreign body in respiratory tract,80.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Upper respiratory tract Infection,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Sever Pneumonia,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Bronchitis,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Asthama,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Viral Influnenza,0.0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Foreign body in respiratory tract,0.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,16210.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Upper respiratory tract Infection,28232.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Pneumonia,6693.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Sever Pneumonia,852.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Bronchitis,7358.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Asthama,7969.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Viral Influnenza,4959.0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Foreign body in respiratory tract,123.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,11339.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Upper respiratory tract Infection,7753.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Pneumonia,4335.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Sever Pneumonia,287.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Bronchitis,3665.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Asthama,3979.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Viral Influnenza,2259.0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Foreign body in respiratory tract,55.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,11280.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,15062.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Pneumonia,5774.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,374.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Bronchitis,4774.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Asthama,5082.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,974.0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,38.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,11520.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,8889.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Pneumonia,4356.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,86.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Bronchitis,1786.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Asthama,2428.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,1106.0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,13.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,9240.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,12654.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Pneumonia,5181.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,810.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Bronchitis,2481.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Asthama,2910.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,1032.0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,89.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,14245.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,14221.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Pneumonia,5599.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,582.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Bronchitis,4025.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Asthama,6619.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,906.0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,60.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,14921.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,24775.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Pneumonia,8393.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Sever Pneumonia,695.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Bronchitis,5744.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Asthama,8879.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Viral Influnenza,5144.0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,137.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,23209.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,28802.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Pneumonia,6695.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Sever Pneumonia,532.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Bronchitis,3469.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Asthama,6317.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Viral Influnenza,6573.0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,11.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,19615.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,28394.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Pneumonia,8009.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Sever Pneumonia,254.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Bronchitis,6908.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Asthama,6156.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Viral Influnenza,5748.0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,45.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,19860.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,26108.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Pneumonia,6610.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,182.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Bronchitis,4601.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Asthama,6845.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,11073.0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,88.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,22985.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,17881.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Pneumonia,4784.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,359.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Bronchitis,3135.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Asthama,5831.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,2059.0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,13.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,4564.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,8203.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Pneumonia,1755.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Sever Pneumonia,257.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Bronchitis,1623.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Asthama,2714.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Viral Influnenza,1115.0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,79.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,1797.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,1537.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Pneumonia,551.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Sever Pneumonia,80.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Bronchitis,287.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Asthama,545.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Viral Influnenza,233.0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,12.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,5557.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,7583.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Pneumonia,2500.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Sever Pneumonia,163.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Bronchitis,1148.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Asthama,1780.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Viral Influnenza,424.0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,105.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,5593.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,6310.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Pneumonia,1607.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Sever Pneumonia,216.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Bronchitis,1544.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Asthama,2327.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Viral Influnenza,410.0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,48.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,1711.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,2526.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Pneumonia,1130.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Sever Pneumonia,244.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Bronchitis,675.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Asthama,1256.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Viral Influnenza,10.0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,33.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,3519.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Upper respiratory tract Infection,4917.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Pneumonia,1870.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Sever Pneumonia,282.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Bronchitis,1672.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Asthama,2303.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Viral Influnenza,449.0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Foreign body in respiratory tract,96.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,5453.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,6840.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Pneumonia,3909.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Sever Pneumonia,227.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Bronchitis,1527.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Asthama,3285.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Viral Influnenza,1690.0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,61.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,9774.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,10809.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Pneumonia,4349.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Sever Pneumonia,341.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Bronchitis,1799.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Asthama,3363.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Viral Influnenza,6555.0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,89.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,25105.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,35723.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Pneumonia,6338.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Sever Pneumonia,465.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Bronchitis,2536.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Asthama,7474.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Viral Influnenza,3474.0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,132.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,11949.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,16964.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Pneumonia,3673.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Sever Pneumonia,413.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Bronchitis,3057.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Asthama,5472.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Viral Influnenza,2700.0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,64.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,35545.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,24868.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Pneumonia,7736.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Sever Pneumonia,1194.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Bronchitis,6299.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Asthama,9202.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Viral Influnenza,9221.0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,122.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,18207.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,21603.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Pneumonia,6868.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Sever Pneumonia,259.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Bronchitis,3779.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Asthama,5686.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Viral Influnenza,22685.0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,108.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,10848.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,16597.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Pneumonia,4624.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Sever Pneumonia,386.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Bronchitis,1690.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Asthama,4847.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Viral Influnenza,7335.0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,95.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,18086.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,16036.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Pneumonia,4627.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Sever Pneumonia,250.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Bronchitis,1810.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Asthama,5716.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Viral Influnenza,5524.0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,95.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,ARI/Lower respiratory tract Infection,10384.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Upper respiratory tract Infection,7197.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Pneumonia,1511.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Sever Pneumonia,60.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Bronchitis,3106.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Asthama,4377.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Viral Influnenza,3629.0
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Foreign body in respiratory tract,10.0
