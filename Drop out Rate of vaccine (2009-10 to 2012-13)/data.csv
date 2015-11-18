@@ -1,1341 +1,1341 @@
-District,zone,belt,region,Year BS,Year AD,Vaccine,Dropout Rate
-Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,1.88
-Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,12.25
-Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,12.64
-Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,3.82
-Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.8
-Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,7.41
-Ilam,Mechi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,1.75
-Ilam,Mechi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,3.03
-Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.44
-Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,-0.01
-Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,0.0
-Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,0.0
-Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,6.24
-Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.66
-Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,8.86
-Morang,Kosi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,12.27
-Morang,Kosi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,4.08
-Morang,Kosi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.98
-Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,9.43
-Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.52
-Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,9.7
-Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,7.12
-Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.11
-Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.39
-Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,11.62
-Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.08
-Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,1.92
-Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,11.55
-Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.68
-Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.66
-Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,5.99
-Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.52
-Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,5.49
-Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,7.0
-Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,10.7
-Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,10.74
-Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,11.28
-Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,4.82
-Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,4.82
-Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,3.22
-Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.84
-Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.05
-Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,-2.33
-Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.54
-Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.55
-Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,8.16
-Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.81
-Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.38
-Bara,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,8.63
-Bara,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.2
-Bara,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,8.9
-Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,-38.84
-Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,0.66
-Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,5.82
-Chitawan,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,9.35
-Chitawan,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,2.78
-Chitawan,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.11
-Dhading,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,-1.6
-Dhading,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,4.3
-Dhading,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,4.05
-Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,7.09
-Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,9.31
-Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,9.17
-Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,BCG Vs Measles,0.79
-Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.3
-Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.34
-Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,25.63
-Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.62
-Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,5.27
-Kavre,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,1.62
-Kavre,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.64
-Kavre,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.92
-Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,27.28
-Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,-2.85
-Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,-2.85
-Mahottari,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,8.46
-Mahottari,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.78
-Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.94
-Makwanpur,Narayani,Hill,Central,2066/67,2009/10,BCG Vs Measles,5.2
-Makwanpur,Narayani,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,8.93
-Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,8.26
-Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,3.17
-Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.57
-Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.12
-Parsa,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,10.74
-Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,BCG Vs Measles,-0.4
-Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,2.86
-Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.83
-Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,BCG Vs Measles,1.65
-Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.16
-Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.09
-Rautahat,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,17.2
-Rautahat,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,7.51
-Rautahat,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,15.04
-Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,16.33
-Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,11.29
-Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,11.99
-Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,BCG Vs Measles,10.1
-Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,7.57
-Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,6.48
-Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,BCG Vs Measles,-6.06
-Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,1.89
-Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,1.79
-Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,0.54
-Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.14
-Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.22
-Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,5.86
-Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,7.87
-Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,7.0
-Gorkha,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,7.64
-Gorkha,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.58
-Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.88
-Gulmi,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,-2.87
-Gulmi,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.41
-Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.14
-Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,10.99
-Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,6.72
-Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,6.86
-Kaski,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,12.99
-Kaski,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.55
-Kaski,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.03
-Lamjung,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,3.72
-Lamjung,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.6
-Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.63
-Manang,Gandaki,Mountain,Western,2066/67,2009/10,BCG Vs Measles,24.72
-Manang,Gandaki,Mountain,Western,2066/67,2009/10,DPT1 Vs DPT-3,26.74
-Manang,Gandaki,Mountain,Western,2066/67,2009/10,Polio1 Vs Polio-3,28.24
-Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,BCG Vs Measles,2.08
-Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,DPT1 Vs DPT-3,17.86
-Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Polio1 Vs Polio-3,17.86
-Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,10.68
-Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.76
-Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.94
-Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,0.78
-Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.82
-Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.84
-Palpa,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,10.62
-Palpa,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,4.15
-Palpa,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,0.75
-Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,1.68
-Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.26
-Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.23
-Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,11.5
-Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.03
-Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.03
-Syangja,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,-0.27
-Syangja,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,4.12
-Syangja,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.64
-Tanahu,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,5.07
-Tanahu,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,7.06
-Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,6.27
-Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,21.16
-Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,10.41
-Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,9.04
-Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,-2.45
-Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.86
-Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.57
-Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,4.9
-Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,7.65
-Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.65
-Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,2.17
-Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,2.96
-Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.68
-Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,6.88
-Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,19.01
-Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,17.99
-Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,7.86
-Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,23.93
-Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,25.7
-Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,-2.96
-Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,2.9
-Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.47
-Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,6.51
-Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,12.21
-Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,9.84
-Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,14.05
-Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,20.02
-Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,11.77
-Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,25.5
-Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,35.99
-Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,54.58
-Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,3.34
-Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,5.35
-Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.5
-Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,4.67
-Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,9.13
-Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,25.69
-Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,16.97
-Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,14.59
-Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.58
-Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,0.89
-Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,16.51
-Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,10.59
-Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,7.16
-Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,8.14
-Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.34
-Achham,Seti,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,3.31
-Achham,Seti,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,-1.91
-Achham,Seti,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,-1.23
-Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,9.32
-Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.1
-Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.98
-Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,14.75
-Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,18.01
-Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.05
-Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,22.33
-Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,9.9
-Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.91
-Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,15.49
-Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,11.1
-Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,11.53
-Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,-3.03
-Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,4.54
-Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.2
-Doti,Seti,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,10.93
-Doti,Seti,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,11.51
-Doti,Seti,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,10.17
-Kailali,Seti,Terai,Far-Western,2066/67,2009/10,BCG Vs Measles,4.15
-Kailali,Seti,Terai,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,7.83
-Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.44
-Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,BCG Vs Measles,3.36
-Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.33
-Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.45
-Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,2.96
-Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,1.08
-Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,1.01
-Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,2.55
-Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.85
-Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.59
-Ilam,Mechi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,10.19
-Ilam,Mechi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.7
-Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.7
-Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,-16.99
-Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,2.54
-Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-0.01
-Morang,Kosi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,12.97
-Morang,Kosi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-1.17
-Morang,Kosi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-1.17
-Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,12.94
-Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,0.71
-Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,0.71
-Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,8.79
-Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.8
-Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.49
-Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,2.42
-Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-4.33
-Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-4.33
-Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,3.65
-Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.58
-Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.58
-Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,1.2
-Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-8.81
-Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-8.56
-Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,11.93
-Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,3.27
-Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,3.27
-Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,12.22
-Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-12.17
-Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-2.63
-Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,7.73
-Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,0.24
-Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-0.5
-Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,10.08
-Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,2.94
-Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,2.16
-Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,13.37
-Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,1.59
-Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,3.1
-Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,3.67
-Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,4.28
-Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,4.28
-Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,20.08
-Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,3.4
-Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,4.81
-Mahottari,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,8.49
-Mahottari,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,2.35
-Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,1.6
-Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,9.01
-Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,8.41
-Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,66.87
-Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,BCG Vs Measles,12.27
-Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-0.56
-Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-0.87
-Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,BCG Vs Measles,-4.38
-Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-10.7
-Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-11.18
-Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,BCG Vs Measles,-2.13
-Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.1
-Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-4.71
-Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,BCG Vs Measles,-5.3
-Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-3.6
-Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-3.41
-Kavre,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,0.9
-Kavre,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.83
-Kavre,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-5.6
-Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,25.33
-Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,1.91
-Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-3.95
-Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,-37.92
-Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-8.74
-Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-8.96
-Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,29.72
-Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.24
-Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-6.47
-Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,0.78
-Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,0.08
-Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,0.08
-Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,BCG Vs Measles,1.83
-Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.21
-Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-1.21
-Dhading,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,2.25
-Dhading,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-3.52
-Dhading,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-4.3
-Makwanpur,Narayani,Hill,Central,2067/68,2010/11,BCG Vs Measles,9.59
-Makwanpur,Narayani,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-2.07
-Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-2.09
-Rautahat,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,13.02
-Rautahat,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,1.01
-Rautahat,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,1.71
-Bara,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,7.02
-Bara,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.32
-Bara,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,-1.27
-Parsa,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,13.4
-Parsa,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,76.45
-Parsa,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,66.7
-Chitawan,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,18.3
-Chitawan,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.52
-Chitawan,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,8.96
-Gorkha,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,6.59
-Gorkha,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.67
-Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.79
-Lamjung,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,-2.45
-Lamjung,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.0
-Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.0
-Tanahu,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,3.36
-Tanahu,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.31
-Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.29
-Syangja,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,-5.18
-Syangja,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.3
-Syangja,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.08
-Kaski,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,31.22
-Kaski,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.39
-Kaski,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.34
-Manang,Gandaki,Mountain,Western,2067/68,2010/11,BCG Vs Measles,-56.92
-Manang,Gandaki,Mountain,Western,2067/68,2010/11,DPT1 Vs DPT-3,-45.35
-Manang,Gandaki,Mountain,Western,2067/68,2010/11,Polio1 Vs Polio-3,-45.35
-Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,BCG Vs Measles,22.89
-Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,DPT1 Vs DPT-3,8.06
-Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Polio1 Vs Polio-3,8.06
-Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,-3.42
-Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.39
-Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.82
-Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,0.82
-Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-8.25
-Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-8.16
-Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,4.91
-Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.51
-Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.51
-Gulmi,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,2.48
-Gulmi,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.81
-Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-5.77
-Palpa,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,16.65
-Palpa,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.16
-Palpa,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.16
-Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,7.48
-Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.62
-Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.62
-Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,17.32
-Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,61.09
-Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,65.23
-Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,11.56
-Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,2.17
-Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,2.43
-Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,0.3
-Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.19
-Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.5
-Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,3.17
-Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,0.09
-Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,0.03
-Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,1.17
-Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.58
-Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.87
-Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,3.76
-Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.65
-Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.83
-Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,-2.32
-Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.96
-Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-8.01
-Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.29
-Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,2.36
-Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.34
-Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,26.05
-Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,2.04
-Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,1.99
-Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,-0.92
-Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.79
-Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.74
-Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.13
-Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.68
-Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.63
-Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.53
-Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.11
-Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-7.11
-Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.35
-Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.29
-Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.11
-Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,2.35
-Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,5.16
-Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,5.16
-Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,19.36
-Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.47
-Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.1
-Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,17.65
-Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,4.17
-Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.27
-Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,22.18
-Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,30.49
-Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,26.85
-Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,6.06
-Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,4.52
-Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,4.52
-Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,4.93
-Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.01
-Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.94
-Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,15.5
-Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.49
-Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.62
-Achham,Seti,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,5.0
-Achham,Seti,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.13
-Achham,Seti,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.11
-Doti,Seti,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,10.2
-Doti,Seti,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.63
-Doti,Seti,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.77
-Kailali,Seti,Terai,Far-Western,2067/68,2010/11,BCG Vs Measles,1.98
-Kailali,Seti,Terai,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.85
-Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.85
-Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,BCG Vs Measles,5.9
-Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.8
-Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.98
-Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,17.78
-Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,1.7
-Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,1.7
-Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,3.74
-Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.94
-Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.06
-Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,4.93
-Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.01
-Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.81
+District,zone,belt,region,Year BS,Year AD,Vaccine,Dropout Rate,Zone,Belt,Region
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,1.88,Kosi,Hill,Eastern
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,12.25,Kosi,Hill,Eastern
+Bhojpur,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,12.64,Kosi,Hill,Eastern
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,3.82,Kosi,Hill,Eastern
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.8,Kosi,Hill,Eastern
+Dhankuta,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,7.41,Kosi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,1.75,Mechi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,3.03,Mechi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.44,Mechi,Hill,Eastern
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,-0.01,Mechi,Terai,Eastern
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,0.0,Mechi,Terai,Eastern
+Jhapa,Mechi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,0.0,Mechi,Terai,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,6.24,Sagarmatha,Hill,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.66,Sagarmatha,Hill,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,8.86,Sagarmatha,Hill,Eastern
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,12.27,Kosi,Terai,Eastern
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,4.08,Kosi,Terai,Eastern
+Morang,Kosi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.98,Kosi,Terai,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,9.43,Sagarmatha,Hill,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.52,Sagarmatha,Hill,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,9.7,Sagarmatha,Hill,Eastern
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,7.12,Mechi,Hill,Eastern
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.11,Mechi,Hill,Eastern
+Panchthar,Mechi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.39,Mechi,Hill,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,11.62,Kosi,Mountain,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.08,Kosi,Mountain,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,1.92,Kosi,Mountain,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,11.55,Sagarmatha,Terai,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.68,Sagarmatha,Terai,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,3.66,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,5.99,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.52,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,5.49,Sagarmatha,Terai,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,7.0,Sagarmatha,Mountain,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,10.7,Sagarmatha,Mountain,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,10.74,Sagarmatha,Mountain,Eastern
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,BCG Vs Measles,11.28,Kosi,Terai,Eastern
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,4.82,Kosi,Terai,Eastern
+Sunsari,Kosi,Terai,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,4.82,Kosi,Terai,Eastern
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,BCG Vs Measles,3.22,Mechi,Mountain,Eastern
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,5.84,Mechi,Mountain,Eastern
+Taplejung,Mechi,Mountain,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.05,Mechi,Mountain,Eastern
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,-2.33,Kosi,Hill,Eastern
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,7.54,Kosi,Hill,Eastern
+Terhathum,Kosi,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.55,Kosi,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,BCG Vs Measles,8.16,Sagarmatha,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,DPT1 Vs DPT-3,8.81,Sagarmatha,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2066/67,2009/10,Polio1 Vs Polio-3,6.38,Sagarmatha,Hill,Eastern
+Bara,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,8.63,Narayani,Terai,Central
+Bara,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.2,Narayani,Terai,Central
+Bara,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,8.9,Narayani,Terai,Central
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,-38.84,Bagmati,Hill,Central
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,0.66,Bagmati,Hill,Central
+Bhaktapur,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,5.82,Bagmati,Hill,Central
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,9.35,Narayani,Terai,Central
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,2.78,Narayani,Terai,Central
+Chitawan,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.11,Narayani,Terai,Central
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,-1.6,Bagmati,Hill,Central
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,4.3,Bagmati,Hill,Central
+Dhading,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,4.05,Bagmati,Hill,Central
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,7.09,Janakpur,Terai,Central
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,9.31,Janakpur,Terai,Central
+Dhanusa,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,9.17,Janakpur,Terai,Central
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,BCG Vs Measles,0.79,Janakpur,Mountain,Central
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.3,Janakpur,Mountain,Central
+Dolakha,Janakpur,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.34,Janakpur,Mountain,Central
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,25.63,Bagmati,Hill,Central
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.62,Bagmati,Hill,Central
+Kathmandu,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,5.27,Bagmati,Hill,Central
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,1.62,Bagmati,Hill,Central
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.64,Bagmati,Hill,Central
+Kavre,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.92,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,27.28,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,-2.85,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,-2.85,Bagmati,Hill,Central
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,8.46,Janakpur,Terai,Central
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.78,Janakpur,Terai,Central
+Mahottari,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.94,Janakpur,Terai,Central
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,BCG Vs Measles,5.2,Narayani,Hill,Central
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,8.93,Narayani,Hill,Central
+Makwanpur,Narayani,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,8.26,Narayani,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,BCG Vs Measles,3.17,Bagmati,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,3.57,Bagmati,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.12,Bagmati,Hill,Central
+Parsa,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,10.74,Narayani,Terai,Central
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,BCG Vs Measles,-0.4,Janakpur,Hill,Central
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,2.86,Janakpur,Hill,Central
+Ramechhap,Janakpur,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,2.83,Janakpur,Hill,Central
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,BCG Vs Measles,1.65,Bagmati,Mountain,Central
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,5.16,Bagmati,Mountain,Central
+Rasuwa,Bagmati,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,3.09,Bagmati,Mountain,Central
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,BCG Vs Measles,17.2,Narayani,Terai,Central
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,7.51,Narayani,Terai,Central
+Rautahat,Narayani,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,15.04,Narayani,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,BCG Vs Measles,16.33,Janakpur,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,DPT1 Vs DPT-3,11.29,Janakpur,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2066/67,2009/10,Polio1 Vs Polio-3,11.99,Janakpur,Terai,Central
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,BCG Vs Measles,10.1,Janakpur,Hill,Central
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,DPT1 Vs DPT-3,7.57,Janakpur,Hill,Central
+Sindhuli,Janakpur,Hill,Central,2066/67,2009/10,Polio1 Vs Polio-3,6.48,Janakpur,Hill,Central
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,BCG Vs Measles,-6.06,Bagmati,Mountain,Central
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,DPT1 Vs DPT-3,1.89,Bagmati,Mountain,Central
+Sindhupalchok,Bagmati,Mountain,Central,2066/67,2009/10,Polio1 Vs Polio-3,1.79,Bagmati,Mountain,Central
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,0.54,Lumbini,Hill,Western
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.14,Lumbini,Hill,Western
+Arghakhanchi,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.22,Lumbini,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,5.86,Dhawalagiri,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,7.87,Dhawalagiri,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,7.0,Dhawalagiri,Hill,Western
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,7.64,Gandaki,Hill,Western
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.58,Gandaki,Hill,Western
+Gorkha,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.88,Gandaki,Hill,Western
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,-2.87,Lumbini,Hill,Western
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.41,Lumbini,Hill,Western
+Gulmi,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.14,Lumbini,Hill,Western
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,10.99,Lumbini,Terai,Western
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,6.72,Lumbini,Terai,Western
+Kapilbastu,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,6.86,Lumbini,Terai,Western
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,12.99,Gandaki,Hill,Western
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.55,Gandaki,Hill,Western
+Kaski,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.03,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,3.72,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.6,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.63,Gandaki,Hill,Western
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,BCG Vs Measles,24.72,Gandaki,Mountain,Western
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,DPT1 Vs DPT-3,26.74,Gandaki,Mountain,Western
+Manang,Gandaki,Mountain,Western,2066/67,2009/10,Polio1 Vs Polio-3,28.24,Gandaki,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,BCG Vs Measles,2.08,Dhawalagiri,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,DPT1 Vs DPT-3,17.86,Dhawalagiri,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2066/67,2009/10,Polio1 Vs Polio-3,17.86,Dhawalagiri,Mountain,Western
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,10.68,Dhawalagiri,Hill,Western
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.76,Dhawalagiri,Hill,Western
+Myagdi,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.94,Dhawalagiri,Hill,Western
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,0.78,Lumbini,Terai,Western
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.82,Lumbini,Terai,Western
+Nawalparasi,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,2.84,Lumbini,Terai,Western
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,BCG Vs Measles,10.62,Lumbini,Hill,Western
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,4.15,Lumbini,Hill,Western
+Palpa,Lumbini,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,0.75,Lumbini,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,BCG Vs Measles,1.68,Dhawalagiri,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,2.26,Dhawalagiri,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,1.23,Dhawalagiri,Hill,Western
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,BCG Vs Measles,11.5,Lumbini,Terai,Western
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,DPT1 Vs DPT-3,3.03,Lumbini,Terai,Western
+Rupandehi,Lumbini,Terai,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.03,Lumbini,Terai,Western
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,-0.27,Gandaki,Hill,Western
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,4.12,Gandaki,Hill,Western
+Syangja,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,3.64,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,BCG Vs Measles,5.07,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,DPT1 Vs DPT-3,7.06,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2066/67,2009/10,Polio1 Vs Polio-3,6.27,Gandaki,Hill,Western
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,21.16,Bheri,Terai,Mid-Western
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,10.41,Bheri,Terai,Mid-Western
+Banke,Bheri,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,9.04,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,-2.45,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.86,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.57,Bheri,Terai,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,4.9,Bheri,Hill,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,7.65,Bheri,Hill,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.65,Bheri,Hill,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,BCG Vs Measles,2.17,Rapti,Terai,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,2.96,Rapti,Terai,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.68,Rapti,Terai,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,6.88,Karnali,Mountain,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,19.01,Karnali,Mountain,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,17.99,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,7.86,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,23.93,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,25.7,Karnali,Mountain,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,-2.96,Bheri,Hill,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,2.9,Bheri,Hill,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.47,Bheri,Hill,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,6.51,Karnali,Mountain,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,12.21,Karnali,Mountain,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,9.84,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,14.05,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,20.02,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,11.77,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,BCG Vs Measles,25.5,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,35.99,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,54.58,Karnali,Mountain,Mid-Western
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,3.34,Rapti,Hill,Mid-Western
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,5.35,Rapti,Hill,Mid-Western
+Pyuthan,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,3.5,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,4.67,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,9.13,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,25.69,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,16.97,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,14.59,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.58,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,0.89,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,16.51,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,10.59,Rapti,Hill,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,BCG Vs Measles,7.16,Bheri,Hill,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,DPT1 Vs DPT-3,8.14,Bheri,Hill,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.34,Bheri,Hill,Mid-Western
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,3.31,Seti,Hill,Far-Western
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,-1.91,Seti,Hill,Far-Western
+Achham,Seti,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,-1.23,Seti,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,9.32,Mahakali,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.1,Mahakali,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.98,Mahakali,Hill,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,14.75,Seti,Mountain,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,18.01,Seti,Mountain,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.05,Seti,Mountain,Far-Western
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,22.33,Seti,Mountain,Far-Western
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,9.9,Seti,Mountain,Far-Western
+Bajura,Seti,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,12.91,Seti,Mountain,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,15.49,Mahakali,Hill,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,11.1,Mahakali,Hill,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,11.53,Mahakali,Hill,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,BCG Vs Measles,-3.03,Mahakali,Mountain,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,4.54,Mahakali,Mountain,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.2,Mahakali,Mountain,Far-Western
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,BCG Vs Measles,10.93,Seti,Hill,Far-Western
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,11.51,Seti,Hill,Far-Western
+Doti,Seti,Hill,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,10.17,Seti,Hill,Far-Western
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,BCG Vs Measles,4.15,Seti,Terai,Far-Western
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,7.83,Seti,Terai,Far-Western
+Kailali,Seti,Terai,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,7.44,Seti,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,BCG Vs Measles,3.36,Mahakali,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,DPT1 Vs DPT-3,6.33,Mahakali,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2066/67,2009/10,Polio1 Vs Polio-3,5.45,Mahakali,Terai,Far-Western
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,2.96,Mechi,Mountain,Eastern
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,1.08,Mechi,Mountain,Eastern
+Taplejung,Mechi,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,1.01,Mechi,Mountain,Eastern
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,2.55,Mechi,Hill,Eastern
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.85,Mechi,Hill,Eastern
+Panchthar,Mechi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.59,Mechi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,10.19,Mechi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.7,Mechi,Hill,Eastern
+Ilam,Mechi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.7,Mechi,Hill,Eastern
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,-16.99,Mechi,Terai,Eastern
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,2.54,Mechi,Terai,Eastern
+Jhapa,Mechi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-0.01,Mechi,Terai,Eastern
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,12.97,Kosi,Terai,Eastern
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-1.17,Kosi,Terai,Eastern
+Morang,Kosi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-1.17,Kosi,Terai,Eastern
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,12.94,Kosi,Terai,Eastern
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,0.71,Kosi,Terai,Eastern
+Sunsari,Kosi,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,0.71,Kosi,Terai,Eastern
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,8.79,Kosi,Hill,Eastern
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.8,Kosi,Hill,Eastern
+Dhankuta,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.49,Kosi,Hill,Eastern
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,2.42,Kosi,Hill,Eastern
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-4.33,Kosi,Hill,Eastern
+Terhathum,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-4.33,Kosi,Hill,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,3.65,Kosi,Mountain,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-3.58,Kosi,Mountain,Eastern
+Sankhuwasabha,Kosi,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-3.58,Kosi,Mountain,Eastern
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,1.2,Kosi,Hill,Eastern
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-8.81,Kosi,Hill,Eastern
+Bhojpur,Kosi,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-8.56,Kosi,Hill,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,BCG Vs Measles,11.93,Sagarmatha,Mountain,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,3.27,Sagarmatha,Mountain,Eastern
+Solukhumbu,Sagarmatha,Mountain,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,3.27,Sagarmatha,Mountain,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,12.22,Sagarmatha,Hill,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,-12.17,Sagarmatha,Hill,Eastern
+Okhaldhunga,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-2.63,Sagarmatha,Hill,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,7.73,Sagarmatha,Hill,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,0.24,Sagarmatha,Hill,Eastern
+Khotang,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,-0.5,Sagarmatha,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,BCG Vs Measles,10.08,Sagarmatha,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,2.94,Sagarmatha,Hill,Eastern
+Udayapur,Sagarmatha,Hill,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,2.16,Sagarmatha,Hill,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,13.37,Sagarmatha,Terai,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,1.59,Sagarmatha,Terai,Eastern
+Saptari,Sagarmatha,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,3.1,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,BCG Vs Measles,3.67,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,DPT1 Vs DPT-3,4.28,Sagarmatha,Terai,Eastern
+Siraha,Sagarmatha,Terai,Eastern,2067/68,2010/11,Polio1 Vs Polio-3,4.28,Sagarmatha,Terai,Eastern
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,20.08,Janakpur,Terai,Central
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,3.4,Janakpur,Terai,Central
+Dhanusa,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,4.81,Janakpur,Terai,Central
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,8.49,Janakpur,Terai,Central
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,2.35,Janakpur,Terai,Central
+Mahottari,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,1.6,Janakpur,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,BCG Vs Measles,9.01,Janakpur,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,8.41,Janakpur,Terai,Central
+Sarlahi,Janakpur,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,66.87,Janakpur,Terai,Central
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,BCG Vs Measles,12.27,Janakpur,Hill,Central
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-0.56,Janakpur,Hill,Central
+Sindhuli,Janakpur,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-0.87,Janakpur,Hill,Central
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,BCG Vs Measles,-4.38,Janakpur,Hill,Central
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-10.7,Janakpur,Hill,Central
+Ramechhap,Janakpur,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-11.18,Janakpur,Hill,Central
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,BCG Vs Measles,-2.13,Janakpur,Mountain,Central
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.1,Janakpur,Mountain,Central
+Dolakha,Janakpur,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-4.71,Janakpur,Mountain,Central
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,BCG Vs Measles,-5.3,Bagmati,Mountain,Central
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-3.6,Bagmati,Mountain,Central
+Sindhupalchok,Bagmati,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-3.41,Bagmati,Mountain,Central
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,0.9,Bagmati,Hill,Central
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.83,Bagmati,Hill,Central
+Kavre,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-5.6,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,25.33,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,1.91,Bagmati,Hill,Central
+Lalitpur,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-3.95,Bagmati,Hill,Central
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,-37.92,Bagmati,Hill,Central
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-8.74,Bagmati,Hill,Central
+Bhaktapur,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-8.96,Bagmati,Hill,Central
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,29.72,Bagmati,Hill,Central
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-5.24,Bagmati,Hill,Central
+Kathmandu,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-6.47,Bagmati,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,0.78,Bagmati,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,0.08,Bagmati,Hill,Central
+Nuwakot,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,0.08,Bagmati,Hill,Central
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,BCG Vs Measles,1.83,Bagmati,Mountain,Central
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.21,Bagmati,Mountain,Central
+Rasuwa,Bagmati,Mountain,Central,2067/68,2010/11,Polio1 Vs Polio-3,-1.21,Bagmati,Mountain,Central
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,BCG Vs Measles,2.25,Bagmati,Hill,Central
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-3.52,Bagmati,Hill,Central
+Dhading,Bagmati,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-4.3,Bagmati,Hill,Central
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,BCG Vs Measles,9.59,Narayani,Hill,Central
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,DPT1 Vs DPT-3,-2.07,Narayani,Hill,Central
+Makwanpur,Narayani,Hill,Central,2067/68,2010/11,Polio1 Vs Polio-3,-2.09,Narayani,Hill,Central
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,13.02,Narayani,Terai,Central
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,1.01,Narayani,Terai,Central
+Rautahat,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,1.71,Narayani,Terai,Central
+Bara,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,7.02,Narayani,Terai,Central
+Bara,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.32,Narayani,Terai,Central
+Bara,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,-1.27,Narayani,Terai,Central
+Parsa,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,13.4,Narayani,Terai,Central
+Parsa,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,76.45,Narayani,Terai,Central
+Parsa,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,66.7,Narayani,Terai,Central
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,BCG Vs Measles,18.3,Narayani,Terai,Central
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,DPT1 Vs DPT-3,-1.52,Narayani,Terai,Central
+Chitawan,Narayani,Terai,Central,2067/68,2010/11,Polio1 Vs Polio-3,8.96,Narayani,Terai,Central
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,6.59,Gandaki,Hill,Western
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.67,Gandaki,Hill,Western
+Gorkha,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.79,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,-2.45,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.0,Gandaki,Hill,Western
+Lamjung,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.0,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,3.36,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.31,Gandaki,Hill,Western
+Tanahu,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.29,Gandaki,Hill,Western
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,-5.18,Gandaki,Hill,Western
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.3,Gandaki,Hill,Western
+Syangja,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.08,Gandaki,Hill,Western
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,BCG Vs Measles,31.22,Gandaki,Hill,Western
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.39,Gandaki,Hill,Western
+Kaski,Gandaki,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.34,Gandaki,Hill,Western
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,BCG Vs Measles,-56.92,Gandaki,Mountain,Western
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,DPT1 Vs DPT-3,-45.35,Gandaki,Mountain,Western
+Manang,Gandaki,Mountain,Western,2067/68,2010/11,Polio1 Vs Polio-3,-45.35,Gandaki,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,BCG Vs Measles,22.89,Dhawalagiri,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,DPT1 Vs DPT-3,8.06,Dhawalagiri,Mountain,Western
+Mustang,Dhawalagiri,Mountain,Western,2067/68,2010/11,Polio1 Vs Polio-3,8.06,Dhawalagiri,Mountain,Western
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,-3.42,Dhawalagiri,Hill,Western
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.39,Dhawalagiri,Hill,Western
+Myagdi,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.82,Dhawalagiri,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,0.82,Dhawalagiri,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-8.25,Dhawalagiri,Hill,Western
+Parbat,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-8.16,Dhawalagiri,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,BCG Vs Measles,4.91,Dhawalagiri,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.51,Dhawalagiri,Hill,Western
+Baglung,Dhawalagiri,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.51,Dhawalagiri,Hill,Western
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,2.48,Lumbini,Hill,Western
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.81,Lumbini,Hill,Western
+Gulmi,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-5.77,Lumbini,Hill,Western
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,16.65,Lumbini,Hill,Western
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.16,Lumbini,Hill,Western
+Palpa,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.16,Lumbini,Hill,Western
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,7.48,Lumbini,Terai,Western
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.62,Lumbini,Terai,Western
+Nawalparasi,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.62,Lumbini,Terai,Western
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,17.32,Lumbini,Terai,Western
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,61.09,Lumbini,Terai,Western
+Rupandehi,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,65.23,Lumbini,Terai,Western
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,BCG Vs Measles,11.56,Lumbini,Terai,Western
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,DPT1 Vs DPT-3,2.17,Lumbini,Terai,Western
+Kapilbastu,Lumbini,Terai,Western,2067/68,2010/11,Polio1 Vs Polio-3,2.43,Lumbini,Terai,Western
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,BCG Vs Measles,0.3,Lumbini,Hill,Western
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.19,Lumbini,Hill,Western
+Arghakhanchi,Lumbini,Hill,Western,2067/68,2010/11,Polio1 Vs Polio-3,-4.5,Lumbini,Hill,Western
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,3.17,Rapti,Hill,Mid-Western
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,0.09,Rapti,Hill,Mid-Western
+Pyuthan,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,0.03,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,1.17,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.58,Rapti,Hill,Mid-Western
+Rolpa,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.87,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,3.76,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.65,Rapti,Hill,Mid-Western
+Rukum,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.83,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,-2.32,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.96,Rapti,Hill,Mid-Western
+Salyan,Rapti,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-8.01,Rapti,Hill,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.29,Rapti,Terai,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,2.36,Rapti,Terai,Mid-Western
+Dang,Rapti,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.34,Rapti,Terai,Mid-Western
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,26.05,Bheri,Terai,Mid-Western
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,2.04,Bheri,Terai,Mid-Western
+Banke,Bheri,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,1.99,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,BCG Vs Measles,-0.92,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.79,Bheri,Terai,Mid-Western
+Bardiya,Bheri,Terai,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.74,Bheri,Terai,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.13,Bheri,Hill,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-2.68,Bheri,Hill,Mid-Western
+Surkhet,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-2.63,Bheri,Hill,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.53,Bheri,Hill,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-7.11,Bheri,Hill,Mid-Western
+Dailekh,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-7.11,Bheri,Hill,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,BCG Vs Measles,5.35,Bheri,Hill,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.29,Bheri,Hill,Mid-Western
+Jajarkot,Bheri,Hill,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.11,Bheri,Hill,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,2.35,Karnali,Mountain,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,5.16,Karnali,Mountain,Mid-Western
+Dolpa,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,5.16,Karnali,Mountain,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,19.36,Karnali,Mountain,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.47,Karnali,Mountain,Mid-Western
+Jumla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.1,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,17.65,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,4.17,Karnali,Mountain,Mid-Western
+Kalikot,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,2.27,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,22.18,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,30.49,Karnali,Mountain,Mid-Western
+Mugu,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,26.85,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,BCG Vs Measles,6.06,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,DPT1 Vs DPT-3,4.52,Karnali,Mountain,Mid-Western
+Humla,Karnali,Mountain,Mid-Western,2067/68,2010/11,Polio1 Vs Polio-3,4.52,Karnali,Mountain,Mid-Western
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,4.93,Seti,Mountain,Far-Western
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-4.01,Seti,Mountain,Far-Western
+Bajura,Seti,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.94,Seti,Mountain,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,15.5,Seti,Mountain,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.49,Seti,Mountain,Far-Western
+Bajhang,Seti,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.62,Seti,Mountain,Far-Western
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,5.0,Seti,Hill,Far-Western
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-0.13,Seti,Hill,Far-Western
+Achham,Seti,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-0.11,Seti,Hill,Far-Western
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,10.2,Seti,Hill,Far-Western
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-1.63,Seti,Hill,Far-Western
+Doti,Seti,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-1.77,Seti,Hill,Far-Western
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,BCG Vs Measles,1.98,Seti,Terai,Far-Western
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.85,Seti,Terai,Far-Western
+Kailali,Seti,Terai,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.85,Seti,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,BCG Vs Measles,5.9,Mahakali,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-6.8,Mahakali,Terai,Far-Western
+Kanchanpur,Mahakali,Terai,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.98,Mahakali,Terai,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,17.78,Mahakali,Hill,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,1.7,Mahakali,Hill,Far-Western
+Dadeldhura,Mahakali,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,1.7,Mahakali,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,BCG Vs Measles,3.74,Mahakali,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-5.94,Mahakali,Hill,Far-Western
+Baitadi,Mahakali,Hill,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-6.06,Mahakali,Hill,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,BCG Vs Measles,4.93,Mahakali,Mountain,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,DPT1 Vs DPT-3,-3.01,Mahakali,Mountain,Far-Western
+Darchaula,Mahakali,Mountain,Far-Western,2067/68,2010/11,Polio1 Vs Polio-3,-3.81,Mahakali,Mountain,Far-Western
 Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,"BCG Vs
-Measles",2.06
+Measles",2.06,Mechi,Mountain,Eastern
 Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",4.68
+DPT3",4.68,Mechi,Mountain,Eastern
 Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",4.68
+Polio3",4.68,Mechi,Mountain,Eastern
 Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",3.42
+Measles",3.42,Mechi,Hill,Eastern
 Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",0.68
+DPT3",0.68,Mechi,Hill,Eastern
 Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",0.76
+Polio3",0.76,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",8.34
+Measles",8.34,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",1.53
+DPT3",1.53,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",1.53
+Polio3",1.53,Mechi,Hill,Eastern
 Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,"BCG Vs
-Measles",-10.89
+Measles",-10.89,Mechi,Terai,Eastern
 Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",2.5
+DPT3",2.5,Mechi,Terai,Eastern
 Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",2.52
+Polio3",2.52,Mechi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2068/69,2011/12,"BCG Vs
-Measles",14.96
+Measles",14.96,Kosi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",-1.09
+DPT3",-1.09,Kosi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",-1.09
+Polio3",-1.09,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,"BCG Vs
-Measles",12.36
+Measles",12.36,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",2.92
+DPT3",2.92,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",2.92
+Polio3",2.92,Kosi,Terai,Eastern
 Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",1.69
+Measles",1.69,Kosi,Hill,Eastern
 Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",0.44
+DPT3",0.44,Kosi,Hill,Eastern
 Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.08
+Polio3",-0.08,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",1.35
+Measles",1.35,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",0.32
+DPT3",0.32,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",0.36
+Polio3",0.36,Kosi,Hill,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,"BCG Vs
-Measles",2.68
+Measles",2.68,Kosi,Mountain,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",3.05
+DPT3",3.05,Kosi,Mountain,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",2.77
+Polio3",2.77,Kosi,Mountain,Eastern
 Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",5.46
+Measles",5.46,Kosi,Hill,Eastern
 Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",0.33
+DPT3",0.33,Kosi,Hill,Eastern
 Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",0.08
+Polio3",0.08,Kosi,Hill,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,"BCG Vs
-Measles",1.7
+Measles",1.7,Sagarmatha,Mountain,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",0.34
+DPT3",0.34,Sagarmatha,Mountain,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.19
+Polio3",-0.19,Sagarmatha,Mountain,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",11.14
+Measles",11.14,Sagarmatha,Hill,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",3.78
+DPT3",3.78,Sagarmatha,Hill,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",12.76
+Polio3",12.76,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",6.64
+Measles",6.64,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",5.23
+DPT3",5.23,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",5.04
+Polio3",5.04,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,"BCG Vs
-Measles",9.75
+Measles",9.75,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",3.5
+DPT3",3.5,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",3.5
+Polio3",3.5,Sagarmatha,Hill,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,"BCG Vs
-Measles",11.26
+Measles",11.26,Sagarmatha,Terai,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",1.23
+DPT3",1.23,Sagarmatha,Terai,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",1.3
+Polio3",1.3,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,"BCG Vs
-Measles",8.84
+Measles",8.84,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,"DPT1 Vs
-DPT3",3.72
+DPT3",3.72,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,"Polio1 Vs
-Polio3",3.72
+Polio3",3.72,Sagarmatha,Terai,Eastern
 Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",11.34
+Measles",11.34,Janakpur,Terai,Central
 Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",5.1
+DPT3",5.1,Janakpur,Terai,Central
 Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",5.02
+Polio3",5.02,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",5.02
+Measles",5.02,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",1.93
+DPT3",1.93,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",4.03
+Polio3",4.03,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",19.0
+Measles",19.0,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",9.35
+DPT3",9.35,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",9.18
+Polio3",9.18,Janakpur,Terai,Central
 Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",14.24
+Measles",14.24,Janakpur,Hill,Central
 Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",7.09
+DPT3",7.09,Janakpur,Hill,Central
 Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",7.13
+Polio3",7.13,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",-1.37
+Measles",-1.37,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-4.06
+DPT3",-4.06,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-3.48
+Polio3",-3.48,Janakpur,Hill,Central
 Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,"BCG Vs
-Measles",1.45
+Measles",1.45,Janakpur,Mountain,Central
 Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.76
+DPT3",-0.76,Janakpur,Mountain,Central
 Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.5
+Polio3",-0.5,Janakpur,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,"BCG Vs
-Measles",-8.63
+Measles",-8.63,Bagmati,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",0.05
+DPT3",0.05,Bagmati,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",0.15
+Polio3",0.15,Bagmati,Mountain,Central
 Kavre,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",-1.07
+Measles",-1.07,Bagmati,Hill,Central
 Kavre,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.43
+DPT3",-0.43,Bagmati,Hill,Central
 Kavre,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.29
+Polio3",-0.29,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",34.21
+Measles",34.21,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-23.76
+DPT3",-23.76,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-23.76
+Polio3",-23.76,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",-67.61
+Measles",-67.61,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-8.88
+DPT3",-8.88,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-8.79
+Polio3",-8.79,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",28.77
+Measles",28.77,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",-3.31
+DPT3",-3.31,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",-3.27
+Polio3",-3.27,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",6.16
+Measles",6.16,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",0.59
+DPT3",0.59,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",0.39
+Polio3",0.39,Bagmati,Hill,Central
 Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,"BCG Vs
-Measles",0.89
+Measles",0.89,Bagmati,Mountain,Central
 Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",0.94
+DPT3",0.94,Bagmati,Mountain,Central
 Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",0.94
+Polio3",0.94,Bagmati,Mountain,Central
 Dhading,Bagmati,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",-3.42
+Measles",-3.42,Bagmati,Hill,Central
 Dhading,Bagmati,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",0.82
+DPT3",0.82,Bagmati,Hill,Central
 Dhading,Bagmati,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",0.82
+Polio3",0.82,Bagmati,Hill,Central
 Makwanpur,Narayani,Hill,Central,2068/69,2011/12,"BCG Vs
-Measles",5.38
+Measles",5.38,Narayani,Hill,Central
 Makwanpur,Narayani,Hill,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",2.83
+DPT3",2.83,Narayani,Hill,Central
 Makwanpur,Narayani,Hill,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",4.96
+Polio3",4.96,Narayani,Hill,Central
 Rautahat,Narayani,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",17.82
+Measles",17.82,Narayani,Terai,Central
 Rautahat,Narayani,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",6.45
+DPT3",6.45,Narayani,Terai,Central
 Rautahat,Narayani,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",8.73
+Polio3",8.73,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",12.26
+Measles",12.26,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",5.63
+DPT3",5.63,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",6.08
+Polio3",6.08,Narayani,Terai,Central
 Parsa,Narayani,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",7.69
+Measles",7.69,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2068/69,2011/12,"BCG Vs
-Measles",20.45
+Measles",20.45,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2068/69,2011/12,"DPT1 Vs
-DPT3",1.89
+DPT3",1.89,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2068/69,2011/12,"Polio1 Vs
-Polio3",1.89
+Polio3",1.89,Narayani,Terai,Central
 Gorkha,Gandaki,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",0.47
+Measles",0.47,Gandaki,Hill,Western
 Gorkha,Gandaki,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.93
+DPT3",-0.93,Gandaki,Hill,Western
 Gorkha,Gandaki,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.93
+Polio3",-0.93,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",-2.68
+Measles",-2.68,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.41
+DPT3",1.41,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.41
+Polio3",1.41,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",-1.14
+Measles",-1.14,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.69
+DPT3",0.69,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.73
+Polio3",0.73,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",-12.39
+Measles",-12.39,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.04
+DPT3",0.04,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.16
+Polio3",-0.16,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",26.09
+Measles",26.09,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-5.97
+DPT3",-5.97,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-5.97
+Polio3",-5.97,Gandaki,Hill,Western
 Manang,Gandaki,Mountain,Western,2068/69,2011/12,"BCG Vs
-Measles",-58.97
+Measles",-58.97,Gandaki,Mountain,Western
 Manang,Gandaki,Mountain,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-44.44
+DPT3",-44.44,Gandaki,Mountain,Western
 Manang,Gandaki,Mountain,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-44.44
+Polio3",-44.44,Gandaki,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,"BCG Vs
-Measles",-17.89
+Measles",-17.89,Dhawalagiri,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-1.23
+DPT3",-1.23,Dhawalagiri,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-1.23
+Polio3",-1.23,Dhawalagiri,Mountain,Western
 Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",-4.43
+Measles",-4.43,Dhawalagiri,Hill,Western
 Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.56
+DPT3",-0.56,Dhawalagiri,Hill,Western
 Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.45
+Polio3",-0.45,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",-8.51
+Measles",-8.51,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.73
+DPT3",-0.73,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.73
+Polio3",-0.73,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",4.08
+Measles",4.08,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.98
+DPT3",0.98,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.98
+Polio3",0.98,Dhawalagiri,Hill,Western
 Gulmi,Lumbini,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",0.42
+Measles",0.42,Lumbini,Hill,Western
 Gulmi,Lumbini,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.71
+DPT3",-0.71,Lumbini,Hill,Western
 Gulmi,Lumbini,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.53
+Polio3",-0.53,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",17.6
+Measles",17.6,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.05
+DPT3",-0.05,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.05
+Polio3",-0.05,Lumbini,Hill,Western
 Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,"BCG Vs
-Measles",-3.8
+Measles",-3.8,Lumbini,Terai,Western
 Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",2.14
+DPT3",2.14,Lumbini,Terai,Western
 Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",2.14
+Polio3",2.14,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,"BCG Vs
-Measles",15.75
+Measles",15.75,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.28
+DPT3",-0.28,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.28
+Polio3",-0.28,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,"BCG Vs
-Measles",24.51
+Measles",24.51,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",4.4
+DPT3",4.4,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",4.74
+Polio3",4.74,Lumbini,Terai,Western
 Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,"BCG Vs
-Measles",0.71
+Measles",0.71,Lumbini,Hill,Western
 Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,"DPT1 Vs
-DPT3",3.91
+DPT3",3.91,Lumbini,Hill,Western
 Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,"Polio1 Vs
-Polio3",4.33
+Polio3",4.33,Lumbini,Hill,Western
 Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",2.44
+Measles",2.44,Rapti,Hill,Mid-Western
 Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.7
+DPT3",1.7,Rapti,Hill,Mid-Western
 Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.7
+Polio3",1.7,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",4.18
+Measles",4.18,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.19
+DPT3",1.19,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.14
+Polio3",1.14,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",9.25
+Measles",9.25,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",3.07
+DPT3",3.07,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",3.07
+Polio3",3.07,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",4.11
+Measles",4.11,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.18
+DPT3",0.18,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.18
+Polio3",0.18,Rapti,Hill,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",1.86
+Measles",1.86,Rapti,Terai,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.73
+DPT3",0.73,Rapti,Terai,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.73
+Polio3",0.73,Rapti,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",25.13
+Measles",25.13,Bheri,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",6.19
+DPT3",6.19,Bheri,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",6.19
+Polio3",6.19,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",0.43
+Measles",0.43,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.03
+DPT3",1.03,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.03
+Polio3",1.03,Bheri,Terai,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",10.1
+Measles",10.1,Bheri,Hill,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.87
+DPT3",1.87,Bheri,Hill,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.87
+Polio3",1.87,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",4.78
+Measles",4.78,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.22
+DPT3",1.22,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.22
+Polio3",1.22,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",2.29
+Measles",2.29,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",4.54
+DPT3",4.54,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",4.54
+Polio3",4.54,Bheri,Hill,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",12.36
+Measles",12.36,Karnali,Mountain,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",15.89
+DPT3",15.89,Karnali,Mountain,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",12.59
+Polio3",12.59,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",12.88
+Measles",12.88,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.57
+DPT3",0.57,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.06
+Polio3",0.06,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",16.02
+Measles",16.02,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",9.96
+DPT3",9.96,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",10.38
+Polio3",10.38,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",22.42
+Measles",22.42,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",16.81
+DPT3",16.81,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",18.74
+Polio3",18.74,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"BCG Vs
-Measles",14.22
+Measles",14.22,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",2.9
+DPT3",2.9,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",2.9
+Polio3",2.9,Karnali,Mountain,Mid-Western
 Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",11.33
+Measles",11.33,Seti,Mountain,Far-Western
 Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.63
+DPT3",1.63,Seti,Mountain,Far-Western
 Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",3.03
+Polio3",3.03,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",4.53
+Measles",4.53,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",1.33
+DPT3",1.33,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",1.35
+Polio3",1.35,Seti,Mountain,Far-Western
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",1.24
+Measles",1.24,Seti,Hill,Far-Western
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.76
+DPT3",0.76,Seti,Hill,Far-Western
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",0.76
+Polio3",0.76,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",11.23
+Measles",11.23,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",4.3
+DPT3",4.3,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",4.23
+Polio3",4.23,Seti,Hill,Far-Western
 Kailali,Seti,Terai,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",6.66
+Measles",6.66,Seti,Terai,Far-Western
 Kailali,Seti,Terai,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",2.24
+DPT3",2.24,Seti,Terai,Far-Western
 Kailali,Seti,Terai,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",2.26
+Polio3",2.26,Seti,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",8.55
+Measles",8.55,Mahakali,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",2.67
+DPT3",2.67,Mahakali,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",2.56
+Polio3",2.56,Mahakali,Terai,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",16.15
+Measles",16.15,Mahakali,Hill,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-1.73
+DPT3",-1.73,Mahakali,Hill,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-1.73
+Polio3",-1.73,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",6.49
+Measles",6.49,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",0.22
+DPT3",0.22,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-4.61
+Polio3",-4.61,Mahakali,Hill,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,"BCG Vs
-Measles",-7.56
+Measles",-7.56,Mahakali,Mountain,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,"DPT1 Vs
-DPT3",-0.63
+DPT3",-0.63,Mahakali,Mountain,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,"Polio1 Vs
-Polio3",-0.39
+Polio3",-0.39,Mahakali,Mountain,Far-Western
 Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,"BCG Vs
-Measles",3.6
+Measles",3.6,Mechi,Mountain,Eastern
 Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",0.2
+DPT3",0.2,Mechi,Mountain,Eastern
 Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",4.3
+Polio3",4.3,Mechi,Mountain,Eastern
 Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",2.1
+Measles",2.1,Mechi,Hill,Eastern
 Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.9
+DPT3",-0.9,Mechi,Hill,Eastern
 Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.9
+Polio3",-0.9,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",4.7
+Measles",4.7,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",2.5
+DPT3",2.5,Mechi,Hill,Eastern
 Ilam,Mechi,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",2.5
+Polio3",2.5,Mechi,Hill,Eastern
 Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,"BCG Vs
-Measles",9.9
+Measles",9.9,Mechi,Terai,Eastern
 Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",0.7
+DPT3",0.7,Mechi,Terai,Eastern
 Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",0.5
+Polio3",0.5,Mechi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2069/70,2012/13,"BCG Vs
-Measles",14.7
+Measles",14.7,Kosi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",2.7
+DPT3",2.7,Kosi,Terai,Eastern
 Morang,Kosi,Terai,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",2.7
+Polio3",2.7,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,"BCG Vs
-Measles",11.8
+Measles",11.8,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",4.5
+DPT3",4.5,Kosi,Terai,Eastern
 Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",4.5
+Polio3",4.5,Kosi,Terai,Eastern
 Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",1.7
+Measles",1.7,Kosi,Hill,Eastern
 Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.4
+DPT3",-0.4,Kosi,Hill,Eastern
 Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.3
+Polio3",-0.3,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",9.9
+Measles",9.9,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",3.8
+DPT3",3.8,Kosi,Hill,Eastern
 Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",3.8
+Polio3",3.8,Kosi,Hill,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,"BCG Vs
-Measles",6.6
+Measles",6.6,Kosi,Mountain,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",1.9
+DPT3",1.9,Kosi,Mountain,Eastern
 Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",1.9
+Polio3",1.9,Kosi,Mountain,Eastern
 Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",7.2
+Measles",7.2,Kosi,Hill,Eastern
 Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",2.9
+DPT3",2.9,Kosi,Hill,Eastern
 Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",2.7
+Polio3",2.7,Kosi,Hill,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,"BCG Vs
-Measles",9.5
+Measles",9.5,Sagarmatha,Mountain,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",1.8
+DPT3",1.8,Sagarmatha,Mountain,Eastern
 Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",1.8
+Polio3",1.8,Sagarmatha,Mountain,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",13.3
+Measles",13.3,Sagarmatha,Hill,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.4
+DPT3",-0.4,Sagarmatha,Hill,Eastern
 Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.0
+Polio3",-1.0,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",9.6
+Measles",9.6,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",1.5
+DPT3",1.5,Sagarmatha,Hill,Eastern
 Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",2.4
+Polio3",2.4,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,"BCG Vs
-Measles",8.0
+Measles",8.0,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",4.6
+DPT3",4.6,Sagarmatha,Hill,Eastern
 Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",4.6
+Polio3",4.6,Sagarmatha,Hill,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,"BCG Vs
-Measles",4.5
+Measles",4.5,Sagarmatha,Terai,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",2.2
+DPT3",2.2,Sagarmatha,Terai,Eastern
 Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",5.2
+Polio3",5.2,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,"BCG Vs
-Measles",12.1
+Measles",12.1,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,"DPT1 Vs
-DPT3",7.2
+DPT3",7.2,Sagarmatha,Terai,Eastern
 Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,"Polio1 Vs
-Polio3",7.1
+Polio3",7.1,Sagarmatha,Terai,Eastern
 Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",20.4
+Measles",20.4,Janakpur,Terai,Central
 Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",7.4
+DPT3",7.4,Janakpur,Terai,Central
 Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",17.4
+Polio3",17.4,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",16.0
+Measles",16.0,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",3.1
+DPT3",3.1,Janakpur,Terai,Central
 Mahottari,Janakpur,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",2.0
+Polio3",2.0,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",18.5
+Measles",18.5,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",8.7
+DPT3",8.7,Janakpur,Terai,Central
 Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",17.6
+Polio3",17.6,Janakpur,Terai,Central
 Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",12.4
+Measles",12.4,Janakpur,Hill,Central
 Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",6.8
+DPT3",6.8,Janakpur,Hill,Central
 Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",6.6
+Polio3",6.6,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",-1.3
+Measles",-1.3,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.9
+DPT3",-1.9,Janakpur,Hill,Central
 Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",89.2
+Polio3",89.2,Janakpur,Hill,Central
 Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,"BCG Vs
-Measles",-2.1
+Measles",-2.1,Janakpur,Mountain,Central
 Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",2.7
+DPT3",2.7,Janakpur,Mountain,Central
 Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",0.7
+Polio3",0.7,Janakpur,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,"BCG Vs
-Measles",-10.9
+Measles",-10.9,Bagmati,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",0.8
+DPT3",0.8,Bagmati,Mountain,Central
 Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",0.2
+Polio3",0.2,Bagmati,Mountain,Central
 Kavre,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",10.4
+Measles",10.4,Bagmati,Hill,Central
 Kavre,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.4
+DPT3",-1.4,Bagmati,Hill,Central
 Kavre,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.4
+Polio3",-1.4,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",43.8
+Measles",43.8,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-9.7
+DPT3",-9.7,Bagmati,Hill,Central
 Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-9.7
+Polio3",-9.7,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",-70.9
+Measles",-70.9,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-7.0
+DPT3",-7.0,Bagmati,Hill,Central
 Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-7.2
+Polio3",-7.2,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",25.5
+Measles",25.5,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-3.6
+DPT3",-3.6,Bagmati,Hill,Central
 Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-3.3
+Polio3",-3.3,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",5.0
+Measles",5.0,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",3.8
+DPT3",3.8,Bagmati,Hill,Central
 Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",3.8
+Polio3",3.8,Bagmati,Hill,Central
 Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,"BCG Vs
-Measles",6.9
+Measles",6.9,Bagmati,Mountain,Central
 Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",0.0
+DPT3",0.0,Bagmati,Mountain,Central
 Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.2
+Polio3",-0.2,Bagmati,Mountain,Central
 Dhading,Bagmati,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",-4.2
+Measles",-4.2,Bagmati,Hill,Central
 Dhading,Bagmati,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",0.8
+DPT3",0.8,Bagmati,Hill,Central
 Dhading,Bagmati,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",0.9
+Polio3",0.9,Bagmati,Hill,Central
 Makwanpur,Narayani,Hill,Central,2069/70,2012/13,"BCG Vs
-Measles",10.7
+Measles",10.7,Narayani,Hill,Central
 Makwanpur,Narayani,Hill,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",4.0
+DPT3",4.0,Narayani,Hill,Central
 Makwanpur,Narayani,Hill,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",3.1
+Polio3",3.1,Narayani,Hill,Central
 Rautahat,Narayani,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",22.5
+Measles",22.5,Narayani,Terai,Central
 Rautahat,Narayani,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",29.7
+DPT3",29.7,Narayani,Terai,Central
 Rautahat,Narayani,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",13.4
+Polio3",13.4,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",11.0
+Measles",11.0,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",2.4
+DPT3",2.4,Narayani,Terai,Central
 Bara,Narayani,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",2.9
+Polio3",2.9,Narayani,Terai,Central
 Parsa,Narayani,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",15.2
+Polio3",15.2,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2069/70,2012/13,"BCG Vs
-Measles",14.7
+Measles",14.7,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.0
+DPT3",-1.0,Narayani,Terai,Central
 Chitawan,Narayani,Terai,Central,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.0
+Polio3",-1.0,Narayani,Terai,Central
 Gorkha,Gandaki,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",-2.6
+Measles",-2.6,Gandaki,Hill,Western
 Gorkha,Gandaki,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",3.9
+DPT3",3.9,Gandaki,Hill,Western
 Gorkha,Gandaki,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",3.9
+Polio3",3.9,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",3.3
+Measles",3.3,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-2.5
+DPT3",-2.5,Gandaki,Hill,Western
 Lamjung,Gandaki,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-2.5
+Polio3",-2.5,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",-2.0
+Measles",-2.0,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.6
+DPT3",1.6,Gandaki,Hill,Western
 Tanahu,Gandaki,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.6
+Polio3",1.6,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",-10.7
+Measles",-10.7,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.0
+DPT3",1.0,Gandaki,Hill,Western
 Syangja,Gandaki,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.0
+Polio3",1.0,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",35.1
+Measles",35.1,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-5.8
+DPT3",-5.8,Gandaki,Hill,Western
 Kaski,Gandaki,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-5.6
+Polio3",-5.6,Gandaki,Hill,Western
 Manang,Gandaki,Mountain,Western,2069/70,2012/13,"BCG Vs
-Measles",0.0
+Measles",0.0,Gandaki,Mountain,Western
 Manang,Gandaki,Mountain,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.6
+DPT3",1.6,Gandaki,Mountain,Western
 Manang,Gandaki,Mountain,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.6
+Polio3",1.6,Gandaki,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,"BCG Vs
-Measles",-19.2
+Measles",-19.2,Dhawalagiri,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",0.5
+DPT3",0.5,Dhawalagiri,Mountain,Western
 Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.0
+Polio3",-1.0,Dhawalagiri,Mountain,Western
 Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",0.2
+Measles",0.2,Dhawalagiri,Hill,Western
 Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.0
+DPT3",1.0,Dhawalagiri,Hill,Western
 Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.0
+Polio3",1.0,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",-3.4
+Measles",-3.4,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",0.8
+DPT3",0.8,Dhawalagiri,Hill,Western
 Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",0.8
+Polio3",0.8,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",0.6
+Measles",0.6,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.2
+DPT3",-0.2,Dhawalagiri,Hill,Western
 Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.2
+Polio3",-0.2,Dhawalagiri,Hill,Western
 Gulmi,Lumbini,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",3.2
+Measles",3.2,Lumbini,Hill,Western
 Gulmi,Lumbini,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.1
+DPT3",-0.1,Lumbini,Hill,Western
 Gulmi,Lumbini,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.6
+Polio3",-0.6,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",14.0
+Measles",14.0,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.9
+DPT3",-0.9,Lumbini,Hill,Western
 Palpa,Lumbini,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.9
+Polio3",-0.9,Lumbini,Hill,Western
 Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,"BCG Vs
-Measles",-5.5
+Measles",-5.5,Lumbini,Terai,Western
 Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.1
+DPT3",-1.1,Lumbini,Terai,Western
 Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.1
+Polio3",-1.1,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,"BCG Vs
-Measles",13.7
+Measles",13.7,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-2.1
+DPT3",-2.1,Lumbini,Terai,Western
 Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-2.1
+Polio3",-2.1,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,"BCG Vs
-Measles",15.4
+Measles",15.4,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.1
+DPT3",4.1,Lumbini,Terai,Western
 Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.3
+Polio3",4.3,Lumbini,Terai,Western
 Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,"BCG Vs
-Measles",8.2
+Measles",8.2,Lumbini,Hill,Western
 Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.5
+DPT3",4.5,Lumbini,Hill,Western
 Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.8
+Polio3",4.8,Lumbini,Hill,Western
 Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",3.8
+Measles",3.8,Rapti,Hill,Mid-Western
 Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",2.2
+DPT3",2.2,Rapti,Hill,Mid-Western
 Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",2.2
+Polio3",2.2,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",3.5
+Measles",3.5,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",0.0
+DPT3",0.0,Rapti,Hill,Mid-Western
 Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.3
+Polio3",-0.3,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",12.8
+Measles",12.8,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.8
+DPT3",4.8,Rapti,Hill,Mid-Western
 Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.8
+Polio3",4.8,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",-0.6
+Measles",-0.6,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.0
+DPT3",1.0,Rapti,Hill,Mid-Western
 Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.0
+Polio3",1.0,Rapti,Hill,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",6.1
+Measles",6.1,Rapti,Terai,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",0.4
+DPT3",0.4,Rapti,Terai,Mid-Western
 Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",0.4
+Polio3",0.4,Rapti,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",15.7
+Measles",15.7,Bheri,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",2.2
+DPT3",2.2,Bheri,Terai,Mid-Western
 Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",2.2
+Polio3",2.2,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",-0.9
+Measles",-0.9,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",0.5
+DPT3",0.5,Bheri,Terai,Mid-Western
 Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",0.5
+Polio3",0.5,Bheri,Terai,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",5.2
+Measles",5.2,Bheri,Hill,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.8
+DPT3",1.8,Bheri,Hill,Mid-Western
 Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.8
+Polio3",1.8,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",11.3
+Measles",11.3,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.5
+DPT3",4.5,Bheri,Hill,Mid-Western
 Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.5
+Polio3",4.5,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",6.2
+Measles",6.2,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",5.6
+DPT3",5.6,Bheri,Hill,Mid-Western
 Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",5.6
+Polio3",5.6,Bheri,Hill,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",9.6
+Measles",9.6,Karnali,Mountain,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",10.1
+DPT3",10.1,Karnali,Mountain,Mid-Western
 Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",9.8
+Polio3",9.8,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",14.7
+Measles",14.7,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",6.8
+DPT3",6.8,Karnali,Mountain,Mid-Western
 Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",6.2
+Polio3",6.2,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",18.4
+Measles",18.4,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",12.3
+DPT3",12.3,Karnali,Mountain,Mid-Western
 Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",11.2
+Polio3",11.2,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",8.2
+Measles",8.2,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-3.1
+DPT3",-3.1,Karnali,Mountain,Mid-Western
 Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-2.2
+Polio3",-2.2,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"BCG Vs
-Measles",6.4
+Measles",6.4,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",2.5
+DPT3",2.5,Karnali,Mountain,Mid-Western
 Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",2.5
+Polio3",2.5,Karnali,Mountain,Mid-Western
 Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",2.9
+Measles",2.9,Seti,Mountain,Far-Western
 Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",2.8
+DPT3",2.8,Seti,Mountain,Far-Western
 Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",2.2
+Polio3",2.2,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",9.7
+Measles",9.7,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.8
+DPT3",4.8,Seti,Mountain,Far-Western
 Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.6
+Polio3",4.6,Seti,Mountain,Far-Western
 Achham,Seti,Hill,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",3.0
+Measles",3.0,Seti,Hill,Far-Western
 Achham,Seti,Hill,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",1.9
+DPT3",1.9,Seti,Hill,Far-Western
 Achham,Seti,Hill,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",1.3
+Polio3",1.3,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",11.8
+Measles",11.8,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",9.7
+DPT3",9.7,Seti,Hill,Far-Western
 Doti,Seti,Hill,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",9.7
+Polio3",9.7,Seti,Hill,Far-Western
 Kailali,Seti,Terai,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",4.9
+Measles",4.9,Seti,Terai,Far-Western
 Kailali,Seti,Terai,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.7
+DPT3",-1.7,Seti,Terai,Far-Western
 Kailali,Seti,Terai,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.6
+Polio3",-1.6,Seti,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",2.9
+Measles",2.9,Mahakali,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-1.6
+DPT3",-1.6,Mahakali,Terai,Far-Western
 Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-1.6
+Polio3",-1.6,Mahakali,Terai,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",2.8
+Measles",2.8,Mahakali,Hill,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",4.1
+DPT3",4.1,Mahakali,Hill,Far-Western
 Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",4.1
+Polio3",4.1,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",-1.7
+Measles",-1.7,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",-0.1
+DPT3",-0.1,Mahakali,Hill,Far-Western
 Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",-0.1
+Polio3",-0.1,Mahakali,Hill,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,"BCG Vs
-Measles",2.0
+Measles",2.0,Mahakali,Mountain,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,"DPT1 Vs
-DPT3",2.4
+DPT3",2.4,Mahakali,Mountain,Far-Western
 Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,"Polio1 Vs
-Polio3",2.5
+Polio3",2.5,Mahakali,Mountain,Far-Western

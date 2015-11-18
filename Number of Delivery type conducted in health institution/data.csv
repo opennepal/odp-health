@@ -1,676 +1,676 @@
-District,Year,Delivery type,Number of delivery
-Taplejung,2068/69,Spontaneous delivery,1165
-Taplejung,2068/69,Vaccum delivery,9
-Taplejung,2068/69,Forecep delivery,3
-Taplejung,2068/69,C/S Delivery,9
-Panchthar,2068/69,Spontaneous delivery,1605
-Panchthar,2068/69,Vaccum delivery,59
-Panchthar,2068/69,Forecep delivery,0
-Panchthar,2068/69,C/S Delivery,113
-Ilam,2068/69,Spontaneous delivery,1574
-Ilam,2068/69,Vaccum delivery,65
-Ilam,2068/69,Forecep delivery,16
-Ilam,2068/69,C/S Delivery,185
-Jhapa,2068/69,Spontaneous delivery,6104
-Jhapa,2068/69,Vaccum delivery,333
-Jhapa,2068/69,Forecep delivery,254
-Jhapa,2068/69,C/S Delivery,3910
-Morang,2068/69,Spontaneous delivery,10001
-Morang,2068/69,Vaccum delivery,1190
-Morang,2068/69,Forecep delivery,108
-Morang,2068/69,C/S Delivery,4004
-Sunsari,2068/69,Spontaneous delivery,12957
-Sunsari,2068/69,Vaccum delivery,265
-Sunsari,2068/69,Forecep delivery,9
-Sunsari,2068/69,C/S Delivery,2997
-Dhankuta,2068/69,Spontaneous delivery,1087
-Dhankuta,2068/69,Vaccum delivery,16
-Dhankuta,2068/69,Forecep delivery,0
-Dhankuta,2068/69,C/S Delivery,8
-Terhathum,2068/69,Spontaneous delivery,485
-Terhathum,2068/69,Vaccum delivery,5
-Terhathum,2068/69,Forecep delivery,0
-Terhathum,2068/69,C/S Delivery,7
-Sankhuwasabha,2068/69,Spontaneous delivery,1179
-Sankhuwasabha,2068/69,Vaccum delivery,111
-Sankhuwasabha,2068/69,Forecep delivery,0
-Sankhuwasabha,2068/69,C/S Delivery,19
-Bhojpur,2068/69,Spontaneous delivery,931
-Bhojpur,2068/69,Vaccum delivery,3
-Bhojpur,2068/69,Forecep delivery,1
-Bhojpur,2068/69,C/S Delivery,2
-Solukhumbu,2068/69,Spontaneous delivery,1038
-Solukhumbu,2068/69,Vaccum delivery,7
-Solukhumbu,2068/69,Forecep delivery,1
-Solukhumbu,2068/69,C/S Delivery,16
-Okhaldhunga,2068/69,Spontaneous delivery,1163
-Okhaldhunga,2068/69,Vaccum delivery,28
-Okhaldhunga,2068/69,Forecep delivery,27
-Okhaldhunga,2068/69,C/S Delivery,81
-Khotang,2068/69,Spontaneous delivery,1770
-Khotang,2068/69,Vaccum delivery,29
-Khotang,2068/69,Forecep delivery,2
-Khotang,2068/69,C/S Delivery,30
-Udayapur,2068/69,Spontaneous delivery,2898
-Udayapur,2068/69,Vaccum delivery,61
-Udayapur,2068/69,Forecep delivery,7
-Udayapur,2068/69,C/S Delivery,5
-Saptari,2068/69,Spontaneous delivery,6911
-Saptari,2068/69,Vaccum delivery,14
-Saptari,2068/69,Forecep delivery,0
-Saptari,2068/69,C/S Delivery,419
-Siraha,2068/69,Spontaneous delivery,9085
-Siraha,2068/69,Vaccum delivery,407
-Siraha,2068/69,Forecep delivery,33
-Siraha,2068/69,C/S Delivery,480
-Dhanusa,2068/69,Spontaneous delivery,104
-Dhanusa,2068/69,Vaccum delivery,447
-Dhanusa,2068/69,Forecep delivery,0
-Dhanusa,2068/69,C/S Delivery,1643
-Mahottari,2068/69,Spontaneous delivery,3878
-Mahottari,2068/69,Vaccum delivery,0
-Mahottari,2068/69,Forecep delivery,125
-Mahottari,2068/69,C/S Delivery,0
-Sarlahi,2068/69,Spontaneous delivery,7315
-Sarlahi,2068/69,Vaccum delivery,42
-Sarlahi,2068/69,Forecep delivery,1
-Sarlahi,2068/69,C/S Delivery,0
-Sindhuli,2068/69,Spontaneous delivery,2102
-Sindhuli,2068/69,Vaccum delivery,11
-Sindhuli,2068/69,Forecep delivery,0
-Sindhuli,2068/69,C/S Delivery,0
-Ramechhap,2068/69,Spontaneous delivery,1761
-Ramechhap,2068/69,Vaccum delivery,4
-Ramechhap,2068/69,Forecep delivery,0
-Ramechhap,2068/69,C/S Delivery,1
-Dolakha,2068/69,Spontaneous delivery,1631
-Dolakha,2068/69,Vaccum delivery,18
-Dolakha,2068/69,Forecep delivery,0
-Dolakha,2068/69,C/S Delivery,41
-Sindhupalchok,2068/69,Spontaneous delivery,1697
-Sindhupalchok,2068/69,Vaccum delivery,52
-Sindhupalchok,2068/69,Forecep delivery,0
-Sindhupalchok,2068/69,C/S Delivery,1
-Kabhre,2068/69,Spontaneous delivery,4366
-Kabhre,2068/69,Vaccum delivery,36
-Kabhre,2068/69,Forecep delivery,14
-Kabhre,2068/69,C/S Delivery,772
-Lalitpur,2068/69,Spontaneous delivery,0
-Lalitpur,2068/69,Vaccum delivery,0
-Lalitpur,2068/69,Forecep delivery,0
-Lalitpur,2068/69,C/S Delivery,4141
-Bhaktapur,2068/69,Spontaneous delivery,361
-Bhaktapur,2068/69,Vaccum delivery,7
-Bhaktapur,2068/69,Forecep delivery,0
-Bhaktapur,2068/69,C/S Delivery,6
-Kathmandu,2068/69,Spontaneous delivery,19742
-Kathmandu,2068/69,Vaccum delivery,199
-Kathmandu,2068/69,Forecep delivery,20
-Kathmandu,2068/69,C/S Delivery,7446
-Nuwakot,2068/69,Spontaneous delivery,1186
-Nuwakot,2068/69,Vaccum delivery,61
-Nuwakot,2068/69,Forecep delivery,3
-Nuwakot,2068/69,C/S Delivery,128
-Rasuwa,2068/69,Spontaneous delivery,247
-Rasuwa,2068/69,Vaccum delivery,0
-Rasuwa,2068/69,Forecep delivery,0
-Rasuwa,2068/69,C/S Delivery,0
-Dhading,2068/69,Spontaneous delivery,3234
-Dhading,2068/69,Vaccum delivery,3
-Dhading,2068/69,Forecep delivery,0
-Dhading,2068/69,C/S Delivery,41
-Makwanpur,2068/69,Spontaneous delivery,2786
-Makwanpur,2068/69,Vaccum delivery,16
-Makwanpur,2068/69,Forecep delivery,9
-Makwanpur,2068/69,C/S Delivery,72
-Rautahat,2068/69,Spontaneous delivery,4549
-Rautahat,2068/69,Vaccum delivery,174
-Rautahat,2068/69,Forecep delivery,9
-Rautahat,2068/69,C/S Delivery,41
-Bara,2068/69,Spontaneous delivery,7847
-Bara,2068/69,Vaccum delivery,39
-Bara,2068/69,Forecep delivery,0
-Bara,2068/69,C/S Delivery,69
-Parsa,2068/69,Spontaneous delivery,0
-Parsa,2068/69,Vaccum delivery,0
-Parsa,2068/69,Forecep delivery,0
-Parsa,2068/69,C/S Delivery,0
-Chitawan,2068/69,Spontaneous delivery,7872
-Chitawan,2068/69,Vaccum delivery,545
-Chitawan,2068/69,Forecep delivery,293
-Chitawan,2068/69,C/S Delivery,3794
-Gorkha,2068/69,Spontaneous delivery,1902
-Gorkha,2068/69,Vaccum delivery,11
-Gorkha,2068/69,Forecep delivery,10
-Gorkha,2068/69,C/S Delivery,95
-Lamjung,2068/69,Spontaneous delivery,1742
-Lamjung,2068/69,Vaccum delivery,41
-Lamjung,2068/69,Forecep delivery,11
-Lamjung,2068/69,C/S Delivery,107
-Tanahu,2068/69,Spontaneous delivery,1715
-Tanahu,2068/69,Vaccum delivery,12
-Tanahu,2068/69,Forecep delivery,1
-Tanahu,2068/69,C/S Delivery,2
-Syangja,2068/69,Spontaneous delivery,2097
-Syangja,2068/69,Vaccum delivery,23
-Syangja,2068/69,Forecep delivery,12
-Syangja,2068/69,C/S Delivery,11
-Kaski,2068/69,Spontaneous delivery,10006
-Kaski,2068/69,Vaccum delivery,218
-Kaski,2068/69,Forecep delivery,96
-Kaski,2068/69,C/S Delivery,2656
-Manang,2068/69,Spontaneous delivery,15
-Manang,2068/69,Vaccum delivery,0
-Manang,2068/69,Forecep delivery,0
-Manang,2068/69,C/S Delivery,0
-Mustang,2068/69,Spontaneous delivery,95
-Mustang,2068/69,Vaccum delivery,0
-Mustang,2068/69,Forecep delivery,0
-Mustang,2068/69,C/S Delivery,0
-Myagdi,2068/69,Spontaneous delivery,1057
-Myagdi,2068/69,Vaccum delivery,3
-Myagdi,2068/69,Forecep delivery,0
-Myagdi,2068/69,C/S Delivery,1
-Parbat,2068/69,Spontaneous delivery,1450
-Parbat,2068/69,Vaccum delivery,28
-Parbat,2068/69,Forecep delivery,0
-Parbat,2068/69,C/S Delivery,0
-Baglung,2068/69,Spontaneous delivery,3258
-Baglung,2068/69,Vaccum delivery,56
-Baglung,2068/69,Forecep delivery,0
-Baglung,2068/69,C/S Delivery,65
-Gulmi,2068/69,Spontaneous delivery,3174
-Gulmi,2068/69,Vaccum delivery,33
-Gulmi,2068/69,Forecep delivery,4
-Gulmi,2068/69,C/S Delivery,63
-Palpa,2068/69,Spontaneous delivery,3234
-Palpa,2068/69,Vaccum delivery,110
-Palpa,2068/69,Forecep delivery,62
-Palpa,2068/69,C/S Delivery,590
-Nawalparasi,2068/69,Spontaneous delivery,2963
-Nawalparasi,2068/69,Vaccum delivery,381
-Nawalparasi,2068/69,Forecep delivery,29
-Nawalparasi,2068/69,C/S Delivery,25
-Rupandehi,2068/69,Spontaneous delivery,0
-Rupandehi,2068/69,Vaccum delivery,0
-Rupandehi,2068/69,Forecep delivery,0
-Rupandehi,2068/69,C/S Delivery,3260
-Kapilbastu,2068/69,Spontaneous delivery,4467
-Kapilbastu,2068/69,Vaccum delivery,16
-Kapilbastu,2068/69,Forecep delivery,2
-Kapilbastu,2068/69,C/S Delivery,2
-Arghakhanchi,2068/69,Spontaneous delivery,1252
-Arghakhanchi,2068/69,Vaccum delivery,25
-Arghakhanchi,2068/69,Forecep delivery,19
-Arghakhanchi,2068/69,C/S Delivery,13
-Pyuthan,2068/69,Spontaneous delivery,1875
-Pyuthan,2068/69,Vaccum delivery,2
-Pyuthan,2068/69,Forecep delivery,0
-Pyuthan,2068/69,C/S Delivery,0
-Rolpa,2068/69,Spontaneous delivery,1741
-Rolpa,2068/69,Vaccum delivery,13
-Rolpa,2068/69,Forecep delivery,1
-Rolpa,2068/69,C/S Delivery,0
-Rukum,2068/69,Spontaneous delivery,1502
-Rukum,2068/69,Vaccum delivery,76
-Rukum,2068/69,Forecep delivery,20
-Rukum,2068/69,C/S Delivery,159
-Salyan,2068/69,Spontaneous delivery,1834
-Salyan,2068/69,Vaccum delivery,6
-Salyan,2068/69,Forecep delivery,2
-Salyan,2068/69,C/S Delivery,4
-Dang,2068/69,Spontaneous delivery,7483
-Dang,2068/69,Vaccum delivery,212
-Dang,2068/69,Forecep delivery,40
-Dang,2068/69,C/S Delivery,182
-Banke,2068/69,Spontaneous delivery,8918
-Banke,2068/69,Vaccum delivery,731
-Banke,2068/69,Forecep delivery,39
-Banke,2068/69,C/S Delivery,1566
-Bardiya,2068/69,Spontaneous delivery,5100
-Bardiya,2068/69,Vaccum delivery,7
-Bardiya,2068/69,Forecep delivery,0
-Bardiya,2068/69,C/S Delivery,4
-Surkhet,2068/69,Spontaneous delivery,5893
-Surkhet,2068/69,Vaccum delivery,143
-Surkhet,2068/69,Forecep delivery,8
-Surkhet,2068/69,C/S Delivery,431
-Dailekh,2068/69,Spontaneous delivery,4453
-Dailekh,2068/69,Vaccum delivery,9
-Dailekh,2068/69,Forecep delivery,7
-Dailekh,2068/69,C/S Delivery,25
-Jajarkot,2068/69,Spontaneous delivery,1501
-Jajarkot,2068/69,Vaccum delivery,6
-Jajarkot,2068/69,Forecep delivery,0
-Jajarkot,2068/69,C/S Delivery,0
-Dolpa,2068/69,Spontaneous delivery,205
-Dolpa,2068/69,Vaccum delivery,7
-Dolpa,2068/69,Forecep delivery,0
-Dolpa,2068/69,C/S Delivery,0
-Jumla,2068/69,Spontaneous delivery,477
-Jumla,2068/69,Vaccum delivery,8
-Jumla,2068/69,Forecep delivery,3
-Jumla,2068/69,C/S Delivery,0
-Kalikot,2068/69,Spontaneous delivery,1446
-Kalikot,2068/69,Vaccum delivery,17
-Kalikot,2068/69,Forecep delivery,0
-Kalikot,2068/69,C/S Delivery,19
-Mugu,2068/69,Spontaneous delivery,737
-Mugu,2068/69,Vaccum delivery,0
-Mugu,2068/69,Forecep delivery,0
-Mugu,2068/69,C/S Delivery,0
-Humla,2068/69,Spontaneous delivery,684
-Humla,2068/69,Vaccum delivery,20
-Humla,2068/69,Forecep delivery,0
-Humla,2068/69,C/S Delivery,0
-Bajura,2068/69,Spontaneous delivery,1113
-Bajura,2068/69,Vaccum delivery,3
-Bajura,2068/69,Forecep delivery,0
-Bajura,2068/69,C/S Delivery,0
-Bajhang,2068/69,Spontaneous delivery,2414
-Bajhang,2068/69,Vaccum delivery,20
-Bajhang,2068/69,Forecep delivery,2
-Bajhang,2068/69,C/S Delivery,9
-Achham,2068/69,Spontaneous delivery,2951
-Achham,2068/69,Vaccum delivery,30
-Achham,2068/69,Forecep delivery,1
-Achham,2068/69,C/S Delivery,28
-Doti,2068/69,Spontaneous delivery,2019
-Doti,2068/69,Vaccum delivery,38
-Doti,2068/69,Forecep delivery,14
-Doti,2068/69,C/S Delivery,9
-Kailali,2068/69,Spontaneous delivery,10628
-Kailali,2068/69,Vaccum delivery,423
-Kailali,2068/69,Forecep delivery,8
-Kailali,2068/69,C/S Delivery,688
-Kanchanpur,2068/69,Spontaneous delivery,5762
-Kanchanpur,2068/69,Vaccum delivery,40
-Kanchanpur,2068/69,Forecep delivery,5
-Kanchanpur,2068/69,C/S Delivery,23
-Dadeldhura,2068/69,Spontaneous delivery,1725
-Dadeldhura,2068/69,Vaccum delivery,351
-Dadeldhura,2068/69,Forecep delivery,60
-Dadeldhura,2068/69,C/S Delivery,103
-Baitadi,2068/69,Spontaneous delivery,1137
-Baitadi,2068/69,Vaccum delivery,26
-Baitadi,2068/69,Forecep delivery,0
-Baitadi,2068/69,C/S Delivery,2
-Darchula,2068/69,Spontaneous delivery,1631
-Darchula,2068/69,Vaccum delivery,50
-Darchula,2068/69,Forecep delivery,6
-Darchula,2068/69,C/S Delivery,0
-Taplejung,2069/70,"Spontaneous
+District,Zone,Geographical Region,Development Region,Year BS,Year AD,Delivery type,Number of delivery
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Spontaneous delivery,1165
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Vaccum delivery,9
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Forecep delivery,3
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,C/S Delivery,9
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,1605
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Vaccum delivery,59
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Forecep delivery,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,C/S Delivery,113
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,1574
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Vaccum delivery,65
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Forecep delivery,16
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,C/S Delivery,185
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Spontaneous delivery,6104
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Vaccum delivery,333
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Forecep delivery,254
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,C/S Delivery,3910
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Spontaneous delivery,10001
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Vaccum delivery,1190
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Forecep delivery,108
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,C/S Delivery,4004
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Spontaneous delivery,12957
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Vaccum delivery,265
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Forecep delivery,9
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,C/S Delivery,2997
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,1087
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Vaccum delivery,16
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Forecep delivery,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,C/S Delivery,8
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,485
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Vaccum delivery,5
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,Forecep delivery,0
+Terhathum,Kosi,Hill,Eastern,2068/69,2011/12,C/S Delivery,7
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Spontaneous delivery,1179
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Vaccum delivery,111
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Forecep delivery,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,C/S Delivery,19
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,931
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Vaccum delivery,3
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Forecep delivery,1
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,C/S Delivery,2
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Spontaneous delivery,1038
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Vaccum delivery,7
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Forecep delivery,1
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,C/S Delivery,16
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,1163
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Vaccum delivery,28
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Forecep delivery,27
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,C/S Delivery,81
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,1770
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Vaccum delivery,29
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Forecep delivery,2
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,C/S Delivery,30
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Spontaneous delivery,2898
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Vaccum delivery,61
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Forecep delivery,7
+Udayapur,Sagarmatha,Hill,Eastern,2068/69,2011/12,C/S Delivery,5
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Spontaneous delivery,6911
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Vaccum delivery,14
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Forecep delivery,0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,C/S Delivery,419
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Spontaneous delivery,9085
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Vaccum delivery,407
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Forecep delivery,33
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,C/S Delivery,480
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Spontaneous delivery,104
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Vaccum delivery,447
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,Forecep delivery,0
+Dhanusa,Janakpur,Terai,Central,2068/69,2011/12,C/S Delivery,1643
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Spontaneous delivery,3878
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Vaccum delivery,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Forecep delivery,125
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,C/S Delivery,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Spontaneous delivery,7315
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Vaccum delivery,42
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Forecep delivery,1
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,C/S Delivery,0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Spontaneous delivery,2102
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Vaccum delivery,11
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Forecep delivery,0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,C/S Delivery,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Spontaneous delivery,1761
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Vaccum delivery,4
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Forecep delivery,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,C/S Delivery,1
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Spontaneous delivery,1631
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Vaccum delivery,18
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,Forecep delivery,0
+Dolakha,Janakpur,Mountain,Central,2068/69,2011/12,C/S Delivery,41
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Spontaneous delivery,1697
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Vaccum delivery,52
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,Forecep delivery,0
+Sindhupalchok,Bagmati,Mountain,Central,2068/69,2011/12,C/S Delivery,1
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,4366
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,36
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,14
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,772
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,4141
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,361
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,7
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,0
+Bhaktapur,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,6
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,19742
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,199
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,20
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,7446
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,1186
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,61
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,3
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,128
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Spontaneous delivery,247
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Vaccum delivery,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Forecep delivery,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,C/S Delivery,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Spontaneous delivery,3234
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Vaccum delivery,3
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Forecep delivery,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,C/S Delivery,41
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Spontaneous delivery,2786
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Vaccum delivery,16
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,Forecep delivery,9
+Makwanpur,Narayani,Hill,Central,2068/69,2011/12,C/S Delivery,72
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Spontaneous delivery,4549
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Vaccum delivery,174
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Forecep delivery,9
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,C/S Delivery,41
+Bara,Narayani,Terai,Central,2068/69,2011/12,Spontaneous delivery,7847
+Bara,Narayani,Terai,Central,2068/69,2011/12,Vaccum delivery,39
+Bara,Narayani,Terai,Central,2068/69,2011/12,Forecep delivery,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,C/S Delivery,69
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Spontaneous delivery,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Vaccum delivery,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Forecep delivery,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,C/S Delivery,0
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Spontaneous delivery,7872
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Vaccum delivery,545
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,Forecep delivery,293
+Chitawan,Narayani,Terai,Central,2068/69,2011/12,C/S Delivery,3794
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Spontaneous delivery,1902
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Vaccum delivery,11
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Forecep delivery,10
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,C/S Delivery,95
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Spontaneous delivery,1742
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Vaccum delivery,41
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Forecep delivery,11
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,C/S Delivery,107
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Spontaneous delivery,1715
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Vaccum delivery,12
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Forecep delivery,1
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,C/S Delivery,2
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Spontaneous delivery,2097
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Vaccum delivery,23
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Forecep delivery,12
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,C/S Delivery,11
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Spontaneous delivery,10006
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Vaccum delivery,218
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Forecep delivery,96
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,C/S Delivery,2656
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Spontaneous delivery,15
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Vaccum delivery,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Forecep delivery,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,C/S Delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Spontaneous delivery,95
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Vaccum delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Forecep delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,C/S Delivery,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Spontaneous delivery,1057
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Vaccum delivery,3
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Forecep delivery,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,C/S Delivery,1
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Spontaneous delivery,1450
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Vaccum delivery,28
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Forecep delivery,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,C/S Delivery,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Spontaneous delivery,3258
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Vaccum delivery,56
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Forecep delivery,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,C/S Delivery,65
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Spontaneous delivery,3174
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Vaccum delivery,33
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Forecep delivery,4
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,C/S Delivery,63
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Spontaneous delivery,3234
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Vaccum delivery,110
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Forecep delivery,62
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,C/S Delivery,590
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Spontaneous delivery,2963
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Vaccum delivery,381
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Forecep delivery,29
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,C/S Delivery,25
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Spontaneous delivery,0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Vaccum delivery,0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Forecep delivery,0
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,C/S Delivery,3260
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Spontaneous delivery,4467
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Vaccum delivery,16
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,Forecep delivery,2
+Kapilbastu,Lumbini,Terai,Western,2068/69,2011/12,C/S Delivery,2
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Spontaneous delivery,1252
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Vaccum delivery,25
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Forecep delivery,19
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,C/S Delivery,13
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,1875
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,2
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,1741
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,13
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,1
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,1502
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,76
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,20
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,159
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,1834
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,6
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,2
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,4
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Spontaneous delivery,7483
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Vaccum delivery,212
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Forecep delivery,40
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,C/S Delivery,182
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Spontaneous delivery,8918
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Vaccum delivery,731
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Forecep delivery,39
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,C/S Delivery,1566
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Spontaneous delivery,5100
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Vaccum delivery,7
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,C/S Delivery,4
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,5893
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,143
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,8
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,431
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,4453
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,9
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,7
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,25
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Spontaneous delivery,1501
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Vaccum delivery,6
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Spontaneous delivery,205
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Vaccum delivery,7
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Spontaneous delivery,477
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Vaccum delivery,8
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Forecep delivery,3
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Spontaneous delivery,1446
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Vaccum delivery,17
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,C/S Delivery,19
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Spontaneous delivery,737
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Vaccum delivery,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Spontaneous delivery,684
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Vaccum delivery,20
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Forecep delivery,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,C/S Delivery,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Spontaneous delivery,1113
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Vaccum delivery,3
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Forecep delivery,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,C/S Delivery,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Spontaneous delivery,2414
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Vaccum delivery,20
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Forecep delivery,2
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,C/S Delivery,9
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Spontaneous delivery,2951
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Vaccum delivery,30
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Forecep delivery,1
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,C/S Delivery,28
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Spontaneous delivery,2019
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Vaccum delivery,38
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Forecep delivery,14
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,C/S Delivery,9
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Spontaneous delivery,10628
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Vaccum delivery,423
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Forecep delivery,8
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,C/S Delivery,688
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Spontaneous delivery,5762
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Vaccum delivery,40
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Forecep delivery,5
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,C/S Delivery,23
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Spontaneous delivery,1725
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Vaccum delivery,351
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Forecep delivery,60
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,C/S Delivery,103
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Spontaneous delivery,1137
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Vaccum delivery,26
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Forecep delivery,0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,C/S Delivery,2
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Spontaneous delivery,1631
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Vaccum delivery,50
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Forecep delivery,6
+Darchaula,Mahakali,Mountain,Far-Western,2068/69,2011/12,C/S Delivery,0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1242
-Taplejung,2069/70,Vacuum Delivery,7
-Taplejung,2069/70,Forcep Delivery,14
-Taplejung,2069/70,C/S Delivery,24
-Panchthar,2069/70,"Spontaneous
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Vacuum Delivery,7
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Forcep Delivery,14
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,C/S Delivery,24
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1803
-Panchthar,2069/70,Vacuum Delivery,74
-Panchthar,2069/70,Forcep Delivery,0
-Panchthar,2069/70,C/S Delivery,87
-Ilam,2069/70,"Spontaneous
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,74
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Forcep Delivery,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,C/S Delivery,87
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1735
-Ilam,2069/70,Vacuum Delivery,135
-Ilam,2069/70,Forcep Delivery,3
-Ilam,2069/70,C/S Delivery,72
-Jhapa,2069/70,"Spontaneous
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,135
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Forcep Delivery,3
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,C/S Delivery,72
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",7622
-Jhapa,2069/70,Vacuum Delivery,1317
-Jhapa,2069/70,Forcep Delivery,210
-Jhapa,2069/70,C/S Delivery,5039
-Morang,2069/70,"Spontaneous
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Vacuum Delivery,1317
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Forcep Delivery,210
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,C/S Delivery,5039
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",11391
-Morang,2069/70,Vacuum Delivery,534
-Morang,2069/70,Forcep Delivery,20
-Morang,2069/70,C/S Delivery,4820
-Sunsari,2069/70,"Spontaneous
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Vacuum Delivery,534
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Forcep Delivery,20
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,C/S Delivery,4820
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",12563
-Sunsari,2069/70,Vacuum Delivery,266
-Sunsari,2069/70,Forcep Delivery,3
-Sunsari,2069/70,C/S Delivery,3196
-Dhankuta,2069/70,"Spontaneous
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Vacuum Delivery,266
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Forcep Delivery,3
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,C/S Delivery,3196
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1044
-Dhankuta,2069/70,Vacuum Delivery,8
-Dhankuta,2069/70,Forcep Delivery,0
-Dhankuta,2069/70,C/S Delivery,6
-Teharthum,2069/70,"Spontaneous
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,8
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Forcep Delivery,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,C/S Delivery,6
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",802
-Teharthum,2069/70,Vacuum Delivery,8
-Teharthum,2069/70,Forcep Delivery,0
-Teharthum,2069/70,C/S Delivery,0
-Sankhuwasabha,2069/70,"Spontaneous
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,8
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,Forcep Delivery,0
+Terhathum,Kosi,Hill,Eastern,2069/70,2012/13,C/S Delivery,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1598
-Sankhuwasabha,2069/70,Vacuum Delivery,69
-Sankhuwasabha,2069/70,Forcep Delivery,4
-Sankhuwasabha,2069/70,C/S Delivery,18
-Bhojpur,2069/70,"Spontaneous
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Vacuum Delivery,69
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Forcep Delivery,4
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,C/S Delivery,18
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",866
-Bhojpur,2069/70,Vacuum Delivery,1
-Bhojpur,2069/70,Forcep Delivery,0
-Bhojpur,2069/70,C/S Delivery,21
-Solukhumbu,2069/70,"Spontaneous
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,1
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Forcep Delivery,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,C/S Delivery,21
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",980
-Solukhumbu,2069/70,Vacuum Delivery,27
-Solukhumbu,2069/70,Forcep Delivery,0
-Solukhumbu,2069/70,C/S Delivery,16
-Okhaldhunga,2069/70,"Spontaneous
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Vacuum Delivery,27
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Forcep Delivery,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,C/S Delivery,16
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1223
-Okhaldhunga,2069/70,Vacuum Delivery,55
-Okhaldhunga,2069/70,Forcep Delivery,13
-Okhaldhunga,2069/70,C/S Delivery,80
-Khotang,2069/70,"Spontaneous
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,55
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Forcep Delivery,13
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,C/S Delivery,80
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",1354
-Khotang,2069/70,Vacuum Delivery,12
-Khotang,2069/70,Forcep Delivery,0
-Khotang,2069/70,C/S Delivery,32
-Udaypur,2069/70,"Spontaneous
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,12
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Forcep Delivery,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,C/S Delivery,32
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",2707
-Udaypur,2069/70,Vacuum Delivery,109
-Udaypur,2069/70,Forcep Delivery,5
-Udaypur,2069/70,C/S Delivery,67
-Saptari,2069/70,"Spontaneous
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Vacuum Delivery,109
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Forcep Delivery,5
+Udayapur,Sagarmatha,Hill,Eastern,2069/70,2012/13,C/S Delivery,67
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",6905
-Saptari,2069/70,Vacuum Delivery,8
-Saptari,2069/70,Forcep Delivery,0
-Saptari,2069/70,C/S Delivery,534
-Siraha,2069/70,"Spontaneous
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Vacuum Delivery,8
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Forcep Delivery,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,C/S Delivery,534
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,"Spontaneous
 Delivery",9636
-Siraha,2069/70,Vacuum Delivery,506
-Siraha,2069/70,Forcep Delivery,13
-Siraha,2069/70,C/S Delivery,494
-Dhanusha,2069/70,"Spontaneous
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Vacuum Delivery,506
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Forcep Delivery,13
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,C/S Delivery,494
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",222
-Dhanusha,2069/70,Vacuum Delivery,1
-Dhanusha,2069/70,Forcep Delivery,0
-Dhanusha,2069/70,C/S Delivery,9
-Mahottari,2069/70,"Spontaneous
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Vacuum Delivery,1
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,Forcep Delivery,0
+Dhanusa,Janakpur,Terai,Central,2069/70,2012/13,C/S Delivery,9
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",4393
-Mahottari,2069/70,Vacuum Delivery,127
-Mahottari,2069/70,Forcep Delivery,113
-Mahottari,2069/70,C/S Delivery,38
-Sarlahi,2069/70,"Spontaneous
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Vacuum Delivery,127
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Forcep Delivery,113
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,C/S Delivery,38
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",7092
-Sarlahi,2069/70,Vacuum Delivery,207
-Sarlahi,2069/70,Forcep Delivery,1
-Sarlahi,2069/70,C/S Delivery,28
-Sindhuli,2069/70,"Spontaneous
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Vacuum Delivery,207
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Forcep Delivery,1
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,C/S Delivery,28
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",2001
-Sindhuli,2069/70,Vacuum Delivery,4
-Sindhuli,2069/70,Forcep Delivery,0
-Sindhuli,2069/70,C/S Delivery,0
-Ramechhap,2069/70,"Spontaneous
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Vacuum Delivery,4
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Forcep Delivery,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,C/S Delivery,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",1748
-Ramechhap,2069/70,Vacuum Delivery,11
-Ramechhap,2069/70,Forcep Delivery,1
-Ramechhap,2069/70,C/S Delivery,0
-Dolkha,2069/70,"Spontaneous
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Vacuum Delivery,11
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Forcep Delivery,1
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,C/S Delivery,0
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,"Spontaneous
 Delivery",1143
-Dolkha,2069/70,Vacuum Delivery,38
-Dolkha,2069/70,Forcep Delivery,40
-Dolkha,2069/70,C/S Delivery,74
-Sindhupalchowk,2069/70,"Spontaneous
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Vacuum Delivery,38
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,Forcep Delivery,40
+Dolakha,Janakpur,Mountain,Central,2069/70,2012/13,C/S Delivery,74
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,"Spontaneous
 Delivery",1501
-Sindhupalchowk,2069/70,Vacuum Delivery,22
-Sindhupalchowk,2069/70,Forcep Delivery,0
-Sindhupalchowk,2069/70,C/S Delivery,14
-Kavre,2069/70,"Spontaneous
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Vacuum Delivery,22
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,Forcep Delivery,0
+Sindhupalchok,Bagmati,Mountain,Central,2069/70,2012/13,C/S Delivery,14
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",4323
-Kavre,2069/70,Vacuum Delivery,89
-Kavre,2069/70,Forcep Delivery,53
-Kavre,2069/70,C/S Delivery,1050
-Lalitpur,2069/70,"Spontaneous
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,89
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,53
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,1050
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",0
-Lalitpur,2069/70,Vacuum Delivery,0
-Lalitpur,2069/70,Forcep Delivery,0
-Lalitpur,2069/70,C/S Delivery,4288
-Bhaktapur,2069/70,"Spontaneous
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,4288
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",333
-Bhaktapur,2069/70,Vacuum Delivery,8
-Bhaktapur,2069/70,Forcep Delivery,2
-Bhaktapur,2069/70,C/S Delivery,44
-Kathmandu,2069/70,"Spontaneous
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,8
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,2
+Bhaktapur,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,44
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",16857
-Kathmandu,2069/70,Vacuum Delivery,632
-Kathmandu,2069/70,Forcep Delivery,31
-Kathmandu,2069/70,C/S Delivery,7297
-Nuwakot,2069/70,"Spontaneous
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,632
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,31
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,7297
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",1323
-Nuwakot,2069/70,Vacuum Delivery,84
-Nuwakot,2069/70,Forcep Delivery,17
-Nuwakot,2069/70,C/S Delivery,291
-Rasuwa,2069/70,"Spontaneous
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,84
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,17
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,291
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,"Spontaneous
 Delivery",277
-Rasuwa,2069/70,Vacuum Delivery,0
-Rasuwa,2069/70,Forcep Delivery,0
-Rasuwa,2069/70,C/S Delivery,0
-Dhading,2069/70,"Spontaneous
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Vacuum Delivery,0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Forcep Delivery,0
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,C/S Delivery,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",3367
-Dhading,2069/70,Vacuum Delivery,16
-Dhading,2069/70,Forcep Delivery,0
-Dhading,2069/70,C/S Delivery,4
-Makawanpur,2069/70,"Spontaneous
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Vacuum Delivery,16
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Forcep Delivery,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,C/S Delivery,4
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,"Spontaneous
 Delivery",2644
-Makawanpur,2069/70,Vacuum Delivery,13
-Makawanpur,2069/70,Forcep Delivery,9
-Makawanpur,2069/70,C/S Delivery,30
-Rautahat,2069/70,"Spontaneous
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Vacuum Delivery,13
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,Forcep Delivery,9
+Makwanpur,Narayani,Hill,Central,2069/70,2012/13,C/S Delivery,30
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",3920
-Rautahat,2069/70,Vacuum Delivery,124
-Rautahat,2069/70,Forcep Delivery,0
-Rautahat,2069/70,C/S Delivery,12
-Bara,2069/70,"Spontaneous
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Vacuum Delivery,124
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Forcep Delivery,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,C/S Delivery,12
+Bara,Narayani,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",6415
-Bara,2069/70,Vacuum Delivery,53
-Bara,2069/70,Forcep Delivery,8
-Bara,2069/70,C/S Delivery,95
-Parsa,2069/70,"Spontaneous
+Bara,Narayani,Terai,Central,2069/70,2012/13,Vacuum Delivery,53
+Bara,Narayani,Terai,Central,2069/70,2012/13,Forcep Delivery,8
+Bara,Narayani,Terai,Central,2069/70,2012/13,C/S Delivery,95
+Parsa,Narayani,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",0
-Parsa,2069/70,Vacuum Delivery,0
-Parsa,2069/70,Forcep Delivery,0
-Parsa,2069/70,C/S Delivery,28
-Chitwan,2069/70,"Spontaneous
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Vacuum Delivery,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Forcep Delivery,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,C/S Delivery,28
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,"Spontaneous
 Delivery",9907
-Chitwan,2069/70,Vacuum Delivery,438
-Chitwan,2069/70,Forcep Delivery,14
-Chitwan,2069/70,C/S Delivery,2990
-Gorkha,2069/70,"Spontaneous
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Vacuum Delivery,438
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,Forcep Delivery,14
+Chitawan,Narayani,Terai,Central,2069/70,2012/13,C/S Delivery,2990
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1930
-Gorkha,2069/70,Vacuum Delivery,23
-Gorkha,2069/70,Forcep Delivery,0
-Gorkha,2069/70,C/S Delivery,81
-Lamjung,2069/70,"Spontaneous
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Vacuum Delivery,23
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Forcep Delivery,0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,C/S Delivery,81
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1591
-Lamjung,2069/70,Vacuum Delivery,42
-Lamjung,2069/70,Forcep Delivery,2
-Lamjung,2069/70,C/S Delivery,80
-Tanahu,2069/70,"Spontaneous
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Vacuum Delivery,42
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Forcep Delivery,2
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,C/S Delivery,80
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1641
-Tanahu,2069/70,Vacuum Delivery,49
-Tanahu,2069/70,Forcep Delivery,0
-Tanahu,2069/70,C/S Delivery,5
-Syangja,2069/70,"Spontaneous
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Vacuum Delivery,49
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Forcep Delivery,0
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,C/S Delivery,5
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1805
-Syangja,2069/70,Vacuum Delivery,18
-Syangja,2069/70,Forcep Delivery,0
-Syangja,2069/70,C/S Delivery,0
-Kaski,2069/70,"Spontaneous
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Vacuum Delivery,18
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Forcep Delivery,0
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,C/S Delivery,0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",9969
-Kaski,2069/70,Vacuum Delivery,207
-Kaski,2069/70,Forcep Delivery,51
-Kaski,2069/70,C/S Delivery,3033
-Manang,2069/70,"Spontaneous
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Vacuum Delivery,207
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Forcep Delivery,51
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,C/S Delivery,3033
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,"Spontaneous
 Delivery",5
-Manang,2069/70,Vacuum Delivery,0
-Manang,2069/70,Forcep Delivery,0
-Manang,2069/70,C/S Delivery,0
-Mustang,2069/70,"Spontaneous
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Vacuum Delivery,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Forcep Delivery,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,C/S Delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,"Spontaneous
 Delivery",44
-Mustang,2069/70,Vacuum Delivery,0
-Mustang,2069/70,Forcep Delivery,0
-Mustang,2069/70,C/S Delivery,0
-Myagdi,2069/70,"Spontaneous
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Vacuum Delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Forcep Delivery,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,C/S Delivery,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1067
-Myagdi,2069/70,Vacuum Delivery,0
-Myagdi,2069/70,Forcep Delivery,0
-Myagdi,2069/70,C/S Delivery,0
-Parbat,2069/70,"Spontaneous
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Vacuum Delivery,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Forcep Delivery,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,C/S Delivery,0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1292
-Parbat,2069/70,Vacuum Delivery,13
-Parbat,2069/70,Forcep Delivery,0
-Parbat,2069/70,C/S Delivery,0
-Baglung,2069/70,"Spontaneous
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Vacuum Delivery,13
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Forcep Delivery,0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,C/S Delivery,0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",2395
-Baglung,2069/70,Vacuum Delivery,70
-Baglung,2069/70,Forcep Delivery,1
-Baglung,2069/70,C/S Delivery,82
-Gulmi,2069/70,"Spontaneous
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Vacuum Delivery,70
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Forcep Delivery,1
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,C/S Delivery,82
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",2895
-Gulmi,2069/70,Vacuum Delivery,23
-Gulmi,2069/70,Forcep Delivery,2
-Gulmi,2069/70,C/S Delivery,78
-Palpa,2069/70,"Spontaneous
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Vacuum Delivery,23
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Forcep Delivery,2
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,C/S Delivery,78
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",3008
-Palpa,2069/70,Vacuum Delivery,242
-Palpa,2069/70,Forcep Delivery,59
-Palpa,2069/70,C/S Delivery,520
-Nawalparasi,2069/70,"Spontaneous
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Vacuum Delivery,242
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Forcep Delivery,59
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,C/S Delivery,520
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,"Spontaneous
 Delivery",3645
-Nawalparasi,2069/70,Vacuum Delivery,34
-Nawalparasi,2069/70,Forcep Delivery,12
-Nawalparasi,2069/70,C/S Delivery,20
-Rupandehi,2069/70,"Spontaneous
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Vacuum Delivery,34
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Forcep Delivery,12
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,C/S Delivery,20
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,"Spontaneous
 Delivery",0
-Rupandehi,2069/70,Vacuum Delivery,0
-Rupandehi,2069/70,Forcep Delivery,0
-Rupandehi,2069/70,C/S Delivery,3907
-Kapilvastu,2069/70,"Spontaneous
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Vacuum Delivery,0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Forcep Delivery,0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,C/S Delivery,3907
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,"Spontaneous
 Delivery",1782
-Kapilvastu,2069/70,Vacuum Delivery,0
-Kapilvastu,2069/70,Forcep Delivery,0
-Kapilvastu,2069/70,C/S Delivery,2
-Arghakhanchi,2069/70,"Spontaneous
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Vacuum Delivery,0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,Forcep Delivery,0
+Kapilbastu,Lumbini,Terai,Western,2069/70,2012/13,C/S Delivery,2
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,"Spontaneous
 Delivery",1047
-Arghakhanchi,2069/70,Vacuum Delivery,63
-Arghakhanchi,2069/70,Forcep Delivery,6
-Arghakhanchi,2069/70,C/S Delivery,6
-Pyuthan,2069/70,"Spontaneous
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Vacuum Delivery,63
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Forcep Delivery,6
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,C/S Delivery,6
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1841
-Pyuthan,2069/70,Vacuum Delivery,0
-Pyuthan,2069/70,Forcep Delivery,0
-Pyuthan,2069/70,C/S Delivery,0
-Rolpa,2069/70,"Spontaneous
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1881
-Rolpa,2069/70,Vacuum Delivery,6
-Rolpa,2069/70,Forcep Delivery,1
-Rolpa,2069/70,C/S Delivery,0
-Rukum,2069/70,"Spontaneous
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,6
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,1
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1538
-Rukum,2069/70,Vacuum Delivery,100
-Rukum,2069/70,Forcep Delivery,25
-Rukum,2069/70,C/S Delivery,73
-Salyan,2069/70,"Spontaneous
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,100
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,25
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,73
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",2000
-Salyan,2069/70,Vacuum Delivery,9
-Salyan,2069/70,Forcep Delivery,2
-Salyan,2069/70,C/S Delivery,15
-Dang,2069/70,"Spontaneous
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,9
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,2
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,15
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",6852
-Dang,2069/70,Vacuum Delivery,194
-Dang,2069/70,Forcep Delivery,134
-Dang,2069/70,C/S Delivery,323
-Banke,2069/70,"Spontaneous
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Vacuum Delivery,194
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Forcep Delivery,134
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,C/S Delivery,323
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",6655
-Banke,2069/70,Vacuum Delivery,490
-Banke,2069/70,Forcep Delivery,33
-Banke,2069/70,C/S Delivery,1374
-Bardiya,2069/70,"Spontaneous
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Vacuum Delivery,490
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Forcep Delivery,33
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,C/S Delivery,1374
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",4922
-Bardiya,2069/70,Vacuum Delivery,15
-Bardiya,2069/70,Forcep Delivery,0
-Bardiya,2069/70,C/S Delivery,0
-Surkhet,2069/70,"Spontaneous
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Vacuum Delivery,15
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",5738
-Surkhet,2069/70,Vacuum Delivery,133
-Surkhet,2069/70,Forcep Delivery,8
-Surkhet,2069/70,C/S Delivery,491
-Dailekh,2069/70,"Spontaneous
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,133
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,8
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,491
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",4605
-Dailekh,2069/70,Vacuum Delivery,8
-Dailekh,2069/70,Forcep Delivery,2
-Dailekh,2069/70,C/S Delivery,7
-Jajarkot,2069/70,"Spontaneous
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,8
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,2
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,7
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1376
-Jajarkot,2069/70,Vacuum Delivery,3
-Jajarkot,2069/70,Forcep Delivery,1
-Jajarkot,2069/70,C/S Delivery,0
-Dolpa,2069/70,"Spontaneous
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Vacuum Delivery,3
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Forcep Delivery,1
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",220
-Dolpa,2069/70,Vacuum Delivery,4
-Dolpa,2069/70,Forcep Delivery,3
-Dolpa,2069/70,C/S Delivery,1
-Jumla,2069/70,"Spontaneous
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Vacuum Delivery,4
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Forcep Delivery,3
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,C/S Delivery,1
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",675
-Jumla,2069/70,Vacuum Delivery,9
-Jumla,2069/70,Forcep Delivery,0
-Jumla,2069/70,C/S Delivery,2
-Kalikot,2069/70,"Spontaneous
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Vacuum Delivery,9
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,C/S Delivery,2
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1304
-Kalikot,2069/70,Vacuum Delivery,17
-Kalikot,2069/70,Forcep Delivery,0
-Kalikot,2069/70,C/S Delivery,25
-Mugu,2069/70,"Spontaneous
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Vacuum Delivery,17
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,C/S Delivery,25
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",585
-Mugu,2069/70,Vacuum Delivery,6
-Mugu,2069/70,Forcep Delivery,0
-Mugu,2069/70,C/S Delivery,0
-Humla,2069/70,"Spontaneous
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Vacuum Delivery,6
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,"Spontaneous
 Delivery",1091
-Humla,2069/70,Vacuum Delivery,18
-Humla,2069/70,Forcep Delivery,0
-Humla,2069/70,C/S Delivery,0
-Bajura,2069/70,"Spontaneous
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Vacuum Delivery,18
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Forcep Delivery,0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,C/S Delivery,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",1412
-Bajura,2069/70,Vacuum Delivery,3
-Bajura,2069/70,Forcep Delivery,0
-Bajura,2069/70,C/S Delivery,0
-Bajhang,2069/70,"Spontaneous
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Vacuum Delivery,3
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Forcep Delivery,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,C/S Delivery,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",2642
-Bajhang,2069/70,Vacuum Delivery,18
-Bajhang,2069/70,Forcep Delivery,36
-Bajhang,2069/70,C/S Delivery,10
-Achham,2069/70,"Spontaneous
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Vacuum Delivery,18
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Forcep Delivery,36
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,C/S Delivery,10
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",3307
-Achham,2069/70,Vacuum Delivery,18
-Achham,2069/70,Forcep Delivery,0
-Achham,2069/70,C/S Delivery,31
-Doti,2069/70,"Spontaneous
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Vacuum Delivery,18
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Forcep Delivery,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,C/S Delivery,31
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",2728
-Doti,2069/70,Vacuum Delivery,63
-Doti,2069/70,Forcep Delivery,1
-Doti,2069/70,C/S Delivery,62
-Kailali,2069/70,"Spontaneous
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Vacuum Delivery,63
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Forcep Delivery,1
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,C/S Delivery,62
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",9561
-Kailali,2069/70,Vacuum Delivery,394
-Kailali,2069/70,Forcep Delivery,1
-Kailali,2069/70,C/S Delivery,729
-Kanchanpur,2069/70,"Spontaneous
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Vacuum Delivery,394
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Forcep Delivery,1
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,C/S Delivery,729
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",5724
-Kanchanpur,2069/70,Vacuum Delivery,51
-Kanchanpur,2069/70,Forcep Delivery,1
-Kanchanpur,2069/70,C/S Delivery,90
-Dadeldhura,2069/70,"Spontaneous
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Vacuum Delivery,51
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Forcep Delivery,1
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,C/S Delivery,90
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",2017
-Dadeldhura,2069/70,Vacuum Delivery,120
-Dadeldhura,2069/70,Forcep Delivery,47
-Dadeldhura,2069/70,C/S Delivery,87
-Baitadi,2069/70,"Spontaneous
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Vacuum Delivery,120
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Forcep Delivery,47
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,C/S Delivery,87
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",2036
-Baitadi,2069/70,Vacuum Delivery,30
-Baitadi,2069/70,Forcep Delivery,11
-Baitadi,2069/70,C/S Delivery,86
-Darchula,2069/70,"Spontaneous
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Vacuum Delivery,30
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Forcep Delivery,11
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,C/S Delivery,86
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,"Spontaneous
 Delivery",1349
-Darchula,2069/70,Vacuum Delivery,11
-Darchula,2069/70,Forcep Delivery,2
-Darchula,2069/70,C/S Delivery,4
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Vacuum Delivery,11
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Forcep Delivery,2
+Darchaula,Mahakali,Mountain,Far-Western,2069/70,2012/13,C/S Delivery,4

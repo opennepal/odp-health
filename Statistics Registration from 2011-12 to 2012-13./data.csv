@@ -1,21 +1,21 @@
-SN,Personal Events,Year,Description,Value
-1,Birth Registration,2011/12,Female,265201
-,Birth Registration,2011/12,Male,393558
-,Birth Registration,2012/13*,Female,24938
-,Birth Registration,2012/13*,Male,26492
-2,Death Registration,2011/12,Female,34501
-,Death Registration,2011/12,Male,86447
-,Death Registration,2012/13*,Female,2384
-,Death Registration,2012/13*,Male,3818
-3,Marriage Registration,2011/12,,180131
-,Marriage Registration,2012/13*,,11683
-4,Divorce Registration,2011/12,,351
-,Divorce Registration,2012/13*,,35
-5,Migration Registration,2011/12,,91825
-,Migration Registration,2012/13*,,3999
-6,Number of People migrated out,2011/12,,157139
-,Number of People migrated out,2012/13*,,6812
-7,Number of People migrated in,2011/12,,170893
-,Number of People migrated in,2012/13*,,8300
-8,Total Number of Migrants,2011/12,,328895
-,Total Number of Migrants,2012/13*,,15112
+SN,Personal Events,Year AD,Year BS,Description,Value
+1.0,Birth Registration,2011/12,2068/69,Female,265201
+,Birth Registration,2011/12,2068/69,Male,393558
+,Birth Registration,2012/13*,2069/70,Female,24938
+,Birth Registration,2012/13*,2069/70,Male,26492
+2.0,Death Registration,2011/12,2068/69,Female,34501
+,Death Registration,2011/12,2068/69,Male,86447
+,Death Registration,2012/13*,2069/70,Female,2384
+,Death Registration,2012/13*,2069/70,Male,3818
+3.0,Marriage Registration,2011/12,2068/69,,180131
+,Marriage Registration,2012/13*,2069/70,,11683
+4.0,Divorce Registration,2011/12,2068/69,,351
+,Divorce Registration,2012/13*,2069/70,,35
+5.0,Migration Registration,2011/12,2068/69,,91825
+,Migration Registration,2012/13*,2069/70,,3999
+6.0,Number of People migrated out,2011/12,2068/69,,157139
+,Number of People migrated out,2012/13*,2069/70,,6812
+7.0,Number of People migrated in,2011/12,2068/69,,170893
+,Number of People migrated in,2012/13*,2069/70,,8300
+8.0,Total Number of Migrants,2011/12,2068/69,,328895
+,Total Number of Migrants,2012/13*,2069/70,,15112
