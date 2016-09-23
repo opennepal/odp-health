@@ -1,0 +1,268 @@
+District Name,Zone,Ecological Belt,Development Region,Year (BS),Year (AD),Indicator,Sub-Indicator,Value
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.22
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,10.53
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,89.47
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% of Patients by sex,Female,63.16
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Male,36.84
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% Treated by,SAG,78.95
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,% Treated by,Fungizone,21.05
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Deaths (%),Female,0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Deaths (%),Male,14.29
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Case Fatality,,5.26
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.01
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by sex,Female,0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Male,100
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% Treated by,SAG,100
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,% Treated by,Fungizone,0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Deaths (%),Male,0
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Case Fatality,,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.21
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,6.25
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,93.75
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by sex,Female,31.25
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% of Patients by age,Male,68.75
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% Treated by,SAG,12.5
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,% Treated by,Fungizone,87.5
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Deaths (%),Female,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Deaths (%),Male,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Case Fatality,,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,33.33
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,66.67
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by sex,Female,33.33
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Male,66.67
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% Treated by,SAG,44.44
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,% Treated by,Fungizone,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Deaths (%),Female,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Deaths (%),Male,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Case Fatality,,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.03
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by sex,Female,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% of Patients by age,Male,100
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% Treated by,SAG,100
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,% Treated by,Fungizone,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Deaths (%),Male,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Case Fatality,,0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.16
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% of Patients by age,Under 5 yrs,27.27
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% of Patients by age,Above 5 yrs,72.73
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% of Patients by sex,Female,45.45
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% of Patients by age,Male,54.55
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% Treated by,SAG,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,% Treated by,Fungizone,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Deaths (%),Female,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Deaths (%),Male,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Case Fatality,,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.12
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by sex,Female,25
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Male,75
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% Treated by,SAG,100
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,% Treated by,Fungizone,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Deaths (%),Female,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Deaths (%),Male,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Case Fatality,,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.57
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by sex,Female,40
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% of Patients by age,Male,60
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% Treated by,SAG,68.89
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,% Treated by,Fungizone,31.11
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Deaths (%),Female,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Deaths (%),Male,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Case Fatality,,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.03
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Under 5 yrs,50
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Above 5 yrs,50
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% of Patients by sex,Female,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Male,100
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% Treated by,SAG,100
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,% Treated by,Fungizone,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Deaths (%),Male,100
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Case Fatality,,100
+Bara,Narayani,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0.03
+Bara,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Bara,Narayani,Terai,Central,2068/69,2011/12,% of Patients by sex,Female,50
+Bara,Narayani,Terai,Central,2068/69,2011/12,% of Patients by age,Male,50
+Bara,Narayani,Terai,Central,2068/69,2011/12,% Treated by,SAG,50
+Bara,Narayani,Terai,Central,2068/69,2011/12,% Treated by,Fungizone,50
+Bara,Narayani,Terai,Central,2068/69,2011/12,Deaths (%),Female,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Deaths (%),Male,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Case Fatality,,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Incidence of Kalaazar /10000*,,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% of Patients by sex,Female,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% of Patients by age,Male,100
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% Treated by,SAG,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,% Treated by,Fungizone,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Deaths (%),Male,0
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Case Fatality,,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% of Patients by age,Under 5 yrs,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% of Patients by age,Above 5 yrs,100
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% of Patients by sex,Female,33.33
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% of Patients by age,Male,66.67
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% Treated by,SAG,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,% Treated by,Fungizone,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Deaths (%),Female,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Deaths (%),Male,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Case Fatality,,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.12
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,10
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,90
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% of Patients by sex,Female,20
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Male,80
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% Treated by,SAG,90
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,% Treated by,Fungizone,10
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Deaths (%),Male,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Case Fatality,,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.64
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,17.46
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,82.54
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by sex,Female,42.86
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Male,57.14
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% Treated by,SAG,100
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Deaths (%),Male,5.56
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Case Fatality,,3.17
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.19
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,13.33
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,86.67
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by sex,Female,26.67
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% of Patients by age,Male,73.33
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% Treated by,SAG,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Deaths (%),Male,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Case Fatality,,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,35.71
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,64.29
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by sex,Female,42.86
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Male,57.14
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% Treated by,SAG,64.29
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Deaths (%),Female,16.67
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Deaths (%),Male,12.5
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Case Fatality,,14.29
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.15
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by sex,Female,20
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% of Patients by age,Male,80
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% Treated by,SAG,20
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Deaths (%),Male,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Case Fatality,,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.12
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by sex,Female,25
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Male,75
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% Treated by,SAG,12.5
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Deaths (%),Male,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Case Fatality,,0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.46
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by sex,Female,53.33
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% of Patients by age,Male,46.67
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% Treated by,SAG,66.67
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,% Treated by,Fungizone,0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Deaths (%),Female,0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Deaths (%),Male,0
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Case Fatality,,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.17
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by sex,Female,15.38
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Male,84.62
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,SAG,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,Fungizone,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Female,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Male,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Case Fatality,,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.15
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by sex,Female,60
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Male,40
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,SAG,80
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,Fungizone,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Female,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Male,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Case Fatality,,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.66
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by sex,Female,30.77
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,% of Patients by age,Male,69.23
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,SAG,90.38
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,% Treated by,Fungizone,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Female,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Deaths (%),Male,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Case Fatality,,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.12
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.64
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.19
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.15
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.12
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% of Patients by sex,Female,100
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% of Patients by age,Male,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% Treated by,SAG,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,% Treated by,Fungizone,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Deaths (%),Female,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Case Fatality,,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.03
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.46
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% of Patients by sex,Female,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Male,100
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% Treated by,SAG,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,% Treated by,Fungizone,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Deaths (%),Male,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Case Fatality,,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0.07
+Bara,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.17
+Bara,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Bara,Narayani,Terai,Central,2069/70,2012/13,% of Patients by sex,Female,60
+Bara,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Male,40
+Bara,Narayani,Terai,Central,2069/70,2012/13,% Treated by,SAG,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,% Treated by,Fungizone,100
+Bara,Narayani,Terai,Central,2069/70,2012/13,Deaths (%),Female,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Deaths (%),Male,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Case Fatality,,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Incidence of Kalaazar /10000*,,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.15
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.66
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,% of Patients by sex,Female,50
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,% of Patients by age,Male,50
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,% Treated by,SAG,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,% Treated by,Fungizone,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Deaths (%),Female,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Deaths (%),Male,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Case Fatality,,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.03
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,% of Patients by age,Under 5 yrs,0.07
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% of Patients by age,Under 5 yrs,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% of Patients by age,Above 5 yrs,100
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% of Patients by sex,Female,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% of Patients by age,Male,100
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% Treated by,SAG,100
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,% Treated by,Fungizone,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Deaths (%),Male,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Case Fatality,,0
