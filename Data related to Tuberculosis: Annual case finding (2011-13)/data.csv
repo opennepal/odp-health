@@ -1,4 +1,5 @@
 District Name,Zone,Ecological Belt,Development Region,Year (BS),Year (AD),Indicator,Sub-Indicator,Sub-Indicator,Sub-Indicator,Value
+<<<<<<< 21d547682cb6df666c9ab270ef7379686bd83b7d
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,By regimen,Treatment regimen,,I,152
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,By regimen,Treatment regimen,,II,22
 Achham,Seti,Hill,Far-Western,2068/69,2011/12,By regimen,Treatment regimen,,0-8years,11
@@ -2489,3 +2490,2705 @@ Achham,Seti,Hill,Far-Western,2070/71,2013/14,Male and Female together,Other,,M +
 Achham,Seti,Hill,Far-Western,2070/71,2013/14,Male and Female together,Total,,M + F,115
 Achham,Seti,Hill,Far-Western,2070/71,2013/14,Case detection per  population (100 T),,New S+,M + F,48
 Achham,Seti,Hill,Far-Western,2070/71,2013/14,Case detection per  population (100 T),,All,M + F,0
+=======
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,F,22
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,M,74
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,6
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,6
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,3
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,2
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,3
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,F,10
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,M,13
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,9
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,20
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Transfer In,,,F,2
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Transfer In,,,M,3
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Others,,,F,5
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Others,,,M,6
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,64.8648648649
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.9487179487
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,22
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,63
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,18
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,F,15
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,M,49
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,37
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,44
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,F,1
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,M,3
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Others,,,F,2
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Others,,,M,5
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,36.9565217391
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,19.8113207547
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,29
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,63
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,5
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,7
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,F,12
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,M,19
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,19
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,35
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,F,1
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,M,5
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,F,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,M,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,51.9774011299
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.380952381
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,F,34
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,M,83
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,12
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,2
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,F,13
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,M,31
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,18
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,23
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Transfer In,,,F,1
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Transfer In,,,M,2
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Others,,,F,1
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Others,,,M,8
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,57.9207920792
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.598540146
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,F,29
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,M,60
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,9
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,2
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,F,14
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,M,10
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,6
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,12
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,F,1
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,M,5
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Others,,,F,2
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Others,,,M,5
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,67.9389312977
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.0377358491
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,F,24
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,M,32
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,2
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,2
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,F,12
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,M,7
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,18
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,23
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,F,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,M,3
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Others,,,F,1
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Others,,,M,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,48.275862069
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.6774193548
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,140
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,322
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,19
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,53
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,4
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,2
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,9
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,F,113
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,M,172
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,91
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,88
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,F,6
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,M,15
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Others,,,F,11
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Others,,,M,19
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,49.8920086393
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.1524500907
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,156
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,329
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,21
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,35
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,1
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,10
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,2
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,F,141
+Bara,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,M,236
+Bara,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,61
+Bara,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,79
+Bara,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,F,2
+Bara,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,M,2
+Bara,Narayani,Terai,Central,2068/69,2011/12,Others,,,F,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Others,,,M,6
+Bara,Narayani,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,48.4031936128
+Bara,Narayani,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.4548736462
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,105
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,247
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,12
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,34
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,5
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,F,62
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,M,94
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,53
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,56
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,F,3
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,M,8
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Others,,,F,13
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Others,,,M,27
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,57.0502431118
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,13.0864197531
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,69
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,130
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,12
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,27
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,1
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,39
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,61
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,100
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,89
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,9
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,19
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,11
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,7
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,40.7786885246
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.7364016736
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,14
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,29
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,5
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,2
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,1
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,5
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,24
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,18
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,3
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,9
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,M,3
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,47.2527472527
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,130
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,303
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,21
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,74
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,2
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,3
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,1
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,7
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,F,119
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,M,183
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,100
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,139
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,F,18
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,M,28
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Others,,,F,12
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Others,,,M,26
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,44.4558521561
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,19.9630314233
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,F,14
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,M,52
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,3
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,F,8
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,M,26
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,25
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,18
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Transfer In,,,F,5
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Transfer In,,,M,3
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Others,,,F,3
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Others,,,M,4
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,46.1538461538
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10.8108108108
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,22
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,68
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,6
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,3
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,16
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,33
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,33
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,48
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,2
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,5
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,F,0
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,M,1
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,40.9090909091
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.0909090909
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,163
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,288
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,26
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,75
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,7
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,2
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,2
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,F,109
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Smear Negative,,,M,201
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,87
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,140
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,F,10
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Transfer In,,,M,15
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Others,,,F,7
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Others,,,M,19
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,45.6477732794
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,19.8934280639
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,F,33
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,New,M,38
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,9
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,F,23
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Smear Negative,,,M,26
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,15
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,15
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,F,3
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Transfer In,,,M,3
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Others,,,F,0
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Others,,,M,0
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,47.3333333333
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.4418604651
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,27
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,112
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,5
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,19
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,14
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,36
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,30
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,47
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,4
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,6
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,2
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,3
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,52.2556390977
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.7239263804
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,13
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,46
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,3
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,1
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,11
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,15
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,28
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,2
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,M,1
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,51.7543859649
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,6.3492063492
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,117
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,270
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,13
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,44
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,1
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,2
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,1
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,4
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,F,143
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,M,251
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,58
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,77
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,F,5
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,M,9
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Others,,,F,10
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Others,,,M,14
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,42.2489082969
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.3805309735
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,New,F,8
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,New,M,25
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,M,6
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,F,1
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,M,2
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Negative,,,F,8
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Smear Negative,,,M,17
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,F,25
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,M,28
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Transfer In,,,F,4
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Transfer In,,,M,11
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Others,,,F,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Others,,,M,1
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,29.7297297297
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,26.6666666667
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,6
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,F,3
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,M,2
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,2
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,F,8
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,M,8
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,46.1538461538
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,F,19
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,New,M,48
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,9
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,6
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,4
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,F,9
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Smear Negative,,,M,40
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,18
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,12
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Transfer In,,,F,2
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Transfer In,,,M,1
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Others,,,F,8
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Others,,,M,8
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,45.8904109589
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,27.1739130435
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,40
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,96
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,16
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,F,13
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,M,36
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,23
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,34
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,F,2
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,M,9
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Others,,,F,2
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Others,,,M,1
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,56.1983471074
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,15.5279503106
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,25
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,84
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,8
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,22
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,2
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,F,22
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,M,58
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,47
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,86
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,F,0
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,M,2
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Others,,,F,1
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Others,,,M,6
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,33.850931677
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,22.695035461
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,6
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,3
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,F,2
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,M,3
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,3
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,3
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,F,3
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,M,2
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,F,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,M,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,45
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,18
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,54
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,6
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,1
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,5
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,10
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,25
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,24
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,1
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,7
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Others,,,F,1
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Others,,,M,1
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,52.9411764706
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,18
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,30
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,5
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,5
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,22
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,22
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,15
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,12
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,3
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,F,2
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,M,0
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,40.3361344538
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,20
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,F,213
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,M,444
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,32
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,78
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,2
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,7
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,1
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,6
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,F,124
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,M,236
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,116
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,140
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Transfer In,,,F,11
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Transfer In,,,M,17
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Others,,,F,7
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Others,,,M,11
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,51.6103692066
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.091954023
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,7
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,21
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,3
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,F,9
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,M,11
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,4
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,5
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,F,3
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,M,9
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,F,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,M,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,49.1228070175
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.6774193548
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,New,F,168
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,New,M,401
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,21
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,63
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,12
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,2
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,16
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Negative,,,F,119
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Smear Negative,,,M,192
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,72
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,116
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Transfer In,,,F,9
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Transfer In,,,M,20
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Others,,,F,22
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Others,,,M,38
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,53.2771535581
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.9343065693
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,7
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,18
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,1
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,F,10
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,M,7
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,11
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,32
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,F,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,M,1
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,F,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,M,0
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,29.4117647059
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,13.7931034483
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,New,F,143
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,New,M,295
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,F,18
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Relapse,M,87
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Failure,F,4
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,Failure,M,5
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Positive,,RAD,M,5
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Negative,,,F,38
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Smear Negative,,,M,137
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Extra Pulmonary,,,F,53
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Extra Pulmonary,,,M,70
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Transfer In,,,F,5
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Transfer In,,,M,6
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Others,,,F,11
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Others,,,M,15
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,59.5108695652
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,21.3644524237
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,F,128
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,M,280
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,F,7
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,M,30
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,M,6
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,F,40
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,M,65
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,F,48
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,M,58
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,F,1
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,M,3
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Others,,,F,2
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Others,,,M,2
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,65.9127625202
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10.1321585903
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,68
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,130
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,9
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,21
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,4
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,F,16
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,M,33
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,64
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,93
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,F,5
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,M,9
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Others,,,F,8
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Others,,,M,22
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,65.9127625202
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10.1321585903
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,407
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,666
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,58
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,139
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,4
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,10
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,4
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,13
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,233
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,276
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,620
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,692
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,71
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,130
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,67
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,88
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,37.0767104354
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.524980784
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,57
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,118
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,25
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,1
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,3
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,1
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,3
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,15
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,45
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,59
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,57
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,5
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,9
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,2
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,7
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,49.8575498575
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.0616113744
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,20
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,24
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,3
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,1
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,6
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,20
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,8
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,13
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,3
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,F,1
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,M,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,48.3516483516
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10.2040816327
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,104
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,157
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,13
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,34
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,4
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,2
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,1
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,53
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,80
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,135
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,146
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,12
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,23
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,15
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,23
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,38.6666666667
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.1428571429
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,13
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,59
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,10
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,F,9
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,M,25
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,16
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,19
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,F,6
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,M,3
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Others,,,F,1
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Others,,,M,1
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,49.0099009901
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,15.7446808511
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,140
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,250
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,6
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,23
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,1
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,5
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,2
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,3
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,F,388
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,M,564
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,23
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,33
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,F,2
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,M,4
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Others,,,F,4
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Others,,,M,3
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,27.8969957082
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.3023255814
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,112
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,242
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,16
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,49
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,3
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,1
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Negative,,,F,62
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Smear Negative,,,M,88
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,51
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,70
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Transfer In,,,F,9
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Transfer In,,,M,17
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Others,,,F,2
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Others,,,M,11
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,56.64
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,16.3120567376
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,New,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,New,M,3
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Negative,,,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Smear Negative,,,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Extra Pulmonary,,,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Extra Pulmonary,,,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Transfer In,,,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Transfer In,,,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Others,,,F,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Others,,,M,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,51.0638297872
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.2413793103
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,F,197
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,M,380
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,14
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,54
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,2
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,4
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,2
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,6
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,F,66
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,M,144
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,150
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,182
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Transfer In,,,F,14
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Transfer In,,,M,23
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Others,,,F,8
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Others,,,M,20
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,51.563896336
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.4430955994
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,6
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,8
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,1
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,F,3
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Smear Negative,,,M,3
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,1
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,5
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,F,1
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Transfer In,,,M,2
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,F,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Others,,,M,0
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,53.8461538462
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,6.6666666667
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,New,F,1
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,New,M,1
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Negative,,,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Smear Negative,,,M,1
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Extra Pulmonary,,,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Extra Pulmonary,,,M,2
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Transfer In,,,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Transfer In,,,M,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Others,,,F,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Others,,,M,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,40
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,14
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,20
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,4
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,F,1
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,M,9
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,10
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,11
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,F,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,M,3
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,F,2
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,M,2
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,52.3076923077
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.0731707317
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,F,124
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,M,310
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,F,15
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,M,53
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,F,1
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,M,8
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,M,3
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,F,76
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,M,143
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,F,80
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,M,122
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,F,3
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,M,8
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Others,,,F,4
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Others,,,M,7
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,50.7602339181
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,15.5642023346
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,21
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,79
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,2
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,17
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,F,23
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Smear Negative,,,M,44
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,22
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,31
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,F,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Transfer In,,,M,2
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Others,,,F,1
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Others,,,M,4
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,45.4545454545
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,15.9663865546
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,19
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,25
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,4
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,1
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,2
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,5
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,11
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,9
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,8
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,2
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,M,2
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,57.1428571429
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,18.5185185185
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,43
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,107
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,25
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,4
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,F,16
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Smear Negative,,,M,48
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,47
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,74
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,F,5
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Transfer In,,,M,5
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Others,,,F,5
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Others,,,M,11
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,44.776119403
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,19.7860962567
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,19
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,51
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,4
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,1
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,6
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,13
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,6
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,8
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,1
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,2
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Others,,,M,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,67.9611650485
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,7.8947368421
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,11
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,37
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,2
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,6
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,2
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,F,5
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Smear Negative,,,M,14
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,10
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,8
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,F,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Transfer In,,,M,3
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,F,2
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Others,,,M,5
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,56.4705882353
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.2413793103
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,131
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,249
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,9
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,36
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,1
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,2
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,7
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,F,108
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,M,218
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,67
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,75
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,F,5
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,M,6
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Others,,,F,6
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Others,,,M,1
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,44.8113207547
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.6436781609
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,38
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,102
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,6
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,20
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,14
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,34
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,28
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,37
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,2
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,4
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,F,4
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,M,5
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,55.3359683794
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.6470588235
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,22
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,39
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,9
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Negative,,,F,3
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Smear Negative,,,M,19
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,23
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,27
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Transfer In,,,F,8
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Transfer In,,,M,13
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Others,,,F,1
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Others,,,M,3
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,45.8646616541
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.0845070423
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,New,F,9
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,New,M,19
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,M,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Negative,,,F,1
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Smear Negative,,,M,1
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,F,5
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,M,3
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Transfer In,,,F,1
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Transfer In,,,M,2
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Others,,,F,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Others,,,M,0
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,73.6842105263
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,81
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,176
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,6
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,18
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,1
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,1
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,F,150
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Smear Negative,,,M,260
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,50
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,70
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,F,20
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Transfer In,,,M,23
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Others,,,F,4
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Others,,,M,10
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,32.6556543837
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.1872791519
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,63
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,78
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,7
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,27
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,2
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,23
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,43
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,25
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,46
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,1
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,2
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,F,3
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,M,9
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,50.7194244604
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,22.0994475138
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,46
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,44
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,8
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,10
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,28
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,28
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,26
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,28
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,7
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,7
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,F,3
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,M,3
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,45
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,18.1818181818
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,F,220
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,New,M,467
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,F,29
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Relapse,M,70
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,F,4
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,Failure,M,6
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Positive,,RAD,M,8
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,F,97
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Smear Negative,,,M,207
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,F,121
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Extra Pulmonary,,,M,113
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,F,10
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Transfer In,,,M,9
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Others,,,F,17
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Others,,,M,9
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,56.0816326531
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.6583850932
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,30
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,66
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,8
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,13
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,3
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,27
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,48
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,26
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,29
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,2
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,3
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,F,2
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Others,,,M,2
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,42.4778761062
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,20.6611570248
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,F,10
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,M,33
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,F,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,M,15
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,17
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,15
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Transfer In,,,F,3
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Transfer In,,,M,7
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Others,,,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Others,,,M,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,47.2527472527
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,10.4166666667
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,F,75
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,M,167
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,10
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,1
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,1
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Negative,,,F,115
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Negative,,,M,200
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,35
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,29
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Transfer In,,,F,8
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Transfer In,,,M,8
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Others,,,F,5
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Others,,,M,7
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,38.9694041868
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,6.2015503876
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,F,218
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,New,M,396
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,F,27
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Relapse,M,63
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,F,3
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,Failure,M,6
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Positive,,RAD,M,9
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,F,146
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Smear Negative,,,M,292
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,F,58
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Extra Pulmonary,,,M,75
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,F,13
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Transfer In,,,M,8
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Others,,,F,25
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Others,,,M,34
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,51.8143459916
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,14.9584487535
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,New,F,54
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,New,M,138
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,F,5
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Relapse,M,13
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Positive,,RAD,M,1
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Negative,,,F,16
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Smear Negative,,,M,47
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,F,25
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Extra Pulmonary,,,M,35
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Transfer In,,,F,4
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Transfer In,,,M,3
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Others,,,F,1
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Others,,,M,5
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,60.9523809524
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,9.0047393365
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,New,F,28
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,New,M,78
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Relapse,M,15
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,Failure,M,0
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Positive,,RAD,M,3
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Negative,,,F,24
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Smear Negative,,,M,44
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,F,23
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Extra Pulmonary,,,M,60
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Transfer In,,,F,7
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Transfer In,,,M,14
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Others,,,F,6
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Others,,,M,9
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Proportion,S+ve/all New,,%,41.2451361868
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,17.1875
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,F,94
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,M,253
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,13
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,25
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,1
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,2
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,2
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,2
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Negative,,,F,62
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Smear Negative,,,M,122
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,35
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,47
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Transfer In,,,F,3
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Transfer In,,,M,9
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Others,,,F,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Others,,,M,0
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,56.6068515498
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,11.4795918367
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,F,13
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,M,14
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,4
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,F,3
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,M,3
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,15
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,10
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Transfer In,,,F,5
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Transfer In,,,M,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Others,,,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Others,,,M,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,46.5517241379
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.9032258065
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,F,125
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,New,M,367
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,5
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,43
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,3
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,4
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,2
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,11
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,F,61
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Smear Negative,,,M,104
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,146
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,188
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Transfer In,,,F,12
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Transfer In,,,M,22
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Others,,,F,14
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Others,,,M,32
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,49.6468213925
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.1428571429
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,F,65
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,New,M,135
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,F,4
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Relapse,M,25
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,Failure,M,1
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Positive,,RAD,M,2
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,F,88
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Smear Negative,,,M,131
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,F,107
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Extra Pulmonary,,,M,136
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,F,3
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Transfer In,,,M,7
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,F,13
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Others,,,M,16
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,S+ve/all New,,%,30.2114803625
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,13.7931034483
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,35
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,97
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,9
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,23
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,1
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,1
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,F,29
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,M,36
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,33
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,49
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,F,1
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,M,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Others,,,F,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Others,,,M,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,47.311827957
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,20.4819277108
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,F,54
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,New,M,109
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,F,10
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Relapse,M,24
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,F,3
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,Failure,M,3
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,F,0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Positive,,RAD,M,5
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,F,21
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Smear Negative,,,M,23
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,F,34
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Extra Pulmonary,,,M,37
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,F,1
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Transfer In,,,M,6
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Others,,,F,4
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Others,,,M,8
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Proportion,S+ve/all New,,%,58.6330935252
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,21.6346153846
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,F,7
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,New,M,19
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,1
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,1
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,2
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,F,5
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Smear Negative,,,M,14
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,7
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,4
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Transfer In,,,F,2
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Transfer In,,,M,1
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Others,,,F,0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Others,,,M,0
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,46.4285714286
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,13.3333333333
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,2
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,13
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,10
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,13
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,15
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,1
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Others,,,M,1
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,28.3018867925
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,F,59
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,New,M,101
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,F,3
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Relapse,M,18
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,Failure,M,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Positive,,RAD,M,1
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,F,23
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Smear Negative,,,M,54
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,F,22
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Extra Pulmonary,,,M,35
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,F,1
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Transfer In,,,M,2
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Others,,,M,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,S+ve/all New,,%,54.4217687075
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Proportion,Re Tx / S+ve,,%,12.0879120879
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,F,7
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,M,12
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,3
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,F,5
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,M,7
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,13
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,10
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Transfer In,,,F,2
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Transfer In,,,M,2
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Others,,,F,1
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Others,,,M,1
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,35
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,18
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,50
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,F,3
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,M,5
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,7
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,7
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,F,2
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,M,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Others,,,F,1
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Others,,,M,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,76
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,9
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,21
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,40
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,3
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,2
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,F,20
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,M,28
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,22
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,14
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,F,4
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,M,9
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,F,2
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,M,6
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,42
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,F,182
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,M,397
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,19
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,63
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,8
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,6
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,F,96
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,M,254
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,123
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,115
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Transfer In,,,F,8
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Transfer In,,,M,19
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Others,,,F,8
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Others,,,M,40
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,50
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,F,209
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,M,423
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,14
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,56
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,6
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,6
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,2
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,9
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,F,69
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,M,164
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,137
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,189
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,F,15
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,M,17
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Others,,,F,9
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Others,,,M,37
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,53
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,13
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,F,152
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,M,288
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,44
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,5
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,6
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,2
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,7
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,F,50
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,M,86
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,130
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,152
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,F,9
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,M,18
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Others,,,F,17
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Others,,,M,19
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,14
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,25
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,F,2
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,M,3
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,14
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,18
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,F,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,M,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Others,,,F,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Others,,,M,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,11
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,8
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,16
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,1
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,F,4
+Bara,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,M,6
+Bara,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,6
+Bara,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,11
+Bara,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,F,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,M,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Others,,,F,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Others,,,M,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,47
+Bara,Narayani,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,4
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,11
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,23
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,1
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,F,10
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,M,14
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,14
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,11
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,F,3
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,M,4
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Others,,,F,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Others,,,M,3
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,41
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,3
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,7
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,15
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,3
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,3
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,9
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,12
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,20
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,7
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,13
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,33
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,12
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,13
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,22
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,2
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,3
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,6
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,4
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,3
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,7
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,F,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,M,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,73
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,8
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,6
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,15
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,5
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,1
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,1
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,F,4
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,M,3
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,8
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,10
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,F,2
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,M,3
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Others,,,F,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Others,,,M,1
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,28
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,F,8
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,M,20
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,F,10
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,M,9
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,12
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,7
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Transfer In,,,F,1
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Transfer In,,,M,3
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Others,,,F,1
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Others,,,M,1
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,42
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,45
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,111
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,10
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,14
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,12
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,24
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,31
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,41
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,1
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,2
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,F,0
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,M,1
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,59
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,74
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,181
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,5
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,7
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,4
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,F,91
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Smear Negative,,,M,176
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,24
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,51
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,F,4
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Transfer In,,,M,8
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Others,,,F,4
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Others,,,M,4
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,43
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,7
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,F,138
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,New,M,297
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,6
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,21
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,8
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,F,67
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Smear Negative,,,M,107
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,30
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,49
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,F,3
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Transfer In,,,M,6
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Others,,,F,0
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Others,,,M,2
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,63
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,8
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,168
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,241
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,9
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,33
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,2
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,1
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,1
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,8
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,138
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,212
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,65
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,84
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,6
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,5
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,7
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,17
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,45
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,12
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,123
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,278
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,28
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,2
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,4
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,7
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,169
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,325
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,30
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,68
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,6
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,F,3
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,M,7
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,40
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,11
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,196
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,361
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,22
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,78
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,13
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,9
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,F,137
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,M,228
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,44
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,65
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,F,6
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,M,24
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Others,,,F,8
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Others,,,M,29
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,54
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,New,F,39
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,New,M,116
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,M,19
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,M,4
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Negative,,,F,13
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Smear Negative,,,M,39
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,F,24
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,M,30
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Transfer In,,,F,4
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Transfer In,,,M,11
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Others,,,F,1
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Others,,,M,4
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,59
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,13
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,50
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,F,13
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,M,18
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,14
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,34
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,F,5
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,M,8
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,F,0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,M,2
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,44
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,11
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,F,12
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,New,M,24
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,5
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,F,7
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Smear Negative,,,M,6
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,17
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,28
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Transfer In,,,F,6
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Transfer In,,,M,12
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Others,,,F,0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Others,,,M,1
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,38
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,31
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,80
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,5
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,10
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,F,14
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,M,43
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,29
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,42
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,F,6
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,M,6
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Others,,,F,3
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Others,,,M,2
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,40
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,107
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,4
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,15
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,F,17
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,M,44
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,37
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,63
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,F,11
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,M,15
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Others,,,F,3
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Others,,,M,8
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,48
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,108
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,174
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,14
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,37
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,4
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,F,49
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,M,77
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,167
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,150
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,F,11
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,M,25
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,F,10
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,M,31
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,39
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,66
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,140
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,9
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,47
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,4
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,4
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,34
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,46
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,92
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,78
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,6
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,8
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Others,,,F,18
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Others,,,M,21
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,45
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,24
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,413
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,710
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,36
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,134
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,9
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,14
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,9
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,186
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,328
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,586
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,793
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,70
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,127
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,F,96
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,M,103
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,37
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,F,29
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,M,63
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,16
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,F,12
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,M,33
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,27
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,37
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Transfer In,,,F,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Transfer In,,,M,1
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Others,,,F,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Others,,,M,2
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,5
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,14
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,F,3
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,M,2
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,7
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,7
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,F,1
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,M,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,F,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,M,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,50
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,24
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,New,F,73
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,New,M,136
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,11
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,31
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Negative,,,F,18
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Smear Negative,,,M,29
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,30
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,40
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Transfer In,,,F,4
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Transfer In,,,M,8
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Others,,,F,1
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Others,,,M,4
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,64
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,97
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,243
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,16
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,30
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,F,54
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,M,101
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,51
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,57
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,F,6
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,M,8
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,F,3
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,M,4
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,56
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,13
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,New,F,126
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,New,M,259
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,F,5
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Relapse,M,26
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Positive,,RAD,M,2
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Negative,,,F,132
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Smear Negative,,,M,232
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Extra Pulmonary,,,F,41
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Extra Pulmonary,,,M,75
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Transfer In,,,F,2
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Transfer In,,,M,6
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Others,,,F,2
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Others,,,M,6
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,45
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,9
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,F,204
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,M,370
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,F,28
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,M,59
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,F,2
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,M,4
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,F,3
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,M,12
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,F,125
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,M,219
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,F,86
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,M,127
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,F,9
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,M,7
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Others,,,F,1
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Others,,,M,13
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,176
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,334
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,15
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,55
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,2
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,2
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,3
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,8
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,F,138
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,M,233
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,49
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,68
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,F,6
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,M,6
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Others,,,F,3
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Others,,,M,6
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,149
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,294
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,16
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,87
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,2
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,5
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,11
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,107
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,160
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,109
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,125
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,20
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,12
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,18
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,33
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,47
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,21
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,36
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,97
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,4
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,11
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,4
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,3
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,7
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,26
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,27
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,30
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,13
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,10
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,2
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,1
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,60
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,22
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,77
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,8
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,7
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,20
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,12
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,22
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,5
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,F,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,M,2
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,52
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,118
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,19
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,2
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,2
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,11
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,29
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,27
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,56
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,7
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,6
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,3
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,11
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,58
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,43
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,86
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,4
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,15
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,2
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,F,20
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,M,32
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,34
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,45
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,F,0
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,M,3
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Others,,,F,1
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Others,,,M,4
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,50
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,82
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,127
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,8
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,32
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,2
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,F,22
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,M,38
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,64
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,75
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,F,6
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,M,13
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Others,,,F,8
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Others,,,M,17
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,62
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,10
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,1
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,3
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Negative,,,F,1
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Smear Negative,,,M,1
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,2
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Transfer In,,,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Transfer In,,,M,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Others,,,F,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Others,,,M,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,62
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,8
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,New,F,1
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,New,M,3
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,Relapse,M,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Negative,,,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Smear Negative,,,M,1
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Extra Pulmonary,,,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Extra Pulmonary,,,M,1
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Transfer In,,,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Transfer In,,,M,1
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Others,,,F,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Others,,,M,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,67
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,F,14
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,M,17
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,3
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,1
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,F,3
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,M,3
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,6
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,13
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Transfer In,,,M,4
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Others,,,F,0
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Others,,,M,3
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,55
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,11
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,32
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,5
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,F,3
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Smear Negative,,,M,13
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,10
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,14
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,F,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Transfer In,,,M,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,F,2
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Others,,,M,2
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,52
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,New,F,21
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,New,M,43
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,Relapse,F,3
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,Relapse,M,11
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Negative,,,F,13
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Smear Negative,,,M,33
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Extra Pulmonary,,,F,18
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Extra Pulmonary,,,M,34
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Transfer In,,,F,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Transfer In,,,M,2
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Others,,,F,2
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Others,,,M,8
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,40
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,20
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,35
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,102
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,18
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,F,16
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,M,33
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,41
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,70
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,F,1
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,M,3
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,F,4
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,M,6
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,13
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,F,45
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,M,102
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,F,8
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,M,25
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,F,27
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,M,39
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,F,70
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,M,92
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,F,4
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,M,9
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Others,,,F,2
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Others,,,M,20
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,39
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,143
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,308
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,16
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,70
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,4
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,8
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,6
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,F,53
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Smear Negative,,,M,116
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,90
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,133
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,F,4
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Transfer In,,,M,9
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Others,,,F,3
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Others,,,M,20
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,53
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,19
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,183
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,399
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,24
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,76
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,1
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,6
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,9
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,131
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,239
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,145
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,166
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,9
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,F,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,M,28
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,108
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,249
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,9
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,19
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,4
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,6
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,2
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,F,41
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Smear Negative,,,M,77
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,32
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,66
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,F,2
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Transfer In,,,M,2
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Others,,,F,0
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Others,,,M,1
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,62
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,10
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,24
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,70
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,15
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,1
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,15
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,46
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,34
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,52
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,1
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Others,,,F,2
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Others,,,M,10
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,39
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,35
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,88
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,10
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,24
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,1
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,F,35
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Smear Negative,,,M,38
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,25
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,37
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,F,3
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Transfer In,,,M,6
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,F,5
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Others,,,M,5
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,48
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,23
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,45
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,91
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,18
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,F,17
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,M,39
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,44
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,45
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,F,4
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,M,5
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Others,,,F,5
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Others,,,M,7
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,48
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,46
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,60
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,3
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,9
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,2
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,17
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,37
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,21
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,30
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,2
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,F,1
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,M,4
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,50
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,12
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,25
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,54
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,10
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,1
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Negative,,,F,17
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Smear Negative,,,M,33
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,31
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,38
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Transfer In,,,F,2
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Transfer In,,,M,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Others,,,F,1
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Others,,,M,1
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,40
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,New,F,125
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,New,M,295
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,F,35
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,M,69
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,F,1
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,M,1
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,F,1
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,M,2
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Negative,,,F,153
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Smear Negative,,,M,207
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,F,98
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,M,142
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Transfer In,,,F,15
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Transfer In,,,M,17
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Others,,,F,9
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Others,,,M,17
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,41
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,21
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,158
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,270
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,8
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,36
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,4
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,12
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,2
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,5
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,F,115
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Smear Negative,,,M,153
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,62
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,85
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,F,7
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Transfer In,,,M,10
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Others,,,F,35
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Others,,,M,30
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,51
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,14
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,101
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,220
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,7
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,35
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,3
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,5
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,5
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,45
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,93
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,56
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,63
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,11
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,6
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,F,35
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,M,41
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,56
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,15
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,50
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,119
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,8
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,21
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,3
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,1
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,87
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,140
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,125
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,136
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,9
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,10
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,F,7
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,M,19
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,26
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,F,12
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,New,M,42
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Relapse,M,8
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,Failure,M,0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Positive,,RAD,M,2
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,F,15
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Smear Negative,,,M,30
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,F,42
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Extra Pulmonary,,,M,54
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,F,8
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Transfer In,,,M,11
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Others,,,F,1
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Others,,,M,1
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,28
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,28
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,34
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,3
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,2
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,2
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,22
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,29
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,14
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,12
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,2
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,4
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,F,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Others,,,M,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,45
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,13
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,F,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,M,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,2
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,F,4
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,M,2
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,2
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,3
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Transfer In,,,F,4
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Transfer In,,,M,5
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Others,,,F,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Others,,,M,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,15
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,67
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,F,10
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,M,18
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,6
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,1
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,1
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Negative,,,F,6
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Negative,,,M,17
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,4
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,10
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Transfer In,,,F,4
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Transfer In,,,M,8
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Others,,,F,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Others,,,M,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,43
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,24
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,F,6
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,New,M,14
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Relapse,M,3
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,Failure,M,1
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,F,5
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Smear Negative,,,M,12
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,F,21
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Extra Pulmonary,,,M,37
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,F,1
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Transfer In,,,M,2
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Others,,,F,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Others,,,M,0
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,21
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,20
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,New,F,2
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,New,M,17
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Relapse,M,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Negative,,,F,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Smear Negative,,,M,5
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,F,4
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Extra Pulmonary,,,M,6
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Transfer In,,,F,1
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Transfer In,,,M,2
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Others,,,F,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Others,,,M,0
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,56
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,New,F,2
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,New,M,2
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Relapse,M,1
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,Failure,M,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Positive,,RAD,M,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Negative,,,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Smear Negative,,,M,1
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,F,1
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Extra Pulmonary,,,M,3
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Transfer In,,,F,4
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Transfer In,,,M,2
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Others,,,F,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Others,,,M,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Proportion,S+ve/all New,,%,44
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,20
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,F,26
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,M,39
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,4
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,2
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,1
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Negative,,,F,1
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Smear Negative,,,M,10
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,15
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,21
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Transfer In,,,M,5
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Others,,,F,1
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Others,,,M,2
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,58
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,F,23
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,M,52
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,8
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,7
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,2
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,1
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,F,8
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,M,12
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,21
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,15
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Transfer In,,,M,2
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Others,,,F,1
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Others,,,M,5
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,57
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,19
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,F,32
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,New,M,63
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,4
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,1
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,2
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,F,8
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Smear Negative,,,M,19
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,10
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,20
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Transfer In,,,M,5
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Others,,,F,4
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Others,,,M,18
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,63
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,9
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,F,29
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,New,M,73
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,F,4
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Relapse,M,12
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,F,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,Failure,M,1
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,F,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Positive,,RAD,M,5
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,F,11
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Smear Negative,,,M,34
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,F,7
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Extra Pulmonary,,,M,19
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,F,2
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Transfer In,,,M,6
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,F,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Others,,,M,5
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,S+ve/all New,,%,59
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,172
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,376
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,24
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,76
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,4
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,8
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,1
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,6
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,F,146
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,M,248
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,116
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,168
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,F,9
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,M,13
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Others,,,F,30
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Others,,,M,24
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,45
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,18
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,F,150
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,New,M,307
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,F,16
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Relapse,M,55
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,F,6
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,Failure,M,4
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,F,3
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Positive,,RAD,M,3
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,F,72
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Smear Negative,,,M,128
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,F,50
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Extra Pulmonary,,,M,78
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,F,8
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Transfer In,,,M,23
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Others,,,F,10
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Others,,,M,9
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Proportion,S+ve/all New,,%,58
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,F,15
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,New,M,36
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,1
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,8
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,1
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,F,8
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Smear Negative,,,M,16
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,15
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,20
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Transfer In,,,F,1
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Transfer In,,,M,4
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Others,,,F,3
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Others,,,M,1
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,46
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,16
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,32
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,71
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,2
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,13
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,1
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,4
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,23
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,28
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,23
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,16
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,5
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,3
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,F,2
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Others,,,M,3
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,53
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,17
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,F,24
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,New,M,41
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Relapse,M,6
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,Failure,M,1
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Positive,,RAD,M,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,F,6
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Smear Negative,,,M,11
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,F,10
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Extra Pulmonary,,,M,10
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,F,2
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Transfer In,,,M,3
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,F,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Others,,,M,1
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,S+ve/all New,,%,64
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Proportion,Re Tx / S+ve,,%,10
+>>>>>>> added 2068-2071 data
