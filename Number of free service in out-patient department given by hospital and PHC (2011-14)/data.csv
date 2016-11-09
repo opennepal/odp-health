@@ -1,0 +1,1351 @@
+District Name,Zone,Ecological Belt,Development Region,Year (BS),Year (AD),Indicator,Sub-Indicator,Value
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,404
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Hospital,Poor,21921
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Hospital,Disable,7
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Hospital,Senior Citizen,169
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,Hospital,FCHV,39
+Taplejung,Mechi,Mountain,Eastern,2068/69,2011/12,PHC,,957
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,14
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Poor,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Disable,0
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,394
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,269
+Panchthar,Mechi,Hill,Eastern,2068/69,2011/12,PHC,,8083
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Poor,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Disable,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,0
+Ilam,Mechi,Hill,Eastern,2068/69,2011/12,PHC,,0
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,3005
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Hospital,Poor,4647
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Hospital,Disable,201
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Hospital,Senior Citizen,2143
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,Hospital,FCHV,93
+Jhapa,Mechi,Terai,Eastern,2068/69,2011/12,PHC,,29156
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,717
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Poor,8233
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Disable,12
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Senior Citizen,4799
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,FCHV,41
+Morang,Kosi,Terai,Eastern,2068/69,2011/12,PHC,,53378
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Poor,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Disable,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,Senior Citizen,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,Hospital,FCHV,0
+Sunsari,Kosi,Terai,Eastern,2068/69,2011/12,PHC,,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Poor,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Disable,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,0
+Dhankuta,Kosi,Hill,Eastern,2068/69,2011/12,PHC,,16097
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,1503
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Poor,11
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Disable,56
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,2427
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,32
+Teharthum,Kosi,Hill,Eastern,2068/69,2011/12,PHC,,2558
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,19
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Hospital,Poor,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Hospital,Disable,1
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Hospital,Senior Citizen,1722
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,Hospital,FCHV,13
+Sankhuwasabha,Kosi,Mountain,Eastern,2068/69,2011/12,PHC,,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,15625
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Poor,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Disable,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,467
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,0
+Bhojpur,Kosi,Hill,Eastern,2068/69,2011/12,PHC,,19060
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Hospital,Poor,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Hospital,Disable,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Hospital,Senior Citizen,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,Hospital,FCHV,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2068/69,2011/12,PHC,,4372
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,1040
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Poor,561
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Disable,147
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,464
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,3
+Okhaldhunga,Sagarmatha,Hill,Eastern,2068/69,2011/12,PHC,,0
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,73
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Poor,40
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Disable,70
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,578
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,50
+Khotang,Sagarmatha,Hill,Eastern,2068/69,2011/12,PHC,,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,699
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Poor,0
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Disable,129
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,Senior Citizen,1281
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,Hospital,FCHV,1390
+Udaypur,Sagarmatha,Hill,Eastern,2068/69,2011/12,PHC,,2938
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,4549
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Poor,2930
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Disable,1656
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Senior Citizen,1233
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,FCHV,32
+Saptari,Sagarmatha,Terai,Eastern,2068/69,2011/12,PHC,,17366
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Ultrapoor Destitute,5542
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Poor,10093
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Disable,54
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,Senior Citizen,1623
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,Hospital,FCHV,70
+Siraha,Sagarmatha,Terai,Eastern,2068/69,2011/12,PHC,,11883
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,Hospital,FCHV,0
+Dhanusha,Janakpur,Terai,Central,2068/69,2011/12,PHC,,7669
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,Hospital,FCHV,0
+Mahottari,Janakpur,Terai,Central,2068/69,2011/12,PHC,,40646
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,6630
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Poor,1055
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Disable,119
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,820
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,Hospital,FCHV,121
+Sarlahi,Janakpur,Terai,Central,2068/69,2011/12,PHC,,53268
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,1905
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Poor,4532
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Disable,8
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,538
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,Hospital,FCHV,11
+Sindhuli,Janakpur,Hill,Central,2068/69,2011/12,PHC,,12228
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,701
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Disable,19
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,655
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,Hospital,FCHV,42
+Ramechhap,Janakpur,Hill,Central,2068/69,2011/12,PHC,,2966
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Hospital,Poor,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Hospital,Disable,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,Hospital,FCHV,0
+Dolkha,Janakpur,Mountain,Central,2068/69,2011/12,PHC,,0
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,2334
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Poor,565
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Disable,262
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Senior Citizen,3234
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,FCHV,282
+Sindhupalchowk,Bagmati,Mountain,Central,2068/69,2011/12,PHC,,30254
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,0
+Kavre,Bagmati,Hill,Central,2068/69,2011/12,PHC,,13517
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,2246
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,48
+Lalitpur,Bagmati,Hill,Central,2068/69,2011/12,PHC,,155
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,0
+Bhaktapur ,Bagmati,Hill,Central,2068/69,2011/12,PHC,,6395
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,0
+Kathmandu,Bagmati,Hill,Central,2068/69,2011/12,PHC,,0
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,3757
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,299
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,7
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,1796
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,247
+Nuwakot,Bagmati,Hill,Central,2068/69,2011/12,PHC,,6127
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,186
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Poor,142
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Disable,25
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,Senior Citizen,122
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,Hospital,FCHV,42
+Rasuwa,Bagmati,Mountain,Central,2068/69,2011/12,PHC,,2
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,18787
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Poor,0
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Disable,76
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,471
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,Hospital,FCHV,54
+Dhading,Bagmati,Hill,Central,2068/69,2011/12,PHC,,5380
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,766
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Hospital,Poor,1583
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Hospital,Disable,10
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Hospital,Senior Citizen,296
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,Hospital,FCHV,12
+Makawanpur,Narayani,Hill,Central,2068/69,2011/12,PHC,,1335
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,Hospital,FCHV,0
+Rautahat,Narayani,Terai,Central,2068/69,2011/12,PHC,,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,Hospital,FCHV,0
+Bara,Narayani,Terai,Central,2068/69,2011/12,PHC,,25220
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Parsa,Narayani,Terai,Central,2068/69,2011/12,Hospital,FCHV,246
+Parsa,Narayani,Terai,Central,2068/69,2011/12,PHC,,18
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Hospital,Poor,0
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Hospital,Disable,0
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Hospital,Senior Citizen,0
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,Hospital,FCHV,0
+Chitwan,Narayani,Terai,Central,2068/69,2011/12,PHC,,0
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,4972
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Poor,39
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Disable,11
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,3673
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,Hospital,FCHV,716
+Gorkha,Gandaki,Hill,Western,2068/69,2011/12,PHC,,30088
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,108
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Poor,118
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Disable,86
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,1442
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,Hospital,FCHV,29
+Lamjung,Gandaki,Hill,Western,2068/69,2011/12,PHC,,0
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,38133
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Poor,1
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Disable,235
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,6431
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,Hospital,FCHV,41
+Tanahu,Gandaki,Hill,Western,2068/69,2011/12,PHC,,16422
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,512
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Disable,186
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,2847
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,Hospital,FCHV,123
+Syangja,Gandaki,Hill,Western,2068/69,2011/12,PHC,,870
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Disable,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,Hospital,FCHV,0
+Kaski,Gandaki,Hill,Western,2068/69,2011/12,PHC,,838
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,225
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Hospital,Poor,240
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Hospital,Disable,35
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,Hospital,FCHV,60
+Manang,Gandaki,Mountain,Western,2068/69,2011/12,PHC,,0
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,315
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Hospital,Poor,852
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Hospital,Disable,80
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Hospital,Senior Citizen,420
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,Hospital,FCHV,22
+Mustang,Dhawalagiri,Mountain,Western,2068/69,2011/12,PHC,,3978
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Disable,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,FCHV,0
+Myagdi,Dhawalagiri,Hill,Western,2068/69,2011/12,PHC,,5456
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,422
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Disable,36
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,445
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,FCHV,11
+Parbat,Dhawalagiri,Hill,Western,2068/69,2011/12,PHC,,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,2
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Disable,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,3
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,Hospital,FCHV,0
+Baglung,Dhawalagiri,Hill,Western,2068/69,2011/12,PHC,,5115
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,8826
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Poor,2
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Disable,1365
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,5320
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,FCHV,1080
+Gulmi,Lumbini,Hill,Western,2068/69,2011/12,PHC,,18368
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,10
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Poor,32
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Disable,8
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,1536
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,Hospital,FCHV,1206
+Palpa,Lumbini,Hill,Western,2068/69,2011/12,PHC,,18644
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,483
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Poor,1062
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Disable,3
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Senior Citizen,80
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,FCHV,979
+Nawalparasi,Lumbini,Terai,Western,2068/69,2011/12,PHC,,6213
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,378
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Poor,465
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Disable,47
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Senior Citizen,411
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,Hospital,FCHV,29
+Rupandehi,Lumbini,Terai,Western,2068/69,2011/12,PHC,,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Poor,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Disable,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,Hospital,FCHV,0
+Kapilvastu,Lumbini,Terai,Western,2068/69,2011/12,PHC,,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,345
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Poor,0
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Disable,17
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,Senior Citizen,290
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,Hospital,FCHV,19
+Arghakhanchi,Lumbini,Hill,Western,2068/69,2011/12,PHC,,0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1312
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,14
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,2048
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,35
+Pyuthan,Rapti,Hill,Mid-Western,2068/69,2011/12,PHC,,16539
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1713
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,1116
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,112
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,390
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,29
+Rolpa,Rapti,Hill,Mid-Western,2068/69,2011/12,PHC,,14570
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,2
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,4
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,6
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,8
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,5
+Rukum,Rapti,Hill,Mid-Western,2068/69,2011/12,PHC,,0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,15629
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,209
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,1415
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,38
+Salyan,Rapti,Hill,Mid-Western,2068/69,2011/12,PHC,,13482
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,462
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Hospital,Poor,10
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Hospital,Disable,5
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,3
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,Hospital,FCHV,5
+Dang,Rapti,Terai,Mid-Western,2068/69,2011/12,PHC,,55151
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Disable,0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,FCHV,0
+Banke,Bheri,Terai,Mid-Western,2068/69,2011/12,PHC,,22697
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Disable,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,Hospital,FCHV,0
+Bardiya,Bheri,Terai,Mid-Western,2068/69,2011/12,PHC,,26534
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,0
+Surkhet,Bheri,Hill,Mid-Western,2068/69,2011/12,PHC,,69890
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1749
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,2500
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,20
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,1005
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,40
+Dailekh,Bheri,Hill,Mid-Western,2068/69,2011/12,PHC,,27810
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,15902
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Poor,2
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Disable,16
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,834
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,Hospital,FCHV,9
+Jajarkot,Bheri,Hill,Mid-Western,2068/69,2011/12,PHC,,0
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,2350
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Poor,870
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Disable,530
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,450
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,FCHV,207
+Dolpa,Karnali,Mountain,Mid-Western,2068/69,2011/12,PHC,,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Disable,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,FCHV,0
+Jumla,Karnali,Mountain,Mid-Western,2068/69,2011/12,PHC,,1552
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1942
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Poor,11324
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Disable,153
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,1155
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,FCHV,173
+Kalikot,Karnali,Mountain,Mid-Western,2068/69,2011/12,PHC,,2432
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,903
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Poor,637
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Disable,11
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,155
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,FCHV,6
+Mugu,Karnali,Mountain,Mid-Western,2068/69,2011/12,PHC,,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1582
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Poor,0
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Disable,7
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,Senior Citizen,76
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,Hospital,FCHV,14
+Humla,Karnali,Mountain,Mid-Western,2068/69,2011/12,PHC,,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,13398
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Poor,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Disable,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,FCHV,0
+Bajura,Seti,Mountain,Far-Western,2068/69,2011/12,PHC,,8833
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Poor,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Disable,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,Hospital,FCHV,0
+Bajhang,Seti,Mountain,Far-Western,2068/69,2011/12,PHC,,10917
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,12943
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Poor,0
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Disable,200
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,2019
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,FCHV,151
+Achham,Seti,Hill,Far-Western,2068/69,2011/12,PHC,,301
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1756
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Poor,3545
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Disable,269
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,544
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,Hospital,FCHV,271
+Doti,Seti,Hill,Far-Western,2068/69,2011/12,PHC,,3323
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,9158
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Hospital,Poor,1622
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Hospital,Disable,221
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,4639
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,Hospital,FCHV,1125
+Kailali,Seti,Terai,Far-Western,2068/69,2011/12,PHC,,19468
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,5451
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Hospital,Poor,4525
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Hospital,Disable,349
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,1106
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,Hospital,FCHV,298
+Kanchanpur,Mahakali,Terai,Far-Western,2068/69,2011/12,PHC,,25213
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1151
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Poor,18261
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Disable,139
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,467
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,FCHV,110
+Dadeldhura,Mahakali,Hill,Far-Western,2068/69,2011/12,PHC,,3745
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1653
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Poor,639
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Disable,48
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,600
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,Hospital,FCHV,10
+Baitadi,Mahakali,Hill,Far-Western,2068/69,2011/12,PHC,,21736
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Hospital,Ultrapoor Destitute,1355
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Hospital,Poor,2116
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Hospital,Disable,109
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Hospital,Senior Citizen,1355
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,Hospital,FCHV,82
+Darchula,Mahakali,Mountain,Far-Western,2068/69,2011/12,PHC,,0
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,325
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Hospital,Poor,18962
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Hospital,Disable,7
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Hospital,Senior Citizen,106
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,Hospital,FCHV,2
+Taplejung,Mechi,Mountain,Eastern,2069/70,2012/13,PHC,,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Poor,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,380
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,377
+Panchthar,Mechi,Hill,Eastern,2069/70,2012/13,PHC,,11623
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Poor,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Ilam,Mechi,Hill,Eastern,2069/70,2012/13,PHC,,780
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Hospital,Poor,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Hospital,Disable,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Hospital,Senior Citizen,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Jhapa,Mechi,Terai,Eastern,2069/70,2012/13,PHC,,31692
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,91
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Poor,4209
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Disable,5
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Senior Citizen,443
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,FCHV,20
+Morang,Kosi,Terai,Eastern,2069/70,2012/13,PHC,,68092
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Poor,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Disable,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,Senior Citizen,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Sunsari,Kosi,Terai,Eastern,2069/70,2012/13,PHC,,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Poor,5940
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,510
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,10
+Dhankuta,Kosi,Hill,Eastern,2069/70,2012/13,PHC,,15592
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Poor,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Teharthum,Kosi,Hill,Eastern,2069/70,2012/13,PHC,,893
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,79
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Hospital,Poor,222
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Hospital,Disable,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Hospital,Senior Citizen,2136
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Sankhuwasabha,Kosi,Mountain,Eastern,2069/70,2012/13,PHC,,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,10852
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Poor,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,385
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Bhojpur,Kosi,Hill,Eastern,2069/70,2012/13,PHC,,15506
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Hospital,Poor,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Hospital,Disable,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Hospital,Senior Citizen,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2069/70,2012/13,PHC,,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,1392
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Poor,342
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Disable,90
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,205
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,0
+Okhaldhunga,Sagarmatha,Hill,Eastern,2069/70,2012/13,PHC,,0
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,50
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Poor,39
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Disable,19
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,1412
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,51
+Khotang,Sagarmatha,Hill,Eastern,2069/70,2012/13,PHC,,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,1329
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Poor,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Disable,0
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,Senior Citizen,1823
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,Hospital,FCHV,7
+Udaypur,Sagarmatha,Hill,Eastern,2069/70,2012/13,PHC,,0
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,1459
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Poor,1549
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Disable,223
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Senior Citizen,357
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,FCHV,110
+Saptari,Sagarmatha,Terai,Eastern,2069/70,2012/13,PHC,,39054
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Ultrapoor Destitute,18903
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Poor,26920
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Disable,158
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,Senior Citizen,2757
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,Hospital,FCHV,62
+Siraha,Sagarmatha,Terai,Eastern,2069/70,2012/13,PHC,,20146
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,7
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Poor,3
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Disable,3
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,1
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,Hospital,FCHV,193
+Dhanusha,Janakpur,Terai,Central,2069/70,2012/13,PHC,,115
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1059
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Poor,936
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Disable,5801
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,1874
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,Hospital,FCHV,136
+Mahottari,Janakpur,Terai,Central,2069/70,2012/13,PHC,,40409
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,127
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Poor,527
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Disable,52
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,470
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,Hospital,FCHV,36
+Sarlahi,Janakpur,Terai,Central,2069/70,2012/13,PHC,,38072
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1410
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Poor,4848
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Disable,24
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,557
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,Hospital,FCHV,83
+Sindhuli,Janakpur,Hill,Central,2069/70,2012/13,PHC,,11947
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,861
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Disable,37
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,687
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,Hospital,FCHV,26
+Ramechhap,Janakpur,Hill,Central,2069/70,2012/13,PHC,,3747
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,13
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Hospital,Poor,253
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Hospital,Disable,0
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,Hospital,FCHV,11
+Dolkha,Janakpur,Mountain,Central,2069/70,2012/13,PHC,,0
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,692
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Poor,324
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Disable,133
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Senior Citizen,2023
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,FCHV,146
+Sindhupalchowk,Bagmati,Mountain,Central,2069/70,2012/13,PHC,,28354
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,921
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,0
+Kavre,Bagmati,Hill,Central,2069/70,2012/13,PHC,,28432
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1786
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,1
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,12
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,0
+Lalitpur,Bagmati,Hill,Central,2069/70,2012/13,PHC,,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,0
+Bhaktapur ,Bagmati,Hill,Central,2069/70,2012/13,PHC,,7267
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,253
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,118
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,851
+Kathmandu,Bagmati,Hill,Central,2069/70,2012/13,PHC,,0
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,4694
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,290
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,4
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,3759
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,205
+Nuwakot,Bagmati,Hill,Central,2069/70,2012/13,PHC,,4500
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,203
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Poor,42
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Disable,52
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,Senior Citizen,244
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,Hospital,FCHV,51
+Rasuwa,Bagmati,Mountain,Central,2069/70,2012/13,PHC,,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,6111
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,Hospital,FCHV,0
+Dhading,Bagmati,Hill,Central,2069/70,2012/13,PHC,,21554
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Hospital,Poor,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Hospital,Disable,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,Hospital,FCHV,0
+Makawanpur,Narayani,Hill,Central,2069/70,2012/13,PHC,,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Hospital,Poor,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Hospital,Disable,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,Hospital,FCHV,0
+Rautahat,Narayani,Terai,Central,2069/70,2012/13,PHC,,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1
+Bara,Narayani,Terai,Central,2069/70,2012/13,Hospital,Poor,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Hospital,Disable,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,Hospital,FCHV,0
+Bara,Narayani,Terai,Central,2069/70,2012/13,PHC,,23243
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,7817
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Hospital,Poor,2770
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Hospital,Disable,40
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,1078
+Parsa,Narayani,Terai,Central,2069/70,2012/13,Hospital,FCHV,188
+Parsa,Narayani,Terai,Central,2069/70,2012/13,PHC,,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Hospital,Ultrapoor Destitute,1206
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Hospital,Poor,299
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Hospital,Disable,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Hospital,Senior Citizen,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,Hospital,FCHV,0
+Chitwan,Narayani,Terai,Central,2069/70,2012/13,PHC,,2070
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,4866
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Poor,365
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Disable,110
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,1368
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,Hospital,FCHV,39
+Gorkha,Gandaki,Hill,Western,2069/70,2012/13,PHC,,25938
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,144
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Poor,66
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Disable,91
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,1682
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,Hospital,FCHV,41
+Lamjung,Gandaki,Hill,Western,2069/70,2012/13,PHC,,467
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,13277
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Poor,759
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Disable,48
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,1561
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,Hospital,FCHV,29
+Tanahu,Gandaki,Hill,Western,2069/70,2012/13,PHC,,11382
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,341
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Poor,4
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Disable,110
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,2948
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,Hospital,FCHV,155
+Syangja,Gandaki,Hill,Western,2069/70,2012/13,PHC,,14180
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,433
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Poor,0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Disable,0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,Hospital,FCHV,0
+Kaski,Gandaki,Hill,Western,2069/70,2012/13,PHC,,957
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Hospital,Poor,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Hospital,Disable,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,Hospital,FCHV,0
+Manang,Gandaki,Mountain,Western,2069/70,2012/13,PHC,,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,283
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Hospital,Poor,3862
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Hospital,Disable,0
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Hospital,Senior Citizen,627
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,Hospital,FCHV,25
+Mustang,Dhawalagiri,Mountain,Western,2069/70,2012/13,PHC,,4189
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Poor,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Disable,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,FCHV,0
+Myagdi,Dhawalagiri,Hill,Western,2069/70,2012/13,PHC,,2907
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,161
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Poor,0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Disable,5
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,231
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,FCHV,0
+Parbat,Dhawalagiri,Hill,Western,2069/70,2012/13,PHC,,438
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,360
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Poor,417
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Disable,0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,54
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,Hospital,FCHV,0
+Baglung,Dhawalagiri,Hill,Western,2069/70,2012/13,PHC,,471
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,6855
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Poor,2
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Disable,556
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,2379
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,FCHV,1342
+Gulmi,Lumbini,Hill,Western,2069/70,2012/13,PHC,,19336
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,35
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Poor,17
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Disable,28
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,1305
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,Hospital,FCHV,969
+Palpa,Lumbini,Hill,Western,2069/70,2012/13,PHC,,7801
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,348
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Poor,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Disable,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,FCHV,355
+Nawalparasi,Lumbini,Terai,Western,2069/70,2012/13,PHC,,33355
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,418
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Poor,394
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Disable,57
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Senior Citizen,461
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,Hospital,FCHV,40
+Rupandehi,Lumbini,Terai,Western,2069/70,2012/13,PHC,,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Poor,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Disable,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,Hospital,FCHV,0
+Kapilvastu,Lumbini,Terai,Western,2069/70,2012/13,PHC,,0
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,2207
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Poor,1173
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Disable,64
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,Senior Citizen,1906
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,Hospital,FCHV,158
+Arghakhanchi,Lumbini,Hill,Western,2069/70,2012/13,PHC,,6765
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Pyuthan,Rapti,Hill,Mid-Western,2069/70,2012/13,PHC,,21332
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,351
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,71
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,16
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,329
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,17
+Rolpa,Rapti,Hill,Mid-Western,2069/70,2012/13,PHC,,11086
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Rukum,Rapti,Hill,Mid-Western,2069/70,2012/13,PHC,,6445
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Salyan,Rapti,Hill,Mid-Western,2069/70,2012/13,PHC,,16461
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,3115
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Hospital,Poor,1
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Hospital,Disable,2
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,6
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,Hospital,FCHV,586
+Dang,Rapti,Terai,Mid-Western,2069/70,2012/13,PHC,,37173
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Banke,Bheri,Terai,Mid-Western,2069/70,2012/13,PHC,,9566
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1960
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Bardiya,Bheri,Terai,Mid-Western,2069/70,2012/13,PHC,,30748
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Surkhet,Bheri,Hill,Mid-Western,2069/70,2012/13,PHC,,60121
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1201
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,2610
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,21
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,1108
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,19
+Dailekh,Bheri,Hill,Mid-Western,2069/70,2012/13,PHC,,27327
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,17344
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Disable,47
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,1078
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,Hospital,FCHV,40
+Jajarkot,Bheri,Hill,Mid-Western,2069/70,2012/13,PHC,,0
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,4598
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Poor,200
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Disable,57
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,20
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,FCHV,115
+Dolpa,Karnali,Mountain,Mid-Western,2069/70,2012/13,PHC,,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,3
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Jumla,Karnali,Mountain,Mid-Western,2069/70,2012/13,PHC,,4034
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1947
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Poor,10839
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Disable,148
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,1127
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,FCHV,101
+Kalikot,Karnali,Mountain,Mid-Western,2069/70,2012/13,PHC,,887
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Poor,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Disable,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,FCHV,0
+Mugu,Karnali,Mountain,Mid-Western,2069/70,2012/13,PHC,,0
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,358
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Poor,280
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Disable,1
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,Senior Citizen,31
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,Hospital,FCHV,8
+Humla,Karnali,Mountain,Mid-Western,2069/70,2012/13,PHC,,109
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Poor,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Disable,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,FCHV,0
+Bajura,Seti,Mountain,Far-Western,2069/70,2012/13,PHC,,16734
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Poor,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Disable,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,Hospital,FCHV,0
+Bajhang,Seti,Mountain,Far-Western,2069/70,2012/13,PHC,,17762
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,4876
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Poor,0
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Disable,248
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,2619
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,FCHV,266
+Achham,Seti,Hill,Far-Western,2069/70,2012/13,PHC,,0
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1931
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Poor,4179
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Disable,507
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,702
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,Hospital,FCHV,704
+Doti,Seti,Hill,Far-Western,2069/70,2012/13,PHC,,2232
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,10110
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Hospital,Poor,371
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Hospital,Disable,305
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,5028
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,Hospital,FCHV,113
+Kailali,Seti,Terai,Far-Western,2069/70,2012/13,PHC,,17019
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,2714
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Hospital,Poor,5179
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Hospital,Disable,256
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,917
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,Hospital,FCHV,317
+Kanchanpur,Mahakali,Terai,Far-Western,2069/70,2012/13,PHC,,27610
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1951
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Poor,23872
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Disable,145
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,1546
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,FCHV,147
+Dadeldhura,Mahakali,Hill,Far-Western,2069/70,2012/13,PHC,,9546
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,1403
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Poor,74
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Disable,87
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,269
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,Hospital,FCHV,18
+Baitadi,Mahakali,Hill,Far-Western,2069/70,2012/13,PHC,,11291
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Hospital,Ultrapoor Destitute,2908
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Hospital,Poor,305
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Hospital,Disable,154
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Hospital,Senior Citizen,9
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,Hospital,FCHV,27
+Darchula,Mahakali,Mountain,Far-Western,2069/70,2012/13,PHC,,4079
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,266
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,Hospital,Poor,12901
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,Hospital,Disable,8
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,Hospital,Senior Citizen,210
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,Hospital,FCHV,3
+Taplejung,Mechi,Mountain,Eastern,2070/71,2013/14,PHC,,0
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,9
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Poor,167
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Disable,0
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,574
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,201
+Panchthar,Mechi,Hill,Eastern,2070/71,2013/14,PHC,,9282
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Poor,13
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Disable,3
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,617
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,14
+Ilam,Mechi,Hill,Eastern,2070/71,2013/14,PHC,,340
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,1570
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,Hospital,Poor,2467
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,Hospital,Disable,71
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,Hospital,Senior Citizen,1331
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,Hospital,FCHV,45
+Jhapa,Mechi,Terai,Eastern,2070/71,2013/14,PHC,,18152
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,9807
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Poor,6546
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Disable,362
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Senior Citizen,3362
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,FCHV,92
+Morang,Kosi,Terai,Eastern,2070/71,2013/14,PHC,,50686
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Poor,0
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Disable,0
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,Senior Citizen,0
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,Hospital,FCHV,0
+Sunsari,Kosi,Terai,Eastern,2070/71,2013/14,PHC,,0
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,2
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Poor,3147
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Disable,0
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,2068
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,0
+Dhankuta,Kosi,Hill,Eastern,2070/71,2013/14,PHC,,2369
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,1
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Poor,0
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Disable,0
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,0
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,0
+Teharthum,Kosi,Hill,Eastern,2070/71,2013/14,PHC,,490
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,239
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,Hospital,Poor,239
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,Hospital,Disable,114
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,Hospital,Senior Citizen,615
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,Hospital,FCHV,57
+Sankhuwasabha,Kosi,Mountain,Eastern,2070/71,2013/14,PHC,,1463
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,31
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Poor,184
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Disable,0
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,565
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,2
+Bhojpur,Kosi,Hill,Eastern,2070/71,2013/14,PHC,,10519
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,Hospital,Poor,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,Hospital,Disable,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,Hospital,Senior Citizen,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,Hospital,FCHV,0
+Solukhumbu,Sagarmatha,Mountain,Eastern,2070/71,2013/14,PHC,,1766
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,898
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Poor,1112
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Disable,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,447
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,10
+Okhaldhunga,Sagarmatha,Hill,Eastern,2070/71,2013/14,PHC,,0
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,143
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Poor,57
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Disable,42
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,1267
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,118
+Khotang,Sagarmatha,Hill,Eastern,2070/71,2013/14,PHC,,962
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,816
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Poor,552
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Disable,44
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,Senior Citizen,4794
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,Hospital,FCHV,463
+Udaypur,Sagarmatha,Hill,Eastern,2070/71,2013/14,PHC,,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Poor,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Disable,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Senior Citizen,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,FCHV,0
+Saptari,Sagarmatha,Terai,Eastern,2070/71,2013/14,PHC,,31248
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Ultrapoor Destitute,13378
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Poor,11440
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Disable,1731
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,Senior Citizen,1317
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,Hospital,FCHV,101
+Siraha,Sagarmatha,Terai,Eastern,2070/71,2013/14,PHC,,15346
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Poor,0
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Disable,0
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,Hospital,FCHV,0
+Dhanusha,Janakpur,Terai,Central,2070/71,2013/14,PHC,,0
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,328
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Poor,363
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Disable,2434
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,443
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,Hospital,FCHV,36
+Mahottari,Janakpur,Terai,Central,2070/71,2013/14,PHC,,34528
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Poor,0
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Disable,0
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,Hospital,FCHV,0
+Sarlahi,Janakpur,Terai,Central,2070/71,2013/14,PHC,,20420
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,1105
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Poor,2916
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Disable,52
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,672
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,Hospital,FCHV,267
+Sindhuli,Janakpur,Hill,Central,2070/71,2013/14,PHC,,10950
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,577
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Poor,0
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Disable,13
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,534
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,Hospital,FCHV,22
+Ramechhap,Janakpur,Hill,Central,2070/71,2013/14,PHC,,4865
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,158
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,Hospital,Poor,137
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,Hospital,Disable,28
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,Hospital,FCHV,0
+Dolkha,Janakpur,Mountain,Central,2070/71,2013/14,PHC,,0
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,379
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Poor,105
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Disable,43
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Senior Citizen,918
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,FCHV,82
+Sindhupalchowk,Bagmati,Mountain,Central,2070/71,2013/14,PHC,,19874
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,3
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,1
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,2
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,0
+Kavre,Bagmati,Hill,Central,2070/71,2013/14,PHC,,24618
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,83642
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,0
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,17765
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,11
+Lalitpur,Bagmati,Hill,Central,2070/71,2013/14,PHC,,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,0
+Bhaktapur ,Bagmati,Hill,Central,2070/71,2013/14,PHC,,6804
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,0
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,0
+Kathmandu,Bagmati,Hill,Central,2070/71,2013/14,PHC,,0
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,2336
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,107
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,3444
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,175
+Nuwakot,Bagmati,Hill,Central,2070/71,2013/14,PHC,,7334
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,449
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Poor,0
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Disable,37
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,Senior Citizen,269
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,Hospital,FCHV,53
+Rasuwa,Bagmati,Mountain,Central,2070/71,2013/14,PHC,,0
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,25969
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Poor,0
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,Hospital,FCHV,0
+Dhading,Bagmati,Hill,Central,2070/71,2013/14,PHC,,27277
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,Hospital,Poor,7
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,Hospital,Disable,0
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,Hospital,FCHV,0
+Makawanpur,Narayani,Hill,Central,2070/71,2013/14,PHC,,27090
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,3097
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,Hospital,Poor,0
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,Hospital,Disable,0
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,Hospital,FCHV,1619
+Rautahat,Narayani,Terai,Central,2070/71,2013/14,PHC,,940
+Bara,Narayani,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Bara,Narayani,Terai,Central,2070/71,2013/14,Hospital,Poor,0
+Bara,Narayani,Terai,Central,2070/71,2013/14,Hospital,Disable,0
+Bara,Narayani,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,0
+Bara,Narayani,Terai,Central,2070/71,2013/14,Hospital,FCHV,0
+Bara,Narayani,Terai,Central,2070/71,2013/14,PHC,,36957
+Parsa,Narayani,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,11766
+Parsa,Narayani,Terai,Central,2070/71,2013/14,Hospital,Poor,235
+Parsa,Narayani,Terai,Central,2070/71,2013/14,Hospital,Disable,25
+Parsa,Narayani,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,1586
+Parsa,Narayani,Terai,Central,2070/71,2013/14,Hospital,FCHV,81
+Parsa,Narayani,Terai,Central,2070/71,2013/14,PHC,,0
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,Hospital,Ultrapoor Destitute,10239
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,Hospital,Poor,1965
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,Hospital,Disable,330
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,Hospital,Senior Citizen,4
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,Hospital,FCHV,0
+Chitwan,Narayani,Terai,Central,2070/71,2013/14,PHC,,15642
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,5404
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Poor,0
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Disable,5
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,3611
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,Hospital,FCHV,27
+Gorkha,Gandaki,Hill,Western,2070/71,2013/14,PHC,,11214
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,4
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Poor,95
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Disable,47
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,1154
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,Hospital,FCHV,14
+Lamjung,Gandaki,Hill,Western,2070/71,2013/14,PHC,,2796
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,6389
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Poor,38
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Disable,67
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,2175
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,Hospital,FCHV,35
+Tanahu,Gandaki,Hill,Western,2070/71,2013/14,PHC,,14260
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,230
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Poor,0
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Disable,109
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,3198
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,Hospital,FCHV,146
+Syangja,Gandaki,Hill,Western,2070/71,2013/14,PHC,,15348
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,539
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Poor,15
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Disable,12
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,20
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,Hospital,FCHV,127
+Kaski,Gandaki,Hill,Western,2070/71,2013/14,PHC,,2101
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,Hospital,Poor,0
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,Hospital,Disable,0
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,Hospital,FCHV,0
+Manang,Gandaki,Mountain,Western,2070/71,2013/14,PHC,,0
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,572
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,Hospital,Poor,2897
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,Hospital,Disable,3
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,Hospital,Senior Citizen,554
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,Hospital,FCHV,222
+Mustang,Dhawalagiri,Mountain,Western,2070/71,2013/14,PHC,,2005
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,21
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Poor,0
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Disable,124
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,FCHV,0
+Myagdi,Dhawalagiri,Hill,Western,2070/71,2013/14,PHC,,3677
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Poor,0
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Disable,0
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,FCHV,0
+Parbat,Dhawalagiri,Hill,Western,2070/71,2013/14,PHC,,1167
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Poor,0
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Disable,0
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,Hospital,FCHV,0
+Baglung,Dhawalagiri,Hill,Western,2070/71,2013/14,PHC,,0
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,5955
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Poor,52
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Disable,46
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,11801
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,FCHV,28
+Gulmi,Lumbini,Hill,Western,2070/71,2013/14,PHC,,3099
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,2680
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Poor,62
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Disable,17
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,1790
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,Hospital,FCHV,121
+Palpa,Lumbini,Hill,Western,2070/71,2013/14,PHC,,3345
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,26
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Poor,0
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Disable,0
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Senior Citizen,49
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,FCHV,4
+Nawalparasi,Lumbini,Terai,Western,2070/71,2013/14,PHC,,27755
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,376
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Poor,364
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Disable,54
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Senior Citizen,347
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,Hospital,FCHV,42
+Rupandehi,Lumbini,Terai,Western,2070/71,2013/14,PHC,,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Poor,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Disable,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,Hospital,FCHV,0
+Kapilvastu,Lumbini,Terai,Western,2070/71,2013/14,PHC,,0
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,2720
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Poor,2049
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Disable,292
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,Senior Citizen,2366
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,Hospital,FCHV,168
+Arghakhanchi,Lumbini,Hill,Western,2070/71,2013/14,PHC,,6158
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,158
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,1
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,16
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,534
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,12
+Pyuthan,Rapti,Hill,Mid-Western,2070/71,2013/14,PHC,,24517
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,882
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,94
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,32
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,524
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,14
+Rolpa,Rapti,Hill,Mid-Western,2070/71,2013/14,PHC,,7950
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Rukum,Rapti,Hill,Mid-Western,2070/71,2013/14,PHC,,2954
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Salyan,Rapti,Hill,Mid-Western,2070/71,2013/14,PHC,,11899
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,107
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,46
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,Hospital,FCHV,347
+Dang,Rapti,Terai,Mid-Western,2070/71,2013/14,PHC,,42182
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Banke,Bheri,Terai,Mid-Western,2070/71,2013/14,PHC,,919
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,4693
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Bardiya,Bheri,Terai,Mid-Western,2070/71,2013/14,PHC,,35380
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Surkhet,Bheri,Hill,Mid-Western,2070/71,2013/14,PHC,,56749
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,2398
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,3735
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,29
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,1842
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,92
+Dailekh,Bheri,Hill,Mid-Western,2070/71,2013/14,PHC,,23784
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,14843
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Poor,4
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Disable,99
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,1289
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,Hospital,FCHV,69
+Jajarkot,Bheri,Hill,Mid-Western,2070/71,2013/14,PHC,,0
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,8826
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Poor,2700
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Disable,405
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,415
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,FCHV,296
+Dolpa,Karnali,Mountain,Mid-Western,2070/71,2013/14,PHC,,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Jumla,Karnali,Mountain,Mid-Western,2070/71,2013/14,PHC,,3031
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,859
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Poor,5606
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Disable,221
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,603
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,FCHV,91
+Kalikot,Karnali,Mountain,Mid-Western,2070/71,2013/14,PHC,,1427
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Poor,0
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Disable,0
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,FCHV,0
+Mugu,Karnali,Mountain,Mid-Western,2070/71,2013/14,PHC,,0
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,1423
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Poor,981
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Disable,10
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,Senior Citizen,150
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,Hospital,FCHV,27
+Humla,Karnali,Mountain,Mid-Western,2070/71,2013/14,PHC,,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Poor,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Disable,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,FCHV,0
+Bajura,Seti,Mountain,Far-Western,2070/71,2013/14,PHC,,14555
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Poor,0
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Disable,0
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,Hospital,FCHV,0
+Bajhang,Seti,Mountain,Far-Western,2070/71,2013/14,PHC,,20354
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,5954
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Poor,2924
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Disable,2671
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,2953
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,FCHV,407
+Achham,Seti,Hill,Far-Western,2070/71,2013/14,PHC,,0
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,865
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Poor,2998
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Disable,62
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,262
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,Hospital,FCHV,89
+Doti,Seti,Hill,Far-Western,2070/71,2013/14,PHC,,3487
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,16047
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,Hospital,Poor,1009
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,Hospital,Disable,155
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,6083
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,Hospital,FCHV,831
+Kailali,Seti,Terai,Far-Western,2070/71,2013/14,PHC,,5768
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,2418
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,Hospital,Poor,4428
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,Hospital,Disable,688
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,1637
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,Hospital,FCHV,318
+Kanchanpur,Mahakali,Terai,Far-Western,2070/71,2013/14,PHC,,26955
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,1179
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Poor,10444
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Disable,183
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,641
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,FCHV,116
+Dadeldhura,Mahakali,Hill,Far-Western,2070/71,2013/14,PHC,,5408
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,4625
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Poor,714
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Disable,56
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,265
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,Hospital,FCHV,644
+Baitadi,Mahakali,Hill,Far-Western,2070/71,2013/14,PHC,,10607
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,Hospital,Ultrapoor Destitute,0
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,Hospital,Poor,5133
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,Hospital,Disable,0
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,Hospital,Senior Citizen,0
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,Hospital,FCHV,0
+Darchula,Mahakali,Mountain,Far-Western,2070/71,2013/14,PHC,,0
